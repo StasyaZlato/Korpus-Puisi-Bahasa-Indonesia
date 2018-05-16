@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css" integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb" crossorigin="anonymous">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>Работа с БД онлайн</title>
+    <script type="text/javascript" src="/js/prototype/prototype.js"></script><script>
+function resizeArea(text_id, minHeight, maxHeight)
+{
+   var area = $(text_id);
+   var area_hidden = $(text_id + "_hidden");
+   var text = '';
+   area.value.replace(/[<>]/g, '_').split("\n").each( function(s) {
+           text = text + '<div>' + s.replace(/\s\s/g, ' &nbsp;') + '&nbsp;</div>'+"\n";
+   } );
+   area_hidden.innerHTML = text;
+   var height = area_hidden.offsetHeight + 15;
+   height = Math.max(minHeight, height);
+   height = Math.min(maxHeight, height);
+   area.style.height = height + 'px';
+}
+</script><style>
+body, textarea {
+       font-family: Tahoma, Arial, 'Nimbus Sans L', sans-serif;
+       font-size: 13px;
+}
+.text {
+       width:700px !important;
+       border:1px solid #000;
+}
+.text .textarea_behavior{
+       border:0;
+       width:99%;
+       word-wrap: break-word;
+}
+.text textarea{
+       overflow:hidden;
+}
+.text .comment_text_hidden{
+       position: relative;
+}
+.text #comment_text_hidden{
+       visibility:hidden;
+       position: absolute;
+}
+</style>
+</head>
+<body>
+<header class="masthead">
+    <div class="container" style="background-color: #FFFF33;">
+        <h3> МетаРазметка </h3>
+        <p></p>
+        <i>Лучший инструмент разметчика!</i>
+        <p></p>
+    </div>
+</header>
+<div class="container">
+    <div class="row">
+        <div class="col-lg-8">
+            <form>
+                <h4>ID</h4>
+                <input name="id" value = "{{ id }}">
+                <p></p>
+                <h4>Название</h4>
+                <!--<textarea name="Название" rows="6" cols="80%"> {{ name }}</textarea>-->
+                <input name="name" value = "{{ name }}" size="40">
+                <p></p>
+                <h4>Ссылка</h4>
+                <!--<textarea name="Ссылка" rows="6" cols="80%"> {{ url }} </textarea>-->
+                <input name="url" value = "{{ url }}" size="60"><br/>
+                Кликните <a href="{{ url }}" target="_blank">сюда</a>, чтобы перейти на страницу стихотворения
+                <p></p>
+                <h4>Автор</h4>
+                <!--<textarea name="Автор" rows="6" cols="80%"> {{ author }} </textarea>-->
+                <input name="author" value = "{{ author }}" size="40">
+                <p></p>
+                <h4>Год</h4>
+                <input name="year" value = "{{ year }}">
+                <p></p>
+                <h4>Место</h4>
+                <input name="place" value="---">
+                <p></p>
+                <h4>Ресурс</h4>
+                <input name="source" value="---">
+                <p></p>
+                <h4>Текст</h4>
+                <textarea name="text" cols="80%" rows = "{{ rows }}">{{ text }}</textarea>
+                <p></p>
+                <h4>Число строк</h4>
+                <input name="num_lines" value="0">
+                <p></p>
+                <h4>Число слогов</h4>
+                <input name="num_syl" value="0">
+                <p></p>
+                <h4>Рифма</h4>
+                <div class="radio">
+                    <label><input type="radio" name="rhyme" value="Есть"> Есть </label>
+                    <label><input type="radio" name="rhyme" value="Спорадическая"> Спорадическая </label>
+                    <label><input type="radio" name="rhyme" value="Нет"> Нет </label>
+                </div>
+                <p></p>
+                <h4>Повторы</h4>
+                <div class="radio">
+                    <label><input type="radio" name="refren" value="Анафора"> Анафора </label>
+                    <label><input type="radio" name="refren" value="Эпифора"> Эпифора </label>
+                    <label><input type="radio" name="refren" value="Полные повторы"> Полные повторы </label>
+                    <label><input type="radio" name="refren" value="Есть"> Частичные повторы </label>
+                    <label><input type="radio" name="refren" value="Нет"> Нет </label>
+                </div>
+                <p></p>
+                <h4>Жанр (пантун / сонет / ...)</h4>
+                <input name="form" value="---">
+                <p></p>
+                <h4>Другие пометы</h4>
+                <input name="other" value="---">
+                <p></p>
+                <h4>Фигурная поэзия</h4>
+                <div class="radio">
+                    <label><input type="radio" name="figure_poetry" value="Да"> Да </label>
+                    <label><input type="radio" name="figure_poetry" value="Нет" checked> Нет </label>
+                </div>
+                <p></p>
+                <button type="submit" class="btn btn-primary btn-md">Принять изменения</button>
+            </form>
+            <p></p>
+        </div>
+        <div class="col-lg-4">
+            <h4>Мотивирующая цитатка</h4>
+            {{ wise_words }}
+        </div>
+    </div>
+</div>
+<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.3/umd/popper.min.js" integrity="sha384-vFJXuSJphROIrBnz7yo7oB41mKfc8JzQZiCq4NCceLEaO4IHwicKwpJf9c9IpFgh" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/js/bootstrap.min.js" integrity="sha384-alpBpkh1PFOepccYVYDB4do5UnbKysX5WZXm3XxPqe5iKTfUKjNkCk9SaVuEZflJ" crossorigin="anonymous"></script>
+</body>
+</html>
