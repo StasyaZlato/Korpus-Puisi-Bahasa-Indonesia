@@ -1,0 +1,151 @@
+Traceback (most recent call last):
+  File "C:/Users/User/Documents/progs2/main.py", line 126, in main
+    make_json(line_bd, index)
+  File "C:/Users/User/Documents/progs2/main.py", line 111, in make_json
+    json_str = {'meta': making_meta(list_bd, index), "poem": making_poems(list_bd, index)}
+  File "C:/Users/User/Documents/progs2/main.py", line 81, in making_poems
+    glosses = make_gloss(line)
+  File "C:/Users/User/Documents/progs2/main.py", line 91, in make_gloss
+    TSN.main(line)
+  File "C:\Users\User\Documents\progs2\try_sth_new.py", line 194, in main
+    add_to_dict_json(words, list_json)
+  File "C:\Users\User\Documents\progs2\try_sth_new.py", line 149, in add_to_dict_json
+    word_base = list_same_root[0]
+IndexError: list index out of range
+
+Traceback (most recent call last):
+  File "C:/Users/User/Documents/progs2/main.py", line 127, in main
+    make_json(line_bd, index)
+  File "C:/Users/User/Documents/progs2/main.py", line 111, in make_json
+    json_str = {'meta': making_meta(list_bd, index), "poem": making_poems(list_bd, index)}
+  File "C:/Users/User/Documents/progs2/main.py", line 81, in making_poems
+    glosses = make_gloss(line)
+  File "C:/Users/User/Documents/progs2/main.py", line 91, in make_gloss
+    TSN.main(line)
+  File "C:\Users\User\Documents\progs2\try_sth_new.py", line 194, in main
+    add_to_dict_json(words, list_json)
+  File "C:\Users\User\Documents\progs2\try_sth_new.py", line 149, in add_to_dict_json
+    word_base = list_same_root[0]
+IndexError: list index out of range
+
+Traceback (most recent call last):
+  File "C:/Users/User/Documents/progs2/main.py", line 127, in main
+    make_json(line_bd, index)
+  File "C:/Users/User/Documents/progs2/main.py", line 111, in make_json
+    json_str = {'meta': making_meta(list_bd, index), "poem": making_poems(list_bd, index)}
+  File "C:/Users/User/Documents/progs2/main.py", line 81, in making_poems
+    glosses = make_gloss(line)
+  File "C:/Users/User/Documents/progs2/main.py", line 100, in make_gloss
+    if type(morphp[i]) == dict:
+IndexError: list index out of range
+
+Traceback (most recent call last):
+  File "C:/Users/User/Documents/progs2/main.py", line 127, in main
+    make_json(line_bd, index)
+  File "C:/Users/User/Documents/progs2/main.py", line 111, in make_json
+    json_str = {'meta': making_meta(list_bd, index), "poem": making_poems(list_bd, index)}
+  File "C:/Users/User/Documents/progs2/main.py", line 81, in making_poems
+    glosses = make_gloss(line)
+  File "C:/Users/User/Documents/progs2/main.py", line 100, in make_gloss
+    if type(morphp[i]) == dict:
+IndexError: list index out of range
+
+Traceback (most recent call last):
+  File "C:/Users/User/Documents/progs2/main.py", line 127, in main
+    make_json(line_bd, index)
+  File "C:/Users/User/Documents/progs2/main.py", line 111, in make_json
+    json_str = {'meta': making_meta(list_bd, index), "poem": making_poems(list_bd, index)}
+  File "C:/Users/User/Documents/progs2/main.py", line 81, in making_poems
+    glosses = make_gloss(line)
+  File "C:/Users/User/Documents/progs2/main.py", line 100, in make_gloss
+    if type(morphp[i]) == dict:
+IndexError: list index out of range
+
+Traceback (most recent call last):
+  File "C:/Users/User/Documents/progs2/main.py", line 127, in main
+    make_json(line_bd, index)
+  File "C:/Users/User/Documents/progs2/main.py", line 111, in make_json
+    json_str = {'meta': making_meta(list_bd, index), "poem": making_poems(list_bd, index)}
+  File "C:/Users/User/Documents/progs2/main.py", line 81, in making_poems
+    glosses = make_gloss(line)
+  File "C:/Users/User/Documents/progs2/main.py", line 91, in make_gloss
+    TSN.main(line)
+  File "C:\Users\User\Documents\progs2\try_sth_new.py", line 194, in main
+    add_to_dict_json(words, list_json)
+  File "C:\Users\User\Documents\progs2\try_sth_new.py", line 149, in add_to_dict_json
+    word_base = list_same_root[0]
+IndexError: list index out of range
+
+Traceback (most recent call last):
+  File "C:/Users/User/Documents/progs2/main.py", line 130, in main
+    make_json(line_bd, index)
+  File "C:/Users/User/Documents/progs2/main.py", line 114, in make_json
+    json_str = {'meta': making_meta(list_bd, index), "poem": making_poems(list_bd, index)}
+  File "C:/Users/User/Documents/progs2/main.py", line 84, in making_poems
+    glosses = make_gloss(line)
+  File "C:/Users/User/Documents/progs2/main.py", line 94, in make_gloss
+    TSN.main(line)
+  File "C:\Users\User\Documents\progs2\try_sth_new.py", line 194, in main
+    add_to_dict_json(words, list_json)
+  File "C:\Users\User\Documents\progs2\try_sth_new.py", line 149, in add_to_dict_json
+    word_base = list_same_root[0]
+IndexError: list index out of range
+
+Traceback (most recent call last):
+  File "C:/Users/User/Documents/progs2/main.py", line 130, in main
+    make_json(line_bd, index)
+  File "C:/Users/User/Documents/progs2/main.py", line 115, in make_json
+    with open('json\\{}.json'.format(str(index)), 'w', encoding='utf-8') as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'json\\1.json'
+
+Traceback (most recent call last):
+  File "C:/Users/User/Documents/progs2/main.py", line 130, in main
+    make_json(line_bd, index)
+  File "C:/Users/User/Documents/progs2/main.py", line 115, in make_json
+    with open('json\\{}.json'.format(str(index)), 'w', encoding='utf-8') as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'json\\2.json'
+
+Traceback (most recent call last):
+  File "C:/Users/User/Documents/progs2/main.py", line 130, in main
+    make_json(line_bd, index)
+  File "C:/Users/User/Documents/progs2/main.py", line 115, in make_json
+    with open('json\\{}.json'.format(str(index)), 'w', encoding='utf-8') as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'json\\3.json'
+
+Traceback (most recent call last):
+  File "C:/Users/User/Documents/progs2/main.py", line 130, in main
+    make_json(line_bd, index)
+  File "C:/Users/User/Documents/progs2/main.py", line 115, in make_json
+    with open('json\\{}.json'.format(str(index)), 'w', encoding='utf-8') as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'json\\4.json'
+
+Traceback (most recent call last):
+  File "C:/Users/User/Documents/progs2/main.py", line 130, in main
+    make_json(line_bd, index)
+  File "C:/Users/User/Documents/progs2/main.py", line 114, in make_json
+    json_str = {'meta': making_meta(list_bd, index), "poem": making_poems(list_bd, index)}
+  File "C:/Users/User/Documents/progs2/main.py", line 84, in making_poems
+    glosses = make_gloss(line)
+  File "C:/Users/User/Documents/progs2/main.py", line 94, in make_gloss
+    TSN.main(line)
+  File "C:\Users\User\Documents\progs2\try_sth_new.py", line 194, in main
+    add_to_dict_json(words, list_json)
+  File "C:\Users\User\Documents\progs2\try_sth_new.py", line 149, in add_to_dict_json
+    word_base = list_same_root[0]
+IndexError: list index out of range
+
+Traceback (most recent call last):
+  File "C:/Users/User/Documents/progs2/main.py", line 130, in main
+    make_json(line_bd, index)
+  File "C:/Users/User/Documents/progs2/main.py", line 114, in make_json
+    json_str = {'meta': making_meta(list_bd, index), "poem": making_poems(list_bd, index)}
+  File "C:/Users/User/Documents/progs2/main.py", line 84, in making_poems
+    glosses = make_gloss(line)
+  File "C:/Users/User/Documents/progs2/main.py", line 94, in make_gloss
+    TSN.main(line)
+  File "C:\Users\User\Documents\progs2\try_sth_new.py", line 194, in main
+    add_to_dict_json(words, list_json)
+  File "C:\Users\User\Documents\progs2\try_sth_new.py", line 149, in add_to_dict_json
+    word_base = list_same_root[0]
+IndexError: list index out of range
+

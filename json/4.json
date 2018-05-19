@@ -1,0 +1,494 @@
+{
+    "meta": {
+        "file_name": "4.json",
+        "author": "Ajip Rosidi",
+        "title": "Perumpamaan",
+        "genre": "сонет",
+        "year": 1938,
+        "num_lines": 14,
+        "rhyme": "Есть",
+        "syllables": [
+            7,
+            6,
+            7,
+            5,
+            6,
+            8,
+            6,
+            7,
+            5,
+            5,
+            8,
+            5,
+            5,
+            8
+        ],
+        "strofy": [
+            14
+        ]
+    },
+    "poem": {
+        "text": "Di antara belalang\nKaulah burung brenjang\nYang mengisi tembolok\nTak kunjung kenyang\nDi antara ayam\nKaulah musang kelaparan\nDengan rahang tajam\nMenerkam dan menerkam\nKalau di sungai\nKaulah buaya\nTak pernah menolak bangkai\nKalau di darat\nKaulah srigala\nMengancam segala hayat",
+        "strof": [
+            {
+                "strof": "Di antara belalang\nKaulah burung brenjang\nYang mengisi tembolok\nTak kunjung kenyang\nDi antara ayam\nKaulah musang kelaparan\nDengan rahang tajam\nMenerkam dan menerkam\nKalau di sungai\nKaulah buaya\nTak pernah menolak bangkai\nKalau di darat\nKaulah srigala\nMengancam segala hayat",
+                "lines": [
+                    {
+                        "line": "Di antara belalang",
+                        "words": [
+                            {
+                                "wf": "Di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "antara",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "antara",
+                                    "pos": "n|p|a",
+                                    "form": "antara"
+                                }
+                            },
+                            {
+                                "wf": "belalang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "belalang",
+                                    "pos": "n",
+                                    "form": "belalang"
+                                }
+                            }
+                        ],
+                        "syllables": 7
+                    },
+                    {
+                        "line": "Kaulah burung brenjang",
+                        "words": [
+                            {
+                                "wf": "Kaulah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kau",
+                                    "pos": "pron",
+                                    "form": "kau-lah"
+                                }
+                            },
+                            {
+                                "wf": "burung",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "burung",
+                                    "pos": "n",
+                                    "form": "burung"
+                                }
+                            },
+                            {
+                                "wf": "brenjang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "brenjang",
+                                    "pos": "?",
+                                    "form": "brenjang"
+                                }
+                            }
+                        ],
+                        "syllables": 6
+                    },
+                    {
+                        "line": "Yang mengisi tembolok",
+                        "words": [
+                            {
+                                "wf": "Yang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "yang",
+                                    "pos": "a|v|n",
+                                    "form": "yang"
+                                }
+                            },
+                            {
+                                "wf": "mengisi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "isi",
+                                    "pos": "v",
+                                    "form": "mengisi"
+                                }
+                            },
+                            {
+                                "wf": "tembolok",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tembolok",
+                                    "pos": "n",
+                                    "form": "tembolok"
+                                }
+                            }
+                        ],
+                        "syllables": 7
+                    },
+                    {
+                        "line": "Tak kunjung kenyang",
+                        "words": [
+                            {
+                                "wf": "Tak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tak",
+                                    "pos": "adv",
+                                    "form": "tak"
+                                }
+                            },
+                            {
+                                "wf": "kunjung",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kunjung",
+                                    "pos": "v",
+                                    "form": "kunjung"
+                                }
+                            },
+                            {
+                                "wf": "kenyang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kenyang",
+                                    "pos": "a",
+                                    "form": "kenyang"
+                                }
+                            }
+                        ],
+                        "syllables": 5
+                    },
+                    {
+                        "line": "Di antara ayam",
+                        "words": [
+                            {
+                                "wf": "Di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "antara",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "antara",
+                                    "pos": "n|p|a",
+                                    "form": "antara"
+                                }
+                            },
+                            {
+                                "wf": "ayam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ayam",
+                                    "pos": "n",
+                                    "form": "ayam"
+                                }
+                            }
+                        ],
+                        "syllables": 6
+                    },
+                    {
+                        "line": "Kaulah musang kelaparan",
+                        "words": [
+                            {
+                                "wf": "Kaulah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kau",
+                                    "pos": "pron",
+                                    "form": "kau-lah"
+                                }
+                            },
+                            {
+                                "wf": "musang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "musang",
+                                    "pos": "n",
+                                    "form": "musang"
+                                }
+                            },
+                            {
+                                "wf": "kelaparan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lapar",
+                                    "pos": "n|v",
+                                    "form": "ke-lapar-an"
+                                }
+                            }
+                        ],
+                        "syllables": 8
+                    },
+                    {
+                        "line": "Dengan rahang tajam",
+                        "words": [
+                            {
+                                "wf": "Dengan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dengan",
+                                    "pos": "p",
+                                    "form": "dengan"
+                                }
+                            },
+                            {
+                                "wf": "rahang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "rahang",
+                                    "pos": "n",
+                                    "form": "rahang"
+                                }
+                            },
+                            {
+                                "wf": "tajam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tajam",
+                                    "pos": "a",
+                                    "form": "tajam"
+                                }
+                            }
+                        ],
+                        "syllables": 6
+                    },
+                    {
+                        "line": "Menerkam dan menerkam",
+                        "words": [
+                            {
+                                "wf": "Menerkam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "menerkam",
+                                    "pos": "v",
+                                    "form": "menerkam"
+                                }
+                            },
+                            {
+                                "wf": "dan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dan",
+                                    "pos": "p",
+                                    "form": "dan"
+                                }
+                            },
+                            {
+                                "wf": "menerkam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "menerkam",
+                                    "pos": "v",
+                                    "form": "menerkam"
+                                }
+                            }
+                        ],
+                        "syllables": 7
+                    },
+                    {
+                        "line": "Kalau di sungai",
+                        "words": [
+                            {
+                                "wf": "Kalau",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kalau",
+                                    "pos": "p",
+                                    "form": "kalau"
+                                }
+                            },
+                            {
+                                "wf": "di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "sungai",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sungai",
+                                    "pos": "n",
+                                    "form": "sungai"
+                                }
+                            }
+                        ],
+                        "syllables": 5
+                    },
+                    {
+                        "line": "Kaulah buaya",
+                        "words": [
+                            {
+                                "wf": "Kaulah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kau",
+                                    "pos": "pron",
+                                    "form": "kau-lah"
+                                }
+                            },
+                            {
+                                "wf": "buaya",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "buaya",
+                                    "pos": "n",
+                                    "form": "buaya"
+                                }
+                            }
+                        ],
+                        "syllables": 5
+                    },
+                    {
+                        "line": "Tak pernah menolak bangkai",
+                        "words": [
+                            {
+                                "wf": "Tak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tak",
+                                    "pos": "adv",
+                                    "form": "tak"
+                                }
+                            },
+                            {
+                                "wf": "pernah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pernah",
+                                    "pos": "adv",
+                                    "form": "pernah"
+                                }
+                            },
+                            {
+                                "wf": "menolak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tolak",
+                                    "pos": "v",
+                                    "form": "menolak"
+                                }
+                            },
+                            {
+                                "wf": "bangkai",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bangkai",
+                                    "pos": "n",
+                                    "form": "bangkai"
+                                }
+                            }
+                        ],
+                        "syllables": 8
+                    },
+                    {
+                        "line": "Kalau di darat",
+                        "words": [
+                            {
+                                "wf": "Kalau",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kalau",
+                                    "pos": "p",
+                                    "form": "kalau"
+                                }
+                            },
+                            {
+                                "wf": "di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "darat",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "darat",
+                                    "pos": "n",
+                                    "form": "darat"
+                                }
+                            }
+                        ],
+                        "syllables": 5
+                    },
+                    {
+                        "line": "Kaulah srigala",
+                        "words": [
+                            {
+                                "wf": "Kaulah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kau",
+                                    "pos": "pron",
+                                    "form": "kau-lah"
+                                }
+                            },
+                            {
+                                "wf": "srigala",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "srigala",
+                                    "pos": "?",
+                                    "form": "srigala"
+                                }
+                            }
+                        ],
+                        "syllables": 5
+                    },
+                    {
+                        "line": "Mengancam segala hayat",
+                        "words": [
+                            {
+                                "wf": "Mengancam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ancam",
+                                    "pos": "v",
+                                    "form": "Mengancam"
+                                }
+                            },
+                            {
+                                "wf": "segala",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "segala",
+                                    "pos": "num",
+                                    "form": "segala"
+                                }
+                            },
+                            {
+                                "wf": "hayat",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hayat",
+                                    "pos": "n",
+                                    "form": "hayat"
+                                }
+                            }
+                        ],
+                        "syllables": 8
+                    }
+                ],
+                "num_lines": 14
+            }
+        ]
+    }
+}

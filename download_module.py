@@ -164,5 +164,5 @@ def endswith_for_lists(list_starts, str):
 
 
 if __name__ == "__main__":
-    print(startswith_for_lists(['ku', 'di', 'kau'], 'pembeli'))
+    print(count_words())
 

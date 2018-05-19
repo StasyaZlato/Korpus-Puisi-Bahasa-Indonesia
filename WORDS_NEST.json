@@ -1,11 +1,943 @@
 {
-    "kulit": [
-        "berkulit",
-        "mengulit",
-        "pengulit",
-        "menguliti",
-        "perkulitan",
-        "pengulitan"
+    "pahlawan": [
+        "kepahlawanan"
+    ],
+    "dimanakah": [],
+    "sembunyikan": [],
+    "meski": [
+        "meskipun"
+    ],
+    "harus": [
+        "keharusan",
+        "seharusnya",
+        "mengharuskan"
+    ],
+    "kotor": [
+        "pengotor",
+        "mengotori"
+    ],
+    "persada": [],
+    "angkuh": [
+        "keangkuhan"
+    ],
+    "merejalela": [],
+    "gurka": [],
+    "gada": [
+        "menggada",
+        "penggada",
+        "menggada"
+    ],
+    "Belanda": [
+        "membelandakan",
+        "kebelanda-belandaan"
+    ],
+    "linggis": [
+        "melinggis"
+    ],
+    "Inggris": [
+        "menginggriskan",
+        "keinggris-inggrisan"
+    ],
+    "setrika": [
+        "setrikaan",
+        "bersetrika",
+        "menyetrika",
+        "penyetrika",
+        "penyetrikaan"
+    ],
+    "amerika": [
+        "melayankan"
+    ],
+    "dulu": [
+        "dulu",
+        "dahulu"
+    ],
+    "arek": [
+        "arek-arekmu"
+    ],
+    "lagu": [
+        "melagu",
+        "laguan",
+        "pelagu",
+        "melagu",
+        "berlagu",
+        "melagui",
+        "melagukan"
+    ],
+    "nada": [
+        "bernada",
+        "nada-nadanya"
+    ],
+    "atau": [],
+    "buai": [
+        "buaian",
+        "berbuai",
+        "membuai",
+        "terbuai",
+        "berbuai-buai",
+        "terbuai-buai"
+    ],
+    "pertiwi": [],
+    "harga": [
+        "berharga",
+        "menghargai",
+        "penghargaan",
+        "menghargakan"
+    ],
+    "tumbal": [],
+    "siap": [
+        "bersiap",
+        "persiapan",
+        "penyiapan",
+        "menyiapkan",
+        "bersiap-siap",
+        "mempersiapkan",
+        "mempersiapkan"
+    ],
+    "menggeletarkan": [],
+    "ketidakadilan": [],
+    "merdeka": [
+        "pemerdeka",
+        "merdekamu",
+        "kemerdekaan",
+        "memerdekakan",
+        "semerdeka-merdekanya"
+    ],
+    "nyali": [
+        "bernyali"
+    ],
+    "zalim": [
+        "kezaliman",
+        "menzalimkan"
+    ],
+    "sorak-sorai": [
+        "bersorak-sorai"
+    ],
+    "takbir": [
+        "takbiran",
+        "takbirmu"
+    ],
+    "bangga": [
+        "kebanggaan",
+        "membanggakan"
+    ],
+    "dengar": [
+        "berdengar",
+        "mendengar",
+        "terdengar",
+        "pendengar",
+        "kedengaran",
+        "pendengaran",
+        "mendengarkan",
+        "dengar-dengaran",
+        "memperdengarkan",
+        "mendengar-dengar"
+    ],
+    "o": [],
+    "kau": [],
+    "pasti": [
+        "pemastian",
+        "kepastian",
+        "memastikan"
+    ],
+    "lihat": [
+        "lihat",
+        "melihat",
+        "pelihat",
+        "melihati",
+        "terlihat",
+        "penglihat",
+        "kelihatan",
+        "melihatkan",
+        "penglihatan",
+        "kelihatannya",
+        "melihat-lihat",
+        "memperlihatkan"
+    ],
+    "jiwa": [
+        "jiwa",
+        "berjiwa",
+        "menjiwai",
+        "kejiwaan"
+    ],
+    "aku": [
+        "akuan",
+        "beraku",
+        "mengaku",
+        "pengaku",
+        "keakuan",
+        "mengakui",
+        "pengakuan",
+        "mengakukan",
+        "beraku-akuan"
+    ],
+    "hutan": [
+        "menghutan",
+        "kehutanan",
+        "perhutanan",
+        "penghutanan",
+        "menghutankan",
+        "hutan-hutannya"
+    ],
+    "mata": [
+        "semata",
+        "bermata",
+        "bermatakan",
+        "semata-mata",
+        "termata-mata"
+    ],
+    "orang": [
+        "seorang",
+        "seorang",
+        "seseorang",
+        "perorangan",
+        "keseorangan",
+        "mengorangkan",
+        "perseorangan",
+        "orang-orangan",
+        "berorang-orang"
+    ],
+    "gerbong": [],
+    "mana": [
+        "mana-mana"
+    ],
+    "baca": [
+        "bacaan",
+        "membaca",
+        "terbaca",
+        "pembaca",
+        "membacai",
+        "pembacaan",
+        "membacakan",
+        "keterbacaan",
+        "membaca-baca"
+    ],
+    "kata": [
+        "berkata",
+        "mengata",
+        "mengatai",
+        "perkataan",
+        "mengatakan",
+        "terkatakan",
+        "berkata-kata",
+        "memperkatakan",
+        "mengata-ngatai"
+    ],
+    "karang": [
+        "karangan",
+        "berkarang",
+        "mengarang",
+        "karang-karangan"
+    ],
+    "jadi": [
+        "menjadi",
+        "terjadi",
+        "penjadi",
+        "kejadian",
+        "penjadian",
+        "menjadikan",
+        "jadi-jadian",
+        "menjadi-jadi",
+        "sejadi-jadinya",
+        "menjadi-jadikan"
+    ],
+    "simpan": [
+        "kausimpan",
+        "penyimpanan",
+        "menyimpankan"
+    ],
+    "tumpuk": [
+        "menumpuk",
+        "tumpukan",
+        "setumpuk",
+        "tumpukan",
+        "tertumpuk",
+        "penumpukan",
+        "menumpukkan",
+        "bertumpuk-tumpuk"
+    ],
+    "kota": [
+        "berkota",
+        "mengota",
+        "mengotai",
+        "kekotaan",
+        "pengotaan",
+        "perkotaan",
+        "mengotakan",
+        "kekota-kotaan"
+    ],
+    "sungai": [],
+    "tayang": [
+        "menayang",
+        "tertayang",
+        "menayangkan"
+    ],
+    "tangan": [
+        "tanganan",
+        "bertangan",
+        "menangani",
+        "tertangani",
+        "penanganan",
+        "tangan-tangan",
+        "tangan-menangan"
+    ],
+    "gulai": [
+        "tergulai",
+        "menggulai"
+    ],
+    "patah": [
+        "patahan",
+        "pematah",
+        "mematah",
+        "pematahan",
+        "mematahkan",
+        "mematah-matah"
+    ],
+    "kusuma": [],
+    "kucup": [
+        "kukucup",
+        "mengucup"
+    ],
+    "sepah": [
+        "bersepah",
+        "tersepah",
+        "bersepah-sepah"
+    ],
+    "remaja": [
+        "remaja",
+        "peremajaan",
+        "meremajakan"
+    ],
+    "segara": [],
+    "puas": [
+        "pemuasan",
+        "kepuasan",
+        "memuaskan",
+        "sepuas-puasnya"
+    ],
+    "teguk": [
+        "meneguk",
+        "seteguk",
+        "diteguk",
+        "terteguk",
+        "ketegukan"
+    ],
+    "kencana": [],
+    "tunduk": [
+        "menunduk",
+        "petunduk",
+        "tundukkan",
+        "penundukan",
+        "ketundukan",
+        "menundukkan",
+        "ketertundukan",
+        "menunduk-nunduk"
+    ],
+    "hari": [
+        "harian",
+        "sehari",
+        "berhari",
+        "seharian",
+        "keseharian",
+        "sehari-hari",
+        "berhari-hari",
+        "sehari-harian"
+    ],
+    "suntuk": [
+        "tersuntuk"
+    ],
+    "tunjuk": [
+        "menunjuk",
+        "petunjuk",
+        "penunjuk",
+        "menunjuki",
+        "pertunjuk",
+        "penunjukan",
+        "menunjukkan",
+        "pertunjukan",
+        "tunjuk-menunjuk",
+        "mempertunjukkan",
+        "bertunjuk-tunjukan"
+    ],
+    "bentuk": [
+        "bentukan",
+        "berbentuk",
+        "membentuk",
+        "terbentuk",
+        "pembentuk",
+        "pembentukan"
+    ],
+    "rangkai": [
+        "berangkai",
+        "merangkai",
+        "rangkaian",
+        "perangkai",
+        "serangkai",
+        "perangkaian",
+        "merangkaikan",
+        "menyerangkaikan",
+        "berangkai-rangkai",
+        "rangkai-rinangkai"
+    ],
+    "bawa": [
+        "bawaan",
+        "membawa",
+        "terbawa",
+        "pembawa",
+        "membawa",
+        "berbawaan",
+        "pembawaan",
+        "sepembawa",
+        "membawakan",
+        "membawa-bawa",
+        "berpembawaan"
+    ],
+    "muda": [
+        "pemuda",
+        "bermuda",
+        "termuda",
+        "kemudaan",
+        "memudakan",
+        "mempermuda",
+        "kepemudaan",
+        "bermuda-muda",
+        "kemuda-mudaan"
+    ],
+    "warni": [
+        "warna-warni",
+        "berwarna-warni",
+        "mewarna-warnikan"
+    ],
+    "petik": [
+        "memetik",
+        "petikan",
+        "pemetik",
+        "memetiki",
+        "terpetik",
+        "pemetikan",
+        "memetikkan"
+    ],
+    "tangkap": [
+        "menangkap",
+        "tangkapan",
+        "penangkap",
+        "kutangkap",
+        "bertangkap",
+        "tertangkap",
+        "penangkapan",
+        "ketangkapan",
+        "sepenangkap",
+        "menangkapkan"
+    ],
+    "ayun": [
+        "ayunan",
+        "berayun",
+        "mengayun",
+        "mengayunkan",
+        "ayun-temayun",
+        "berayun-ayun"
+    ],
+    "gegar": [
+        "bergegar",
+        "tergegar",
+        "menggegar",
+        "menggegarkan",
+        "digetar-gegar"
+    ],
+    "kobar": [
+        "debar",
+        "kobaran",
+        "debaran",
+        "berkobar",
+        "terkobar",
+        "berdebar",
+        "pengobaran",
+        "mengobarkan",
+        "terkobarkan",
+        "mendebarkan",
+        "berkobar-kobar",
+        "berdebar-debar",
+        "berkobar-debar"
+    ],
+    "berahi": [
+        "keberahian",
+        "memberahikan"
+    ],
+    "junjung": [
+        "junjungan",
+        "kujunjung",
+        "menjunjung",
+        "berjunjungan",
+        "menjunjungkan"
+    ],
+    "tunjung": [],
+    "dirinjau": [],
+    "sinau": [
+        "bersinau-sinau"
+    ],
+    "diliputi": [],
+    "sangka": [
+        "sangkaan",
+        "kusangka",
+        "bersangka",
+        "menyangka",
+        "tersangka",
+        "menyangkakan"
+    ],
+    "sempurna": [
+        "kesempurnaan",
+        "penyempurnaan",
+        "menyempurnakan"
+    ],
+    "rama": [],
+    "kampung": [
+        "kampung",
+        "kampungan",
+        "berkampung",
+        "mengampung",
+        "perkampungan"
+    ],
+    "halaman": [
+        "halaman"
+    ],
+    "sandang": [
+        "menyandang",
+        "penyandang",
+        "menyandangkan",
+        "mempersandangkan"
+    ],
+    "kutuk": [
+        "kutukan",
+        "mengutuk",
+        "terkutuk",
+        "mengutuki",
+        "keterkutukan"
+    ],
+    "sedang": [],
+    "derita": [
+        "deritaan",
+        "menderita",
+        "penderita",
+        "penderitaan",
+        "penderitaanku"
+    ],
+    "cemas": [
+        "kecemasan",
+        "kecemasan",
+        "mencemaskan"
+    ],
+    "sesat": [
+        "bersesat",
+        "tersesat",
+        "kesesatan",
+        "penyesatan",
+        "menyesatkan"
+    ],
+    "betah": [
+        "membetahkan"
+    ],
+    "kebahagianku": [],
+    "selain": [],
+    "huni": [
+        "hunian",
+        "berhuni",
+        "terhuni",
+        "menghuni",
+        "penghuni",
+        "penghunian",
+        "menghunikan",
+        "berpenghuni",
+        "penghuninya"
+    ],
+    "bakal": [
+        "bakalan",
+        "membakal",
+        "pembakalan",
+        "membakalkan"
+    ],
+    "rumah": [
+        "rumah",
+        "berumah",
+        "serumah",
+        "perumahan",
+        "berumahkan",
+        "merumahkan",
+        "rumah-rumahan",
+        "memperumahkan",
+        "menyerumahkan"
+    ],
+    "daerah": [
+        "kedaerahan"
+    ],
+    "sebentar": [
+        "sebentar-sebentar"
+    ],
+    "bagi": [],
+    "biar": [
+        "biarlah",
+        "membiarkan",
+        "memperbiar"
+    ],
+    "ulik": [
+        "terulik",
+        "mengulik"
+    ],
+    "sunyi": [
+        "bersunyi",
+        "menyunyi",
+        "kesunyian",
+        "bersunyi-sunyi"
+    ],
+    "reda": [
+        "bereda",
+        "mereda",
+        "meredai",
+        "peredaan",
+        "keredaan",
+        "meredakan"
+    ],
+    "badai": [
+        "berbadai",
+        "membadai"
+    ],
+    "tinggal": [
+        "meninggal",
+        "tinggalan",
+        "peninggal",
+        "bertinggal",
+        "meninggali",
+        "tertinggal",
+        "pertinggal",
+        "peninggalan",
+        "ketinggalan",
+        "sepeninggal",
+        "meninggalkan",
+        "ketertinggalan"
+    ],
+    "benang": [
+        "membenang",
+        "berbenang-benang"
+    ],
+    "tenang": [
+        "menenang",
+        "penenang",
+        "penenangan",
+        "ketenangan",
+        "menenangkan",
+        "tenang-tenang",
+        "bertenang-tenang"
+    ],
+    "angin": [
+        "seangin",
+        "berangin",
+        "terangin",
+        "mengangin",
+        "keanginan",
+        "mengangini",
+        "peranginan",
+        "angin-angin",
+        "menganginkan",
+        "angin-anginan",
+        "berangin-angin",
+        "terangin-angin",
+        "memperanginkan",
+        "mengangin-anginkan"
+    ],
+    "ranggit": [
+        "ranggitkan",
+        "meranggitkan"
+    ],
+    "kelengkung": [],
+    "tepuk": [
+        "menepuk",
+        "tepukan",
+        "bertepuk",
+        "tepukkan"
+    ],
+    "larik": [
+        "melarik",
+        "larikan",
+        "selarik",
+        "berlarik",
+        "pelarikan",
+        "melarikkan",
+        "berlarik-larik"
+    ],
+    "hembuskan": [],
+    "bertiup": [],
+    "rentak": [],
+    "rupa": [
+        "berupa",
+        "merupa",
+        "perupa",
+        "terupa",
+        "serupa",
+        "merupai",
+        "rupanya",
+        "rupa-rupa",
+        "merupakan",
+        "berserupa",
+        "menyerupa",
+        "menyerupai",
+        "keserupaan",
+        "berupa-rupa",
+        "perserupaan",
+        "menyerupakan",
+        "rupa-rupanya"
+    ],
+    "warna-warni": [
+        "merona-warni",
+        "berwarna-warni",
+        "mewarna-warnikan"
+    ],
+    "langit": [
+        "melangit",
+        "selangit"
+    ],
+    "layang": [
+        "melayang",
+        "layangan",
+        "selayang",
+        "terlayang",
+        "layangkan",
+        "melayangkan",
+        "dilayangkan",
+        "layang-layang",
+        "melayang-layang",
+        "terlayang-layang"
+    ],
+    "kembang": [
+        "kembangan",
+        "berkembang",
+        "perkembangan",
+        "mengembangkan",
+        "memperkembangkan"
+    ],
+    "tipis": [
+        "menipis",
+        "menipiskan",
+        "tipis-rampis"
+    ],
+    "kudus": [
+        "kekudusan",
+        "pengudusan",
+        "menguduskan"
+    ],
+    "membubung": [
+        "membubungkan",
+        "memperbubungkan"
+    ],
+    "badan": [
+        "sebadan",
+        "berbadan",
+        "bersebadan",
+        "menyebadani"
+    ],
+    "ikat": [
+        "ikatan",
+        "diikat",
+        "berikat",
+        "terikat",
+        "mengikat",
+        "pengikat",
+        "perikatan",
+        "mengikatkan",
+        "keterikatan"
+    ],
+    "rahim": [],
+    "ubah": [
+        "ubahan",
+        "peubah",
+        "berubah",
+        "terubah",
+        "perubah",
+        "mengubah",
+        "pengubah",
+        "perubahan",
+        "pengubahan",
+        "mengubahkan",
+        "berubah-ubah"
+    ],
+    "dahulu": [
+        "terdahulu",
+        "pendahulu",
+        "mendahului",
+        "kedahuluan",
+        "bersidahulu",
+        "pendahuluan",
+        "mendahulukan",
+        "dahulu-mendahului",
+        "berdahulu-dahuluan"
+    ],
+    "sudah": [
+        "sesudah",
+        "bersudah",
+        "penyudah",
+        "menyudahi",
+        "kesudahan",
+        "penyudahan",
+        "sesudahnya",
+        "menyudahkan",
+        "mempersudah",
+        "sesudah-sudah",
+        "bersudah-sudah",
+        "sesudah-sudahnya"
+    ],
+    "temu": [
+        "menemu",
+        "penemu",
+        "menemui",
+        "penemuan",
+        "menemukan",
+        "tertemukan",
+        "mempertemukan"
+    ],
+    "pintu": [],
+    "kemala": [],
+    "jangan": [
+        "jangankan",
+        "menjangankan",
+        "jangan-jangan"
+    ],
+    "seru": [
+        "seruan",
+        "berseru",
+        "menyeru",
+        "penyeru",
+        "penyeruan",
+        "menyerukan",
+        "berseru-seru",
+        "menyeru-nyerukan"
+    ],
+    "mohon": [
+        "memohon",
+        "pemohon",
+        "memohonkan"
+    ],
+    "rasa": [
+        "berasa",
+        "merasa",
+        "terasa",
+        "perasa",
+        "serasa",
+        "rasanya",
+        "merasai",
+        "perasaan",
+        "merasakan",
+        "terasakan",
+        "rasa-rasanya",
+        "merasa-rasai",
+        "memperasakan"
+    ],
+    "jampi": [
+        "jampian",
+        "berjampi",
+        "menjampi",
+        "jampi-jampi",
+        "menjampikan"
+    ],
+    "bondapun": [],
+    "garing": [],
+    "luka": [
+        "luka",
+        "melukai",
+        "terluka",
+        "pelukaan",
+        "perlukaan"
+    ],
+    "cerai": [
+        "mencerai",
+        "penceraian",
+        "menceraikan",
+        "bercerai-cerai"
+    ],
+    "tiada": [
+        "tiada",
+        "meniada",
+        "peniadaan",
+        "ketiadaan",
+        "meniadakan",
+        "mempertiadakan"
+    ],
+    "sembuh": [
+        "penyembuh",
+        "kesembuhan",
+        "penyembuhan",
+        "menyembuhkan"
+    ],
+    "untung": [
+        "beruntung",
+        "keuntungan",
+        "peruntungan",
+        "untung-untung",
+        "keberuntungan",
+        "menguntungkan",
+        "untung-untungan",
+        "beruntung-untung",
+        "seberuntung-beruntungnya"
+    ],
+    "jumpa": [
+        "berjumpa",
+        "terjumpa",
+        "menjumpai",
+        "perjumpaan"
+    ],
+    "apatah": [
+        "apatah"
+    ],
+    "bondaku": [],
+    "tuan": [
+        "bertuan",
+        "menuani",
+        "tuan-tuan",
+        "menuankan",
+        "pertuanan",
+        "bertuankan",
+        "mempertuan",
+        "mempertuankan",
+        "ketuan-tuanan"
+    ],
+    "adu": [
+        "mengadu",
+        "pengadu",
+        "pengaduan",
+        "mengadukan",
+        "memperadukan"
+    ],
+    "dagang": [
+        "dagangan",
+        "pedagang",
+        "berdagang",
+        "perdagangan",
+        "mendagangkan",
+        "memperdagangkan"
+    ],
+    "pelita": [
+        "berpelita"
+    ],
+    "taram": [
+        "temaram",
+        "taram-temaram"
+    ],
+    "cendera": [],
+    "buni": [
+        "berbuni"
+    ],
+    "datang": [
+        "mendatang",
+        "pendatang",
+        "mendatangi",
+        "kedatangan",
+        "berdatangan",
+        "pendatangan",
+        "mendatangkan",
+        "datang-datang",
+        "datang-mendatangi"
+    ],
+    "jemu": [
+        "jemuan",
+        "kejemuan",
+        "menjemukan"
     ],
     "pandang": [
         "memandang",
@@ -21,15 +953,6212 @@
         "terpandang-pandang",
         "berpandang-pandangan"
     ],
-    "kota": [
-        "berkota",
-        "mengota",
-        "mengotai",
-        "kekotaan",
-        "pengotaan",
-        "perkotaan",
-        "mengotakan",
-        "kekota-kotaan"
+    "nilai": [
+        "menilai",
+        "penilai",
+        "bernilai",
+        "ternilai",
+        "penilaian"
+    ],
+    "serah": [
+        "serahan",
+        "berserah",
+        "menyerah",
+        "terserah",
+        "terserah",
+        "menyerahi",
+        "seserahan",
+        "penyerahan",
+        "menyerahkan"
+    ],
+    "tangkai": [
+        "setangkai"
+    ],
+    "gemelai": [],
+    "gemalai": [],
+    "pelik": [
+        "pelikan",
+        "kepelikan"
+    ],
+    "melur": [
+        "melur"
+    ],
+    "kaki": [
+        "berkaki",
+        "mengaki"
+    ],
+    "dibuaikan": [],
+    "sepoi": [],
+    "kayal": [
+        "khayal",
+        "khayal",
+        "khayalan",
+        "berkhayal",
+        "mengkhayal",
+        "pengkhayal",
+        "pengkhayalan",
+        "mengkhayalkan"
+    ],
+    "lembah": [
+        "lembah-lembah"
+    ],
+    "tibun": [],
+    "rumput": [
+        "rumput",
+        "berumput",
+        "merumput",
+        "merumputi",
+        "perumputan",
+        "rerumputan",
+        "rumput-rumputan"
+    ],
+    "rendah": [
+        "merendah",
+        "rendahan",
+        "kerendahan",
+        "merendahkan"
+    ],
+    "rangkum": [
+        "merangkum",
+        "rangkuman",
+        "kurangkum",
+        "merangkumkan"
+    ],
+    "muka": [
+        "pemuka",
+        "semuka",
+        "bermuka",
+        "permukaan",
+        "bersemuka",
+        "mengemuka",
+        "terkemuka",
+        "pengemukaan",
+        "bermuka-muka",
+        "menyemukakan",
+        "mengemukakan"
+    ],
+    "mengawan": [
+        "mengandung"
+    ],
+    "malu": [
+        "pemalu",
+        "bermalu",
+        "memalui",
+        "kemaluan",
+        "malu-malu",
+        "memalukan",
+        "mempermalukan",
+        "kemalu-maluan"
+    ],
+    "sayu": [
+        "kesayuan",
+        "menyayukan"
+    ],
+    "hati": [
+        "sehati",
+        "berhati"
+    ],
+    "bisai": [],
+    "simpai": [
+        "bersimpai",
+        "menyimpai",
+        "tersimpai",
+        "menyimpaikan"
+    ],
+    "diulikkan": [],
+    "bujuk": [
+        "bujukan",
+        "membujuk",
+        "pembujuk",
+        "membujuki",
+        "pembujukan"
+    ],
+    "dimabukkan": [],
+    "berai": [
+        "terberai",
+        "berberaian",
+        "memberai-beraikan"
+    ],
+    "lupa": [
+        "pelupa",
+        "melupai",
+        "terlupa",
+        "kelupaan",
+        "melupakan",
+        "lupa-lupaan"
+    ],
+    "kelana": [
+        "berkelana",
+        "mengelana",
+        "pengelana"
+    ],
+    "diri": [],
+    "dikipasi": [],
+    "gurau": [
+        "gurauan",
+        "bergurau",
+        "pergurauan",
+        "mengguraukan",
+        "memperguraukan"
+    ],
+    "senda": [],
+    "rapuh": [
+        "perapuh",
+        "kerapuhan",
+        "merapuhkan"
+    ],
+    "sela": [
+        "bersela",
+        "menyela",
+        "penyela",
+        "sela-sela",
+        "penyelaan",
+        "sela-menyela"
+    ],
+    "fikiranku": [],
+    "padang": [
+        "berpadang"
+    ],
+    "bibir": [],
+    "kesumba": [
+        "mengesumba"
+    ],
+    "imbau": [
+        "imbau",
+        "imbauan",
+        "terimbau",
+        "mengimbau",
+        "pengimbauan"
+    ],
+    "sembah": [
+        "menyembah",
+        "penyembah",
+        "penyembahan",
+        "menyembahkan",
+        "mempersembahkan"
+    ],
+    "pendar": [
+        "pendaran",
+        "berpendar",
+        "berpendaran",
+        "berpendar-pendar"
+    ],
+    "sikat": [
+        "menyikat",
+        "penyikat",
+        "bersikat",
+        "penyikatan"
+    ],
+    "suara": [
+        "bersuara",
+        "penyuaraan",
+        "menyuarakan"
+    ],
+    "dinda": [
+        "adinda",
+        "adinda"
+    ],
+    "teja": [
+        "meneja"
+    ],
+    "lena": [
+        "melena",
+        "berlena",
+        "terlena",
+        "kelenaan",
+        "berlena-lena"
+    ],
+    "sementara": [
+        "kesementaraan"
+    ],
+    "kupu": [],
+    "kecup": [
+        "kecupan",
+        "mengecup"
+    ],
+    "duduk": [
+        "duduk",
+        "terduduk",
+        "penduduk",
+        "menduduki",
+        "kedudukan",
+        "pendudukan",
+        "duduk-duduk",
+        "mendudukkan",
+        "sekedudukan",
+        "berkedudukan"
+    ],
+    "topang": [
+        "menopang",
+        "topangan",
+        "penopang",
+        "bertopang",
+        "bertopangkan"
+    ],
+    "dagu": [],
+    "lambung": [
+        "melambung",
+        "melambungi"
+    ],
+    "terpencil": [],
+    "dayu": [
+        "mendayu",
+        "mendayu"
+    ],
+    "bangsi": [],
+    "panggil": [
+        "memanggil",
+        "panggilan",
+        "pemanggil",
+        "terpanggil",
+        "pemanggilan",
+        "sepemanggil",
+        "memanggilkan",
+        "memanggil-manggil"
+    ],
+    "pujuk": [
+        "memujuk",
+        "terpujuk"
+    ],
+    "campur": [
+        "campuran",
+        "bercampur",
+        "mencampur",
+        "tercampur",
+        "mencampuri",
+        "bercampuran",
+        "percampuran",
+        "pencampuran",
+        "mencampurkan"
+    ],
+    "nangislah": [],
+    "rayu": [
+        "merayu",
+        "merayukan"
+    ],
+    "terus": [
+        "menerus",
+        "terusan",
+        "penerus",
+        "penerusan",
+        "keterusan",
+        "meneruskan",
+        "seterusnya",
+        "terus-menerus",
+        "terus-terusan"
+    ],
+    "perlahan": [
+        "memerlahan",
+        "memerlahankan",
+        "perlahan-lahan"
+    ],
+    "sapa": [
+        "disapa",
+        "sapaan",
+        "bersapa",
+        "menyapa",
+        "tersapa",
+        "bersapaan",
+        "sapa-menyapa",
+        "bersapa-sapaan"
+    ],
+    "siku": [
+        "bersiku",
+        "siku-siku"
+    ],
+    "bujang": [
+        "bujangan",
+        "membujang",
+        "kebujangan",
+        "pembujangan"
+    ],
+    "kudatangi": [],
+    "menyebung": [],
+    "belan": [
+        "dibelan"
+    ],
+    "hendak": [
+        "kehendak",
+        "hendaklah",
+        "sekehendak",
+        "menghendaki",
+        "berkehendak"
+    ],
+    "ketuk": [
+        "ketukan",
+        "kuketuk",
+        "mengetuk",
+        "terketuk",
+        "pengetuk"
+    ],
+    "masa": [
+        "semasa",
+        "semasa-masa"
+    ],
+    "banting": [
+        "bantingan",
+        "membanting",
+        "pembantingan",
+        "membantingkan"
+    ],
+    "swarna": [],
+    "mari": [
+        "mari"
+    ],
+    "ramping": [
+        "meramping",
+        "merampingkan"
+    ],
+    "asmara": [
+        "berasmara"
+    ],
+    "lampai": [
+        "melampai",
+        "terlampai"
+    ],
+    "dewi": [
+        "nyanyi",
+        "menyanyi",
+        "nyanyian",
+        "penyanyi",
+        "bernyanyi",
+        "menyanyikan",
+        "dewi-nyanyi"
+    ],
+    "jari": [
+        "menjari",
+        "penjarian"
+    ],
+    "tirus": [
+        "menirus"
+    ],
+    "buka": [
+        "membuka",
+        "terbuka",
+        "pembuka",
+        "membukai",
+        "pembukaan",
+        "membukakan",
+        "keterbukaan"
+    ],
+    "mutiara": [],
+    "kudaduhkan": [],
+    "selendang": [
+        "berselendang",
+        "menyelendang",
+        "menyelendangi",
+        "menyelendangkan",
+        "memperselendang",
+        "memperselendangkan"
+    ],
+    "pangku": [
+        "memangku",
+        "pangkuan",
+        "pemangku",
+        "berpangku",
+        "pemangkuan"
+    ],
+    "puji": [
+        "memuji",
+        "pujian",
+        "pemuji",
+        "terpuji",
+        "pemujian",
+        "kepujian",
+        "memujikan",
+        "puji-pujian"
+    ],
+    "alis": [],
+    "terangkum": [],
+    "akas": [
+        "akasa"
+    ],
+    "nipis": [],
+    "serpa": [
+        "serapah",
+        "serapah",
+        "menyerapahi"
+    ],
+    "tursina": [],
+    "tunggu": [
+        "menunggu",
+        "penunggu",
+        "kutunggu",
+        "bertunggu",
+        "menunggui",
+        "menunggukan"
+    ],
+    "pada": [],
+    "guna": [
+        "seguna",
+        "berguna",
+        "pengguna",
+        "kegunaan",
+        "penggunaan",
+        "menggunakan",
+        "mempergunakan"
+    ],
+    "kasih": [
+        "pekasih",
+        "kekasih",
+        "berkasih",
+        "pengasih",
+        "mengasihi",
+        "kekasihmu",
+        "pengasihan",
+        "berkasih-kasihan"
+    ],
+    "lengah": [
+        "lengah",
+        "melengah",
+        "pelengah",
+        "terlengah",
+        "kelengahan",
+        "melengahkan",
+        "memperlengah",
+        "melengah-lengah",
+        "berlengah-lengah",
+        "memperlengah-lengah",
+        "memperlengah-lengahkan"
+    ],
+    "langsung": [
+        "berlangsung",
+        "terlangsung",
+        "kelangsungan",
+        "melangsungkan",
+        "perlangsungan",
+        "keberlangsungan"
+    ],
+    "lewat": [
+        "kelewat",
+        "selewat",
+        "melewat",
+        "melewati",
+        "terlewat",
+        "terlewati",
+        "kelewatan",
+        "berlewatan",
+        "melewatkan"
+    ],
+    "abad": [
+        "berabad-abad"
+    ],
+    "jauhari": [
+        "jauhari"
+    ],
+    "ahli": [
+        "keahlian",
+        "berkeahlian",
+        "mengahlikan"
+    ],
+    "lalai": [
+        "pelalai",
+        "terlalai",
+        "pelalaian",
+        "kelalaian",
+        "melalaikan",
+        "terlalaikan",
+        "berlalai-lalai",
+        "memperlalaikan"
+    ],
+    "kami": [],
+    "pangkai": [],
+    "bunda": [],
+    "keturunan": [
+        "berasaskan",
+        "mengasaskan"
+    ],
+    "intan": [],
+    "juriat": [],
+    "julita": [],
+    "bapa": [],
+    "iberahim": [],
+    "semayam": [
+        "bersemayam",
+        "bersemayam",
+        "persemayaman",
+        "menyemayamkan"
+    ],
+    "swara": [],
+    "bebas": [
+        "bebas",
+        "terbebas",
+        "pembebas",
+        "kebebasan",
+        "pembebasan",
+        "membebaskan"
+    ],
+    "lepas": [
+        "melepas",
+        "lepasan",
+        "pelepas",
+        "selepas",
+        "berlepas",
+        "melepasi",
+        "terlepas",
+        "pelepasan",
+        "kelepasan",
+        "melepaskan",
+        "memperlepas",
+        "selepas-lepas"
+    ],
+    "lelang": [
+        "melelang",
+        "pelelangan",
+        "melelangkan",
+        "perlelangan",
+        "memperlelangkan"
+    ],
+    "lapang": [
+        "lapangan",
+        "melapangi",
+        "melapangkan",
+        "memperlapang",
+        "memperlapangkan",
+        "berlapang-lapang"
+    ],
+    "nuh": [],
+    "apung": [
+        "terapung",
+        "terapung",
+        "mengapung",
+        "berapungan",
+        "apung-apung",
+        "mengapungkan",
+        "berapung-apung",
+        "terapung-apung"
+    ],
+    "jung": [
+        "jung"
+    ],
+    "bertudung": [],
+    "julang": [
+        "menjulang"
+    ],
+    "kilau": [
+        "kilau",
+        "kilauan",
+        "berkilau",
+        "mengilau",
+        "berkilauan",
+        "kilau-mengilau",
+        "berkilau-kilauan"
+    ],
+    "kilat": [
+        "kilat",
+        "kilatan",
+        "berkilat",
+        "mengilat",
+        "terkilat",
+        "berkilatan",
+        "mengilatkan",
+        "berkilat-kilat",
+        "mengilat-ngilatkan"
+    ],
+    "gagap": [
+        "menggagap",
+        "bergagap-gagap",
+        "tergagap-gagap"
+    ],
+    "gempita": [
+        "menggempita"
+    ],
+    "guruh": [
+        "mengguruh"
+    ],
+    "terika": [
+        "terika",
+        "menerika"
+    ],
+    "riuh": [],
+    "belam": [
+        "membelam"
+    ],
+    "tumbang": [
+        "tumbang",
+        "menumbangkan"
+    ],
+    "bungkar": [],
+    "purba": [
+        "kepurbaan"
+    ],
+    "lari": [
+        "lari",
+        "larian",
+        "pelari",
+        "selari",
+        "berlari",
+        "pelarian",
+        "lari-lari",
+        "berlarian",
+        "melarikan",
+        "sepelarian",
+        "berlari-lari",
+        "berlari-larian"
+    ],
+    "lintang": [
+        "melintang",
+        "lintangan",
+        "melintangi",
+        "terlintang",
+        "melintangkan"
+    ],
+    "pukang": [
+        "memukang-mukang"
+    ],
+    "taman": [
+        "pertamanan"
+    ],
+    "rampak": [],
+    "terendam": [],
+    "karam": [
+        "mengaram",
+        "mengaramkan"
+    ],
+    "terbang": [
+        "terbang",
+        "penerbang",
+        "menerbangi",
+        "beterbangan",
+        "penerbangan",
+        "menerbangkan"
+    ],
+    "ungkai": [
+        "ungkaian",
+        "mengungkai"
+    ],
+    "niat": [
+        "berniat",
+        "terniat",
+        "meniatkan",
+        "berniat-niat"
+    ],
+    "kalbu": [],
+    "simpul": [
+        "simpulan",
+        "disimpul",
+        "menyimpul",
+        "tersimpul",
+        "kesimpulan",
+        "menyimpulkan",
+        "berkesimpulan"
+    ],
+    "telaga": [],
+    "tubir": [],
+    "penaka": [],
+    "durjana": [
+        "kedurjanaan"
+    ],
+    "hampar": [
+        "hamparan",
+        "terhampar",
+        "hamparkan",
+        "menghampar",
+        "sehamparan",
+        "menghampari",
+        "menghamparkan"
+    ],
+    "genggam": [
+        "genggaman",
+        "segenggam",
+        "bergenggam",
+        "tergenggam",
+        "menggenggam",
+        "menggenggamkan"
+    ],
+    "kabut": [
+        "berkabut",
+        "pengabut"
+    ],
+    "lipu": [],
+    "lipat": [
+        "melipat",
+        "lipatan",
+        "pelipat",
+        "berlipat",
+        "lipatkan",
+        "peliputan",
+        "kelipatan",
+        "melipatkan",
+        "perlipatan",
+        "lipat-melipat",
+        "berlipat-lipat"
+    ],
+    "bagaimana": [
+        "bagaimana",
+        "sebagaimana"
+    ],
+    "timbang": [
+        "menimbang",
+        "timbangan",
+        "penimbang",
+        "setimbang",
+        "bertimbang",
+        "menimbangi",
+        "penimbangan",
+        "setimbangan",
+        "bertimbangan",
+        "menimbangkan",
+        "pertimbangan",
+        "kesetimbangan",
+        "menyetimbangkan",
+        "mempertimbangkan",
+        "menimbang-nimbang",
+        "timbang-menimbang"
+    ],
+    "kausampaikan": [],
+    "lisan": [
+        "lisan",
+        "melisankan"
+    ],
+    "papar": [
+        "memapar",
+        "paparan",
+        "paparkan"
+    ],
+    "permainkan": [],
+    "asli": [
+        "keaslian"
+    ],
+    "putera": [],
+    "kanti": [
+        "penganti"
+    ],
+    "sembilan": [
+        "kesembilan",
+        "bersembilan",
+        "kesembilannya"
+    ],
+    "lecut": [
+        "melecut",
+        "pelecut",
+        "melecutkan"
+    ],
+    "pukul": [
+        "memukul",
+        "pukulan",
+        "pemukul",
+        "memukuli",
+        "terpukul",
+        "pemukulan",
+        "memukulkan",
+        "memperpukuli",
+        "pukul-memukul",
+        "memperpukulkan"
+    ],
+    "raja": [
+        "beraja",
+        "meraja",
+        "merajai",
+        "kerajaan",
+        "merajakan",
+        "raja-raja",
+        "beraja-raja"
+    ],
+    "ratu": [],
+    "rat": [],
+    "kunci": [
+        "mengunci",
+        "terkunci",
+        "pengunci",
+        "menguncikan"
+    ],
+    "pateri": [],
+    "kakasihmu": [],
+    "ditindasnya": [],
+    "kekayaanmu": [],
+    "tongkat": [
+        "menongkat",
+        "penongkat",
+        "bertongkat",
+        "tongkatnya",
+        "menongkatkan"
+    ],
+    "melingkar": [],
+    "hadap": [
+        "hadapan",
+        "terhadap",
+        "menghadap",
+        "menghadapi",
+        "bersehadap",
+        "penghadapan",
+        "menghadapkan",
+        "memperhadapkan",
+        "berhadap-hadapan"
+    ],
+    "lawan": [
+        "melawan",
+        "pelawan",
+        "lawanmu",
+        "berlawan",
+        "melawani",
+        "terlawan",
+        "kelawanan",
+        "berlawanan",
+        "melawankan",
+        "perlawanan",
+        "memperlawankan"
+    ],
+    "tunjang": [
+        "menunjang",
+        "penunjang",
+        "tunjangan",
+        "ditunjang",
+        "tertunjang",
+        "menunjangkan"
+    ],
+    "acara": [
+        "beracara",
+        "mengacara",
+        "pengacara",
+        "mengacarakan",
+        "kepengacaraan"
+    ],
+    "petah": [
+        "kepetahan",
+        "memetahkan"
+    ],
+    "fasih": [
+        "kefasihan",
+        "memfasihkan",
+        "memperfasih"
+    ],
+    "telangkai": [
+        "menelangkai",
+        "telangkaimu",
+        "penelangkaian"
+    ],
+    "bertongkat": [],
+    "urat": [
+        "berurat"
+    ],
+    "keras": [
+        "berkeras",
+        "mengeras",
+        "pengeras",
+        "mengerasi",
+        "kekerasan",
+        "pengerasan",
+        "bersikeras",
+        "mengeraskan",
+        "memperkeras",
+        "keras-mengerasi",
+        "berkeras-kerasan"
+    ],
+    "gewang": [
+        "giwang",
+        "gewang"
+    ],
+    "canggai": [
+        "canggainya"
+    ],
+    "kuselami": [],
+    "hauri": [],
+    "kapak": [
+        "kapaknya"
+    ],
+    "singgung": [
+        "menyinggung",
+        "tersinggung",
+        "bersinggungan",
+        "persinggungan"
+    ],
+    "hantar": [
+        "terhantar",
+        "menghantar",
+        "berhantaran",
+        "menghantarkan"
+    ],
+    "kuntum": [
+        "menguntum",
+        "terkuntum"
+    ],
+    "suci": [
+        "bersuci",
+        "penyuci",
+        "kesucian",
+        "persucian",
+        "penyucian",
+        "menyucikan"
+    ],
+    "riwarna": [],
+    "pelangi": [],
+    "dawai": [
+        "berdawai"
+    ],
+    "pesawat": [
+        "berpesawat"
+    ],
+    "nafas": [
+        "napas",
+        "napas",
+        "senapas",
+        "bernapas",
+        "menapaskan",
+        "pernapasan",
+        "bernapaskan"
+    ],
+    "lindung": [
+        "lindungan",
+        "pelindung",
+        "berlindung",
+        "melindungi",
+        "terlindung",
+        "pelindungan",
+        "kelindungan",
+        "melindungkan",
+        "perlindungan",
+        "memperlindungi"
+    ],
+    "guring": [],
+    "tekan": [
+        "menekan",
+        "penekan",
+        "bertekan",
+        "tertekan",
+        "penekanan",
+        "menekankan",
+        "bersetekan",
+        "tertekan-tekan"
+    ],
+    "ratus": [
+        "ratusan",
+        "peratus",
+        "seratus",
+        "ratusan",
+        "seperatus",
+        "menyeratus",
+        "perseratus",
+        "seperseratus",
+        "beratus-ratus"
+    ],
+    "ribu": [
+        "ribuan",
+        "seribu",
+        "beribu-ribu"
+    ],
+    "berpadaman": [],
+    "lentera": [],
+    "alit": [
+        "mengalit"
+    ],
+    "nilam": [],
+    "hitam": [
+        "hitam",
+        "menghitam",
+        "penghitam",
+        "kehitaman",
+        "menghitami",
+        "penghitaman",
+        "menghitamkan",
+        "kehitam-hitaman"
+    ],
+    "sapu": [
+        "sapuan",
+        "menyapu",
+        "tersapu",
+        "penyapu",
+        "tersapu",
+        "penyapuan",
+        "menyapukan",
+        "menyapu-nyapu"
+    ],
+    "pigura": [],
+    "dilihatnya": [],
+    "duka": [
+        "berduka",
+        "mendukai",
+        "kedukaan",
+        "mendukakan"
+    ],
+    "gemercing": [
+        "gemerencing",
+        "gemerencing"
+    ],
+    "langsing": [
+        "pelangsing",
+        "kelangsingan",
+        "melangsingkan"
+    ],
+    "damba": [
+        "pendamba",
+        "mendambakan"
+    ],
+    "pitunang": [],
+    "piatu": [
+        "kepiatuan"
+    ],
+    "teruna": [],
+    "tengah": [
+        "menengah",
+        "tengahan",
+        "penengah",
+        "setengah",
+        "menengahi",
+        "pertengahan",
+        "mengetengahi",
+        "mengetengahkan",
+        "setengah-setengah"
+    ],
+    "gembala": [
+        "penggembala",
+        "penggembalaan",
+        "menggembalakan"
+    ],
+    "hujung": [
+        "penghujung",
+        "kehujungan"
+    ],
+    "letak": [
+        "meletak",
+        "terletak",
+        "letakkan",
+        "peletakan",
+        "meletakkan"
+    ],
+    "datuk": [
+        "datukku",
+        "berdatuk"
+    ],
+    "kawi": [],
+    "idam": [
+        "idaman",
+        "mengidam",
+        "idam-idam",
+        "mengidamkan",
+        "mengidam-idamkan"
+    ],
+    "sekarang": [],
+    "kurasa-rasakan": [],
+    "intai": [
+        "kuintai",
+        "mengintai",
+        "pengintai",
+        "pengintaian",
+        "mengintaikan"
+    ],
+    "nali": [
+        "tali",
+        "penali",
+        "menali",
+        "bertali",
+        "bertalian",
+        "pertalian",
+        "tali-bertali",
+        "bertali-tali",
+        "mempertalikan"
+    ],
+    "lebih": [
+        "melebihi",
+        "kulebihi",
+        "melebih-lebihi"
+    ],
+    "ingin": [
+        "inginkan",
+        "keinginan",
+        "mengingini",
+        "memperingin",
+        "menginginkan",
+        "berkeinginan"
+    ],
+    "lima": [
+        "berlima",
+        "seperlima"
+    ],
+    "tentu": [
+        "menentu",
+        "penentu",
+        "menentui",
+        "penentuan",
+        "menentukan",
+        "berketentuan",
+        "bertentu-tentu"
+    ],
+    "sukma": [],
+    "esa": [
+        "mesra",
+        "termesra",
+        "kemesraan",
+        "esa-mesra",
+        "bermesraan",
+        "memesrakan",
+        "bermesra-mesraan"
+    ],
+    "wayang": [
+        "wayangan",
+        "pewayang",
+        "pewayangan",
+        "mewayangkan"
+    ],
+    "warna": [
+        "pewarna",
+        "sewarna",
+        "berwarna",
+        "mewarnai",
+        "pewarnaan",
+        "mewarnakan",
+        "berwarna-warna"
+    ],
+    "datar": [
+        "dataran",
+        "sedatar",
+        "mendatar",
+        "pendataran",
+        "mendatarkan"
+    ],
+    "dar": [
+        "sedar"
+    ],
+    "siuman": [],
+    "tukar": [
+        "menukar",
+        "penukar",
+        "bertukar",
+        "menukari",
+        "tertukar",
+        "penukaran",
+        "bertukaran",
+        "menukarkan",
+        "pertukaran",
+        "tukar-menukar",
+        "bertukar-tukar",
+        "mempertukarkan",
+        "bertukar-tukaran"
+    ],
+    "lakon": [
+        "lelakon",
+        "pelakon",
+        "berlakon",
+        "melakoni",
+        "melakonkan"
+    ],
+    "kelar": [
+        "berkelar",
+        "mengelar",
+        "terkelar",
+        "berkelar-kelar"
+    ],
+    "sari": [
+        "menyarikan"
+    ],
+    "jantung": [
+        "jantungan",
+        "berjantung",
+        "menjantung"
+    ],
+    "kepak": [
+        "berkepak",
+        "berkepak-kepak",
+        "terkepak-kepak",
+        "mengepak-ngepak",
+        "mengepak-ngepakkan"
+    ],
+    "sebab": [
+        "bersebab",
+        "tersebab",
+        "penyebab",
+        "menyebabkan"
+    ],
+    "barat": [
+        "barat",
+        "baratan",
+        "pembarat",
+        "pembaratan",
+        "membaratkan",
+        "kebarat-baratan"
+    ],
+    "timur": [
+        "timur",
+        "menimur",
+        "ketimuran"
+    ],
+    "guru": [
+        "guruku",
+        "berguru",
+        "keguruan",
+        "menggurui",
+        "perguruan"
+    ],
+    "muslim": [
+        "muslim"
+    ],
+    "hindu": [
+        "hindu",
+        "berhindu"
+    ],
+    "Kristen": [
+        "kekristenan",
+        "mengkristenkan"
+    ],
+    "Buddha": [],
+    "ikut": [
+        "ikutan",
+        "berikut",
+        "terikut",
+        "mengikut",
+        "pengikut",
+        "pengikut",
+        "ikut-ikut",
+        "mengikuti",
+        "memperikut",
+        "mengikutkan",
+        "ikut-ikutan",
+        "memperikutkan"
+    ],
+    "Zen": [],
+    "tao": [
+        "taocang"
+    ],
+    "kupelajari": [],
+    "saleh": [
+        "kesalehan"
+    ],
+    "berani": [
+        "pemberani",
+        "keberanian",
+        "memberanikan",
+        "terberanikan",
+        "berani-berani",
+        "berberani-berani"
+    ],
+    "bara": [
+        "membara",
+        "perbaraan"
+    ],
+    "tikar": [],
+    "sembahyang": [
+        "sembahyangan",
+        "bersembahyang",
+        "menyembahyangi",
+        "persembahyangan",
+        "menyembahyangkan"
+    ],
+    "pelana": [
+        "memelana",
+        "berpelana"
+    ],
+    "-nya": [
+        "jejak",
+        "jejak-nya"
+    ],
+    "ibrahim": [],
+    "musa": [],
+    "daud": [],
+    "lao": [
+        "laocu"
+    ],
+    "tze": [
+        "howitzer"
+    ],
+    "zarathustra": [],
+    "socrates": [],
+    "isa": [
+        "-isasi"
+    ],
+    "Almasih": [],
+    "Muhammad": [],
+    "Rasulullah": [],
+    "masjid": [
+        "permasjidan"
+    ],
+    "khidmat": [
+        "berkhidmat",
+        "kekhidmatan"
+    ],
+    "walau": [
+        "walau"
+    ],
+    "kujumpai": [],
+    "termanggu": [],
+    "gila": [
+        "gilakan",
+        "menggila",
+        "kegilaan",
+        "penggila",
+        "gila-gila",
+        "menggilakan",
+        "gila-gilaan",
+        "tergila-gila",
+        "kegila-gilaan"
+    ],
+    "engkaupun": [],
+    "cengang": [
+        "tercengang",
+        "tercengang",
+        "bercengangan",
+        "bersicengang",
+        "mencengangkan",
+        "tercengang-cengang"
+    ],
+    "takjob": [],
+    "kelemahan": [
+        "melemahkan",
+        "gemalaikan",
+        "memperlemahkan"
+    ],
+    "pipi": [
+        "pipiku"
+    ],
+    "daun": [
+        "berdaun",
+        "mendaun",
+        "dedaunan",
+        "daun-daunan"
+    ],
+    "beldu": [
+        "beledu",
+        "beledu"
+    ],
+    "lunak": [
+        "melunak",
+        "pelunak",
+        "melunaki",
+        "pelunakan",
+        "kelunakan",
+        "melunakkan",
+        "memperlunak"
+    ],
+    "hulu": [
+        "huluku",
+        "berhulu",
+        "menghulu",
+        "berhulukan",
+        "penghuluan",
+        "menghulukan"
+    ],
+    "tegak": [
+        "menegak",
+        "penegak",
+        "tegakan",
+        "setegak",
+        "bertegak",
+        "tertegak",
+        "penegakan",
+        "ketegakan",
+        "menegakkan",
+        "sepertegak",
+        "tegak-tegak"
+    ],
+    "wangi": [
+        "mewangi",
+        "pewangi",
+        "wewangian",
+        "kewangian",
+        "mewangikan",
+        "wangi-wangian",
+        "kewangi-wangian"
+    ],
+    "pimpin": [
+        "memimpin",
+        "pimpinan",
+        "pemimpin",
+        "berpimpin",
+        "terpimpin",
+        "kepemimpinan"
+    ],
+    "kautunjukkan": [],
+    "masuk": [
+        "memasuki",
+        "memasuki"
+    ],
+    "taman-": [],
+    "ini": [],
+    "sejati": [
+        "sejati"
+    ],
+    "tanda": [
+        "penanda",
+        "menanda",
+        "bertanda",
+        "menandai",
+        "tertanda",
+        "pertanda",
+        "penandaan",
+        "menandakan",
+        "pertandaan",
+        "bertanda-tandaan"
+    ],
+    "sunting": [
+        "suntingan",
+        "bersunting",
+        "penyuntingan",
+        "bersuntingkan",
+        "menyuntingkan",
+        "mempersunting"
+    ],
+    "kelopak": [
+        "berkelopak",
+        "mengelopak",
+        "terkelopak"
+    ],
+    "layu": [
+        "melayu",
+        "layulah",
+        "pelayuan",
+        "kelayuan",
+        "layu-layuan"
+    ],
+    "layah": [
+        "melayah",
+        "terlayah",
+        "melayah-layah"
+    ],
+    "intip": [
+        "mengintip"
+    ],
+    "senyumanmu": [],
+    "sentuh": [
+        "sentuhan",
+        "bersentuh",
+        "menyentuh",
+        "tersentuh",
+        "penyentuh",
+        "kesentuhan",
+        "bersentuhan",
+        "persentuhan",
+        "penyentuhan",
+        "menyentuhkan",
+        "menyentuh-nyentuh"
+    ],
+    "kesturi": [
+        "kesturimu"
+    ],
+    "cabang": [
+        "bercabang",
+        "mencabang",
+        "percabangan",
+        "pencabangan",
+        "mencabangkan",
+        "mempercabangkan",
+        "bercabang-cabang"
+    ],
+    "doa": [
+        "berdoa",
+        "mendoa",
+        "mendoakan"
+    ],
+    "alahai": [],
+    "aduh": [
+        "aduh",
+        "teraduh",
+        "mengaduh"
+    ],
+    "mercu": [],
+    "kucuba": [],
+    "serentak": [],
+    "genta": [
+        "menggenta"
+    ],
+    "genderang": [],
+    "tampar": [
+        "menampar",
+        "tamparan",
+        "bertampar",
+        "menampari",
+        "menamparkan"
+    ],
+    "celah": [
+        "bercelah"
+    ],
+    "suling": [
+        "menyuling"
+    ],
+    "penabuh": [],
+    "bunyi": [
+        "sebunyi",
+        "berbunyi",
+        "pembunyian",
+        "membunyikan",
+        "bunyi-bunyian"
+    ],
+    "rebana": [
+        "berebana"
+    ],
+    "beri": [
+        "berian",
+        "memberi",
+        "pemberi",
+        "pemberian",
+        "memberimu",
+        "memberikan",
+        "beri-memberi"
+    ],
+    "poyang": [
+        "poyangku"
+    ],
+    "rata": [
+        "merata",
+        "serata",
+        "meratai",
+        "rata-rata",
+        "meratakan",
+        "pemerataan",
+        "memeratakan",
+        "menyeratakan",
+        "merata-ratakan"
+    ],
+    "paling": [
+        "palingan",
+        "berpaling",
+        "memalingkan"
+    ],
+    "duniawi": [
+        "keduniawian"
+    ],
+    "cempaka": [],
+    "kandil": [],
+    "kemerlap": [],
+    "gambuh": [
+        "bergambuh"
+    ],
+    "kecapi": [],
+    "telinga": [
+        "menelinga",
+        "bertelinga"
+    ],
+    "tangga": [
+        "setangga",
+        "bertangga"
+    ],
+    "diterangi": [],
+    "sinar": [
+        "sinaran",
+        "bersinar",
+        "menyinar",
+        "menyinari",
+        "penyinaran",
+        "menyinarkan",
+        "sinar-seminar",
+        "sinar-suminar",
+        "sinar-menyinar"
+    ],
+    "meriang": [],
+    "main": [
+        "mainan",
+        "pemain",
+        "bermain",
+        "mainkan",
+        "main-main",
+        "memainkan",
+        "permainan",
+        "main-mainan",
+        "sepermainan",
+        "bermain-main",
+        "mempermainkan"
+    ],
+    "ta": [
+        "taku"
+    ],
+    "mati": [
+        "pati",
+        "semati",
+        "memati",
+        "kematian",
+        "mati-mati",
+        "bermatian",
+        "mematikan",
+        "bermatikan",
+        "mati-matian",
+        "bermati-mati",
+        "kemati-matian"
+    ],
+    "teduh": [
+        "meneduh",
+        "peneduh",
+        "berteduh",
+        "meneduhi",
+        "keteduhan",
+        "meneduhkan",
+        "perteduhan",
+        "berteduhkan"
+    ],
+    "pohon": [
+        "pepohonan",
+        "pohon-pohonan"
+    ],
+    "rindang": [
+        "merindang",
+        "perindang"
+    ],
+    "halus": [
+        "kehalusan",
+        "menghalusi",
+        "memperhalus",
+        "menghaluskan"
+    ],
+    "maha": [],
+    "jaku": [
+        "abjad",
+        "berabjad",
+        "mengabjad",
+        "pengabjadan",
+        "mengabjadkan"
+    ],
+    "hamba": [
+        "berhamba",
+        "menghamba",
+        "menghambai",
+        "perhambaan",
+        "penghambaan",
+        "memperhamba",
+        "menghambakan",
+        "memperhambakan"
+    ],
+    "penghulu": [],
+    "ada": [
+        "berada",
+        "adanya",
+        "pengada",
+        "keadaan",
+        "seadanya",
+        "pengadaan",
+        "berada-ada",
+        "keberadaan",
+        "mengadakan",
+        "ada-adanya",
+        "mengada-ada",
+        "ada-adanyakah"
+    ],
+    "taruh": [
+        "menaruh",
+        "taruhan",
+        "petaruh",
+        "bertaruh",
+        "menaruhi",
+        "petaruhan",
+        "bertaruhan",
+        "menaruhkan",
+        "pertaruhan",
+        "berpetaruh",
+        "berpenaruhan",
+        "mempertaruhkan"
+    ],
+    "dara": [
+        "perdaraan"
+    ],
+    "riang": [
+        "periang",
+        "keriangan",
+        "meriangkan"
+    ],
+    "cap": [
+        "bercap",
+        "mengecap",
+        "mengecap",
+        "pengecapan",
+        "mengecapkan"
+    ],
+    "sedap": [
+        "sedapan",
+        "penyedap",
+        "kesedapan",
+        "menyedapkan",
+        "sedap-sedapan"
+    ],
+    "lebar": [
+        "melebar",
+        "selebar",
+        "pelebaran",
+        "melebarkan",
+        "memperlebar"
+    ],
+    "tercingah": [],
+    "pangah": [
+        "terpangah"
+    ],
+    "maut": [
+        "maut",
+        "permautan"
+    ],
+    "pula": [],
+    "derak": [
+        "derik",
+        "berderak",
+        "berderik",
+        "berderik-derik",
+        "berderak-derik"
+    ],
+    "tulang": [
+        "menulang",
+        "bertulang",
+        "menulangi",
+        "tertulang",
+        "penulangan",
+        "ketulangan",
+        "pertulangan",
+        "tulang-tulangan"
+    ],
+    "belulang": [
+        "berbelulang"
+    ],
+    "tutup": [
+        "menutup",
+        "penutup",
+        "tutupan",
+        "bertutup",
+        "menutupi",
+        "tertutup",
+        "penutupan",
+        "menutupkan",
+        "ketertutupan"
+    ],
+    "katup": [
+        "mengatup",
+        "terkatup",
+        "mengatupkan",
+        "memperkatupkan",
+        "mengatup-ngatupkan"
+    ],
+    "mangsa": [
+        "memangsa",
+        "pemangsa"
+    ],
+    "lompat": [
+        "lompat",
+        "melompat",
+        "lompatan",
+        "pelompat",
+        "melompati",
+        "terlompat",
+        "sepelompat",
+        "berlompatan",
+        "melompatkan",
+        "sepelompatan",
+        "melompat-lompat"
+    ],
+    "mulut": [
+        "bermulut",
+        "mulut-mulutan",
+        "bermulut-mulut"
+    ],
+    "sisi": [
+        "bersisi",
+        "menyisi",
+        "bersisian",
+        "menyisikan",
+        "mengesisikan"
+    ],
+    "lekas": [
+        "melekaskan",
+        "selekasnya",
+        "lekas-lekas",
+        "memperlekas",
+        "berlekas-lekas",
+        "berlekas-lekasan",
+        "selekas-lekasnya"
+    ],
+    "pantas": [
+        "memantas",
+        "pemantas",
+        "sepantasnya"
+    ],
+    "menanya": [
+        "penanya",
+        "menanyai",
+        "penanyaan",
+        "menanyakan"
+    ],
+    "fikir": [],
+    "lenyap": [
+        "kelenyapan",
+        "melenyapkan"
+    ],
+    "cepat": [
+        "secepat",
+        "mencepat",
+        "kecepatan",
+        "bersicepat",
+        "pemercepat",
+        "percepatan",
+        "pencepatan",
+        "bersecepat",
+        "secepatnya",
+        "cepat-cepat",
+        "mencepatkan",
+        "mempercepat",
+        "berkecepatan",
+        "bercepat-cepat"
+    ],
+    "maharajalela": [
+        "bermaharajalela",
+        "bersimaharajalela"
+    ],
+    "tambah": [
+        "menambah",
+        "tambahan",
+        "penambah",
+        "bertambah",
+        "menambahi",
+        "penambahan",
+        "menambahkan",
+        "pertambahan",
+        "bertambah-tambah"
+    ],
+    "kuat": [
+        "sekuat",
+        "berkuat",
+        "menguat",
+        "penguat",
+        "menguati",
+        "kekuatan",
+        "kuat-kuat",
+        "penguatan",
+        "menguatkan",
+        "memperkuat",
+        "berkuat-kuat",
+        "berkuat-kuatan",
+        "sekuat-kuatnya"
+    ],
+    "bangkit": [
+        "bangkit",
+        "bangkitan",
+        "berbangkit",
+        "membangkit",
+        "terbangkit",
+        "pembangkit",
+        "kebangkitan",
+        "membangkitkan",
+        "membangkit-bangkit"
+    ],
+    "bonda": [],
+    "bewrjalan": [],
+    "pelan": [
+        "memelankan",
+        "pelan-pelan"
+    ],
+    "demikian": [
+        "sedemikian"
+    ],
+    "kuperbuat": [],
+    "janji": [
+        "berjanji",
+        "perjanjian",
+        "menjanjikan"
+    ],
+    "insha": [],
+    "takut": [
+        "menakut",
+        "penakut",
+        "menakuti",
+        "ketakutan",
+        "menakutkan",
+        "takut-takut",
+        "mempertakut",
+        "berketakutan",
+        "takut-takutan",
+        "menakut-nakuti"
+    ],
+    "mandi": [
+        "bermandi",
+        "pemandian",
+        "memandikan",
+        "permandian",
+        "bermandikan",
+        "mempermandikan"
+    ],
+    "sahut": [
+        "sahutan",
+        "bersahut",
+        "menyahut",
+        "penyahut",
+        "menyahuti",
+        "bersahutan",
+        "penyahutan",
+        "sahut-menyahut",
+        "bersahut-sahutan"
+    ],
+    "sambil": [
+        "sambil",
+        "sambilan",
+        "tersambil",
+        "menyambilkan"
+    ],
+    "sedu": [
+        "bersedu",
+        "tersedu",
+        "bersedu-sedu",
+        "tersedu-sedu"
+    ],
+    "bimbang": [
+        "berbimbang",
+        "kebimbangan",
+        "membimbangkan"
+    ],
+    "sorak": [
+        "bersorak",
+        "penyorak",
+        "menyoraki",
+        "menyorakkan"
+    ],
+    "semarai": [],
+    "telan": [
+        "ditelan",
+        "penelanan"
+    ],
+    "begini": [
+        "begini",
+        "beginian",
+        "sebegini",
+        "membeginikan"
+    ],
+    "susah": [
+        "bersusah",
+        "susahnya",
+        "menyusahi",
+        "kesusahan",
+        "menyusahkan",
+        "mempersusah",
+        "bersusah-susah"
+    ],
+    "tangis": [
+        "menangis",
+        "tangisan",
+        "penangis",
+        "menangisi",
+        "bertangisan",
+        "menangiskan",
+        "mempertangis",
+        "bertangis-tangisan"
+    ],
+    "berfikir": [],
+    "ngeri": [
+        "kengerian",
+        "mengerikan"
+    ],
+    "berganda": [],
+    "tangkup": [
+        "menangkup",
+        "setangkup",
+        "bertangkup",
+        "tertangkup",
+        "menangkupkan"
+    ],
+    "rang": [],
+    "rangkup": [
+        "merangkup"
+    ],
+    "nyata": [
+        "ternyata",
+        "ternyata",
+        "kenyataan",
+        "menyatakan",
+        "pernyataan",
+        "ternyatakan"
+    ],
+    "pecah": [
+        "memecah",
+        "pecahan",
+        "pemecah",
+        "berpecah",
+        "terpecah",
+        "pemecahan",
+        "kepecahan",
+        "berpecahan",
+        "memecahkan",
+        "perpecahan",
+        "terpecah-pecah"
+    ],
+    "sayup": [
+        "sayup-sayup",
+        "sesayup-sayup",
+        "sayup-menyayup"
+    ],
+    "lemah": [
+        "kelemahan",
+        "melemahkan",
+        "memperlemahkan"
+    ],
+    "kasihan": [
+        "mengasihani"
+    ],
+    "hancur": [
+        "hancurkan",
+        "kehancuran",
+        "penghancuran",
+        "menghancurkan",
+        "hancur-hancuran",
+        "hancur-menghancurkan"
+    ],
+    "sabak": [
+        "menyabak"
+    ],
+    "guling": [
+        "berguling",
+        "terguling",
+        "mengguling",
+        "bergulingan",
+        "menggulingkan",
+        "terguling-guling"
+    ],
+    "lasak": [
+        "pelasak"
+    ],
+    "isak": [
+        "mengisak",
+        "terisak-isak"
+    ],
+    "lauk": [
+        "berlauk",
+        "lauk-pauk"
+    ],
+    "nasi": [],
+    "sejuk": [
+        "bersejuk",
+        "menyejuk",
+        "penyejuk",
+        "kesejukan",
+        "penyejukan",
+        "menyejukkan",
+        "bersejuk-sejuk"
+    ],
+    "telur": [
+        "telur",
+        "menelur",
+        "petelur",
+        "bertelur",
+        "peneluran",
+        "menelurkan",
+        "perteluran"
+    ],
+    "kemahang": [],
+    "carik": [
+        "carikan",
+        "secarik",
+        "mencarik",
+        "bercarik-carik",
+        "mencarik-carik",
+        "mencarik-carikkan"
+    ],
+    "plagu": [],
+    "lagak": [
+        "melagak",
+        "pelagak",
+        "berlagak",
+        "melagakkan"
+    ],
+    "sangkak": [
+        "sesangkak",
+        "disangkak",
+        "bersangkak"
+    ],
+    "manja": [
+        "kemanjaan",
+        "memanjakan",
+        "bermanja-manja",
+        "termanja-manja",
+        "mempermanjakan",
+        "kemanja-manjaan"
+    ],
+    "bena": [],
+    "payung": [
+        "berpayung",
+        "memayungi",
+        "memayungkan"
+    ],
+    "taung": [
+        "naungan",
+        "penaung",
+        "menaung",
+        "menaungi",
+        "menaungi",
+        "penaungan"
+    ],
+    "jemala": [],
+    "arak": [
+        "arakan",
+        "berarak",
+        "berarakan",
+        "perarakan",
+        "arak-arakan",
+        "berarak-arakan"
+    ],
+    "membukak": [],
+    "puncak": [
+        "memuncak",
+        "pemuncak"
+    ],
+    "kayu": [
+        "kayu",
+        "berkayu",
+        "kekayuan",
+        "perkayuan",
+        "kayu-kayuan"
+    ],
+    "betul": [
+        "betulan",
+        "berbetul",
+        "membetul",
+        "membetuli",
+        "kebetulan",
+        "berbetulan",
+        "pembetulan",
+        "sebetulnya",
+        "betul-betul",
+        "membetulkan",
+        "berkebetulan"
+    ],
+    "susup": [
+        "susupan",
+        "menyusup",
+        "penyusup",
+        "kesusupan",
+        "penyusupan",
+        "menyusupkan"
+    ],
+    "lubang": [
+        "pelubang",
+        "berlubang",
+        "melubangi",
+        "pelubangan",
+        "berlubang-lubang"
+    ],
+    "tepas": [
+        "menepas",
+        "bertepas",
+        "menepasi"
+    ],
+    "teratak": [
+        "meneratak"
+    ],
+    "bambu": [],
+    "lampau": [
+        "melampau",
+        "melampaui",
+        "terlampau",
+        "terlampaui",
+        "kelampauan"
+    ],
+    "pulih": [
+        "pemulihan",
+        "memulihkan"
+    ],
+    "pokok": [
+        "berpokok",
+        "memokoki",
+        "memokokkan"
+    ],
+    "percaya": [
+        "tepercaya",
+        "memercayai",
+        "kepercayaan",
+        "memercayakan"
+    ],
+    "turun": [
+        "menurun",
+        "penurun",
+        "menuruni"
+    ],
+    "hujan": [
+        "berhujan",
+        "menghujan",
+        "kehujanan",
+        "menghujani",
+        "menghujankan",
+        "berhujan-hujan",
+        "memperhujankan",
+        "menghujan-hujankan"
+    ],
+    "embun": [
+        "embunan",
+        "berembun",
+        "mengembun",
+        "pengembun",
+        "mengembuni",
+        "pengembunan",
+        "mengembunkan",
+        "memperembunkan"
+    ],
+    "rahmat": [
+        "rahmatmu"
+    ],
+    "minta": [
+        "meminta",
+        "peminta",
+        "meminta",
+        "berminta",
+        "memintai",
+        "memintakan",
+        "permintaan",
+        "minta-minta",
+        "meminta-minta",
+        "peminta-minta",
+        "berminta-minta"
+    ],
+    "kerongkong": [],
+    "kering": [
+        "berkering",
+        "mengering",
+        "pengering",
+        "mengeringi",
+        "kekeringan",
+        "pengeringan",
+        "mengeringkan"
+    ],
+    "peteri": [],
+    "lebur": [
+        "melebur",
+        "leburan",
+        "dilebur",
+        "terlebur",
+        "peleburan",
+        "meleburkan"
+    ],
+    "moal": [],
+    "nokta": [],
+    "utama": [
+        "terutama",
+        "keutamaan",
+        "pengutamaan",
+        "mengutamakan"
+    ],
+    "murtad": [
+        "murtad",
+        "pemurtadan",
+        "kemurtadan",
+        "memurtadkan"
+    ],
+    "topan": [],
+    "firdausi": [],
+    "segera": [
+        "sesegera",
+        "bersegera",
+        "persegeraan",
+        "penyegeraan",
+        "menyegerakan",
+        "mempersegera",
+        "mepersegerakan"
+    ],
+    "suwarga": [],
+    "mengitam": [],
+    "merunta": [],
+    "ria": [
+        "beria",
+        "keriaan",
+        "beria-ria"
+    ],
+    "lidah": [
+        "melidah",
+        "berlidah",
+        "melidahkan"
+    ],
+    "belah": [
+        "belahan",
+        "sebelah",
+        "berbelah",
+        "membelah",
+        "pembelah",
+        "berbelahan",
+        "pembelahan",
+        "menyebelah",
+        "menyebelahi",
+        "bersebelahan",
+        "menyebelahkan",
+        "berbelah-belah",
+        "sebelah-menyebelah"
+    ],
+    "lambai": [
+        "melambai",
+        "lambaian",
+        "melambai",
+        "melambaikan",
+        "melambai-lambai",
+        "berlambai-lambai",
+        "melambai-lambaikan"
+    ],
+    "lengkung": [
+        "melengkung",
+        "lengkungan",
+        "pelengkung",
+        "melengkungi",
+        "terlengkung",
+        "kelengkungan",
+        "melengkungkan"
+    ],
+    "lurus": [
+        "melurus",
+        "kelurusan",
+        "selurusan",
+        "meluruskan",
+        "berselurus",
+        "selurusnya"
+    ],
+    "neraka": [
+        "menerakakan"
+    ],
+    "surga": [
+        "surga",
+        "swarga"
+    ],
+    "jahanam": [
+        "jahanam",
+        "menjahanamkan"
+    ],
+    "jilat": [
+        "jilatan",
+        "menjilat",
+        "penjilat",
+        "penjilatan",
+        "menjilat-jilat"
+    ],
+    "lonjak": [
+        "melonjak",
+        "terlonjak",
+        "pelonjakan",
+        "melonjak-lonjak"
+    ],
+    "penyuci": [],
+    "marak": [
+        "memarak",
+        "semarak",
+        "memarakkan",
+        "bersemarak",
+        "marak-semarak"
+    ],
+    "songsong": [
+        "kusongsong",
+        "bersongsong",
+        "menyongsong"
+    ],
+    "juga": [],
+    "chedera": [],
+    "turut": [
+        "menurut",
+        "penurut",
+        "menuruti",
+        "menurutkan",
+        "turut-menurut",
+        "turut-turutan",
+        "berturut-turut",
+        "memperturutkan",
+        "memperturut-turutkan"
+    ],
+    "balau": [
+        "mengkacau-balau"
+    ],
+    "hterus": [],
+    "kesal": [
+        "berkesal",
+        "kekesalan",
+        "mengesalkan"
+    ],
+    "hatinya": [],
+    "laku": [
+        "lakuan",
+        "pelaku",
+        "selaku",
+        "lakuku",
+        "berlaku",
+        "kelakuan",
+        "melakukan",
+        "perlakuan",
+        "keberlakuan",
+        "pemberlakuan",
+        "memberlakukan",
+        "memperlakukan"
+    ],
+    "masam": [
+        "memasam",
+        "kemasam-masaman"
+    ],
+    "tahan": [
+        "bertahan",
+        "tertahan",
+        "penahanan",
+        "ketahanan",
+        "menahankan",
+        "pertahanan",
+        "bertahan-tahan",
+        "tertahan-tahan",
+        "mempertahankan"
+    ],
+    "walaupun": [],
+    "bibirnya": [],
+    "bergerak": [],
+    "awas": [
+        "awasan",
+        "berawas",
+        "terawasi",
+        "pengawas",
+        "mengawas",
+        "mengawasi",
+        "pengawasan",
+        "mengawaskan",
+        "berawas-awas"
+    ],
+    "peduli": [
+        "kepedulian",
+        "memedulikan"
+    ],
+    "akupun": [],
+    "lalu": [
+        "lalu",
+        "laluan",
+        "berlalu",
+        "melalui",
+        "terlalu",
+        "kelaluan",
+        "melalukan",
+        "keterlaluan",
+        "berkelaluan"
+    ],
+    "rajuk": [
+        "merajuk",
+        "perajuk",
+        "merajuki"
+    ],
+    "pilu": [
+        "berpilu",
+        "kepiluan",
+        "memilukan",
+        "kepilu-piluan"
+    ],
+    "ibu": [
+        "ibuku",
+        "beribu",
+        "keibuan"
+    ],
+    "dehulu": [],
+    "marah": [
+        "marahan",
+        "pemarah",
+        "memarahi",
+        "kemarahan",
+        "memarahkan",
+        "marah-marah",
+        "kemarah-marahan"
+    ],
+    "kerana": [],
+    "mungkin": [
+        "kemungkinan",
+        "memungkinkan"
+    ],
+    "buat": [
+        "buatan",
+        "berbuat",
+        "terbuat",
+        "teperbuat",
+        "perbuatan",
+        "membuatkan",
+        "memperbuat",
+        "buat-buatan",
+        "membuat-buat"
+    ],
+    "lipur": [
+        "melipur",
+        "pelipur",
+        "melipurkan"
+    ],
+    "suwara": [],
+    "suwarni": [],
+    "gugur": [
+        "guguran",
+        "keguguran",
+        "berguguran",
+        "pengguguran",
+        "menggugurkan"
+    ],
+    "sungkur": [
+        "menyungkur",
+        "tersungkur"
+    ],
+    "renang": [
+        "berenang",
+        "perenang",
+        "merenang",
+        "merenangi",
+        "berenangan",
+        "merenangkan"
+    ],
+    "insaf": [
+        "insaf",
+        "keinsafan",
+        "menginsafi",
+        "menginsafkan"
+    ],
+    "durhaka": [
+        "berdurhaka",
+        "mendurhaka",
+        "pendurhaka",
+        "mendurhakai",
+        "pendurhakaan"
+    ],
+    "rahsia": [
+        "rahasia",
+        "rahasia",
+        "berahasia",
+        "kerahasiaan",
+        "merahasiakan",
+        "rahasia-rahasiaan"
+    ],
+    "hampir": [
+        "hampirkan",
+        "menghampiri",
+        "hampir-hampir",
+        "menghampirkan"
+    ],
+    "tumpah": [
+        "tumpahan",
+        "menumpahi",
+        "tertumpah",
+        "penumpahan",
+        "ketumpahan",
+        "menumpahkan",
+        "pertumpahan",
+        "menumpah-numpahkan"
+    ],
+    "berkahmu": [],
+    "benar": [
+        "benaran",
+        "berbenar",
+        "membenar",
+        "terbenar",
+        "membenari",
+        "kebenaran",
+        "pembenaran",
+        "sebenarnya",
+        "benar-benar",
+        "membenarkan",
+        "memperbenar",
+        "berbenar-benar",
+        "membenar-benar",
+        "membenar-benari"
+    ],
+    "salah": [
+        "bersalah",
+        "tersalah",
+        "kesalahan",
+        "bersalahan",
+        "salah-salah",
+        "mempersalahkan",
+        "bersalah-salahan"
+    ],
+    "arah": [
+        "arahan",
+        "searah",
+        "berarah",
+        "terarah",
+        "mengarah",
+        "pengarah",
+        "mengarah",
+        "penyearah",
+        "pengarahan",
+        "mengarahkan",
+        "keterarahan",
+        "menyearahkan"
+    ],
+    "tebas": [
+        "menebas",
+        "tebasan",
+        "menebasi",
+        "tertebas",
+        "penebasan",
+        "menebaskan"
+    ],
+    "sutera": [],
+    "tegun": [
+        "menegun",
+        "bertegun",
+        "tertegun",
+        "tertegun-tegun"
+    ],
+    "dewala": [],
+    "tuli": [
+        "ketulian",
+        "menulikan"
+    ],
+    "kelu": [
+        "terkelu"
+    ],
+    "reka": [
+        "mereka",
+        "rekaan",
+        "kureka",
+        "reka-reka",
+        "mereka-reka",
+        "reka-rekaan"
+    ],
+    "lapangan": [
+        "pendataan",
+        "mendatakan"
+    ],
+    "runtuh": [
+        "meruntuh",
+        "runtuhan",
+        "reruntuhan",
+        "keruntuhan",
+        "meruntuhkan"
+    ],
+    "ripuk": [],
+    "maju": [
+        "maju",
+        "memaju",
+        "pemajuan",
+        "kemajuan",
+        "memajukan"
+    ],
+    "mundur": [
+        "pemunduran",
+        "kemunduran",
+        "memundurkan"
+    ],
+    "daya": [
+        "berdaya",
+        "terdaya",
+        "teperdaya",
+        "perdayaan",
+        "memperdaya",
+        "pemberdayaan",
+        "memberdayakan",
+        "memperdayakan"
+    ],
+    "tuntun": [
+        "menuntun",
+        "penuntun",
+        "tuntunan",
+        "bertuntun"
+    ],
+    "buta": [
+        "membuta",
+        "butalah",
+        "kebutaan",
+        "membutakan"
+    ],
+    "kuta": [
+        "berkuta",
+        "kutanya"
+    ],
+    "kausahuti": [],
+    "kupinta": [],
+    "iba": [
+        "ibakan",
+        "pengiba",
+        "keibaan",
+        "mengibai",
+        "beriba-iba",
+        "mengibakan"
+    ],
+    "menanggis": [],
+    "seni": [
+        "menyeni"
+    ],
+    "awang": [
+        "awangan",
+        "mengawang",
+        "perawangan",
+        "awang-awang",
+        "awang-gemawang"
+    ],
+    "dendang": [
+        "berdendang",
+        "pendendang",
+        "mendendangkan"
+    ],
+    "kelam": [
+        "kekelaman",
+        "pengelaman",
+        "mengelamkan"
+    ],
+    "layar": [
+        "pelayar",
+        "berlayar",
+        "melayari",
+        "pelayaran",
+        "melayarkan",
+        "berpelayaran"
+    ],
+    "tertutup": [],
+    "mataku": [],
+    "berat": [
+        "berat",
+        "berberat",
+        "pemberat",
+        "memberati",
+        "keberatan",
+        "pemberatan",
+        "memberatkan",
+        "memperberat",
+        "berkeberatan"
+    ],
+    "berkuasa": [],
+    "jatuh": [
+        "menjatuhi",
+        "penjatuhan",
+        "menjatuhkan"
+    ],
+    "darah": [
+        "berdarah",
+        "mendarah",
+        "pendarah",
+        "mendarahi",
+        "perdarahan",
+        "pendarahan"
+    ],
+    "debur": [
+        "berdebur",
+        "mendebur"
+    ],
+    "gemuruh": [
+        "bergemuruh",
+        "menggemuruh",
+        "kegemuruhan"
+    ],
+    "bisik": [
+        "bisikan",
+        "berbisik",
+        "pembisik",
+        "membisiki",
+        "pembisikan",
+        "membisikkan",
+        "berbisik-bisik"
+    ],
+    "setan": [
+        "menyetan",
+        "persetan",
+        "kesetanan",
+        "mempersetan",
+        "mempersetankan"
+    ],
+    "alpa": [
+        "teralpa",
+        "kealpaan",
+        "mengalpakan"
+    ],
+    "panji": [
+        "panji-panji"
+    ],
+    "kibar": [
+        "kibaran",
+        "berkibar",
+        "pengibar",
+        "berkibaran",
+        "pengibaran",
+        "mengibarkan",
+        "berkibar-kibar",
+        "mengibar-ngibarkan"
+    ],
+    "remang": [
+        "meremang",
+        "meremangkan"
+    ],
+    "roma": [],
+    "irama": [
+        "seirama",
+        "berirama",
+        "mengiramakan"
+    ],
+    "menamakan": [
+        "panggilan"
+    ],
+    "jaya": [
+        "berjaya",
+        "kejayaan",
+        "menjayakan",
+        "keberjayaan"
+    ],
+    "bintang": [
+        "bintangan",
+        "sebintang",
+        "berbintang",
+        "membintangi",
+        "perbintangan",
+        "berbintang-bintang"
+    ],
+    "bermain": [],
+    "cahaya": [
+        "bercahaya",
+        "mencahayai",
+        "pencahayaan",
+        "mencahayakan"
+    ],
+    "bulan": [
+        "bulanan",
+        "berbulan",
+        "membulan",
+        "bulan-bulanan",
+        "berbulan-bulan",
+        "membulan-bulani"
+    ],
+    "ketawa": [
+        "tertawa"
+    ],
+    "sepi": [
+        "menyepi",
+        "penyepi",
+        "kesepian",
+        "menyepikan",
+        "bersepi-sepi"
+    ],
+    "subuh": [],
+    "tabuh": [
+        "menabuh",
+        "tabuhan",
+        "tetabuhan",
+        "tabuh-tabuhan"
+    ],
+    "lukis": [
+        "melukis",
+        "lukisan",
+        "pelukis",
+        "dilukis",
+        "terlukis",
+        "pelukisan",
+        "melukiskan",
+        "terlukiskan"
+    ],
+    "ketam": [
+        "mengetam",
+        "pengetam",
+        "mengetamkan"
+    ],
+    "redam": [
+        "meredam",
+        "redaman",
+        "peredam",
+        "peredaman",
+        "meredamkan",
+        "redam-redam"
+    ],
+    "kini": [
+        "kekinian"
+    ],
+    "tuai": [
+        "menuai",
+        "dituai",
+        "tuaian",
+        "penuai",
+        "penuaian"
+    ],
+    "rona": [
+        "berona",
+        "perona",
+        "merona"
+    ],
+    "rawan": [
+        "berawan",
+        "merawan",
+        "kerawanan",
+        "merawankan"
+    ],
+    "sedan": [
+        "bersedan-sedan",
+        "tersedan-sedan"
+    ],
+    "istiwa": [],
+    "rekah": [
+        "merekah"
+    ],
+    "timbul": [
+        "menimbul",
+        "menimbulkan"
+    ],
+    "pancar": [
+        "memancar",
+        "pancaran",
+        "pemancar",
+        "sepancar",
+        "terpancar",
+        "berpancaran",
+        "memancarkan"
+    ],
+    "tilik": [
+        "menilik",
+        "tilikan",
+        "penilik",
+        "tilikkan",
+        "penilikan",
+        "tilik-menilik"
+    ],
+    "selam": [
+        "peselam",
+        "kuselam",
+        "berselam",
+        "menyelam",
+        "terselam",
+        "penyelam",
+        "menyelami",
+        "terselami",
+        "penyelaman",
+        "menyelamkan"
+    ],
+    "tahun": [
+        "menahun",
+        "tahunan",
+        "setahun",
+        "bertahunan",
+        "tahun-tahun",
+        "bertahun-tahun"
+    ],
+    "siapa": [
+        "siapa-siapa"
+    ],
+    "rangsang": [
+        "berangsang",
+        "merangsang",
+        "terangsang",
+        "rangsangan",
+        "perangsang"
+    ],
+    "petua": [],
+    "lolong": [
+        "melolong",
+        "terlolong",
+        "melolong-lolong",
+        "terlolong-lolong"
+    ],
+    "raung": [
+        "meraung",
+        "raungan",
+        "meraung-raung",
+        "meraung-raungkan"
+    ],
+    "sentak": [
+        "sentakan",
+        "menyentak",
+        "tersentak",
+        "menyentakkan"
+    ],
+    "hibuk": [
+        "hibuk",
+        "kehibukan"
+    ],
+    "gari": [
+        "tergari",
+        "menggari"
+    ],
+    "senak": [
+        "menyenak",
+        "tersenak",
+        "kesenakan",
+        "menyenakkan",
+        "menyenak-nyenak",
+        "kesenak-senakan"
+    ],
+    "terhentak": [],
+    "raga": [
+        "meraga"
+    ],
+    "kecewa": [
+        "terkecewa",
+        "kekecewaan",
+        "mengecewakan"
+    ],
+    "sempit": [
+        "sempitan",
+        "menyempit",
+        "kesempitan",
+        "persempitan",
+        "penyempitan",
+        "menyempitkan",
+        "mempersempit",
+        "bersempit-sempit"
+    ],
+    "gelanggang": [
+        "bergelanggang",
+        "menggelanggang"
+    ],
+    "samar": [
+        "samar",
+        "samaran",
+        "menyamar",
+        "penyamar",
+        "kesamaran",
+        "penyamaran",
+        "samar-samar",
+        "menyamarkan"
+    ],
+    "sapur": [],
+    "haru": [
+        "diharu",
+        "terharu",
+        "mengharu",
+        "keharuan",
+        "mengharukan",
+        "keterharuan"
+    ],
+    "sendu": [
+        "bersendu",
+        "kesenduan"
+    ],
+    "teman": [
+        "peneman",
+        "berteman",
+        "menemani",
+        "pertemanan"
+    ],
+    "kawan": [
+        "kawanan",
+        "berkawan",
+        "mengawani",
+        "perkawanan"
+    ],
+    "lama": [
+        "selama",
+        "kelamaan",
+        "lama-lama",
+        "selamanya",
+        "memperlama",
+        "berlama-lama",
+        "lama-kelamaan",
+        "memperlamakan",
+        "selama-lamanya"
+    ],
+    "kecuali": [
+        "kecuali",
+        "berkecuali",
+        "mengecuali",
+        "terkecuali",
+        "kekecualian",
+        "perkecualian",
+        "pengecualian",
+        "mengecualikan",
+        "memperkecualikan"
+    ],
+    "serpih": [],
+    "diam": [
+        "berdiam",
+        "terdiam",
+        "pendiam",
+        "diam-diam",
+        "mendiamkan",
+        "kependiaman"
+    ],
+    "besi": [
+        "membesi"
+    ],
+    "bual": [
+        "bualan",
+        "berbual",
+        "membualkan",
+        "berbual-bual"
+    ],
+    "pidato": [
+        "berpidato",
+        "memidatokan"
+    ],
+    "kumal": [
+        "mengumalkan"
+    ],
+    "pedih": [
+        "kepedihan",
+        "kepedihan",
+        "memedihkan"
+    ],
+    "bila": [
+        "bila-bila"
+    ],
+    "sengsara": [
+        "kesengsaraan",
+        "menyengsarakan"
+    ],
+    "tertahankan": [],
+    "campak": [
+        "mencampak",
+        "tercampak",
+        "campakkan",
+        "mencampakkan"
+    ],
+    "jendela": [],
+    "keluh": [
+        "keluhan",
+        "berkeluh",
+        "mengeluh",
+        "terkeluh",
+        "pengeluh",
+        "mengeluhkan"
+    ],
+    "ratap": [
+        "meratap",
+        "ratapan",
+        "meratapi"
+    ],
+    "kuceritakan": [],
+    "tentang": [
+        "menentang",
+        "tentangan",
+        "penentang",
+        "setentang",
+        "bertentang",
+        "menentangi",
+        "tertentang",
+        "penentangan",
+        "bertentangan",
+        "menentangkan",
+        "pertentangan",
+        "mempertentangkan"
+    ],
+    "naik": [
+        "menaik",
+        "menaiki",
+        "penaikan",
+        "kenaikan",
+        "menaikkan"
+    ],
+    "tarik": [
+        "menarik",
+        "tarikan",
+        "penarik",
+        "tertarik",
+        "penarikan",
+        "ketertarikan",
+        "tarik-menarik",
+        "bertarik-tarikan"
+    ],
+    "tenteram": [
+        "ketenteraman",
+        "menenteramkan"
+    ],
+    "tepi": [
+        "tepian",
+        "bertepi",
+        "menepikan",
+        "bertepikan",
+        "mengetepikan"
+    ],
+    "bisu": [
+        "berbisu",
+        "membisu"
+    ],
+    "serak": [
+        "berserak",
+        "terserak",
+        "berserakan",
+        "menyerakkan",
+        "berserak-serak",
+        "terserak-serak",
+        "menyerak-nyerakkan"
+    ],
+    "menunggu": [],
+    "ketakpastian": [],
+    "pasang": [
+        "pasangan",
+        "sepasang",
+        "berpasang",
+        "memasangkan",
+        "berpasang-pasang",
+        "berpasang-pasangan"
+    ],
+    "apalagi": [
+        "apalagikah"
+    ],
+    "enyah": [
+        "mengenyahkan"
+    ],
+    "gaduh": [
+        "kegaduhan",
+        "pergaduhan",
+        "penggaduhan",
+        "menggaduhkan"
+    ],
+    "sekarat": [
+        "sekarat"
+    ],
+    "tikai": [
+        "tikaian",
+        "bertikai",
+        "pertikaian",
+        "mempertikaikan"
+    ],
+    "perang": [
+        "berperang",
+        "memerangi",
+        "peperangan",
+        "berperang-perangan"
+    ],
+    "pelanting": [
+        "terpelanting",
+        "terpelanting"
+    ],
+    "buntu": [
+        "kebuntuan",
+        "membuntukan"
+    ],
+    "lain": [
+        "melaini",
+        "lainnya",
+        "kelainan",
+        "berlainan",
+        "melainkan",
+        "perlainan",
+        "memperlain",
+        "berkelainan",
+        "memperlainkan",
+        "berlain-lainan"
+    ],
+    "mahkota": [
+        "bermahkota",
+        "memahkotai",
+        "pemahkotaan"
+    ],
+    "gapura": [],
+    "astana": [
+        "istana"
+    ],
+    "cuaca": [],
+    "rangkaian": [],
+    "situ": [],
+    "senyum": [
+        "senyuman",
+        "tersenyum",
+        "menyenyumi"
+    ],
+    "harum": [
+        "mengharum",
+        "keharuman",
+        "mengharumi",
+        "mengharumkan",
+        "harum-haruman"
+    ],
+    "cerca": [
+        "cercaan",
+        "mencerca",
+        "mencercai"
+    ],
+    "Melayu": [
+        "melayu"
+    ],
+    "restu": [
+        "merestui"
+    ],
+    "sempana": [
+        "sempena"
+    ],
+    "daku": [],
+    "hasrat": [
+        "berhasrat",
+        "terhasrat",
+        "hasratkan",
+        "kehasratan",
+        "menghasratkan"
+    ],
+    "dikau": [],
+    "terang": [
+        "menerang",
+        "penerang",
+        "menerangi",
+        "penerangan",
+        "keterangan",
+        "menerangkan",
+        "berpenerangan",
+        "terang-terangan",
+        "berterang-terang",
+        "berterang-terangan"
+    ],
+    "ketika": [
+        "seketika"
+    ],
+    "tiga": [
+        "meniga",
+        "ketiga",
+        "bertiga",
+        "pertiga",
+        "pertigaan",
+        "sepertiga",
+        "ketiganya",
+        "mempertiga",
+        "tiga-tiganya",
+        "ketiga-tiganya"
+    ],
+    "bercerai": [],
+    "ramai": [
+        "teramai",
+        "keramaian",
+        "meramaikan",
+        "beramai-ramai"
+    ],
+    "pertengahan": [
+        "berabad-abad"
+    ],
+    "mula": [
+        "mula",
+        "memula",
+        "pemula",
+        "semula",
+        "bermula",
+        "mula-mula",
+        "memulakan",
+        "permulaan",
+        "sebermula",
+        "bermula-mula"
+    ],
+    "sungkum": [
+        "menyungkum",
+        "tersungkum",
+        "sungkumkan"
+    ],
+    "hembusan": [],
+    "cedera": [
+        "bercedera",
+        "kecederaan",
+        "percederaan"
+    ],
+    "angan": [
+        "mengangan",
+        "angan-angan",
+        "mengangankan",
+        "berangan-angan",
+        "mengangan-angan",
+        "mengangan-angankan"
+    ],
+    "sua": [
+        "bersua",
+        "menyua",
+        "tersua",
+        "persuaan",
+        "mempersuakan"
+    ],
+    "jejak": [
+        "kujejak",
+        "berjejak",
+        "menjejak",
+        "penjejak",
+        "menjejaki",
+        "menjejakkan"
+    ],
+    "wera": [],
+    "jayanti": [],
+    "bunga": [
+        "bunga",
+        "berbunga",
+        "membunga",
+        "membungai",
+        "perbungaan",
+        "bunga-bungaan",
+        "berbunga-bunga",
+        "membunga-bungai"
+    ],
+    "mawar": [],
+    "punah": [
+        "pemunahan",
+        "memunahkan"
+    ],
+    "cinta": [
+        "cintaku",
+        "bercinta",
+        "mencinta",
+        "tercinta",
+        "pencinta",
+        "mencintai",
+        "kecintaan",
+        "percintaan",
+        "bercintakan",
+        "mencintakan",
+        "bercinta-cintaan"
+    ],
+    "ketentraman": [],
+    "harap": [
+        "harapan",
+        "berharap",
+        "mengharap",
+        "berharapan",
+        "berharapkan",
+        "pengharapan",
+        "mengharapkan",
+        "harap-harapan",
+        "terharap-harap",
+        "berpengharapan"
+    ],
+    "ketakutan": [],
+    "dada": [
+        "berdada",
+        "mendada",
+        "berdada-dadaan"
+    ],
+    "senapan": [
+        "bersenapan"
+    ],
+    "pucuk": [
+        "berpucuk"
+    ],
+    "biru": [
+        "membiru",
+        "membirukan",
+        "kebiru-biruan"
+    ],
+    "hijau": [
+        "hijau",
+        "hijauan",
+        "menghijau",
+        "penghijau",
+        "penghijauan",
+        "menghijaukan",
+        "kehijau-hijauan"
+    ],
+    "adil": [
+        "keadilan",
+        "mengadili",
+        "peradilan",
+        "pengadilan",
+        "berkeadilan"
+    ],
+    "diberkahi": [],
+    "sejahtera": [
+        "kesejahteraan",
+        "penyejahteraan",
+        "menyejahterakan"
+    ],
+    "kaya": [
+        "terkaya",
+        "kekayaan",
+        "pengayaan",
+        "mengayakan",
+        "memperkaya"
+    ],
+    "berkat": [
+        "memberkati",
+        "keberkatan",
+        "pemberkatan"
+    ],
+    "ludah": [
+        "meludah",
+        "berludah",
+        "meludahi",
+        "peludahan",
+        "meludahkan"
+    ],
+    "serta": [],
+    "keringat": [
+        "berkeringat",
+        "keringatnya",
+        "mengeringatkan"
+    ],
+    "hormat": [
+        "berhormat",
+        "terhormat",
+        "menghormat",
+        "penghormat",
+        "kehormatan",
+        "menghormati",
+        "penghormatan",
+        "berhormat-hormat",
+        "hormat-menghormati"
+    ],
+    "keramat": [
+        "kekeramatan",
+        "mengeramatkan"
+    ],
+    "ipar": [
+        "beripar"
+    ],
+    "mertua": [],
+    "saudara": [
+        "bersaudara",
+        "persaudaraan",
+        "mempersaudarakan"
+    ],
+    "menantu": [
+        "bermenantu",
+        "bermenantukan"
+    ],
+    "angkat": [
+        "angkatan",
+        "terangkat",
+        "perangkat",
+        "mengangkat",
+        "pengangkat",
+        "seangkatan",
+        "mengangkati",
+        "perangkatan",
+        "seperangkat",
+        "pengangkatan",
+        "mengangkatkan",
+        "seperangkatan",
+        "mengangkat-angkat"
+    ],
+    "sendiri": [
+        "sendirian",
+        "bersendiri",
+        "menyendiri",
+        "tersendiri",
+        "penyendiri",
+        "kesendirian",
+        "penyendirian",
+        "menyendirikan",
+        "sendiri-sendiri"
+    ],
+    "nobat": [
+        "penobatan",
+        "menobatkan"
+    ],
+    "dipisahkan": [],
+    "manusia": [
+        "pemanusiaan",
+        "kemanusiaan",
+        "memanusiakan"
+    ],
+    "pilihan": [
+        "melagukan"
+    ],
+    "bukan": [
+        "sebukan",
+        "berbukan",
+        "bukankah",
+        "bukantah",
+        "bukan-bukan",
+        "membukankan"
+    ],
+    "kubur": [
+        "kuburan",
+        "berkubur",
+        "mengubur",
+        "terkubur",
+        "pekuburan",
+        "penguburan",
+        "menguburkan"
+    ],
+    "diperkenankan": [],
+    "sejenak": [],
+    "baring": [
+        "berbaring",
+        "terbaring",
+        "pembaringan",
+        "membaringkan"
+    ],
+    "rongkong": [
+        "rerongkong",
+        "rerongkong-rerongkong"
+    ],
+    "giring": [
+        "digiring",
+        "menggiring"
+    ],
+    "sakit": [
+        "penyakit",
+        "menyakiti",
+        "pesakitan",
+        "kesakitan",
+        "penyakitan",
+        "menyakitkan",
+        "mempersakiti",
+        "sakit-sakitan",
+        "berpenyakitan",
+        "bersakit-sakit"
+    ],
+    "lelah": [
+        "kelelahan",
+        "melelahkan",
+        "memperlelah"
+    ],
+    "daki": [
+        "dakian",
+        "mendaki",
+        "terdaki",
+        "pendaki",
+        "pendakian",
+        "mendakikan"
+    ],
+    "jurang": [],
+    "kenal": [
+        "kenalan",
+        "mengenal",
+        "terkenal",
+        "pengenal",
+        "mengenali",
+        "berkenalan",
+        "perkenalan",
+        "pengenalan",
+        "kenal-mengenal",
+        "memperkenalkan",
+        "berkenal-kenalan"
+    ],
+    "sedia": [
+        "penyedia",
+        "penyediaan",
+        "menyediakan",
+        "ketersediaan",
+        "bersedia-sedia",
+        "mempersediakan"
+    ],
+    "deru": [
+        "menderu",
+        "menderu-deru"
+    ],
+    "gelombang": [
+        "bergelombang",
+        "menggelombang"
+    ],
+    "luas": [
+        "meluas",
+        "luasan",
+        "luasnya",
+        "peluasan",
+        "keluasan",
+        "meluaskan",
+        "perluasan",
+        "memperluas"
+    ],
+    "mewah": [
+        "kemewahan",
+        "bermewah-mewah",
+        "bermewah-mewahan"
+    ],
+    "nafsu": [
+        "bernafsu"
+    ],
+    "cabut": [
+        "cabutan",
+        "mencabut",
+        "bercabut",
+        "tercabut",
+        "pencabut",
+        "mencabuti",
+        "pencabutan",
+        "mencabutkan"
+    ],
+    "beda": [
+        "dibedakan",
+        "berbeda-beda",
+        "memperbedakan",
+        "membeda-bedakan",
+        "terbeda-bedakan"
+    ],
+    "dewa": [
+        "kedewaan",
+        "pendewaan",
+        "mendewakan",
+        "memperdewa",
+        "memperdewakan",
+        "mendewa-dewakan"
+    ],
+    "cemeti": [
+        "mencemeti"
+    ],
+    "bantai": [
+        "bantaian",
+        "membantai",
+        "pembantai",
+        "pembantaian"
+    ],
+    "boleh": [
+        "bolehan",
+        "kebolehan",
+        "membolehkan",
+        "memperbolehkan",
+        "seboleh-bolehnya"
+    ],
+    "kendati": [
+        "kendatipun"
+    ],
+    "kuak": [
+        "menguak"
+    ],
+    "dipekerjakan": [],
+    "halau": [
+        "dihalau",
+        "menghalau",
+        "penghalau",
+        "penghalauan"
+    ],
+    "kurban": [
+        "mengurbankan"
+    ],
+    "nyawa": [
+        "senyawa",
+        "bernyawa",
+        "senyawaan",
+        "bersenyawa",
+        "persenyawaan"
+    ],
+    "kerbau": [],
+    "mesti": [
+        "kemestian",
+        "memestikan",
+        "semestinya"
+    ],
+    "rela": [
+        "merelai",
+        "kerelaan",
+        "merelakan"
+    ],
+    "macam": [
+        "macam",
+        "semacam",
+        "bermacam",
+        "macam-macam",
+        "bermacam-macam",
+        "mempermacam-macamkan"
+    ],
+    "perah": [
+        "memerah",
+        "perahan",
+        "pemerah",
+        "diperah",
+        "pemerahan"
+    ],
+    "sama": [
+        "sama",
+        "sesama",
+        "bersama",
+        "menyamai",
+        "tersamai",
+        "kesamaan",
+        "sama-sama",
+        "bersamaan",
+        "persamaan",
+        "penyamaan",
+        "menyamakan",
+        "kebersamaan",
+        "bersama-sama",
+        "membersamakan",
+        "menyama-nyama",
+        "mempersamakan",
+        "menyama-nyamai",
+        "mempersama-samakan"
+    ],
+    "tinggi": [
+        "meninggi",
+        "petinggi",
+        "tertinggi",
+        "peninggian",
+        "ketinggian",
+        "meninggikan",
+        "mempertinggi"
+    ],
+    "kuhargai": [],
+    "milik": [
+        "pemilik",
+        "memiliki",
+        "termilik",
+        "pemilikan",
+        "kemilikan",
+        "kepemilikan"
+    ],
+    "sia-sia": [
+        "bersia-sia",
+        "tersia-sia",
+        "kesia-siaan",
+        "menyia-nyiakan"
+    ],
+    "rawat": [
+        "merawat",
+        "terawat",
+        "rawatan",
+        "perawat",
+        "dirawat",
+        "perawatan",
+        "merawatkan",
+        "keperawatan"
+    ],
+    "bali": [],
+    "degung": [
+        "degung"
+    ],
+    "sunda": [],
+    "bagai": [
+        "sebagai",
+        "sebagai"
+    ],
+    "kusimakkan": [],
+    "musik": [
+        "musikan",
+        "pemusik",
+        "bermusik",
+        "memusiki",
+        "memusikkan",
+        "permusikan"
+    ],
+    "tang": [
+        "abaka",
+        "tang-ak"
+    ],
+    "tubuh": [
+        "setubuh",
+        "tubuhku",
+        "bertubuh",
+        "menubuhkan",
+        "pertubuhan",
+        "bersetubuh",
+        "menyetubuhi",
+        "persetubuhan"
+    ],
+    "sandar": [
+        "sandaran",
+        "bersandar",
+        "menyandar",
+        "tersandar",
+        "penyandar",
+        "menyandari",
+        "pesandaran",
+        "persandaran",
+        "penyandaran",
+        "bersandarkan",
+        "menyandarkan",
+        "sandar-menyandar"
+    ],
+    "lemas": [
+        "melemaskan"
+    ],
+    "kenang": [
+        "kenangan",
+        "mengenang",
+        "terkenang",
+        "mengenangkan",
+        "kenang-kenangan"
+    ],
+    "betapa": [],
+    "cirebon": [],
+    "kalianyar": [],
+    "tonton": [
+        "menonton",
+        "tontonan",
+        "penonton",
+        "menontonkan",
+        "kepenontonan",
+        "mempertontonkan"
+    ],
+    "topeng": [
+        "bertopeng",
+        "menopengi",
+        "mempertopeng"
+    ],
+    "istana": [
+        "istana"
+    ],
+    "musim": [
+        "musim",
+        "musiman",
+        "bermusim"
+    ],
+    "panas": [
+        "panas",
+        "memanas",
+        "pemanas",
+        "berpanas",
+        "memanasi",
+        "terpanasi",
+        "pemanasan",
+        "kepanasan",
+        "memanaskan",
+        "panas-panas",
+        "berpanas-panas",
+        "memanas-manasi"
+    ],
+    "kian": [
+        "sekian",
+        "berkian-kian"
+    ],
+    "elok": [
+        "seelok",
+        "keelokan",
+        "memperelok",
+        "mengelokkan",
+        "seelok-eloknya"
+    ],
+    "aman": [
+        "pengaman",
+        "keamanan",
+        "memperaman",
+        "pengamanan",
+        "mengamankan"
+    ],
+    "tidak": [
+        "tidakkah",
+        "menidakkan",
+        "setidaknya",
+        "tidak-tidak",
+        "mempertidak",
+        "mempertidakkan",
+        "setidak-tidaknya"
+    ],
+    "hidup": [
+        "kehidupan",
+        "menghidupi",
+        "memperhidup",
+        "penghidupan",
+        "menghidupkan"
+    ],
+    "menang": [
+        "pemenang",
+        "memenangi",
+        "pemenangan",
+        "kemenangan",
+        "memenangkan",
+        "mempermenangkan"
+    ],
+    "kejar": [
+        "dikejar",
+        "kejaran",
+        "mengejar",
+        "terkejar",
+        "berkejaran",
+        "bersikejar",
+        "pengejaran",
+        "mengejarkan",
+        "kejar-mengejar",
+        "terkejar-kejar",
+        "mengejar-ngejar",
+        "mengejar-ngejar",
+        "berkejar-kejaran"
+    ],
+    "gairah": [
+        "bergairah",
+        "kegairahan",
+        "menggairahkan"
+    ],
+    "esok": [
+        "beresok",
+        "keesokan",
+        "mengesokkan"
+    ],
+    "cermin": [
+        "becermin",
+        "cerminan",
+        "bercermin",
+        "tercermin",
+        "mencermini",
+        "mencerminkan",
+        "mempercermin"
+    ],
+    "diriku": [],
+    "sana": [],
+    "bangsa": [
+        "sebangsa",
+        "berbangsa",
+        "membangsa",
+        "kebangsaan",
+        "membangsakan"
+    ],
+    "ombang-ambing": [
+        "terombang-ambing",
+        "terombang-ambing",
+        "mengombang-ambing",
+        "mengombang-ambingkan"
+    ],
+    "dua": [
+        "kedua",
+        "sedua",
+        "berdua",
+        "mendua",
+        "perdua",
+        "pendua",
+        "dua-dua",
+        "menduai",
+        "berduaan",
+        "penduaan",
+        "menyedua",
+        "seperdua",
+        "dua-duaan",
+        "menduakan",
+        "memperdua",
+        "menyeduai",
+        "dua-duanya",
+        "berdua-dua",
+        "memperduai",
+        "menyeduakan",
+        "memperduakan"
+    ],
+    "acuh": [
+        "acuhan",
+        "mengacuhkan"
+    ],
+    "gapai": [
+        "tergapai",
+        "menggapai",
+        "bergapaian",
+        "tergapai-gapai",
+        "menggapai-gapai",
+        "menggapai-gapaikan"
+    ],
+    "etalase": [],
+    "kaca": [
+        "berkaca",
+        "mengaca",
+        "kekacaan",
+        "memperkaca",
+        "berkaca-kaca"
+    ],
+    "lampu": [
+        "berlampu",
+        "perlampuan",
+        "lampu-lampu"
+    ],
+    "berwarna": [],
+    "seoul": [],
+    "baru": [
+        "membaru",
+        "terbaru",
+        "pembaru",
+        "membarui",
+        "kebaruan",
+        "pembaruan",
+        "membarukan",
+        "memperbarui"
+    ],
+    "gunung": [
+        "gunungan",
+        "menggunung",
+        "pegunungan",
+        "gunung-ganang",
+        "gunung-gemunung",
+        "gunung-gunungan",
+        "bergunung-gunung"
+    ],
+    "bangun": [
+        "membangun",
+        "membanguni",
+        "kebangunan",
+        "membangunkan"
+    ],
+    "tugu": [],
+    "luput": [
+        "terluput",
+        "meluputkan"
+    ],
+    "hingga": [
+        "berhingga",
+        "terhingga",
+        "perhinggaan",
+        "menghinggakan",
+        "memperhinggakan"
+    ],
+    "menempuh": [],
+    "arus": [
+        "mengarus"
+    ],
+    "saat": [
+        "sesaat"
+    ],
+    "kembali": [
+        "kembalian",
+        "pengembalian",
+        "mengembalikan"
+    ],
+    "pabila": [],
+    "berangkat": [
+        "keberangkatan",
+        "pemberangkatan",
+        "memberangkatkan"
+    ],
+    "kuala": [
+        "berkuala"
+    ],
+    "terbuka": [],
+    "ufuk": [
+        "berufuk"
+    ],
+    "kelabu": [
+        "mengelabui",
+        "pengelabuan"
+    ],
+    "erti": [
+        "mengerti",
+        "pengertian",
+        "mengertikan"
+    ],
+    "kan": [],
+    "nasib": [
+        "senasib",
+        "bernasib",
+        "nasibnya",
+        "nasib-nasiban"
+    ],
+    "alir": [
+        "aliran",
+        "mengalir",
+        "mengaliri",
+        "pengaliran",
+        "mengalirkan"
+    ],
+    "hilir": [
+        "sehilir",
+        "menghilir",
+        "berhiliran",
+        "menghiliri",
+        "menghilirkan"
+    ],
+    "empat": [
+        "empat",
+        "berempat",
+        "perempat",
+        "perempatan",
+        "seperempat",
+        "empat-empat",
+        "memperempat",
+        "berempat-empat",
+        "keempat-empatnya"
+    ],
+    "lelaki": [],
+    "pinggir": [
+        "meminggir",
+        "pinggiran",
+        "peminggir",
+        "meminggiri",
+        "peminggiran",
+        "kepinggiran",
+        "meminggirkan",
+        "terpinggirkan"
+    ],
+    "kali": [
+        "sekali",
+        "pengali",
+        "sesekali",
+        "sekalian",
+        "perkalian",
+        "mengalikan",
+        "kali-kalian",
+        "sekali-kali",
+        "berka-li-kali",
+        "memperkalikan",
+        "sekali-sekali"
+    ],
+    "komputer": [
+        "mengomputerkan"
+    ],
+    "hasil": [
+        "penghasil",
+        "penghasilan",
+        "menghasilkan"
+    ],
+    "teknologi": [],
+    "kutemui": [],
+    "kewas-wasan": [],
+    "sumber": [
+        "bersumber"
+    ],
+    "sanubari": [],
+    "dinding": [
+        "berdinding",
+        "mendinding",
+        "terdinding",
+        "pendinding",
+        "mendindingi",
+        "pendindingan",
+        "dinding-dinding"
+    ],
+    "kukuh": [
+        "berkukuh",
+        "mengukuhi",
+        "kekukuhan",
+        "pengukuhan",
+        "mengukuhkan",
+        "memperkukuh"
+    ],
+    "perkasa": [
+        "keperkasaan"
+    ],
+    "teka-teki": [
+        "berteka-teki"
+    ],
+    "hilang": [
+        "menghilang",
+        "kehilangan",
+        "penghilangan",
+        "hilang-hilang",
+        "menghilangkan"
+    ],
+    "soal": [
+        "bersoal",
+        "menyoal",
+        "soalnya",
+        "persoalan",
+        "menyoalkan",
+        "mempersoalkan"
+    ],
+    "gulita": [],
+    "nampak": [
+        "tampak",
+        "tampak",
+        "menampak",
+        "tampaknya",
+        "tertampak",
+        "penampakan",
+        "menampakkan",
+        "tampak-tampak"
+    ],
+    "satu": [
+        "satuan",
+        "kesatu",
+        "bersatu",
+        "menyatu",
+        "penyatu",
+        "kesatuan",
+        "satu-satu",
+        "persatuan",
+        "pemersatu",
+        "penyatuan",
+        "menyatukan",
+        "pemersatuan",
+        "satu-satunya",
+        "mempersatukan"
+    ],
+    "segi": [
+        "bersegi",
+        "persegi"
+    ],
+    "saja": [],
+    "begitu": [
+        "begituan",
+        "sebegitu",
+        "membegitukan"
+    ],
+    "banyak": [
+        "banyakan",
+        "sebanyak",
+        "berbanyak",
+        "membanyak",
+        "terbanyak",
+        "membanyaki",
+        "kebanyakan",
+        "perbanyakan",
+        "membanyakkan",
+        "memperbanyak",
+        "banyak-banyak",
+        "memperbanyakkan",
+        "berbanyak-banyak"
+    ],
+    "peristiwa": [
+        "berperistiwa"
+    ],
+    "rahasia": [
+        "rahasia",
+        "berahasia",
+        "kerahasiaan",
+        "merahasiakan",
+        "rahasia-rahasiaan"
+    ],
+    "telah": [
+        "setelah"
+    ],
+    "kais": [
+        "mengais",
+        "mengaiskan",
+        "mengais-ngais",
+        "mengais-ngais"
+    ],
+    "cari": [
+        "carian",
+        "bercari",
+        "mencari",
+        "tercari",
+        "pencari",
+        "pencarian",
+        "mencarikan",
+        "cari-carian",
+        "bercari-cari",
+        "mencari-cari",
+        "bercari-carian"
+    ],
+    "dirimu": [],
+    "selinap": [
+        "menyelinap",
+        "penyelinap",
+        "penyelinapan",
+        "menyelinapkan"
+    ],
+    "endap": [
+        "endapan",
+        "mengendap",
+        "endap-endap",
+        "terendapkan",
+        "pengendapan",
+        "mengendapkan",
+        "mengendap-ngendap"
+    ],
+    "bawah": [
+        "bawahan",
+        "sebawah",
+        "terbawah",
+        "membawahi",
+        "sebawahan",
+        "membawahkan"
+    ],
+    "manhattan": [],
+    "gelap": [
+        "menggelap",
+        "kegelapan",
+        "penggelapan",
+        "menggelapkan",
+        "gelap-gelapan",
+        "bergelap-gelap",
+        "kegelap-gelapan"
+    ],
+    "lontar": [
+        "melontar",
+        "pelontar",
+        "melontari",
+        "pelontaran",
+        "sepelontar",
+        "melontarkan",
+        "melontarkanmu"
+    ],
+    "hampa": [
+        "kehampaan",
+        "menghampakan"
+    ],
+    "gamelan": [],
+    "alun": [
+        "alunan",
+        "beralun",
+        "teralun",
+        "mengalun",
+        "mengalunkan",
+        "beralun-alun"
+    ],
+    "tari": [
+        "menari",
+        "tarian",
+        "penari",
+        "bertari",
+        "menarikan",
+        "tari-menari",
+        "tari-tarian"
+    ],
+    "gemulai": [
+        "menggemulai"
+    ],
+    "senja": [
+        "kesenjaan"
+    ],
+    "tiba": [
+        "setiba"
+    ],
+    "anyam": [
+        "anyaman",
+        "menganyam",
+        "anyam-menganyam"
+    ],
+    "rapat": [
+        "merapat",
+        "rapatan",
+        "perapat",
+        "merapati",
+        "kerapatan",
+        "merapatkan",
+        "memperapat"
+    ],
+    "pagar": [
+        "memagar",
+        "berpagar",
+        "memagari",
+        "memagarkan"
+    ],
+    "curiga": [],
+    "sekelilingmu": [],
+    "sahabat": [
+        "bersahabat",
+        "persahabatan",
+        "mempersahabatkan"
+    ],
+    "dapat": [
+        "dapat",
+        "dapatan",
+        "sedapat",
+        "berdapat",
+        "mendapat",
+        "terdapat",
+        "pendapat",
+        "mendapati",
+        "kedapatan",
+        "pendapatan",
+        "mendapatkan",
+        "memperdapat",
+        "sedapat-dapatnya"
+    ],
+    "asal": [
+        "asal",
+        "berasal",
+        "mengasalkan"
+    ],
+    "abai": [
+        "abaian",
+        "terabai",
+        "abaikan",
+        "pengabai",
+        "terabaikan",
+        "pengabaian",
+        "mengabaikan"
+    ],
+    "maka": [
+        "maka"
+    ],
+    "halang": [
+        "halangan",
+        "terhalang",
+        "menghalang",
+        "penghalang",
+        "berhalangan",
+        "menghalangi",
+        "menghalang-halangi"
+    ],
+    "sih": [],
+    "mau": [
+        "mau",
+        "semau",
+        "memaui",
+        "maupun",
+        "kemauan",
+        "memaukan",
+        "memau-mau",
+        "semau-maunya"
+    ],
+    "capai": [
+        "capaian",
+        "mencapai",
+        "tercapai",
+        "pencapai",
+        "pencapaian",
+        "sepencapai"
+    ],
+    "ancam": [
+        "ancaman",
+        "terancam",
+        "mengancam",
+        "pengancam",
+        "mengancam",
+        "pengancaman",
+        "mengancamkan"
+    ],
+    "hayat": [
+        "penghayat",
+        "menghayati",
+        "penghayatan"
+    ],
+    "srigala": [],
+    "darat": [
+        "daratan",
+        "mendarat",
+        "pendarat",
+        "mendarati",
+        "pendaratan",
+        "mendaratkan"
+    ],
+    "tolak": [
+        "menolak",
+        "tolakan",
+        "penolak",
+        "bertolak",
+        "tertolak",
+        "penolakan",
+        "menolakkan",
+        "tolak-menolak",
+        "bertolak-tolak",
+        "bertolak-tolakan"
+    ],
+    "bangkai": [],
+    "buaya": [
+        "membuaya",
+        "membuayai"
+    ],
+    "kalau": [
+        "kalau"
+    ],
+    "menerkam": [],
+    "rahang": [],
+    "tajam": [
+        "penajaman",
+        "menajamkan",
+        "mempertajam"
+    ],
+    "musang": [],
+    "ayam": [
+        "ayam-ayam",
+        "ayam-ayaman"
+    ],
+    "kenyang": [
+        "kekenyangan",
+        "sekenyangnya",
+        "mengenyangkan",
+        "sekenyang-kenyangnya"
+    ],
+    "isi": [
+        "isian",
+        "seisi",
+        "berisi",
+        "terisi",
+        "mengisi",
+        "pengisi",
+        "pengisian",
+        "mengisikan"
+    ],
+    "tembolok": [],
+    "brenjang": [],
+    "antara": [
+        "berantara",
+        "perantara",
+        "mengantara",
+        "pengantara",
+        "mengantarai",
+        "perantaraan",
+        "pengantaraan",
+        "memperantarai"
+    ],
+    "belalang": [],
+    "pasrah": [
+        "berpasrah",
+        "kepasrahan",
+        "memasrahkan"
+    ],
+    "kadang": [
+        "terkadang",
+        "kadang-kadang",
+        "terkadang-kadang"
+    ],
+    "bahwa": [
+        "bahwa"
+    ],
+    "langkah": [
+        "melangkah",
+        "pelangkah",
+        "selangkah",
+        "berlangkah",
+        "melangkahi",
+        "pelangkahan",
+        "kelangkahan",
+        "melangkahkan",
+        "perlangkahan",
+        "terlangkahkan"
+    ],
+    "ketidak": [],
+    "tatap": [
+        "menatap",
+        "tatapan",
+        "menatap",
+        "menatapi",
+        "penatapan",
+        "bertatapan",
+        "bertatap-tatapan"
+    ],
+    "fana": [
+        "kefanaan",
+        "memfanakan"
+    ],
+    "jamah": [
+        "jamahan",
+        "kujamah",
+        "menjamah",
+        "terjamah",
+        "penjamah",
+        "penjamahan",
+        "jamah-jamahan"
+    ],
+    "hamletku": [],
+    "kepadamu": [],
+    "terlalu": [
+        "keterlaluan"
+    ],
+    "kepada": [],
+    "alam": [
+        "beralam",
+        "kealaman"
+    ],
+    "cerah": [
+        "kecerahan",
+        "pencerahan",
+        "mencerahkan"
+    ],
+    "intelegensi": [],
+    "depan": [
+        "terdepan",
+        "pengedepanan",
+        "mengedepankan",
+        "berdepan-depan"
+    ],
+    "suram": [
+        "menyuram",
+        "kesuraman",
+        "suram-suram",
+        "menyuramkan"
+    ],
+    "kutemukan": [],
+    "oliver": [],
+    "kegamangan": [],
+    "falsafi": [],
+    "embara": [
+        "mengembara",
+        "pengembara",
+        "mengembara",
+        "mengembarai",
+        "pengembaraan"
+    ],
+    "risau": [
+        "merisau",
+        "perisau"
+    ],
+    "ragu": [
+        "keraguan",
+        "ragu-ragu",
+        "meragukan"
+    ],
+    "hamlet": [],
+    "suka": [
+        "sukaan",
+        "sesuka",
+        "kusuka",
+        "menyukai",
+        "kesukaan",
+        "suka-suka",
+        "sesukanya",
+        "menyukakan",
+        "sesuka-suka",
+        "bersuka-suka",
+        "bersuka-sukaan",
+        "sesuka-sukanya"
+    ],
+    "dialah": [],
+    "gambar": [
+        "gambaran",
+        "bergambar",
+        "tergambar",
+        "menggambar",
+        "penggambar",
+        "menggambari",
+        "penggambaran",
+        "menggambarkan",
+        "gambar-menggambar"
+    ],
+    "gamang": [
+        "tergamang",
+        "penggamang"
+    ],
+    "alwasi": [
+        "was-was"
+    ],
+    "amuk": [
+        "amukan",
+        "diamuk",
+        "beramuk",
+        "mengamuk",
+        "pengamuk",
+        "pengamukan",
+        "mengamukkan",
+        "beramuk-amuk",
+        "beramuk-amukan"
+    ],
+    "rindu": [
+        "merindu",
+        "rinduan",
+        "perindu",
+        "kerinduan",
+        "merindukan"
+    ],
+    "dendam": [
+        "berdendam",
+        "mendendam",
+        "pendendam",
+        "mendendami",
+        "kedendaman",
+        "mendendamkan",
+        "berdendam-dendaman"
+    ],
+    "renung": [
+        "merenung",
+        "merenungi"
+    ],
+    "bertanya": [],
+    "gelora": [
+        "bergelora",
+        "menggelora",
+        "menggelorakan"
+    ],
+    "haram": [
+        "pengharaman",
+        "mengharamkan"
+    ],
+    "gulung": [
+        "gulungan",
+        "bergulung",
+        "tergulung",
+        "menggulung",
+        "penggulungan",
+        "bergulung-gulung",
+        "gulung-menggulung"
+    ],
+    "samudra": [
+        "samudra",
+        "samudera"
+    ],
+    "jangkau": [
+        "jangkauan",
+        "menjangkau",
+        "terjangkau",
+        "sejangkauan",
+        "sepenjangkauan"
+    ],
+    "sujud": [
+        "bersujud",
+        "tersujud"
+    ],
+    "air": [
+        "airmata"
+    ],
+    "derai": [
+        "berderai"
+    ],
+    "namun": [],
+    "rumpun": [
+        "berumpun",
+        "merumpun",
+        "serumpun",
+        "berrumpun-rumpun"
+    ],
+    "bakau": [],
+    "barangkali": [],
+    "sembunyi": [
+        "bersembunyi",
+        "tersembunyi",
+        "persembunyian",
+        "penyembunyian",
+        "menyembunyikan",
+        "sembunyi-sembunyi",
+        "sembunyi-sembunyian",
+        "bersembunyi-sembunyi",
+        "bersembunyi-sembunyian"
+    ],
+    "siang": [
+        "siang",
+        "kesiangan",
+        "siang-siang"
+    ],
+    "kunjung": [
+        "kunjungan",
+        "berkunjung",
+        "pengunjung",
+        "mengunjungi",
+        "berkunjung-kunjungan"
+    ],
+    "henti": [
+        "hentian",
+        "berhenti",
+        "terhenti",
+        "penghenti",
+        "perhentian",
+        "terhentikan",
+        "penghentian",
+        "menghentikan",
+        "pemberhentian",
+        "memberhentikan",
+        "memperhentikan"
+    ],
+    "selalu": [],
+    "buru": [
+        "buruan",
+        "keburu",
+        "berburu",
+        "memburu",
+        "terburu",
+        "pemburu",
+        "perburuan",
+        "pemburuan",
+        "berburu-buru",
+        "memburu-buru",
+        "terburu-buru",
+        "memburu-burukan"
+    ],
+    "pantai": [
+        "pantai",
+        "memantai"
+    ],
+    "teluk": [],
+    "kebun": [
+        "pekebun",
+        "berkebun",
+        "perkebunan",
+        "memperkebuni",
+        "kebun-kebunmu",
+        "memperkebunkan"
+    ],
+    "indah": [
+        "terindah",
+        "pengindah",
+        "keindahan",
+        "memperindah"
+    ],
+    "melata": [],
+    "bumi": [
+        "membumi",
+        "mengebumikan"
+    ],
+    "rusak": [
+        "berusak",
+        "merusak",
+        "perusak",
+        "merusaki"
+    ],
+    "kaubiarkan": [],
+    "ular-ular": [],
+    "lapar": [
+        "berlapar",
+        "kelaparan",
+        "melaparkan"
+    ],
+    "putus": [
+        "memutus",
+        "putusan",
+        "pemutus",
+        "terputus",
+        "pemutusan",
+        "keputusan",
+        "berputusan",
+        "memutuskan",
+        "putus-putus",
+        "terputuskan",
+        "berkeputusan",
+        "terputus-putus"
+    ],
+    "asa": [
+        "asa-asaan",
+        "mengasakan"
+    ],
+    "berkilat": [],
+    "sorga": [
+        "surga",
+        "surga"
+    ],
+    "penumpang": [],
+    "sesak": [
+        "menyesak",
+        "tersesak",
+        "kesesakan",
+        "menyesakkan",
+        "bersesak-sesak",
+        "sesak-menyesak"
+    ],
+    "berisiklagi": [],
+    "jual": [
+        "dijual",
+        "jualan",
+        "berjual",
+        "menjual",
+        "terjual",
+        "penjual",
+        "kaujual",
+        "menjuali",
+        "berjualan",
+        "penjualan",
+        "menjualkan"
+    ],
+    "pergunakan": [],
+    "sekolah": [
+        "sekolahan",
+        "bersekolah",
+        "persekolahan",
+        "menyekolahkan",
+        "sekolah-sekolah"
+    ],
+    "sambung": [
+        "sambung",
+        "sambungan",
+        "bersambung",
+        "menyambung",
+        "penyambung",
+        "bersambungan",
+        "persambungan",
+        "penyambungan",
+        "menyambungkan",
+        "mempersambungkan",
+        "sambung-bersambung",
+        "sambung-menyambung"
+    ],
+    "mejemuk": [],
+    "mimpi": [
+        "mimpian",
+        "pemimpi",
+        "mimpimu",
+        "bermimpi",
+        "memimpikan",
+        "termimpi-mimpi"
+    ],
+    "sifat": [
+        "bersifat",
+        "penyifatan",
+        "menyifatkan",
+        "tersifatkan"
+    ],
+    "bilangan": [
+        "akar-akaran"
+    ],
+    "benda": [
+        "berbenda",
+        "kebendaan",
+        "perbendaan",
+        "pembendaan",
+        "membendakan"
+    ],
+    "ulang": [
+        "ulangan",
+        "seulang",
+        "berulang",
+        "terulang",
+        "mengulang",
+        "pengulang",
+        "mengulangi",
+        "perulangan",
+        "ulang-ulang",
+        "pengulangan",
+        "berulang-ulang",
+        "mengulang-ulang"
+    ],
+    "sampai": [
+        "sampai",
+        "sesampai",
+        "menyampai",
+        "penyampai",
+        "kesampaian",
+        "penyampaian",
+        "menyampaikan",
+        "tersampaikan",
+        "sampai-sampai",
+        "berkesampaian"
+    ],
+    "bengkak": [
+        "membengkak",
+        "pembengkakan"
+    ],
+    "balik": [
+        "balikan",
+        "berbalik",
+        "membalik",
+        "terbalik",
+        "membaliki",
+        "kebalikan",
+        "berbalikan",
+        "pembalikan",
+        "sebaliknya",
+        "membalikkan",
+        "keterbalikan",
+        "dibolak-balik",
+        "berbalik-balik",
+        "membalik-balik"
+    ],
+    "digeletakkan": [],
+    "ambil": [
+        "ambilan",
+        "diambil",
+        "terambil",
+        "mengambil",
+        "pengambil",
+        "mengambili",
+        "pengambilan",
+        "mengambilkan",
+        "berambil-ambil",
+        "ambil-mengambil"
+    ],
+    "lagi": [
+        "lagi",
+        "lagian",
+        "selagi",
+        "lagi-lagi"
+    ],
+    "bendahara": [
+        "perbendaharaan"
+    ],
+    "ruwet": [
+        "keruwetan",
+        "meruwetkan"
+    ],
+    "kamus": [
+        "pekamus",
+        "perkamusan",
+        "mengamuskan"
+    ],
+    "jaga": [
+        "dijaga",
+        "berjaga",
+        "menjaga",
+        "terjaga",
+        "penjaga",
+        "penjagaan",
+        "menjagakan",
+        "berjaga-jaga",
+        "kejaga-jagaan"
+    ],
+    "oleh": [
+        "beroleh",
+        "perolehan",
+        "memperoleh",
+        "pemerolehan"
+    ],
+    "anjing-anjing": [],
+    "malas": [
+        "pemalas",
+        "kemalasan",
+        "memalaskan",
+        "malas-malasan",
+        "bermalas-malas"
+    ],
+    "antuk": [
+        "berantuk",
+        "terantuk",
+        "mengantuk",
+        "berantukan",
+        "mengantukkan"
+    ],
+    "atap": [
+        "beratap",
+        "atapnya",
+        "mengatap",
+        "mengatapi",
+        "beratapkan",
+        "pengatapan"
+    ],
+    "bocor": [
+        "bocoran",
+        "kebocoran",
+        "pembocoran",
+        "membocorkan"
+    ],
+    "administrasi": [
+        "administrasinya"
+    ],
+    "tampung": [
+        "menampung",
+        "penampung",
+        "penampungan",
+        "menampungkan"
+    ],
+    "para": [],
+    "anggur": [
+        "menganggur",
+        "penganggur",
+        "pengangguran"
+    ],
+    "emas": [
+        "beremas",
+        "mengemas",
+        "keemasan",
+        "mengemasi",
+        "peremasan",
+        "mengemaskan"
+    ],
+    "tiruan": [
+        "berkulit",
+        "mengulit",
+        "pengulit",
+        "menguliti",
+        "perkulitan",
+        "pengulitan"
+    ],
+    "dipamerkan": [],
+    "barang": [
+        "barang-barang"
+    ],
+    "rajin": [
+        "perajin",
+        "kerajinan",
+        "merajinkan"
+    ],
+    "perak": [
+        "keperakan",
+        "keperak-perakan"
+    ],
+    "toko": [
+        "bertoko",
+        "pertokoan"
+    ],
+    "pasar": [
+        "pasaran",
+        "pemasar",
+        "pemasaran",
+        "memasarkan"
+    ],
+    "mayat": [],
+    "puluh": [
+        "puluhan",
+        "sepuluh",
+        "puluhan",
+        "perpuluhan",
+        "persepuluhan",
+        "berpuluh-puluh"
+    ],
+    "gembira": [
+        "bergembira",
+        "penggembira",
+        "kegembiraan",
+        "menggembirakan",
+        "mempergembirakan"
+    ],
+    "jalin": [
+        "jalinan",
+        "berjalin",
+        "menjalin",
+        "terjalin",
+        "menjalin",
+        "berjalinan",
+        "penjalinan",
+        "menjalinkan",
+        "berjalin-jalin",
+        "jalin-berjalin",
+        "jalin-menjalin"
+    ],
+    "keribuan": [],
+    "alun-alun": [],
+    "tikung": [
+        "menikung",
+        "tikungan"
+    ],
+    "berisik": [],
+    "jenguk": [
+        "menjenguk",
+        "menjengukkan"
+    ],
+    "gua": [],
+    "berteduh": [],
+    "rimba": [
+        "merimba",
+        "perimba"
+    ],
+    "raya": [
+        "perayaan",
+        "merayakan"
+    ],
+    "hewan": [
+        "kehewanan",
+        "hewan-hewan"
+    ],
+    "yangterbang": [],
+    "arti": [
+        "artian",
+        "searti",
+        "berarti",
+        "pengartian",
+        "keberartian",
+        "mengartikan"
+    ],
+    "malaikat": [
+        "malaikat-malaikat"
+    ],
+    "celaka": [
+        "mencelakai",
+        "kecelakaan",
+        "mencelakakan"
+    ],
+    "dekat": [
+        "berdekat",
+        "mendekat",
+        "terdekat",
+        "mendekati",
+        "kedekatan",
+        "berdekatan",
+        "pendekatan",
+        "dekat-dekat",
+        "mendekatkan",
+        "memperdekat",
+        "berdekat-dekat",
+        "memperdekatkan"
+    ],
+    "tua": [
+        "tetua",
+        "menua",
+        "tertua",
+        "tua-tua",
+        "penuaan",
+        "ketuaan",
+        "menuakan",
+        "pengetua",
+        "bertua-tua",
+        "ketua-tuaan",
+        "bertua-tuaan"
+    ],
+    "berapa": [
+        "berapa"
+    ],
+    "hutangmu": [],
+    "bank": [
+        "perbankan"
+    ],
+    "penenaman": [],
+    "modal": [
+        "pemodal",
+        "bermodal",
+        "memodali",
+        "permodalan",
+        "bermodalkan"
+    ],
+    "asing": [
+        "berasing",
+        "terasing",
+        "mengasing",
+        "keasingan",
+        "perasingan",
+        "pengasingan",
+        "mengasingkan",
+        "berasing-asingan"
+    ],
+    "tatkala": [
+        "tatkala"
+    ],
+    "bencana": [
+        "membencanai",
+        "membencanakan"
+    ],
+    "damprat": [
+        "dampratan",
+        "mendamprat"
+    ],
+    "perutnya": [],
+    "mulutnya": [],
+    "nganga": [
+        "menganga",
+        "ternganga",
+        "mengangakan"
+    ],
+    "mengepulakan": [],
+    "debu": [
+        "berdebu",
+        "mendebu"
+    ],
+    "kening": [
+        "keningnya"
+    ],
+    "deret": [
+        "deretan",
+        "berderet",
+        "menderetkan"
+    ],
+    "kereta": [
+        "berkereta"
+    ],
+    "kantor": [
+        "berkantor",
+        "perkantoran"
+    ],
+    "penerimaan": [
+        "membagi-bagikan",
+        "membagi-bagikan"
+    ],
+    "tenaga": [
+        "bertenaga",
+        "menenagai",
+        "ketenagaan"
+    ],
+    "kerja": [
+        "kerja",
+        "bekerja",
+        "pekerja",
+        "sekerja",
+        "pekerjaan",
+        "tekerjakan",
+        "pengerjaan",
+        "mengerjakan",
+        "sepekerjaan",
+        "mempekerjakan"
+    ],
+    "diterbitkan": [],
+    "buku": [
+        "perbukuan",
+        "pembukuan",
+        "membukukan"
+    ],
+    "pesta": [
+        "berpesta",
+        "memestakan",
+        "persta-pesta",
+        "berpesta-pesta"
+    ],
+    "barbar": [],
+    "unggun": [
+        "unggunan",
+        "berunggun",
+        "mengunggun",
+        "mengunggunkan",
+        "berunggun-unggun"
+    ],
+    "minyak": [
+        "minyak",
+        "berminyak",
+        "meminyaki",
+        "perminyakan",
+        "berminyak-minyak"
+    ],
+    "tanah": [
+        "bertanah",
+        "tanahnya",
+        "pertanahan",
+        "mengetanahkan"
+    ],
+    "dalamkayu-kakyu": [],
+    "jerami": [],
+    "basah": [
+        "basahan",
+        "membasahi",
+        "pembasahan",
+        "membasahkan",
+        "berbasah-basah",
+        "kebasah-basahan"
+    ],
+    "ilalang-ilalang": [],
+    "memang": [
+        "sememangnya"
+    ],
+    "dibiarkan": [],
+    "tumbuh": [
+        "menumbuh",
+        "tumbuhan",
+        "penumbuh",
+        "bertumbuh",
+        "menumbuhi",
+        "penumbuhan",
+        "ketumbuhan",
+        "tetumbuhan",
+        "bertumbuhan",
+        "menumbuhkan",
+        "pertumbuhan",
+        "tumbuh-tumbuhan",
+        "mempertumbuhkan"
+    ],
+    "subur": [
+        "penyubur",
+        "kesuburan",
+        "penyuburan",
+        "menyuburkan"
+    ],
+    "ular": [
+        "mengular",
+        "ular-ularan"
+    ],
+    "sudut": [
+        "menyudut",
+        "tersudut",
+        "menyudutkan"
+    ],
+    "belakang": [
+        "belakangan",
+        "membelakang",
+        "terbelakang",
+        "membelakangi",
+        "terkebelakang",
+        "pembelakangan",
+        "membelakangkan",
+        "keterbelakangan",
+        "mengebelakangkan",
+        "memperbelakangkan",
+        "berbelakang-belakangan"
+    ],
+    "peta": [
+        "petaan",
+        "terpeta",
+        "pemetaan",
+        "memetakan",
+        "perpetaan"
+    ],
+    "gerobag": [],
+    "lintas": [
+        "melintas",
+        "pelintas",
+        "selintas",
+        "melintasi"
+    ],
+    "jembatan": [
+        "menjembatani",
+        "terjembatani",
+        "penjembatanan"
+    ],
+    "belum": [
+        "sebelum",
+        "belum-belum"
+    ],
+    "selesai": [
+        "selesaian",
+        "keselesaian",
+        "penyelesaian",
+        "menyelesaikan",
+        "terselesaikan"
+    ],
+    "bikin": [
+        "bikinan",
+        "membikin",
+        "terbikin",
+        "kaubikin",
+        "pembikinan",
+        "membikin-bikin"
+    ],
+    "sawah": [
+        "pesawah",
+        "bersawah",
+        "menyawah",
+        "penyawah",
+        "persawahan",
+        "sawah-sawahnya"
+    ],
+    "pupuk": [
+        "memupuk",
+        "dipupuk",
+        "pemupuk",
+        "terpupuk",
+        "pemupukan"
+    ],
+    "udara": [
+        "udaranya",
+        "mengudara",
+        "pengudaraan",
+        "mengudarakan"
+    ],
+    "sebar": [
+        "menyebar",
+        "penyebar",
+        "penyebaran",
+        "menyebarkan"
+    ],
+    "ke": [],
+    "seperti": [
+        "seperti",
+        "sepertikan",
+        "sepertinya",
+        "menyepertikan"
+    ],
+    "sayap": [
+        "bersayap",
+        "sayap-sayap"
+    ],
+    "merpati": [],
+    "penyap": [],
+    "kincir": [
+        "kinciran",
+        "berkincir",
+        "kincir-kincir"
+    ],
+    "itu": [
+        "itulah"
+    ],
+    "ia": [],
+    "dokumentasi": [
+        "pendokumentasian",
+        "mendokumentasikan"
+    ],
+    "dunia": [
+        "sedunia",
+        "mendunia",
+        "keduniaan"
+    ],
+    "undur": [
+        "mengundur",
+        "pengunduran",
+        "mengundurkan"
+    ],
+    "huruf": [
+        "berhuruf",
+        "huruf-huruf"
+    ],
+    "coklat": [],
+    "bahasa": [
+        "berbahasa",
+        "perbahasa",
+        "kebahasaan",
+        "perbahasaan",
+        "membahasakan",
+        "memperbahasakan",
+        "berbahasa-bahasa"
+    ],
+    "kacau": [
+        "kacau",
+        "kacauan",
+        "berkacau",
+        "mengacau",
+        "terkacau",
+        "pengacau",
+        "kekacauan",
+        "pengacauan",
+        "mengacaukan",
+        "memperkacaukan"
+    ],
+    "adalah": [
+        "adalah"
+    ],
+    "berita": [
+        "berberita",
+        "pemberita",
+        "pemberitaan",
+        "memberitakan",
+        "berita-berita"
+    ],
+    "tulis": [
+        "menulis",
+        "tulisan",
+        "penulis",
+        "ditulis",
+        "bertulis",
+        "menulisi",
+        "tertulis",
+        "penulisan",
+        "menuliskan",
+        "tulis-menulis"
+    ],
+    "wartawan": [
+        "kewartawanan"
+    ],
+    "Indonesia": [
+        "keindonesiaan",
+        "pengindonesiaan",
+        "mengindonesiakan"
+    ],
+    "batuk": [
+        "berbatuk",
+        "batuk-batuk",
+        "membatukkan",
+        "batuk-batuk",
+        "terbatuk-batuk"
+    ],
+    "dengan": [
+        "dengan"
+    ],
+    "cangklong": [],
+    "besar": [
+        "membesar",
+        "terbesar",
+        "pembesar",
+        "kebesaran",
+        "pembesaran",
+        "membesarkan",
+        "memperbesar",
+        "besar-besaran",
+        "berbesar-besar",
+        "membesar-besar",
+        "membesar-besarkan"
+    ],
+    "oceh": [
+        "ocehan",
+        "mengoceh"
+    ],
+    "badut": [
+        "membadut"
+    ],
+    "sandiwara": [
+        "bersandiwara",
+        "penyandiwaraan",
+        "menyandiwarakan"
+    ],
+    "cipta": [
+        "mencipta",
+        "pencipta",
+        "penciptaan",
+        "menciptakan"
+    ],
+    "awan": [
+        "berawan",
+        "mengawan",
+        "perawanan",
+        "awan-berawan"
+    ],
+    "jenaka": [
+        "berjenaka",
+        "kejenakaan"
+    ],
+    "atas": [
+        "atasan",
+        "atasnya",
+        "mengatas",
+        "teratasi",
+        "mengatasi",
+        "mengataskan",
+        "atas-mengatasi"
+    ],
+    "sembur": [
+        "menyembur",
+        "penyembur",
+        "menyemburi",
+        "penyemburan",
+        "menyemburkan",
+        "sembur-sembur",
+        "bersembur-semburan"
+    ],
+    "asap": [
+        "berasap",
+        "mengasap",
+        "mengasapi",
+        "perasapan",
+        "pengasapan",
+        "berasap-asap"
+    ],
+    "impian": [
+        "impikan",
+        "mengimpikan",
+        "terimpi-impi"
+    ],
+    "buah": [
+        "sebuah",
+        "berbuah",
+        "bebuahan",
+        "membuahi",
+        "perbuahan",
+        "pembuahan",
+        "membuahkan",
+        "buah-buahan"
+    ],
+    "tambang": [
+        "menambang",
+        "penambangan",
+        "pertambangan"
+    ],
+    "laogam": [],
+    "nelayan": [
+        "nelayan-nelayan"
+    ],
+    "tapi": [
+        "tetapi",
+        "tetapi"
+    ],
+    "entah": [
+        "entah-berentah"
+    ],
+    "untuk": [
+        "beruntuk",
+        "teruntuk",
+        "peruntukan",
+        "menguntukkan",
+        "memperuntukkan"
+    ],
+    "apa": [
+        "apa",
+        "apaan",
+        "apa-apa",
+        "mengapa",
+        "mengapai",
+        "apa-apaan",
+        "mengapakan",
+        "mengapa-apai",
+        "dipengapakan"
+    ],
+    "unggas": [
+        "mengunggas",
+        "unggas-unggas"
+    ],
+    "pergi": [
+        "bepergian",
+        "kepergian"
+    ],
+    "bertelur": [],
+    "sarang": [
+        "bersarang",
+        "menyarangkan",
+        "bersarang-sarang"
+    ],
+    "muara": [
+        "bermuara"
+    ],
+    "burung": [
+        "burung-burung",
+        "burung-burungan"
+    ],
+    "gagak": [],
+    "batu": [
+        "batuan",
+        "berbatu",
+        "membatu",
+        "membatui",
+        "berbatuan",
+        "pembatuan",
+        "berbatu-batu"
+    ],
+    "permai": [
+        "kepermaian"
+    ],
+    "kapal": [
+        "berkapal",
+        "perkapalan",
+        "pengapalan",
+        "mengapalkan",
+        "kapal-kapal"
+    ],
+    "jauh": [
+        "menjauh",
+        "menjauhi",
+        "menjauhkan",
+        "berjauh-jauhan"
+    ],
+    "tak": [],
+    "tahu": [
+        "setahu",
+        "ketahuan",
+        "tahu-tahu",
+        "bertahuan",
+        "bertahukan",
+        "mengetahui",
+        "tahu-menahu",
+        "pengetahuan",
+        "bertahu-tahu",
+        "berpengetahuan"
+    ],
+    "kapan": [
+        "kapan-kapan"
+    ],
+    "keluar": [
+        "keluaran",
+        "mengeluari",
+        "pengeluaran",
+        "mengeluarkan"
+    ],
+    "eram": [
+        "eraman",
+        "mengeram",
+        "pengeram",
+        "mengerami",
+        "pengeraman",
+        "mengeramkan"
+    ],
+    "laut": [
+        "laut",
+        "melaut",
+        "lautan",
+        "pelaut",
+        "melauti",
+        "pelautan",
+        "kelautan",
+        "melautkan"
+    ],
+    "diacuhkan": [],
+    "musafir": [],
+    "ombak": [
+        "berombak",
+        "mengombak"
+    ],
+    "sakal": [
+        "menyakal"
+    ],
+    "negeri": [
+        "negeriku"
+    ],
+    "muram": [
+        "muram",
+        "bermuram",
+        "kemuraman",
+        "memuramkan"
+    ],
+    "liar": [
+        "liaran"
+    ],
+    "gigil": [
+        "menggigil"
+    ],
+    "upil": [
+        "seupil",
+        "mengupil"
+    ],
+    "semua": [
+        "semua",
+        "semuanya",
+        "semua-muanya"
+    ],
+    "kecil": [
+        "kecilan",
+        "sekecil",
+        "mengecil",
+        "kekecilan",
+        "pengecilan",
+        "mengecilkan",
+        "memperkecil",
+        "kecil-kecilan",
+        "berkecil-kecil",
+        "kecil-mengecil",
+        "berkecil-kecilan"
+    ],
+    "getar": [
+        "menggetar",
+        "penggetar",
+        "penggetaran",
+        "menggetarkan"
+    ],
+    "tiap": [
+        "setiap",
+        "tiap-tiap"
+    ],
+    "surabaya": [],
+    "murka": [
+        "memurkai",
+        "kemurkaan"
+    ],
+    "koyak": [
+        "mengoyak",
+        "koyak-koyak",
+        "mengoyak-ngoyak",
+        "mengoyak-ngoyakkan"
+    ],
+    "gaung": [
+        "bergaung",
+        "gaungnya"
+    ],
+    "gelegar": [
+        "bergelegar",
+        "menggelegar"
+    ],
+    "allahu": [],
+    "akbar": [
+        "akbar"
+    ],
+    "pekik": [
+        "memekik",
+        "pekikan",
+        "terpekik",
+        "memekikkan",
+        "pekik-pekuk",
+        "terpekik-pekik"
+    ],
+    "merah": [
+        "memerah",
+        "pemerah",
+        "memerahi",
+        "kemerahan",
+        "memerahkan",
+        "kemerah-merahan"
+    ],
+    "putih": [
+        "putih",
+        "memutih",
+        "pemutih",
+        "pemutihan",
+        "keputihan",
+        "memutihkan",
+        "keputih-putihan"
+    ],
+    "remeh": [
+        "seremeh",
+        "remehkan",
+        "keremehan",
+        "remeh-temeh",
+        "remeh-cemeh"
+    ],
+    "sobek": [
+        "sobekan",
+        "sesobek",
+        "menyobek",
+        "menyobeki",
+        "penyobekan",
+        "sobek-sobekan",
+        "menyobek-nyobek"
+    ],
+    "kain": [
+        "cindai",
+        "berkain"
+    ],
+    "tengok": [
+        "menengok",
+        "menengoki",
+        "tengoklah",
+        "tengok-menengok"
+    ],
+    "baja": [
+        "berbaja",
+        "membaja",
+        "membajai"
+    ],
+    "lengan": [],
+    "mirip": [
+        "kemiripan",
+        "bermiripan"
+    ],
+    "kerangka": [
+        "terkerangka",
+        "pengerangkaan"
+    ],
+    "sepelekan": [],
+    "melawan": [
+        "berharga",
+        "menghargai",
+        "penghargaan",
+        "menghargakan"
+    ],
+    "seteru": [
+        "berseteru",
+        "menyeterui",
+        "perseteruan",
+        "memperseterukan"
+    ],
+    "hebat": [
+        "menghebat",
+        "kehebatan",
+        "memperhebat",
+        "menghebatkan",
+        "hebat-hebatan"
+    ],
+    "karena": [
+        "dikarenakan"
+    ],
+    "cuma": [
+        "bercuma",
+        "percuma",
+        "cuma-cuma",
+        "mempercumakan"
+    ],
+    "bekal": [
+        "berbekal",
+        "pembekal",
+        "membekali",
+        "perbekalan",
+        "pembekalan",
+        "membekalkan",
+        "bekal-bekalan"
+    ],
+    "semangat": [
+        "bersemangat",
+        "menyemangati",
+        "penyemangatan",
+        "menyemangatkan"
+    ],
+    "kira": [
+        "kiraan",
+        "dikira",
+        "mengira",
+        "terkira",
+        "kiranya",
+        "kira-kira",
+        "perkiraan",
+        "pengiraan",
+        "sekiranya",
+        "terkirakan",
+        "kira-kiraan",
+        "sekira-kira",
+        "berkira-kira",
+        "mengira-ngira",
+        "memperkirakan",
+        "mengira-ngirakan"
+    ],
+    "nekat": [
+        "nekat",
+        "penekat",
+        "kenekatan",
+        "nekat-nekat"
+    ],
+    "jika": [],
+    "terjang": [
+        "menerjang",
+        "penerjangan",
+        "menerjangkan"
+    ],
+    "senjata": [
+        "bersenjata",
+        "kesenjataan",
+        "persenjataan",
+        "bersenjatakan",
+        "mempersenjatai"
+    ],
+    "sekutu": [
+        "bersekutu",
+        "menyekutui",
+        "persekutuan",
+        "menyekutukan"
+    ],
+    "lengkap": [
+        "pelengkap",
+        "selengkap",
+        "berlengkap",
+        "melengkapi",
+        "pelengkapan",
+        "kelengkapan",
+        "berlengkapan",
+        "melengkapkan",
+        "perlengkapan",
+        "memperlengkapi"
+    ],
+    "anggap": [
+        "anggapan",
+        "menganggap",
+        "beranggapan"
+    ],
+    "mereka": [],
+    "kalap": [
+        "kekalapan"
+    ],
+    "lelap": [
+        "terlelap",
+        "lelapkan",
+        "melelapkan"
+    ],
+    "pica": [
+        "picakan"
+    ],
+    "padam": [
+        "pemadam",
+        "memadami",
+        "padamkan",
+        "pemadaman",
+        "kepadaman",
+        "memadamkan"
+    ],
+    "tuju": [
+        "menuju",
+        "tujuan",
+        "penuju",
+        "setuju",
+        "menujui",
+        "tertuju",
+        "setujuan",
+        "menujukan",
+        "bertujuan",
+        "bersetuju",
+        "menyetujui",
+        "kesetujuan",
+        "persetujuan",
+        "bersetujuan",
+        "menyetujukan",
+        "mempersetujukan"
+    ],
+    "nyala": [
+        "menyala",
+        "bernyala",
+        "menyalakan",
+        "menyala-nyala",
+        "bernyala-nyala"
+    ],
+    "ya": [],
+    "Allah": [
+        "ke-Allah-an"
+    ],
+    "Tuhan": [
+        "tuhanku",
+        "bertuhan",
+        "ketuhanan",
+        "menuhankan",
+        "bertuhankan",
+        "mempertuhan",
+        "mempertuhankan"
+    ],
+    "ngembara": [],
+    "sentosa": [
+        "bersentosa",
+        "kesentosaan",
+        "menyentosakan"
+    ],
+    "cambuk": [
+        "dicambuk",
+        "mencambuk",
+        "mencambuki",
+        "pencambukan"
+    ],
+    "dera": [
+        "didera",
+        "mendera"
+    ],
+    "panjang": [
+        "panjang",
+        "memanjang",
+        "sepanjang",
+        "pemanjangan",
+        "kepanjangan",
+        "memanjangkan",
+        "perpanjangan",
+        "memperpanjang",
+        "berkepanjangan",
+        "pemerpanjangan",
+        "berpanjang-panjang"
+    ],
+    "gelisah": [
+        "gelisah",
+        "kegelisahan",
+        "menggelisahi",
+        "menggelisahkan"
+    ],
+    "buang": [
+        "buangan",
+        "membuang",
+        "terbuang",
+        "pembuangan",
+        "membuangkan",
+        "membuang-buang",
+        "terbuang-buang"
+    ],
+    "malam": [
+        "malam",
+        "semalam",
+        "bermalam",
+        "memalami",
+        "pemalaman",
+        "kemalaman",
+        "semalaman",
+        "memalamkan",
+        "permalaman",
+        "malam-malam",
+        "bermalam-malam",
+        "mempermalamkan",
+        "semalam-malaman"
+    ],
+    "picing": [
+        "memicing",
+        "sepicing",
+        "berpicing",
+        "terpicing",
+        "memicingkan"
+    ],
+    "kepala": [
+        "kepala",
+        "berkepala",
+        "mengepalai",
+        "mengepalakan",
+        "kepala-kepalaan"
+    ],
+    "penuh": [
+        "sepenuh",
+        "memenuhi",
+        "terpenuhi",
+        "pemenuhan"
+    ],
+    "sabung": [
+        "sabungan",
+        "bersabung",
+        "menyabung",
+        "tersabung",
+        "penyabung",
+        "persabungan",
+        "penyabungan",
+        "menyabungkan",
+        "sabung-menyabung"
+    ],
+    "hangus": [
+        "hangus",
+        "menghangus",
+        "kehangusan",
+        "menghanguskan"
+    ],
+    "seluruh": [
+        "menyeluruh",
+        "menyeluruhi",
+        "keseluruhan"
+    ],
+    "ganas": [
+        "ganas",
+        "mengganas",
+        "pengganas",
+        "keganasan"
+    ],
+    "bakar": [
+        "dibakar",
+        "membakar",
+        "terbakar",
+        "pembakar",
+        "membakari",
+        "kebakaran",
+        "pembakaran",
+        "membakarkan"
+    ],
+    "agak": [
+        "diagak",
+        "seagak",
+        "agaknya",
+        "teragak",
+        "beragak",
+        "agak-agak",
+        "mengagakkan",
+        "seagak-agak",
+        "beragak-agak",
+        "mengagak-agak"
+    ],
+    "api": [
+        "api",
+        "berapi",
+        "mengapi",
+        "perapian",
+        "berapi-api",
+        "memperapikan",
+        "mengapi-apikan"
+    ],
+    "menyala": [],
+    "dalam": [
+        "dalaman",
+        "mendalam",
+        "mendalami",
+        "pedalaman",
+        "kedalaman",
+        "pendalaman",
+        "dalam-dalam",
+        "mendalamkan",
+        "memperdalam",
+        "berdalam-dalam",
+        "sedalam-dalamnya"
+    ],
+    "kulit": [
+        "berkulit",
+        "mengulit",
+        "pengulit",
+        "menguliti",
+        "perkulitan",
+        "pengulitan"
     ],
     "dan": [],
     "matahari": [],
@@ -46,11 +7175,7 @@
         "bertiang",
         "tiang-tiang"
     ],
-    "ini": [],
     "di": [],
-    "mana": [
-        "mana-mana"
-    ],
     "pernah": [
         "pernah"
     ],
@@ -102,23 +7227,10 @@
         "pewaktuan",
         "sewaktu-waktu"
     ],
-    "tiada": [
-        "tiada",
-        "meniada",
-        "peniadaan",
-        "ketiadaan",
-        "meniadakan",
-        "mempertiadakan"
-    ],
     "suatu": [
         "sesuatu"
     ],
     "yang": [],
-    "pasti": [
-        "pemastian",
-        "kepastian",
-        "memastikan"
-    ],
     "bahagia": [
         "berbahagia",
         "kebahagiaan",
@@ -164,30 +7276,10 @@
         "setempat-setempat"
     ],
     "demi": [],
-    "aku": [
-        "akuan",
-        "beraku",
-        "mengaku",
-        "pengaku",
-        "keakuan",
-        "mengakui",
-        "pengakuan",
-        "mengakukan",
-        "beraku-akuan"
-    ],
     "hanya": [],
     "bisa": [
         "kebisaan",
         "sebisanya"
-    ],
-    "beri": [
-        "berian",
-        "memberi",
-        "pemberi",
-        "pemberian",
-        "memberimu",
-        "memberikan",
-        "beri-memberi"
     ],
     "cercah": [
         "secercah"
@@ -214,20 +7306,6 @@
         "semoga",
         "moga-moga"
     ],
-    "sudah": [
-        "sesudah",
-        "bersudah",
-        "penyudah",
-        "menyudahi",
-        "kesudahan",
-        "penyudahan",
-        "sesudahnya",
-        "menyudahkan",
-        "mempersudah",
-        "sesudah-sudah",
-        "bersudah-sudah",
-        "sesudah-sudahnya"
-    ],
     "engkau": [
         "engkau",
         "berengkau"
@@ -244,11 +7322,6 @@
         "berketetapan",
         "mempertetapkan"
     ],
-    "hati": [
-        "sehati",
-        "berhati"
-    ],
-    "pada": [],
     "segala": [
         "segalanya",
         "segala-galanya"
@@ -263,17 +7336,6 @@
         "keseakanan",
         "mengakankan",
         "seakan-akan"
-    ],
-    "datang": [
-        "mendatang",
-        "pendatang",
-        "mendatangi",
-        "kedatangan",
-        "berdatangan",
-        "pendatangan",
-        "mendatangkan",
-        "datang-datang",
-        "datang-mendatangi"
     ],
     "selamat": [
         "selamat",

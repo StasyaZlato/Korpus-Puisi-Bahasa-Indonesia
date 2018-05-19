@@ -2,7 +2,8 @@ import re
 import json
 from download_module import startswith_for_lists as good_start, endswith_for_lists as good_end
 from pprint import pprint
-
+import time
+start_time = time.time()
 
 CLITICS = ['lah', 'kah', 'nya', 'ku', 'mu', 'kau']
 CLITICS_PRE = ['ku', 'kau', 'di']
@@ -105,6 +106,8 @@ def complex_both(word, root):
     possible_forms = []
     combs = list(set([(i, k) for i in prefixes for k in prefixes]))
     combs1 = list(set([(i,k) for i in suffixes for k in suffixes]))
+    combs = [(combs[i][0], combs[i][1]) for i in range(len(combs)) if combs[i][0] != combs[i][1] and (word.startswith(combs[i][0]) or word.startswith(combs[i][0][:2]) or combs[i][0] == 'N')]
+    combs1 = [(combs1[i][0], combs1[i][1]) for i in range(len(combs1)) if combs1[i][0] != combs1[i][1] and word.endswith(combs1[i][1])]
     for n in combs:
         for t in combs1:
             if n == ('meN', 'ber'):
@@ -118,6 +121,8 @@ def complex_both(word, root):
                     possible_forms.append(list_)
                 else:
                     return '-'.join(list_)
+    if possible_forms == []:
+        return word
     for i in possible_forms:
         if len(i) > 1:
             if not(i[1] == 'N' or (i[0] == 'N' and i[1] in prefixes)):
@@ -183,4 +188,6 @@ def main(text):
 
 
 if __name__ == "__main__":
-    print(main(text='mempertiadakan'))
+    print(main(text='Saya mau pertunjukan'))
+    print("--- %s seconds ---" % (time.time() - start_time))
+

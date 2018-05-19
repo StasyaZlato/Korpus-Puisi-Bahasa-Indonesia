@@ -135,7 +135,7 @@ def check_roots(words, word):
 
 def add_to_dict_json(list_same_root, list_js):
     some_new_list = []
-    list_same_root = [i for i in list_same_root if len(i) > 1]
+    list_same_root = [i for i in list_same_root if len(i) >= 1]
     a = len(list_same_root)
     for i in range(a):
         min_len = min([len(n) for n in list_same_root])
@@ -146,6 +146,7 @@ def add_to_dict_json(list_same_root, list_js):
                 list_same_root.remove(min_el)
                 break
     list_same_root = some_new_list
+    print(list_same_root)
     word_base = list_same_root[0]
     list_js[word_base] = list_same_root[1:]
     return
@@ -201,4 +202,4 @@ def main(text):
 
 
 if __name__ == "__main__":
-    main('memberimu')
+    main('o')

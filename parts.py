@@ -233,10 +233,20 @@ def main(text):
                     print('Word ~ not in KBBI')
                     part = new_if_not(word)
             line = word + '{' + part + '}'
-            text_new.append(line)
+            # text_new.append(line)
+            text_new.append({'токен': word, 'помета': part})
         else:
-            text_new.append(text_1[i])
-    print(''.join(text_new))
+            if re.search('[0-9]', text_1[i]) is not None:
+                mark = 'number'
+            elif re.search('\S', text_1[i]) is not None:
+                mark = 'punctuation'
+            else:
+                text_new.append(text_1[i])
+                continue
+            # text_new.append(text_1[i])
+            text_new.append({'токен': text_1[i], 'помета': mark})
+    # print(''.join(text_new))
+    return text_new
 
 
 # main(text_try)
@@ -246,4 +256,4 @@ def main(text):
 # with open('sth1.json', 'w', encoding='utf-8') as f:
 #     json.dump(LIST_JSON, f, ensure_ascii=False, indent=4)
 if __name__ == "__main__":
-    print('')
+    main('panjang')
