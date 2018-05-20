@@ -1,0 +1,281 @@
+{
+    "meta": {
+        "file_name": "102.json",
+        "id_bd": 102,
+        "author": "Chairil Anwar",
+        "title": "Malam",
+        "genre": "стихотворение",
+        "year": "---",
+        "num_lines": 8,
+        "rhyme": "Есть",
+        "syllables": [
+            4,
+            6,
+            7,
+            4,
+            7,
+            4,
+            8,
+            9
+        ],
+        "strofy": [
+            8
+        ]
+    },
+    "poem": {
+        "text": "Mulai kelam\r\nbelum buntu malam\r\nkami masih berjaga\r\nThermopylae?\r\njagal tidak dikenal?\r\ntapi nanti\r\nsebelum siang membentang\r\nkami sudah tenggelam hilang",
+        "strof": [
+            {
+                "strof": "Mulai kelam\r\nbelum buntu malam\r\nkami masih berjaga\r\nThermopylae?\r\njagal tidak dikenal?\r\ntapi nanti\r\nsebelum siang membentang\r\nkami sudah tenggelam hilang",
+                "lines": [
+                    {
+                        "line": "Mulai kelam",
+                        "words": [
+                            {
+                                "wf": "Mulai",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "mulai",
+                                    "pos": "a",
+                                    "form": "mulai"
+                                }
+                            },
+                            {
+                                "wf": "kelam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kelam",
+                                    "pos": "a",
+                                    "form": "kelam"
+                                }
+                            }
+                        ],
+                        "syllables": 4
+                    },
+                    {
+                        "line": "belum buntu malam",
+                        "words": [
+                            {
+                                "wf": "belum",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "belum",
+                                    "pos": "adv",
+                                    "form": "belum"
+                                }
+                            },
+                            {
+                                "wf": "buntu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "buntu",
+                                    "pos": "v",
+                                    "form": "buntu"
+                                }
+                            },
+                            {
+                                "wf": "malam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "malam",
+                                    "pos": "n",
+                                    "form": "malam"
+                                }
+                            }
+                        ],
+                        "syllables": 6
+                    },
+                    {
+                        "line": "kami masih berjaga",
+                        "words": [
+                            {
+                                "wf": "kami",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kami",
+                                    "pos": "pron",
+                                    "form": "kami"
+                                }
+                            },
+                            {
+                                "wf": "masih",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "masih",
+                                    "pos": "n",
+                                    "form": "masih"
+                                }
+                            },
+                            {
+                                "wf": "berjaga",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jaga",
+                                    "pos": "v",
+                                    "form": "ber-jaga"
+                                }
+                            }
+                        ],
+                        "syllables": 7
+                    },
+                    {
+                        "line": "Thermopylae?",
+                        "words": [
+                            {
+                                "wf": "Thermopylae",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "thermopylae",
+                                    "pos": "?",
+                                    "form": "thermopylae"
+                                }
+                            },
+                            {
+                                "wf": "?",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 4
+                    },
+                    {
+                        "line": "jagal tidak dikenal?",
+                        "words": [
+                            {
+                                "wf": "jagal",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jagal",
+                                    "pos": "n",
+                                    "form": "jagal"
+                                }
+                            },
+                            {
+                                "wf": "tidak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tidak",
+                                    "pos": "adv",
+                                    "form": "tidak"
+                                }
+                            },
+                            {
+                                "wf": "dikenal",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kenal",
+                                    "pos": "v",
+                                    "form": "di-kenal"
+                                }
+                            },
+                            {
+                                "wf": "?",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 7
+                    },
+                    {
+                        "line": "tapi nanti",
+                        "words": [
+                            {
+                                "wf": "tapi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tapi",
+                                    "pos": "v",
+                                    "form": "tapi"
+                                }
+                            },
+                            {
+                                "wf": "nanti",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "nanti",
+                                    "pos": "n|adv",
+                                    "form": "nanti"
+                                }
+                            }
+                        ],
+                        "syllables": 4
+                    },
+                    {
+                        "line": "sebelum siang membentang",
+                        "words": [
+                            {
+                                "wf": "sebelum",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "belum",
+                                    "pos": "adv",
+                                    "form": "se-belum"
+                                }
+                            },
+                            {
+                                "wf": "siang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "siang",
+                                    "pos": "n",
+                                    "form": "siang"
+                                }
+                            },
+                            {
+                                "wf": "membentang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bentang",
+                                    "pos": "v",
+                                    "form": "meN-bentang"
+                                }
+                            }
+                        ],
+                        "syllables": 8
+                    },
+                    {
+                        "line": "kami sudah tenggelam hilang",
+                        "words": [
+                            {
+                                "wf": "kami",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kami",
+                                    "pos": "pron",
+                                    "form": "kami"
+                                }
+                            },
+                            {
+                                "wf": "sudah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sudah",
+                                    "pos": "adv",
+                                    "form": "sudah"
+                                }
+                            },
+                            {
+                                "wf": "tenggelam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tenggelam",
+                                    "pos": "v",
+                                    "form": "tenggelam"
+                                }
+                            },
+                            {
+                                "wf": "hilang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hilang",
+                                    "pos": "v",
+                                    "form": "hilang"
+                                }
+                            }
+                        ],
+                        "syllables": 9
+                    }
+                ],
+                "num_lines": 8
+            }
+        ]
+    }
+}

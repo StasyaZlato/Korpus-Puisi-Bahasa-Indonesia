@@ -1,0 +1,605 @@
+{
+    "meta": {
+        "file_name": "223.json",
+        "id_bd": 223,
+        "author": "Emha Ainun Najib",
+        "title": "Dari bentangan langit",
+        "genre": "стихотворение",
+        "year": "---",
+        "num_lines": 10,
+        "rhyme": "Есть",
+        "syllables": [
+            10,
+            12,
+            12,
+            14,
+            5,
+            9,
+            12,
+            11,
+            17,
+            13
+        ],
+        "strofy": [
+            10
+        ]
+    },
+    "poem": {
+        "text": "Dari bentangan langit yang semu\r\nIa, kemarau itu, datang kepadamu\r\nTumbuh perlahan. Berhembus amat panjang\r\nMenyapu lautan. Mengekal tanah berbongkahan\r\nmenyapu hutan !\r\nMengekal tanah berbongkahan !\r\ndatang kepadamu, Ia, kemarau itu\r\ndari Tuhan, yang senantia diam\r\ndari tangan-Nya. Dari Tangan yang dingin dan tak menyapa\r\nyang senyap. Yang tak menoleh barang sekejap.",
+        "strof": [
+            {
+                "strof": "Dari bentangan langit yang semu\r\nIa, kemarau itu, datang kepadamu\r\nTumbuh perlahan. Berhembus amat panjang\r\nMenyapu lautan. Mengekal tanah berbongkahan\r\nmenyapu hutan !\r\nMengekal tanah berbongkahan !\r\ndatang kepadamu, Ia, kemarau itu\r\ndari Tuhan, yang senantia diam\r\ndari tangan-Nya. Dari Tangan yang dingin dan tak menyapa\r\nyang senyap. Yang tak menoleh barang sekejap.",
+                "lines": [
+                    {
+                        "line": "Dari bentangan langit yang semu",
+                        "words": [
+                            {
+                                "wf": "Dari",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dari",
+                                    "pos": "p",
+                                    "form": "dari"
+                                }
+                            },
+                            {
+                                "wf": "bentangan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bentang",
+                                    "pos": "n",
+                                    "form": "bentang-an"
+                                }
+                            },
+                            {
+                                "wf": "langit",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "langit",
+                                    "pos": "n",
+                                    "form": "langit"
+                                }
+                            },
+                            {
+                                "wf": "yang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "yang",
+                                    "pos": "a|v|n",
+                                    "form": "yang"
+                                }
+                            },
+                            {
+                                "wf": "semu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "semu",
+                                    "pos": "a|n",
+                                    "form": "semu"
+                                }
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "Ia, kemarau itu, datang kepadamu",
+                        "words": [
+                            {
+                                "wf": "Ia",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ia",
+                                    "pos": "n",
+                                    "form": "ia"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "kemarau",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kemarau",
+                                    "pos": "a",
+                                    "form": "kemarau"
+                                }
+                            },
+                            {
+                                "wf": "itu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "itu",
+                                    "pos": "pron|n",
+                                    "form": "itu"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "datang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "datang",
+                                    "pos": "v|n",
+                                    "form": "datang"
+                                }
+                            },
+                            {
+                                "wf": "kepadamu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kepadamu",
+                                    "pos": "p",
+                                    "form": "kepadamu"
+                                }
+                            }
+                        ],
+                        "syllables": 12
+                    },
+                    {
+                        "line": "Tumbuh perlahan. Berhembus amat panjang",
+                        "words": [
+                            {
+                                "wf": "Tumbuh",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tumbuh",
+                                    "pos": "v",
+                                    "form": "tumbuh"
+                                }
+                            },
+                            {
+                                "wf": "perlahan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "perlahan",
+                                    "pos": "a",
+                                    "form": "perlahan"
+                                }
+                            },
+                            {
+                                "wf": ". ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "Berhembus",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "berhembus",
+                                    "pos": "?",
+                                    "form": "berhembus"
+                                }
+                            },
+                            {
+                                "wf": "amat",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "amat",
+                                    "pos": "a|n",
+                                    "form": "amat"
+                                }
+                            },
+                            {
+                                "wf": "panjang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "panjang",
+                                    "pos": "a|n",
+                                    "form": "panjang"
+                                }
+                            }
+                        ],
+                        "syllables": 12
+                    },
+                    {
+                        "line": "Menyapu lautan. Mengekal tanah berbongkahan",
+                        "words": [
+                            {
+                                "wf": "Menyapu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sapu",
+                                    "pos": "v",
+                                    "form": "meN-sapu"
+                                }
+                            },
+                            {
+                                "wf": "lautan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "laut",
+                                    "pos": "n",
+                                    "form": "laut-an"
+                                }
+                            },
+                            {
+                                "wf": ". ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "Mengekal",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "Mengekal",
+                                    "pos": "v",
+                                    "form": "Mengekal"
+                                }
+                            },
+                            {
+                                "wf": "tanah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tanah",
+                                    "pos": "n",
+                                    "form": "tanah"
+                                }
+                            },
+                            {
+                                "wf": "berbongkahan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "berbongkahan",
+                                    "pos": "v",
+                                    "form": "berbongkahan"
+                                }
+                            }
+                        ],
+                        "syllables": 14
+                    },
+                    {
+                        "line": "menyapu hutan !",
+                        "words": [
+                            {
+                                "wf": "menyapu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sapu",
+                                    "pos": "v",
+                                    "form": "meN-sapu"
+                                }
+                            },
+                            {
+                                "wf": "hutan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hutan",
+                                    "pos": "n",
+                                    "form": "hutan"
+                                }
+                            },
+                            {
+                                "wf": " !",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 5
+                    },
+                    {
+                        "line": "Mengekal tanah berbongkahan !",
+                        "words": [
+                            {
+                                "wf": "Mengekal",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "Mengekal",
+                                    "pos": "v",
+                                    "form": "Mengekal"
+                                }
+                            },
+                            {
+                                "wf": "tanah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tanah",
+                                    "pos": "n",
+                                    "form": "tanah"
+                                }
+                            },
+                            {
+                                "wf": "berbongkahan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "berbongkahan",
+                                    "pos": "v",
+                                    "form": "berbongkahan"
+                                }
+                            },
+                            {
+                                "wf": " !",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 9
+                    },
+                    {
+                        "line": "datang kepadamu, Ia, kemarau itu",
+                        "words": [
+                            {
+                                "wf": "datang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "datang",
+                                    "pos": "v|n",
+                                    "form": "datang"
+                                }
+                            },
+                            {
+                                "wf": "kepadamu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kepadamu",
+                                    "pos": "p",
+                                    "form": "kepadamu"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "Ia",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ia",
+                                    "pos": "n",
+                                    "form": "ia"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "kemarau",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kemarau",
+                                    "pos": "a",
+                                    "form": "kemarau"
+                                }
+                            },
+                            {
+                                "wf": "itu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "itu",
+                                    "pos": "pron|n",
+                                    "form": "itu"
+                                }
+                            }
+                        ],
+                        "syllables": 12
+                    },
+                    {
+                        "line": "dari Tuhan, yang senantia diam",
+                        "words": [
+                            {
+                                "wf": "dari",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dari",
+                                    "pos": "p",
+                                    "form": "dari"
+                                }
+                            },
+                            {
+                                "wf": "Tuhan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "Tuhan",
+                                    "pos": "n",
+                                    "form": "Tuhan"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "yang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "yang",
+                                    "pos": "a|v|n",
+                                    "form": "yang"
+                                }
+                            },
+                            {
+                                "wf": "senantia",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "senantia",
+                                    "pos": "?",
+                                    "form": "senantia"
+                                }
+                            },
+                            {
+                                "wf": "diam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "diam",
+                                    "pos": "v",
+                                    "form": "diam"
+                                }
+                            }
+                        ],
+                        "syllables": 11
+                    },
+                    {
+                        "line": "dari tangan-Nya. Dari Tangan yang dingin dan tak menyapa",
+                        "words": [
+                            {
+                                "wf": "dari",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dari",
+                                    "pos": "p",
+                                    "form": "dari"
+                                }
+                            },
+                            {
+                                "wf": "tangan-Nya",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tangan",
+                                    "pos": "v",
+                                    "form": "tangan-Nya"
+                                }
+                            },
+                            {
+                                "wf": ". ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "Dari",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dari",
+                                    "pos": "p",
+                                    "form": "dari"
+                                }
+                            },
+                            {
+                                "wf": "Tangan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tangan",
+                                    "pos": "v",
+                                    "form": "tangan"
+                                }
+                            },
+                            {
+                                "wf": "yang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "yang",
+                                    "pos": "a|v|n",
+                                    "form": "yang"
+                                }
+                            },
+                            {
+                                "wf": "dingin",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dingin",
+                                    "pos": "a",
+                                    "form": "dingin"
+                                }
+                            },
+                            {
+                                "wf": "dan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dan",
+                                    "pos": "p",
+                                    "form": "dan"
+                                }
+                            },
+                            {
+                                "wf": "tak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tak",
+                                    "pos": "adv",
+                                    "form": "tak"
+                                }
+                            },
+                            {
+                                "wf": "menyapa",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sapa",
+                                    "pos": "v",
+                                    "form": "meN-sapa"
+                                }
+                            }
+                        ],
+                        "syllables": 17
+                    },
+                    {
+                        "line": "yang senyap. Yang tak menoleh barang sekejap.",
+                        "words": [
+                            {
+                                "wf": "yang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "yang",
+                                    "pos": "a|v|n",
+                                    "form": "yang"
+                                }
+                            },
+                            {
+                                "wf": "senyap",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "senyap",
+                                    "pos": "a",
+                                    "form": "senyap"
+                                }
+                            },
+                            {
+                                "wf": ". ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "Yang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "yang",
+                                    "pos": "a|v|n",
+                                    "form": "yang"
+                                }
+                            },
+                            {
+                                "wf": "tak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tak",
+                                    "pos": "adv",
+                                    "form": "tak"
+                                }
+                            },
+                            {
+                                "wf": "menoleh",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "toleh",
+                                    "pos": "v",
+                                    "form": "meN-toleh"
+                                }
+                            },
+                            {
+                                "wf": "barang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "barang",
+                                    "pos": "n",
+                                    "form": "barang"
+                                }
+                            },
+                            {
+                                "wf": "sekejap",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kejap",
+                                    "pos": "n",
+                                    "form": "se-kejap"
+                                }
+                            },
+                            {
+                                "wf": ".",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 13
+                    }
+                ],
+                "num_lines": 10
+            }
+        ]
+    }
+}

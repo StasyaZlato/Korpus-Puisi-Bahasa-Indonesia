@@ -1,0 +1,790 @@
+{
+    "meta": {
+        "file_name": "316.json",
+        "id_bd": 316,
+        "author": "Korrie Layun Rampan",
+        "title": "Cermin",
+        "genre": "стихотворение",
+        "year": "---",
+        "num_lines": 16,
+        "rhyme": "Есть",
+        "syllables": [
+            8,
+            10,
+            5,
+            12,
+            12,
+            7,
+            12,
+            10,
+            9,
+            13,
+            11,
+            8,
+            15,
+            20,
+            3,
+            16
+        ],
+        "strofy": [
+            16
+        ]
+    },
+    "poem": {
+        "text": "{Ada sejuta serigala\r\nMemburu di cermin wajah kita\r\nLapar dan ganas\r\ngagak-gagak menyanyi ke arah rimba\r\nSeperti menyayat-nyayat daging kita\r\nMatahari meratap\r\nDalam remukan-remukan cermin dingin\r\nTelaga mengaca darah hitam\r\nAda luka yang mengucur darah\r\nKita ditinggal ngungun bayang cermin ini\r\nSerigala-serigala melulung\r\nGagak-gagak berteriak\r\ndarah tetap mengucur dari luka demi luka\r\nKita tiba-tiba pecah dan tersentak dalam cermin wajah kita\r\n(O, yang ada\r\nKita hanya berteriak ‘aduh’ dan meraba-raba)}",
+        "strof": [
+            {
+                "strof": "Ada sejuta serigala\r\nMemburu di cermin wajah kita\r\nLapar dan ganas\r\ngagak-gagak menyanyi ke arah rimba\r\nSeperti menyayat-nyayat daging kita\r\nMatahari meratap\r\nDalam remukan-remukan cermin dingin\r\nTelaga mengaca darah hitam\r\nAda luka yang mengucur darah\r\nKita ditinggal ngungun bayang cermin ini\r\nSerigala-serigala melulung\r\nGagak-gagak berteriak\r\ndarah tetap mengucur dari luka demi luka\r\nKita tiba-tiba pecah dan tersentak dalam cermin wajah kita\r\n(O, yang ada\r\nKita hanya berteriak ‘aduh’ dan meraba-raba)",
+                "lines": [
+                    {
+                        "line": "Ada sejuta serigala",
+                        "words": [
+                            {
+                                "wf": "Ada",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ada",
+                                    "pos": "v",
+                                    "form": "ada"
+                                }
+                            },
+                            {
+                                "wf": "sejuta",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "juta",
+                                    "pos": "num",
+                                    "form": "se-juta"
+                                }
+                            },
+                            {
+                                "wf": "serigala",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "serigala",
+                                    "pos": "n",
+                                    "form": "serigala"
+                                }
+                            }
+                        ],
+                        "syllables": 8
+                    },
+                    {
+                        "line": "Memburu di cermin wajah kita",
+                        "words": [
+                            {
+                                "wf": "Memburu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "buru",
+                                    "pos": "v",
+                                    "form": "meN-buru"
+                                }
+                            },
+                            {
+                                "wf": "di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "cermin",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "cermin",
+                                    "pos": "n",
+                                    "form": "cermin"
+                                }
+                            },
+                            {
+                                "wf": "wajah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "wajah",
+                                    "pos": "n",
+                                    "form": "wajah"
+                                }
+                            },
+                            {
+                                "wf": "kita",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kita",
+                                    "pos": "pron",
+                                    "form": "kita"
+                                }
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "Lapar dan ganas",
+                        "words": [
+                            {
+                                "wf": "Lapar",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lapar",
+                                    "pos": "a",
+                                    "form": "lapar"
+                                }
+                            },
+                            {
+                                "wf": "dan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dan",
+                                    "pos": "p",
+                                    "form": "dan"
+                                }
+                            },
+                            {
+                                "wf": "ganas",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ganas",
+                                    "pos": "a",
+                                    "form": "ganas"
+                                }
+                            }
+                        ],
+                        "syllables": 5
+                    },
+                    {
+                        "line": "gagak-gagak menyanyi ke arah rimba",
+                        "words": [
+                            {
+                                "wf": "gagak-gagak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "gagak",
+                                    "pos": "n",
+                                    "form": "gagak-gagak"
+                                }
+                            },
+                            {
+                                "wf": "menyanyi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "nyanyi",
+                                    "pos": "v",
+                                    "form": "meN-nyanyi"
+                                }
+                            },
+                            {
+                                "wf": "ke",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ke",
+                                    "pos": "p",
+                                    "form": "ke"
+                                }
+                            },
+                            {
+                                "wf": "arah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "arah",
+                                    "pos": "n",
+                                    "form": "arah"
+                                }
+                            },
+                            {
+                                "wf": "rimba",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "rimba",
+                                    "pos": "n",
+                                    "form": "rimba"
+                                }
+                            }
+                        ],
+                        "syllables": 12
+                    },
+                    {
+                        "line": "Seperti menyayat-nyayat daging kita",
+                        "words": [
+                            {
+                                "wf": "Seperti",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "seperti",
+                                    "pos": "p",
+                                    "form": "seperti"
+                                }
+                            },
+                            {
+                                "wf": "menyayat-nyayat",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sayat",
+                                    "pos": "v",
+                                    "form": "meN-sayat-N-sayat"
+                                }
+                            },
+                            {
+                                "wf": "daging",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "daging",
+                                    "pos": "n",
+                                    "form": "daging"
+                                }
+                            },
+                            {
+                                "wf": "kita",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kita",
+                                    "pos": "pron",
+                                    "form": "kita"
+                                }
+                            }
+                        ],
+                        "syllables": 12
+                    },
+                    {
+                        "line": "Matahari meratap",
+                        "words": [
+                            {
+                                "wf": "Matahari",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "matahari",
+                                    "pos": "n",
+                                    "form": "matahari"
+                                }
+                            },
+                            {
+                                "wf": "meratap",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ratap",
+                                    "pos": "v",
+                                    "form": "meN-ratap"
+                                }
+                            }
+                        ],
+                        "syllables": 7
+                    },
+                    {
+                        "line": "Dalam remukan-remukan cermin dingin",
+                        "words": [
+                            {
+                                "wf": "Dalam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dalam",
+                                    "pos": "a|n",
+                                    "form": "dalam"
+                                }
+                            },
+                            {
+                                "wf": "remukan-remukan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "remukan-remukan",
+                                    "pos": "n",
+                                    "form": "remukan-remukan"
+                                }
+                            },
+                            {
+                                "wf": "cermin",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "cermin",
+                                    "pos": "n",
+                                    "form": "cermin"
+                                }
+                            },
+                            {
+                                "wf": "dingin",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dingin",
+                                    "pos": "a",
+                                    "form": "dingin"
+                                }
+                            }
+                        ],
+                        "syllables": 12
+                    },
+                    {
+                        "line": "Telaga mengaca darah hitam",
+                        "words": [
+                            {
+                                "wf": "Telaga",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "telaga",
+                                    "pos": "n",
+                                    "form": "telaga"
+                                }
+                            },
+                            {
+                                "wf": "mengaca",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kaca",
+                                    "pos": "v",
+                                    "form": "meN-kaca"
+                                }
+                            },
+                            {
+                                "wf": "darah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "darah",
+                                    "pos": "n",
+                                    "form": "darah"
+                                }
+                            },
+                            {
+                                "wf": "hitam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hitam",
+                                    "pos": "n|a",
+                                    "form": "hitam"
+                                }
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "Ada luka yang mengucur darah",
+                        "words": [
+                            {
+                                "wf": "Ada",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ada",
+                                    "pos": "v",
+                                    "form": "ada"
+                                }
+                            },
+                            {
+                                "wf": "luka",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "luka",
+                                    "pos": "n|v",
+                                    "form": "luka"
+                                }
+                            },
+                            {
+                                "wf": "yang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "yang",
+                                    "pos": "a|v|n",
+                                    "form": "yang"
+                                }
+                            },
+                            {
+                                "wf": "mengucur",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kucur",
+                                    "pos": "v",
+                                    "form": "meN-kucur"
+                                }
+                            },
+                            {
+                                "wf": "darah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "darah",
+                                    "pos": "n",
+                                    "form": "darah"
+                                }
+                            }
+                        ],
+                        "syllables": 9
+                    },
+                    {
+                        "line": "Kita ditinggal ngungun bayang cermin ini",
+                        "words": [
+                            {
+                                "wf": "Kita",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kita",
+                                    "pos": "pron",
+                                    "form": "kita"
+                                }
+                            },
+                            {
+                                "wf": "ditinggal",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tinggal",
+                                    "pos": "v",
+                                    "form": "di-tinggal"
+                                }
+                            },
+                            {
+                                "wf": "ngungun",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ngungun",
+                                    "pos": "?",
+                                    "form": "ngungun"
+                                }
+                            },
+                            {
+                                "wf": "bayang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bayang",
+                                    "pos": "n",
+                                    "form": "bayang"
+                                }
+                            },
+                            {
+                                "wf": "cermin",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "cermin",
+                                    "pos": "n",
+                                    "form": "cermin"
+                                }
+                            },
+                            {
+                                "wf": "ini",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ini",
+                                    "pos": "pron",
+                                    "form": "ini"
+                                }
+                            }
+                        ],
+                        "syllables": 13
+                    },
+                    {
+                        "line": "Serigala-serigala melulung",
+                        "words": [
+                            {
+                                "wf": "Serigala-serigala",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "serigala",
+                                    "pos": "n",
+                                    "form": "serigala-serigala"
+                                }
+                            },
+                            {
+                                "wf": "melulung",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "melulung",
+                                    "pos": "v",
+                                    "form": "melulung"
+                                }
+                            }
+                        ],
+                        "syllables": 11
+                    },
+                    {
+                        "line": "Gagak-gagak berteriak",
+                        "words": [
+                            {
+                                "wf": "Gagak-gagak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "gagak",
+                                    "pos": "n",
+                                    "form": "gagak-gagak"
+                                }
+                            },
+                            {
+                                "wf": "berteriak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "teriak",
+                                    "pos": "v",
+                                    "form": "ber-teriak"
+                                }
+                            }
+                        ],
+                        "syllables": 8
+                    },
+                    {
+                        "line": "darah tetap mengucur dari luka demi luka",
+                        "words": [
+                            {
+                                "wf": "darah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "darah",
+                                    "pos": "n",
+                                    "form": "darah"
+                                }
+                            },
+                            {
+                                "wf": "tetap",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tetap",
+                                    "pos": "v|a|adv",
+                                    "form": "tetap"
+                                }
+                            },
+                            {
+                                "wf": "mengucur",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kucur",
+                                    "pos": "v",
+                                    "form": "meN-kucur"
+                                }
+                            },
+                            {
+                                "wf": "dari",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dari",
+                                    "pos": "p",
+                                    "form": "dari"
+                                }
+                            },
+                            {
+                                "wf": "luka",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "luka",
+                                    "pos": "n|v",
+                                    "form": "luka"
+                                }
+                            },
+                            {
+                                "wf": "demi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "demi",
+                                    "pos": "p",
+                                    "form": "demi"
+                                }
+                            },
+                            {
+                                "wf": "luka",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "luka",
+                                    "pos": "n|v",
+                                    "form": "luka"
+                                }
+                            }
+                        ],
+                        "syllables": 15
+                    },
+                    {
+                        "line": "Kita tiba-tiba pecah dan tersentak dalam cermin wajah kita",
+                        "words": [
+                            {
+                                "wf": "Kita",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kita",
+                                    "pos": "pron",
+                                    "form": "kita"
+                                }
+                            },
+                            {
+                                "wf": "tiba-tiba",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tiba-tiba",
+                                    "pos": "adv",
+                                    "form": "tiba-tiba"
+                                }
+                            },
+                            {
+                                "wf": "pecah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pecah",
+                                    "pos": "v",
+                                    "form": "pecah"
+                                }
+                            },
+                            {
+                                "wf": "dan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dan",
+                                    "pos": "p",
+                                    "form": "dan"
+                                }
+                            },
+                            {
+                                "wf": "tersentak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sentak",
+                                    "pos": "v",
+                                    "form": "ter-sentak"
+                                }
+                            },
+                            {
+                                "wf": "dalam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dalam",
+                                    "pos": "a|n",
+                                    "form": "dalam"
+                                }
+                            },
+                            {
+                                "wf": "cermin",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "cermin",
+                                    "pos": "n",
+                                    "form": "cermin"
+                                }
+                            },
+                            {
+                                "wf": "wajah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "wajah",
+                                    "pos": "n",
+                                    "form": "wajah"
+                                }
+                            },
+                            {
+                                "wf": "kita",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kita",
+                                    "pos": "pron",
+                                    "form": "kita"
+                                }
+                            }
+                        ],
+                        "syllables": 20
+                    },
+                    {
+                        "line": "(O, yang ada",
+                        "words": [
+                            {
+                                "wf": "(",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "O",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "o",
+                                    "pos": "n",
+                                    "form": "o"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "yang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "yang",
+                                    "pos": "a|v|n",
+                                    "form": "yang"
+                                }
+                            },
+                            {
+                                "wf": "ada",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ada",
+                                    "pos": "v",
+                                    "form": "ada"
+                                }
+                            }
+                        ],
+                        "syllables": 3
+                    },
+                    {
+                        "line": "Kita hanya berteriak ‘aduh’ dan meraba-raba)",
+                        "words": [
+                            {
+                                "wf": "Kita",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kita",
+                                    "pos": "pron",
+                                    "form": "kita"
+                                }
+                            },
+                            {
+                                "wf": "hanya",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hanya",
+                                    "pos": "adv",
+                                    "form": "hanya"
+                                }
+                            },
+                            {
+                                "wf": "berteriak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "teriak",
+                                    "pos": "v",
+                                    "form": "ber-teriak"
+                                }
+                            },
+                            {
+                                "wf": " ‘",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "aduh",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "aduh",
+                                    "pos": "a",
+                                    "form": "aduh"
+                                }
+                            },
+                            {
+                                "wf": "’ ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "dan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dan",
+                                    "pos": "p",
+                                    "form": "dan"
+                                }
+                            },
+                            {
+                                "wf": "meraba-raba",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "raba",
+                                    "pos": "v",
+                                    "form": "meN-raba-raba"
+                                }
+                            },
+                            {
+                                "wf": ")",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 16
+                    }
+                ],
+                "num_lines": 16
+            }
+        ]
+    }
+}

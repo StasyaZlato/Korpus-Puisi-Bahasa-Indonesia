@@ -1,0 +1,533 @@
+{
+    "meta": {
+        "file_name": "417.json",
+        "id_bd": 417,
+        "author": "Linus Suryadi AG",
+        "title": "Elegi",
+        "genre": "стихотворение",
+        "year": "---",
+        "num_lines": 12,
+        "rhyme": "Есть",
+        "syllables": [
+            10,
+            9,
+            8,
+            8,
+            9,
+            9,
+            10,
+            10,
+            10,
+            9,
+            9,
+            10
+        ],
+        "strofy": [
+            12
+        ]
+    },
+    "poem": {
+        "text": "{Pemuda itu memetik gitar\r\nDunia guramnya sendiri\r\nUdara sekitar gemetar\r\nmenjalin ‘Dukamu Abadi’\r\nSeorang gadis telah pergi\r\nketabrak bis di Purwosari\r\nSeorang pergi, seorang pergi\r\nBertumpuk surat tak ada arti\r\nPemuda itu memetik gitar\r\nDunia guramnya sendiri\r\nIa berkisah, jelas kudengar\r\nhanya sunyi menabiknya kini}",
+        "strof": [
+            {
+                "strof": "Pemuda itu memetik gitar\r\nDunia guramnya sendiri\r\nUdara sekitar gemetar\r\nmenjalin ‘Dukamu Abadi’\r\nSeorang gadis telah pergi\r\nketabrak bis di Purwosari\r\nSeorang pergi, seorang pergi\r\nBertumpuk surat tak ada arti\r\nPemuda itu memetik gitar\r\nDunia guramnya sendiri\r\nIa berkisah, jelas kudengar\r\nhanya sunyi menabiknya kini",
+                "lines": [
+                    {
+                        "line": "Pemuda itu memetik gitar",
+                        "words": [
+                            {
+                                "wf": "Pemuda",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "muda",
+                                    "pos": "n",
+                                    "form": "peN-muda"
+                                }
+                            },
+                            {
+                                "wf": "itu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "itu",
+                                    "pos": "pron|n",
+                                    "form": "itu"
+                                }
+                            },
+                            {
+                                "wf": "memetik",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "petik",
+                                    "pos": "v",
+                                    "form": "meN-petik"
+                                }
+                            },
+                            {
+                                "wf": "gitar",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "gitar",
+                                    "pos": "v",
+                                    "form": "gitar"
+                                }
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "Dunia guramnya sendiri",
+                        "words": [
+                            {
+                                "wf": "Dunia",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dunia",
+                                    "pos": "n",
+                                    "form": "dunia"
+                                }
+                            },
+                            {
+                                "wf": "guramnya",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "guram",
+                                    "pos": "a",
+                                    "form": "guram-nya"
+                                }
+                            },
+                            {
+                                "wf": "sendiri",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sendiri",
+                                    "pos": "adv|a|n",
+                                    "form": "sendiri"
+                                }
+                            }
+                        ],
+                        "syllables": 9
+                    },
+                    {
+                        "line": "Udara sekitar gemetar",
+                        "words": [
+                            {
+                                "wf": "Udara",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "udara",
+                                    "pos": "n",
+                                    "form": "udara"
+                                }
+                            },
+                            {
+                                "wf": "sekitar",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kitar",
+                                    "pos": "n|adv",
+                                    "form": "se-kitar"
+                                }
+                            },
+                            {
+                                "wf": "gemetar",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "gemetar",
+                                    "pos": "a",
+                                    "form": "gemetar"
+                                }
+                            }
+                        ],
+                        "syllables": 8
+                    },
+                    {
+                        "line": "menjalin ‘Dukamu Abadi’",
+                        "words": [
+                            {
+                                "wf": "menjalin",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jalin",
+                                    "pos": "v",
+                                    "form": "meN-jalin"
+                                }
+                            },
+                            {
+                                "wf": " ‘",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "Dukamu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "duka",
+                                    "pos": "a",
+                                    "form": "duka-mu"
+                                }
+                            },
+                            {
+                                "wf": "Abadi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "abadi",
+                                    "pos": "a",
+                                    "form": "abadi"
+                                }
+                            },
+                            {
+                                "wf": "’",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 8
+                    },
+                    {
+                        "line": "Seorang gadis telah pergi",
+                        "words": [
+                            {
+                                "wf": "Seorang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "orang",
+                                    "pos": "n",
+                                    "form": "se-orang"
+                                }
+                            },
+                            {
+                                "wf": "gadis",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "gadis",
+                                    "pos": "n",
+                                    "form": "gadis"
+                                }
+                            },
+                            {
+                                "wf": "telah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "telah",
+                                    "pos": "adv",
+                                    "form": "telah"
+                                }
+                            },
+                            {
+                                "wf": "pergi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pergi",
+                                    "pos": "v",
+                                    "form": "pergi"
+                                }
+                            }
+                        ],
+                        "syllables": 9
+                    },
+                    {
+                        "line": "ketabrak bis di Purwosari",
+                        "words": [
+                            {
+                                "wf": "ketabrak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ketabrak",
+                                    "pos": "?",
+                                    "form": "ketabrak"
+                                }
+                            },
+                            {
+                                "wf": "bis",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bis",
+                                    "pos": "v|p|adv|n",
+                                    "form": "bis"
+                                }
+                            },
+                            {
+                                "wf": "di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "Purwosari",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "purwosari",
+                                    "pos": "?",
+                                    "form": "purwosari"
+                                }
+                            }
+                        ],
+                        "syllables": 9
+                    },
+                    {
+                        "line": "Seorang pergi, seorang pergi",
+                        "words": [
+                            {
+                                "wf": "Seorang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "orang",
+                                    "pos": "n",
+                                    "form": "se-orang"
+                                }
+                            },
+                            {
+                                "wf": "pergi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pergi",
+                                    "pos": "v",
+                                    "form": "pergi"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "seorang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "orang",
+                                    "pos": "n",
+                                    "form": "se-orang"
+                                }
+                            },
+                            {
+                                "wf": "pergi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pergi",
+                                    "pos": "v",
+                                    "form": "pergi"
+                                }
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "Bertumpuk surat tak ada arti",
+                        "words": [
+                            {
+                                "wf": "Bertumpuk",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "Bertumpuk",
+                                    "pos": "?",
+                                    "form": "Bertumpuk"
+                                }
+                            },
+                            {
+                                "wf": "surat",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "surat",
+                                    "pos": "n",
+                                    "form": "surat"
+                                }
+                            },
+                            {
+                                "wf": "tak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tak",
+                                    "pos": "adv",
+                                    "form": "tak"
+                                }
+                            },
+                            {
+                                "wf": "ada",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ada",
+                                    "pos": "v",
+                                    "form": "ada"
+                                }
+                            },
+                            {
+                                "wf": "arti",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "arti",
+                                    "pos": "n",
+                                    "form": "arti"
+                                }
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "Pemuda itu memetik gitar",
+                        "words": [
+                            {
+                                "wf": "Pemuda",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "muda",
+                                    "pos": "n",
+                                    "form": "peN-muda"
+                                }
+                            },
+                            {
+                                "wf": "itu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "itu",
+                                    "pos": "pron|n",
+                                    "form": "itu"
+                                }
+                            },
+                            {
+                                "wf": "memetik",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "petik",
+                                    "pos": "v",
+                                    "form": "meN-petik"
+                                }
+                            },
+                            {
+                                "wf": "gitar",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "gitar",
+                                    "pos": "v",
+                                    "form": "gitar"
+                                }
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "Dunia guramnya sendiri",
+                        "words": [
+                            {
+                                "wf": "Dunia",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dunia",
+                                    "pos": "n",
+                                    "form": "dunia"
+                                }
+                            },
+                            {
+                                "wf": "guramnya",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "guram",
+                                    "pos": "a",
+                                    "form": "guram-nya"
+                                }
+                            },
+                            {
+                                "wf": "sendiri",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sendiri",
+                                    "pos": "adv|a|n",
+                                    "form": "sendiri"
+                                }
+                            }
+                        ],
+                        "syllables": 9
+                    },
+                    {
+                        "line": "Ia berkisah, jelas kudengar",
+                        "words": [
+                            {
+                                "wf": "Ia",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ia",
+                                    "pos": "n",
+                                    "form": "ia"
+                                }
+                            },
+                            {
+                                "wf": "berkisah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kisah",
+                                    "pos": "v",
+                                    "form": "ber-kisah"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "jelas",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jelas",
+                                    "pos": "a",
+                                    "form": "jelas"
+                                }
+                            },
+                            {
+                                "wf": "kudengar",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dengar",
+                                    "pos": "v",
+                                    "form": "ku-dengar"
+                                }
+                            }
+                        ],
+                        "syllables": 9
+                    },
+                    {
+                        "line": "hanya sunyi menabiknya kini",
+                        "words": [
+                            {
+                                "wf": "hanya",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hanya",
+                                    "pos": "adv",
+                                    "form": "hanya"
+                                }
+                            },
+                            {
+                                "wf": "sunyi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sunyi",
+                                    "pos": "a",
+                                    "form": "sunyi"
+                                }
+                            },
+                            {
+                                "wf": "menabiknya",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tabik",
+                                    "pos": "v",
+                                    "form": "meN-tabik-nya"
+                                }
+                            },
+                            {
+                                "wf": "kini",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kini",
+                                    "pos": "n",
+                                    "form": "kini"
+                                }
+                            }
+                        ],
+                        "syllables": 10
+                    }
+                ],
+                "num_lines": 12
+            }
+        ]
+    }
+}

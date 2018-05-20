@@ -1,0 +1,778 @@
+{
+    "meta": {
+        "file_name": "525.json",
+        "id_bd": 525,
+        "author": "Ajip Rosidi",
+        "title": "Tiada yang lebih aman",
+        "genre": "стихотворение",
+        "year": 1962,
+        "num_lines": 8,
+        "rhyme": "Есть",
+        "syllables": [
+            17,
+            17,
+            18,
+            17,
+            17,
+            18,
+            18,
+            17
+        ],
+        "strofy": [
+            2,
+            1,
+            2,
+            1,
+            2,
+            1,
+            2
+        ]
+    },
+    "poem": {
+        "text": "{Tiada yang lebih aman, pun tiada yang lebih nikmat\r\nMembayangkan masalampau yang dalam kenangan terpahat.}\r\n{Tiada yang lebih berat, pun tiada yang lebih berarti\r\nDan saat kini yang ’kan seg’ra lepas pula jadi mimpi.}\r\n{Tiada yang lebih gamang, pun tiada yang lebih senang\r\nMenghadapi masadatang, yang ’kan segera jadi sekarang.}\r\n{Detik-detik berloncatan, tak satu pun kembali terulang\r\nKarena antara tadi dan nanti, sekarang menghalang.}",
+        "strof": [
+            {
+                "strof": "Tiada yang lebih aman, pun tiada yang lebih nikmat\r\nMembayangkan masalampau yang dalam kenangan terpahat.",
+                "lines": [
+                    {
+                        "line": "Tiada yang lebih aman, pun tiada yang lebih nikmat",
+                        "words": [
+                            {
+                                "wf": "Tiada",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tiada",
+                                    "pos": "v",
+                                    "form": "tiada"
+                                }
+                            },
+                            {
+                                "wf": "yang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "yang",
+                                    "pos": "a|v|n",
+                                    "form": "yang"
+                                }
+                            },
+                            {
+                                "wf": "lebih",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lebih",
+                                    "pos": "a",
+                                    "form": "lebih"
+                                }
+                            },
+                            {
+                                "wf": "aman",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "aman",
+                                    "pos": "n",
+                                    "form": "aman"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "pun",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pun",
+                                    "pos": "p",
+                                    "form": "pun"
+                                }
+                            },
+                            {
+                                "wf": "tiada",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tiada",
+                                    "pos": "v",
+                                    "form": "tiada"
+                                }
+                            },
+                            {
+                                "wf": "yang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "yang",
+                                    "pos": "a|v|n",
+                                    "form": "yang"
+                                }
+                            },
+                            {
+                                "wf": "lebih",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lebih",
+                                    "pos": "a",
+                                    "form": "lebih"
+                                }
+                            },
+                            {
+                                "wf": "nikmat",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "nikmat",
+                                    "pos": "a|n",
+                                    "form": "nikmat"
+                                }
+                            }
+                        ],
+                        "syllables": 17
+                    },
+                    {
+                        "line": "Membayangkan masalampau yang dalam kenangan terpahat.",
+                        "words": [
+                            {
+                                "wf": "Membayangkan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bayang",
+                                    "pos": "v",
+                                    "form": "meN-bayang-kan"
+                                }
+                            },
+                            {
+                                "wf": "masalampau",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "masalampau",
+                                    "pos": "?",
+                                    "form": "masalampau"
+                                }
+                            },
+                            {
+                                "wf": "yang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "yang",
+                                    "pos": "a|v|n",
+                                    "form": "yang"
+                                }
+                            },
+                            {
+                                "wf": "dalam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dalam",
+                                    "pos": "a|n",
+                                    "form": "dalam"
+                                }
+                            },
+                            {
+                                "wf": "kenangan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kenang",
+                                    "pos": "n",
+                                    "form": "kenang-an"
+                                }
+                            },
+                            {
+                                "wf": "terpahat",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "terpahat",
+                                    "pos": "n",
+                                    "form": "terpahat"
+                                }
+                            },
+                            {
+                                "wf": ".",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 17
+                    }
+                ],
+                "num_lines": 2
+            },
+            {
+                "strof": "\r\n",
+                "lines": [
+                    {
+                        "line": "",
+                        "words": [],
+                        "syllables": 0
+                    }
+                ],
+                "num_lines": 1
+            },
+            {
+                "strof": "Tiada yang lebih berat, pun tiada yang lebih berarti\r\nDan saat kini yang ’kan seg’ra lepas pula jadi mimpi.",
+                "lines": [
+                    {
+                        "line": "Tiada yang lebih berat, pun tiada yang lebih berarti",
+                        "words": [
+                            {
+                                "wf": "Tiada",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tiada",
+                                    "pos": "v",
+                                    "form": "tiada"
+                                }
+                            },
+                            {
+                                "wf": "yang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "yang",
+                                    "pos": "a|v|n",
+                                    "form": "yang"
+                                }
+                            },
+                            {
+                                "wf": "lebih",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lebih",
+                                    "pos": "a",
+                                    "form": "lebih"
+                                }
+                            },
+                            {
+                                "wf": "berat",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "berat",
+                                    "pos": "a|v|n",
+                                    "form": "berat"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "pun",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pun",
+                                    "pos": "p",
+                                    "form": "pun"
+                                }
+                            },
+                            {
+                                "wf": "tiada",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tiada",
+                                    "pos": "v",
+                                    "form": "tiada"
+                                }
+                            },
+                            {
+                                "wf": "yang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "yang",
+                                    "pos": "a|v|n",
+                                    "form": "yang"
+                                }
+                            },
+                            {
+                                "wf": "lebih",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lebih",
+                                    "pos": "a",
+                                    "form": "lebih"
+                                }
+                            },
+                            {
+                                "wf": "berarti",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "arti",
+                                    "pos": "v",
+                                    "form": "ber-arti"
+                                }
+                            }
+                        ],
+                        "syllables": 18
+                    },
+                    {
+                        "line": "Dan saat kini yang ’kan seg’ra lepas pula jadi mimpi.",
+                        "words": [
+                            {
+                                "wf": "Dan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dan",
+                                    "pos": "p",
+                                    "form": "dan"
+                                }
+                            },
+                            {
+                                "wf": "saat",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "saat",
+                                    "pos": "n",
+                                    "form": "saat"
+                                }
+                            },
+                            {
+                                "wf": "kini",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kini",
+                                    "pos": "n",
+                                    "form": "kini"
+                                }
+                            },
+                            {
+                                "wf": "yang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "yang",
+                                    "pos": "a|v|n",
+                                    "form": "yang"
+                                }
+                            },
+                            {
+                                "wf": " ’",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "kan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kan",
+                                    "pos": "v",
+                                    "form": "kan"
+                                }
+                            },
+                            {
+                                "wf": "seg",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "seg",
+                                    "pos": "a|v|n",
+                                    "form": "seg"
+                                }
+                            },
+                            {
+                                "wf": "’",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "ra",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ra",
+                                    "pos": "n",
+                                    "form": "ra"
+                                }
+                            },
+                            {
+                                "wf": "lepas",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lepas",
+                                    "pos": "a",
+                                    "form": "lepas"
+                                }
+                            },
+                            {
+                                "wf": "pula",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pula",
+                                    "pos": "p",
+                                    "form": "pula"
+                                }
+                            },
+                            {
+                                "wf": "jadi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jadi",
+                                    "pos": "v",
+                                    "form": "jadi"
+                                }
+                            },
+                            {
+                                "wf": "mimpi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "mimpi",
+                                    "pos": "n",
+                                    "form": "mimpi"
+                                }
+                            },
+                            {
+                                "wf": ".",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 17
+                    }
+                ],
+                "num_lines": 2
+            },
+            {
+                "strof": "\r\n",
+                "lines": [
+                    {
+                        "line": "",
+                        "words": [],
+                        "syllables": 0
+                    }
+                ],
+                "num_lines": 1
+            },
+            {
+                "strof": "Tiada yang lebih gamang, pun tiada yang lebih senang\r\nMenghadapi masadatang, yang ’kan segera jadi sekarang.",
+                "lines": [
+                    {
+                        "line": "Tiada yang lebih gamang, pun tiada yang lebih senang",
+                        "words": [
+                            {
+                                "wf": "Tiada",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tiada",
+                                    "pos": "v",
+                                    "form": "tiada"
+                                }
+                            },
+                            {
+                                "wf": "yang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "yang",
+                                    "pos": "a|v|n",
+                                    "form": "yang"
+                                }
+                            },
+                            {
+                                "wf": "lebih",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lebih",
+                                    "pos": "a",
+                                    "form": "lebih"
+                                }
+                            },
+                            {
+                                "wf": "gamang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "gamang",
+                                    "pos": "a",
+                                    "form": "gamang"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "pun",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pun",
+                                    "pos": "p",
+                                    "form": "pun"
+                                }
+                            },
+                            {
+                                "wf": "tiada",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tiada",
+                                    "pos": "v",
+                                    "form": "tiada"
+                                }
+                            },
+                            {
+                                "wf": "yang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "yang",
+                                    "pos": "a|v|n",
+                                    "form": "yang"
+                                }
+                            },
+                            {
+                                "wf": "lebih",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lebih",
+                                    "pos": "a",
+                                    "form": "lebih"
+                                }
+                            },
+                            {
+                                "wf": "senang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "senang",
+                                    "pos": "a",
+                                    "form": "senang"
+                                }
+                            }
+                        ],
+                        "syllables": 17
+                    },
+                    {
+                        "line": "Menghadapi masadatang, yang ’kan segera jadi sekarang.",
+                        "words": [
+                            {
+                                "wf": "Menghadapi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hadap",
+                                    "pos": "v",
+                                    "form": "meN-hadap-i"
+                                }
+                            },
+                            {
+                                "wf": "masadatang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "masadatang",
+                                    "pos": "?",
+                                    "form": "masadatang"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "yang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "yang",
+                                    "pos": "a|v|n",
+                                    "form": "yang"
+                                }
+                            },
+                            {
+                                "wf": " ’",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "kan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kan",
+                                    "pos": "v",
+                                    "form": "kan"
+                                }
+                            },
+                            {
+                                "wf": "segera",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "segera",
+                                    "pos": "adv",
+                                    "form": "segera"
+                                }
+                            },
+                            {
+                                "wf": "jadi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jadi",
+                                    "pos": "v",
+                                    "form": "jadi"
+                                }
+                            },
+                            {
+                                "wf": "sekarang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sekarang",
+                                    "pos": "n",
+                                    "form": "sekarang"
+                                }
+                            },
+                            {
+                                "wf": ".",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 18
+                    }
+                ],
+                "num_lines": 2
+            },
+            {
+                "strof": "\r\n",
+                "lines": [
+                    {
+                        "line": "",
+                        "words": [],
+                        "syllables": 0
+                    }
+                ],
+                "num_lines": 1
+            },
+            {
+                "strof": "Detik-detik berloncatan, tak satu pun kembali terulang\r\nKarena antara tadi dan nanti, sekarang menghalang.",
+                "lines": [
+                    {
+                        "line": "Detik-detik berloncatan, tak satu pun kembali terulang",
+                        "words": [
+                            {
+                                "wf": "Detik-detik",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "detik",
+                                    "pos": "n",
+                                    "form": "detik-detik"
+                                }
+                            },
+                            {
+                                "wf": "berloncatan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "loncat",
+                                    "pos": "v",
+                                    "form": "ber-loncat-an"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "tak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tak",
+                                    "pos": "adv",
+                                    "form": "tak"
+                                }
+                            },
+                            {
+                                "wf": "satu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "satu",
+                                    "pos": "num",
+                                    "form": "satu"
+                                }
+                            },
+                            {
+                                "wf": "pun",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pun",
+                                    "pos": "p",
+                                    "form": "pun"
+                                }
+                            },
+                            {
+                                "wf": "kembali",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kembali",
+                                    "pos": "v",
+                                    "form": "kembali"
+                                }
+                            },
+                            {
+                                "wf": "terulang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ulang",
+                                    "pos": "v",
+                                    "form": "ter-ulang"
+                                }
+                            }
+                        ],
+                        "syllables": 18
+                    },
+                    {
+                        "line": "Karena antara tadi dan nanti, sekarang menghalang.",
+                        "words": [
+                            {
+                                "wf": "Karena",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "karena",
+                                    "pos": "p",
+                                    "form": "karena"
+                                }
+                            },
+                            {
+                                "wf": "antara",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "antara",
+                                    "pos": "n|p|a",
+                                    "form": "antara"
+                                }
+                            },
+                            {
+                                "wf": "tadi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tadi",
+                                    "pos": "n",
+                                    "form": "tadi"
+                                }
+                            },
+                            {
+                                "wf": "dan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dan",
+                                    "pos": "p",
+                                    "form": "dan"
+                                }
+                            },
+                            {
+                                "wf": "nanti",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "nanti",
+                                    "pos": "n|adv",
+                                    "form": "nanti"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "sekarang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sekarang",
+                                    "pos": "n",
+                                    "form": "sekarang"
+                                }
+                            },
+                            {
+                                "wf": "menghalang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "halang",
+                                    "pos": "v",
+                                    "form": "meN-halang"
+                                }
+                            },
+                            {
+                                "wf": ".",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 17
+                    }
+                ],
+                "num_lines": 2
+            }
+        ]
+    }
+}

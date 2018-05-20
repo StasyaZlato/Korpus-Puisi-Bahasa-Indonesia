@@ -1,0 +1,914 @@
+{
+    "meta": {
+        "file_name": "315.json",
+        "id_bd": 315,
+        "author": "Korrie Layun Rampan",
+        "title": "Engkau dan aku",
+        "genre": "стихотворение",
+        "year": 1973,
+        "num_lines": 18,
+        "rhyme": "Есть",
+        "syllables": [
+            8,
+            8,
+            7,
+            6,
+            8,
+            8,
+            14,
+            8,
+            7,
+            7,
+            7,
+            8,
+            11,
+            11,
+            11,
+            9,
+            12,
+            17
+        ],
+        "strofy": [
+            4,
+            1,
+            4,
+            1,
+            4,
+            1,
+            4,
+            1,
+            2
+        ]
+    },
+    "poem": {
+        "text": "{Dahulu kita bertikai\r\nAntara jalanmu jalanku\r\nSekarang kita sampai\r\nAntara dua siku}\r\n{Dahulu engkau ke sana\r\nAku pun melangkah ke anu\r\nSang Kala memutar kompas di belakang kita\r\nSekarang engkau dan aku}\r\n{Engkau memetik melati\r\nAku menyiapkan api\r\nEngkau menangis di sini\r\nAku tak tahu akan pergi}\r\n{Pintu belantara itu terbuka\r\nBurung-burung rimba berkeliaran\r\nKita telah sampai di ujung jalan\r\nMemandang tamasya di sana}\r\n{Siapakah engkau siapakah aku\r\nSiapakah kita yang tersedu di ujung jalan itu}",
+        "strof": [
+            {
+                "strof": "Dahulu kita bertikai\r\nAntara jalanmu jalanku\r\nSekarang kita sampai\r\nAntara dua siku",
+                "lines": [
+                    {
+                        "line": "Dahulu kita bertikai",
+                        "words": [
+                            {
+                                "wf": "Dahulu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dulu",
+                                    "pos": "n",
+                                    "form": "Dahulu"
+                                }
+                            },
+                            {
+                                "wf": "kita",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kita",
+                                    "pos": "pron",
+                                    "form": "kita"
+                                }
+                            },
+                            {
+                                "wf": "bertikai",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tikai",
+                                    "pos": "v",
+                                    "form": "ber-tikai"
+                                }
+                            }
+                        ],
+                        "syllables": 8
+                    },
+                    {
+                        "line": "Antara jalanmu jalanku",
+                        "words": [
+                            {
+                                "wf": "Antara",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "antara",
+                                    "pos": "n|p|a",
+                                    "form": "antara"
+                                }
+                            },
+                            {
+                                "wf": "jalanmu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jalan",
+                                    "pos": "n|v|a",
+                                    "form": "jalan-mu"
+                                }
+                            },
+                            {
+                                "wf": "jalanku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jalan",
+                                    "pos": "n|v|a",
+                                    "form": "jalan-ku"
+                                }
+                            }
+                        ],
+                        "syllables": 8
+                    },
+                    {
+                        "line": "Sekarang kita sampai",
+                        "words": [
+                            {
+                                "wf": "Sekarang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sekarang",
+                                    "pos": "n",
+                                    "form": "sekarang"
+                                }
+                            },
+                            {
+                                "wf": "kita",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kita",
+                                    "pos": "pron",
+                                    "form": "kita"
+                                }
+                            },
+                            {
+                                "wf": "sampai",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sampai",
+                                    "pos": "v",
+                                    "form": "sampai"
+                                }
+                            }
+                        ],
+                        "syllables": 7
+                    },
+                    {
+                        "line": "Antara dua siku",
+                        "words": [
+                            {
+                                "wf": "Antara",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "antara",
+                                    "pos": "n|p|a",
+                                    "form": "antara"
+                                }
+                            },
+                            {
+                                "wf": "dua",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dua",
+                                    "pos": "num",
+                                    "form": "dua"
+                                }
+                            },
+                            {
+                                "wf": "siku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "siku",
+                                    "pos": "n",
+                                    "form": "siku"
+                                }
+                            }
+                        ],
+                        "syllables": 6
+                    }
+                ],
+                "num_lines": 4
+            },
+            {
+                "strof": "\r\n",
+                "lines": [
+                    {
+                        "line": "",
+                        "words": [],
+                        "syllables": 0
+                    }
+                ],
+                "num_lines": 1
+            },
+            {
+                "strof": "Dahulu engkau ke sana\r\nAku pun melangkah ke anu\r\nSang Kala memutar kompas di belakang kita\r\nSekarang engkau dan aku",
+                "lines": [
+                    {
+                        "line": "Dahulu engkau ke sana",
+                        "words": [
+                            {
+                                "wf": "Dahulu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dulu",
+                                    "pos": "n",
+                                    "form": "Dahulu"
+                                }
+                            },
+                            {
+                                "wf": "engkau",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "engkau",
+                                    "pos": "pron",
+                                    "form": "engkau"
+                                }
+                            },
+                            {
+                                "wf": "ke",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ke",
+                                    "pos": "p",
+                                    "form": "ke"
+                                }
+                            },
+                            {
+                                "wf": "sana",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sana",
+                                    "pos": "pron",
+                                    "form": "sana"
+                                }
+                            }
+                        ],
+                        "syllables": 8
+                    },
+                    {
+                        "line": "Aku pun melangkah ke anu",
+                        "words": [
+                            {
+                                "wf": "Aku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "aku",
+                                    "pos": "pron",
+                                    "form": "aku"
+                                }
+                            },
+                            {
+                                "wf": "pun",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pun",
+                                    "pos": "p",
+                                    "form": "pun"
+                                }
+                            },
+                            {
+                                "wf": "melangkah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "langkah",
+                                    "pos": "v",
+                                    "form": "meN-langkah"
+                                }
+                            },
+                            {
+                                "wf": "ke",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ke",
+                                    "pos": "p",
+                                    "form": "ke"
+                                }
+                            },
+                            {
+                                "wf": "anu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "anu",
+                                    "pos": "n",
+                                    "form": "anu"
+                                }
+                            }
+                        ],
+                        "syllables": 8
+                    },
+                    {
+                        "line": "Sang Kala memutar kompas di belakang kita",
+                        "words": [
+                            {
+                                "wf": "Sang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sang",
+                                    "pos": "n",
+                                    "form": "sang"
+                                }
+                            },
+                            {
+                                "wf": "Kala",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kala",
+                                    "pos": "p",
+                                    "form": "kala"
+                                }
+                            },
+                            {
+                                "wf": "memutar",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "putar",
+                                    "pos": "v",
+                                    "form": "meN-putar"
+                                }
+                            },
+                            {
+                                "wf": "kompas",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kompas",
+                                    "pos": "n",
+                                    "form": "kompas"
+                                }
+                            },
+                            {
+                                "wf": "di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "belakang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "belakang",
+                                    "pos": "n",
+                                    "form": "belakang"
+                                }
+                            },
+                            {
+                                "wf": "kita",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kita",
+                                    "pos": "pron",
+                                    "form": "kita"
+                                }
+                            }
+                        ],
+                        "syllables": 14
+                    },
+                    {
+                        "line": "Sekarang engkau dan aku",
+                        "words": [
+                            {
+                                "wf": "Sekarang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sekarang",
+                                    "pos": "n",
+                                    "form": "sekarang"
+                                }
+                            },
+                            {
+                                "wf": "engkau",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "engkau",
+                                    "pos": "pron",
+                                    "form": "engkau"
+                                }
+                            },
+                            {
+                                "wf": "dan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dan",
+                                    "pos": "p",
+                                    "form": "dan"
+                                }
+                            },
+                            {
+                                "wf": "aku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "aku",
+                                    "pos": "pron",
+                                    "form": "aku"
+                                }
+                            }
+                        ],
+                        "syllables": 8
+                    }
+                ],
+                "num_lines": 4
+            },
+            {
+                "strof": "\r\n",
+                "lines": [
+                    {
+                        "line": "",
+                        "words": [],
+                        "syllables": 0
+                    }
+                ],
+                "num_lines": 1
+            },
+            {
+                "strof": "Engkau memetik melati\r\nAku menyiapkan api\r\nEngkau menangis di sini\r\nAku tak tahu akan pergi",
+                "lines": [
+                    {
+                        "line": "Engkau memetik melati",
+                        "words": [
+                            {
+                                "wf": "Engkau",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "engkau",
+                                    "pos": "pron",
+                                    "form": "engkau"
+                                }
+                            },
+                            {
+                                "wf": "memetik",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "petik",
+                                    "pos": "v",
+                                    "form": "meN-petik"
+                                }
+                            },
+                            {
+                                "wf": "melati",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "melati",
+                                    "pos": "n",
+                                    "form": "melati"
+                                }
+                            }
+                        ],
+                        "syllables": 7
+                    },
+                    {
+                        "line": "Aku menyiapkan api",
+                        "words": [
+                            {
+                                "wf": "Aku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "aku",
+                                    "pos": "pron",
+                                    "form": "aku"
+                                }
+                            },
+                            {
+                                "wf": "menyiapkan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "siap",
+                                    "pos": "v",
+                                    "form": "meN-siap-kan"
+                                }
+                            },
+                            {
+                                "wf": "api",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "api",
+                                    "pos": "n",
+                                    "form": "api"
+                                }
+                            }
+                        ],
+                        "syllables": 7
+                    },
+                    {
+                        "line": "Engkau menangis di sini",
+                        "words": [
+                            {
+                                "wf": "Engkau",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "engkau",
+                                    "pos": "pron",
+                                    "form": "engkau"
+                                }
+                            },
+                            {
+                                "wf": "menangis",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tangis",
+                                    "pos": "v",
+                                    "form": "meN-tangis"
+                                }
+                            },
+                            {
+                                "wf": "di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "sini",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sini",
+                                    "pos": "pron",
+                                    "form": "sini"
+                                }
+                            }
+                        ],
+                        "syllables": 7
+                    },
+                    {
+                        "line": "Aku tak tahu akan pergi",
+                        "words": [
+                            {
+                                "wf": "Aku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "aku",
+                                    "pos": "pron",
+                                    "form": "aku"
+                                }
+                            },
+                            {
+                                "wf": "tak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tak",
+                                    "pos": "adv",
+                                    "form": "tak"
+                                }
+                            },
+                            {
+                                "wf": "tahu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tahu",
+                                    "pos": "v",
+                                    "form": "tahu"
+                                }
+                            },
+                            {
+                                "wf": "akan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "akan",
+                                    "pos": "v",
+                                    "form": "akan"
+                                }
+                            },
+                            {
+                                "wf": "pergi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pergi",
+                                    "pos": "v",
+                                    "form": "pergi"
+                                }
+                            }
+                        ],
+                        "syllables": 8
+                    }
+                ],
+                "num_lines": 4
+            },
+            {
+                "strof": "\r\n",
+                "lines": [
+                    {
+                        "line": "",
+                        "words": [],
+                        "syllables": 0
+                    }
+                ],
+                "num_lines": 1
+            },
+            {
+                "strof": "Pintu belantara itu terbuka\r\nBurung-burung rimba berkeliaran\r\nKita telah sampai di ujung jalan\r\nMemandang tamasya di sana",
+                "lines": [
+                    {
+                        "line": "Pintu belantara itu terbuka",
+                        "words": [
+                            {
+                                "wf": "Pintu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pintu",
+                                    "pos": "n",
+                                    "form": "pintu"
+                                }
+                            },
+                            {
+                                "wf": "belantara",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "belantara",
+                                    "pos": "a",
+                                    "form": "belantara"
+                                }
+                            },
+                            {
+                                "wf": "itu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "itu",
+                                    "pos": "pron|n",
+                                    "form": "itu"
+                                }
+                            },
+                            {
+                                "wf": "terbuka",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "buka",
+                                    "pos": "v",
+                                    "form": "ter-buka"
+                                }
+                            }
+                        ],
+                        "syllables": 11
+                    },
+                    {
+                        "line": "Burung-burung rimba berkeliaran",
+                        "words": [
+                            {
+                                "wf": "Burung-burung",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "burung",
+                                    "pos": "n",
+                                    "form": "burung-burung"
+                                }
+                            },
+                            {
+                                "wf": "rimba",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "rimba",
+                                    "pos": "n",
+                                    "form": "rimba"
+                                }
+                            },
+                            {
+                                "wf": "berkeliaran",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "keliar",
+                                    "pos": "v",
+                                    "form": "berkeliaran"
+                                }
+                            }
+                        ],
+                        "syllables": 11
+                    },
+                    {
+                        "line": "Kita telah sampai di ujung jalan",
+                        "words": [
+                            {
+                                "wf": "Kita",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kita",
+                                    "pos": "pron",
+                                    "form": "kita"
+                                }
+                            },
+                            {
+                                "wf": "telah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "telah",
+                                    "pos": "adv",
+                                    "form": "telah"
+                                }
+                            },
+                            {
+                                "wf": "sampai",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sampai",
+                                    "pos": "v",
+                                    "form": "sampai"
+                                }
+                            },
+                            {
+                                "wf": "di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "ujung",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ujung",
+                                    "pos": "n",
+                                    "form": "ujung"
+                                }
+                            },
+                            {
+                                "wf": "jalan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jalan",
+                                    "pos": "n|v|a",
+                                    "form": "jalan"
+                                }
+                            }
+                        ],
+                        "syllables": 11
+                    },
+                    {
+                        "line": "Memandang tamasya di sana",
+                        "words": [
+                            {
+                                "wf": "Memandang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pandang",
+                                    "pos": "v",
+                                    "form": "meN-pandang"
+                                }
+                            },
+                            {
+                                "wf": "tamasya",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tamasya",
+                                    "pos": "n",
+                                    "form": "tamasya"
+                                }
+                            },
+                            {
+                                "wf": "di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "sana",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sana",
+                                    "pos": "pron",
+                                    "form": "sana"
+                                }
+                            }
+                        ],
+                        "syllables": 9
+                    }
+                ],
+                "num_lines": 4
+            },
+            {
+                "strof": "\r\n",
+                "lines": [
+                    {
+                        "line": "",
+                        "words": [],
+                        "syllables": 0
+                    }
+                ],
+                "num_lines": 1
+            },
+            {
+                "strof": "Siapakah engkau siapakah aku\r\nSiapakah kita yang tersedu di ujung jalan itu",
+                "lines": [
+                    {
+                        "line": "Siapakah engkau siapakah aku",
+                        "words": [
+                            {
+                                "wf": "Siapakah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "siapa",
+                                    "pos": "pron",
+                                    "form": "siapa-kah"
+                                }
+                            },
+                            {
+                                "wf": "engkau",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "engkau",
+                                    "pos": "pron",
+                                    "form": "engkau"
+                                }
+                            },
+                            {
+                                "wf": "siapakah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "siapa",
+                                    "pos": "pron",
+                                    "form": "siapa-kah"
+                                }
+                            },
+                            {
+                                "wf": "aku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "aku",
+                                    "pos": "pron",
+                                    "form": "aku"
+                                }
+                            }
+                        ],
+                        "syllables": 12
+                    },
+                    {
+                        "line": "Siapakah kita yang tersedu di ujung jalan itu",
+                        "words": [
+                            {
+                                "wf": "Siapakah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "siapa",
+                                    "pos": "pron",
+                                    "form": "siapa-kah"
+                                }
+                            },
+                            {
+                                "wf": "kita",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kita",
+                                    "pos": "pron",
+                                    "form": "kita"
+                                }
+                            },
+                            {
+                                "wf": "yang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "yang",
+                                    "pos": "a|v|n",
+                                    "form": "yang"
+                                }
+                            },
+                            {
+                                "wf": "tersedu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sedu",
+                                    "pos": "n",
+                                    "form": "ter-sedu"
+                                }
+                            },
+                            {
+                                "wf": "di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "ujung",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ujung",
+                                    "pos": "n",
+                                    "form": "ujung"
+                                }
+                            },
+                            {
+                                "wf": "jalan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jalan",
+                                    "pos": "n|v|a",
+                                    "form": "jalan"
+                                }
+                            },
+                            {
+                                "wf": "itu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "itu",
+                                    "pos": "pron|n",
+                                    "form": "itu"
+                                }
+                            }
+                        ],
+                        "syllables": 17
+                    }
+                ],
+                "num_lines": 2
+            }
+        ]
+    }
+}

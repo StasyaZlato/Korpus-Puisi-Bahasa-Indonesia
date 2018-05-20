@@ -1,0 +1,731 @@
+{
+    "meta": {
+        "file_name": "564.json",
+        "id_bd": 564,
+        "author": "Sutan Takdir Alisyahbana",
+        "title": "Dalam gelombang",
+        "genre": "стихотворение",
+        "year": "---",
+        "num_lines": 14,
+        "rhyme": "Есть",
+        "syllables": [
+            8,
+            9,
+            9,
+            10,
+            11,
+            11,
+            10,
+            11,
+            10,
+            11,
+            10,
+            10,
+            12,
+            8
+        ],
+        "strofy": [
+            14
+        ]
+    },
+    "poem": {
+        "text": "{Alun bergulung naik meninggi,\r\nTurun melembah jauh ke bawah.\r\nLidah ombak menyerak buih,\r\nSurut kembali di air gemuruh.\r\nKami mengalun di samuderaMu,\r\nBersorak gembira tinggi membukit.\r\nSedih mengaduh jatuh ke bawah,\r\nSilih berganti tiada berhenti.\r\nDi dalam suka di dalam duka,\r\nWaktu bahagia waktu merana,\r\nMasa tertawa masa kecewa,\r\nKami berbuai dalam nafasMu,\r\nTiada kuasa tiada berdaya,\r\nTurun naik dalam namaMu.}",
+        "strof": [
+            {
+                "strof": "Alun bergulung naik meninggi,\r\nTurun melembah jauh ke bawah.\r\nLidah ombak menyerak buih,\r\nSurut kembali di air gemuruh.\r\nKami mengalun di samuderaMu,\r\nBersorak gembira tinggi membukit.\r\nSedih mengaduh jatuh ke bawah,\r\nSilih berganti tiada berhenti.\r\nDi dalam suka di dalam duka,\r\nWaktu bahagia waktu merana,\r\nMasa tertawa masa kecewa,\r\nKami berbuai dalam nafasMu,\r\nTiada kuasa tiada berdaya,\r\nTurun naik dalam namaMu.",
+                "lines": [
+                    {
+                        "line": "Alun bergulung naik meninggi,",
+                        "words": [
+                            {
+                                "wf": "Alun",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "alun",
+                                    "pos": "n",
+                                    "form": "alun"
+                                }
+                            },
+                            {
+                                "wf": "bergulung",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "gulung",
+                                    "pos": "v",
+                                    "form": "ber-gulung"
+                                }
+                            },
+                            {
+                                "wf": "naik",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "naik",
+                                    "pos": "v",
+                                    "form": "naik"
+                                }
+                            },
+                            {
+                                "wf": "meninggi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tinggi",
+                                    "pos": "v",
+                                    "form": "meN-tinggi"
+                                }
+                            },
+                            {
+                                "wf": ",",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 8
+                    },
+                    {
+                        "line": "Turun melembah jauh ke bawah.",
+                        "words": [
+                            {
+                                "wf": "Turun",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "turun",
+                                    "pos": "v",
+                                    "form": "turun"
+                                }
+                            },
+                            {
+                                "wf": "melembah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "melembah",
+                                    "pos": "v",
+                                    "form": "melembah"
+                                }
+                            },
+                            {
+                                "wf": "jauh",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jauh",
+                                    "pos": "a",
+                                    "form": "jauh"
+                                }
+                            },
+                            {
+                                "wf": "ke",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ke",
+                                    "pos": "p",
+                                    "form": "ke"
+                                }
+                            },
+                            {
+                                "wf": "bawah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bawah",
+                                    "pos": "n|v",
+                                    "form": "bawah"
+                                }
+                            },
+                            {
+                                "wf": ".",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 9
+                    },
+                    {
+                        "line": "Lidah ombak menyerak buih,",
+                        "words": [
+                            {
+                                "wf": "Lidah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lidah",
+                                    "pos": "n",
+                                    "form": "lidah"
+                                }
+                            },
+                            {
+                                "wf": "ombak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ombak",
+                                    "pos": "n",
+                                    "form": "ombak"
+                                }
+                            },
+                            {
+                                "wf": "menyerak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "menyerak",
+                                    "pos": "v",
+                                    "form": "menyerak"
+                                }
+                            },
+                            {
+                                "wf": "buih",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "buih",
+                                    "pos": "n",
+                                    "form": "buih"
+                                }
+                            },
+                            {
+                                "wf": ",",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 9
+                    },
+                    {
+                        "line": "Surut kembali di air gemuruh.",
+                        "words": [
+                            {
+                                "wf": "Surut",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "surut",
+                                    "pos": "a",
+                                    "form": "surut"
+                                }
+                            },
+                            {
+                                "wf": "kembali",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kembali",
+                                    "pos": "v",
+                                    "form": "kembali"
+                                }
+                            },
+                            {
+                                "wf": "di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "air",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "air",
+                                    "pos": "n",
+                                    "form": "air"
+                                }
+                            },
+                            {
+                                "wf": "gemuruh",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "gemuruh",
+                                    "pos": "a",
+                                    "form": "gemuruh"
+                                }
+                            },
+                            {
+                                "wf": ".",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "Kami mengalun di samuderaMu,",
+                        "words": [
+                            {
+                                "wf": "Kami",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kami",
+                                    "pos": "pron",
+                                    "form": "kami"
+                                }
+                            },
+                            {
+                                "wf": "mengalun",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "alun",
+                                    "pos": "v",
+                                    "form": "meN-alun"
+                                }
+                            },
+                            {
+                                "wf": "di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "samuderaMu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "samuderamu",
+                                    "pos": "?",
+                                    "form": "samuderamu"
+                                }
+                            },
+                            {
+                                "wf": ",",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 11
+                    },
+                    {
+                        "line": "Bersorak gembira tinggi membukit.",
+                        "words": [
+                            {
+                                "wf": "Bersorak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sorak",
+                                    "pos": "v",
+                                    "form": "ber-sorak"
+                                }
+                            },
+                            {
+                                "wf": "gembira",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "gembira",
+                                    "pos": "a",
+                                    "form": "gembira"
+                                }
+                            },
+                            {
+                                "wf": "tinggi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tinggi",
+                                    "pos": "a",
+                                    "form": "tinggi"
+                                }
+                            },
+                            {
+                                "wf": "membukit",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bukit",
+                                    "pos": "v",
+                                    "form": "meN-bukit"
+                                }
+                            },
+                            {
+                                "wf": ".",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 11
+                    },
+                    {
+                        "line": "Sedih mengaduh jatuh ke bawah,",
+                        "words": [
+                            {
+                                "wf": "Sedih",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sedih",
+                                    "pos": "n",
+                                    "form": "sedih"
+                                }
+                            },
+                            {
+                                "wf": "mengaduh",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "aduh",
+                                    "pos": "v",
+                                    "form": "meN-aduh"
+                                }
+                            },
+                            {
+                                "wf": "jatuh",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jatuh",
+                                    "pos": "v",
+                                    "form": "jatuh"
+                                }
+                            },
+                            {
+                                "wf": "ke",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ke",
+                                    "pos": "p",
+                                    "form": "ke"
+                                }
+                            },
+                            {
+                                "wf": "bawah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bawah",
+                                    "pos": "n|v",
+                                    "form": "bawah"
+                                }
+                            },
+                            {
+                                "wf": ",",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "Silih berganti tiada berhenti.",
+                        "words": [
+                            {
+                                "wf": "Silih",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "Silih",
+                                    "pos": "v|n",
+                                    "form": "Silih"
+                                }
+                            },
+                            {
+                                "wf": "berganti",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ganti",
+                                    "pos": "v",
+                                    "form": "ber-ganti"
+                                }
+                            },
+                            {
+                                "wf": "tiada",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tiada",
+                                    "pos": "v",
+                                    "form": "tiada"
+                                }
+                            },
+                            {
+                                "wf": "berhenti",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "henti",
+                                    "pos": "v",
+                                    "form": "ber-henti"
+                                }
+                            },
+                            {
+                                "wf": ".",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 11
+                    },
+                    {
+                        "line": "Di dalam suka di dalam duka,",
+                        "words": [
+                            {
+                                "wf": "Di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "dalam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dalam",
+                                    "pos": "a|n",
+                                    "form": "dalam"
+                                }
+                            },
+                            {
+                                "wf": "suka",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "suka",
+                                    "pos": "a|v",
+                                    "form": "suka"
+                                }
+                            },
+                            {
+                                "wf": "di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "dalam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dalam",
+                                    "pos": "a|n",
+                                    "form": "dalam"
+                                }
+                            },
+                            {
+                                "wf": "duka",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "duka",
+                                    "pos": "a",
+                                    "form": "duka"
+                                }
+                            },
+                            {
+                                "wf": ",",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "Waktu bahagia waktu merana,",
+                        "words": [
+                            {
+                                "wf": "Waktu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "waktu",
+                                    "pos": "n|p",
+                                    "form": "waktu"
+                                }
+                            },
+                            {
+                                "wf": "bahagia",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bahagia",
+                                    "pos": "n|a",
+                                    "form": "bahagia"
+                                }
+                            },
+                            {
+                                "wf": "waktu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "waktu",
+                                    "pos": "n|p",
+                                    "form": "waktu"
+                                }
+                            },
+                            {
+                                "wf": "merana",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "merana",
+                                    "pos": "a",
+                                    "form": "merana"
+                                }
+                            },
+                            {
+                                "wf": ",",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 11
+                    },
+                    {
+                        "line": "Masa tertawa masa kecewa,",
+                        "words": [
+                            {
+                                "wf": "Masa",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "masa",
+                                    "pos": "n",
+                                    "form": "masa"
+                                }
+                            },
+                            {
+                                "wf": "tertawa",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tawa",
+                                    "pos": "v",
+                                    "form": "ter-tawa"
+                                }
+                            },
+                            {
+                                "wf": "masa",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "masa",
+                                    "pos": "n",
+                                    "form": "masa"
+                                }
+                            },
+                            {
+                                "wf": "kecewa",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kecewa",
+                                    "pos": "v",
+                                    "form": "kecewa"
+                                }
+                            },
+                            {
+                                "wf": ",",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "Kami berbuai dalam nafasMu,",
+                        "words": [
+                            {
+                                "wf": "Kami",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kami",
+                                    "pos": "pron",
+                                    "form": "kami"
+                                }
+                            },
+                            {
+                                "wf": "berbuai",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "buai",
+                                    "pos": "v",
+                                    "form": "ber-buai"
+                                }
+                            },
+                            {
+                                "wf": "dalam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dalam",
+                                    "pos": "a|n",
+                                    "form": "dalam"
+                                }
+                            },
+                            {
+                                "wf": "nafasMu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "nafasmu",
+                                    "pos": "?",
+                                    "form": "nafasmu"
+                                }
+                            },
+                            {
+                                "wf": ",",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "Tiada kuasa tiada berdaya,",
+                        "words": [
+                            {
+                                "wf": "Tiada",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tiada",
+                                    "pos": "v",
+                                    "form": "tiada"
+                                }
+                            },
+                            {
+                                "wf": "kuasa",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kuasa",
+                                    "pos": "n|v",
+                                    "form": "kuasa"
+                                }
+                            },
+                            {
+                                "wf": "tiada",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tiada",
+                                    "pos": "v",
+                                    "form": "tiada"
+                                }
+                            },
+                            {
+                                "wf": "berdaya",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "daya",
+                                    "pos": "v",
+                                    "form": "ber-daya"
+                                }
+                            },
+                            {
+                                "wf": ",",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 12
+                    },
+                    {
+                        "line": "Turun naik dalam namaMu.",
+                        "words": [
+                            {
+                                "wf": "Turun",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "turun",
+                                    "pos": "v",
+                                    "form": "turun"
+                                }
+                            },
+                            {
+                                "wf": "naik",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "naik",
+                                    "pos": "v",
+                                    "form": "naik"
+                                }
+                            },
+                            {
+                                "wf": "dalam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dalam",
+                                    "pos": "a|n",
+                                    "form": "dalam"
+                                }
+                            },
+                            {
+                                "wf": "namaMu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "namamu",
+                                    "pos": "?",
+                                    "form": "namamu"
+                                }
+                            },
+                            {
+                                "wf": ".",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 8
+                    }
+                ],
+                "num_lines": 14
+            }
+        ]
+    }
+}

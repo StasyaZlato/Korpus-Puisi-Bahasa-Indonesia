@@ -1,0 +1,634 @@
+{
+    "meta": {
+        "file_name": "112.json",
+        "id_bd": 112,
+        "author": "Chairil Anwar",
+        "title": "Lagu biasa",
+        "genre": "стихотворение",
+        "year": 3.1943,
+        "num_lines": 12,
+        "rhyme": "Есть",
+        "syllables": [
+            15,
+            12,
+            15,
+            8,
+            7,
+            10,
+            8,
+            10,
+            12,
+            9,
+            12,
+            8
+        ],
+        "strofy": [
+            12
+        ]
+    },
+    "poem": {
+        "text": "Di teras rumah makan kami kini berhadapan\r\nBaru berkenalan. Cuma berpandangan\r\nSungguhpun samudra jiwa sudah selam berselam\r\nMasih saja berpandangan\r\nDalam lakon pertama\r\nOrkes meningkah dengan “Carmen” pula.\r\nIa mengerling. Ia ketawa\r\nDan rumput kering terus menyala\r\nIa berkata. Suaranya nyaring tinggi\r\nDarahku terhenti berlari\r\nKetika orkes memulai “Ave Maria”\r\nKuseret ia ke sana….",
+        "strof": [
+            {
+                "strof": "Di teras rumah makan kami kini berhadapan\r\nBaru berkenalan. Cuma berpandangan\r\nSungguhpun samudra jiwa sudah selam berselam\r\nMasih saja berpandangan\r\nDalam lakon pertama\r\nOrkes meningkah dengan “Carmen” pula.\r\nIa mengerling. Ia ketawa\r\nDan rumput kering terus menyala\r\nIa berkata. Suaranya nyaring tinggi\r\nDarahku terhenti berlari\r\nKetika orkes memulai “Ave Maria”\r\nKuseret ia ke sana….",
+                "lines": [
+                    {
+                        "line": "Di teras rumah makan kami kini berhadapan",
+                        "words": [
+                            {
+                                "wf": "Di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "teras",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "teras",
+                                    "pos": "a",
+                                    "form": "teras"
+                                }
+                            },
+                            {
+                                "wf": "rumah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "rumah",
+                                    "pos": "n",
+                                    "form": "rumah"
+                                }
+                            },
+                            {
+                                "wf": "makan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "makan",
+                                    "pos": "v",
+                                    "form": "makan"
+                                }
+                            },
+                            {
+                                "wf": "kami",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kami",
+                                    "pos": "pron",
+                                    "form": "kami"
+                                }
+                            },
+                            {
+                                "wf": "kini",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kini",
+                                    "pos": "n",
+                                    "form": "kini"
+                                }
+                            },
+                            {
+                                "wf": "berhadapan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "berhadapan",
+                                    "pos": "v",
+                                    "form": "berhadapan"
+                                }
+                            }
+                        ],
+                        "syllables": 15
+                    },
+                    {
+                        "line": "Baru berkenalan. Cuma berpandangan",
+                        "words": [
+                            {
+                                "wf": "Baru",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "baru",
+                                    "pos": "a|adv",
+                                    "form": "baru"
+                                }
+                            },
+                            {
+                                "wf": "berkenalan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kenal",
+                                    "pos": "v",
+                                    "form": "ber-kenal-an"
+                                }
+                            },
+                            {
+                                "wf": ". ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "Cuma",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "cuma",
+                                    "pos": "adv",
+                                    "form": "cuma"
+                                }
+                            },
+                            {
+                                "wf": "berpandangan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pandang",
+                                    "pos": "v",
+                                    "form": "ber-pandang-an"
+                                }
+                            }
+                        ],
+                        "syllables": 12
+                    },
+                    {
+                        "line": "Sungguhpun samudra jiwa sudah selam berselam",
+                        "words": [
+                            {
+                                "wf": "Sungguhpun",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sungguhpun",
+                                    "pos": "p",
+                                    "form": "sungguhpun"
+                                }
+                            },
+                            {
+                                "wf": "samudra",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "samudra",
+                                    "pos": "n",
+                                    "form": "samudra"
+                                }
+                            },
+                            {
+                                "wf": "jiwa",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jiwa",
+                                    "pos": "n",
+                                    "form": "jiwa"
+                                }
+                            },
+                            {
+                                "wf": "sudah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sudah",
+                                    "pos": "adv",
+                                    "form": "sudah"
+                                }
+                            },
+                            {
+                                "wf": "selam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "selam",
+                                    "pos": "v|n",
+                                    "form": "selam"
+                                }
+                            },
+                            {
+                                "wf": "berselam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "selam",
+                                    "pos": "v",
+                                    "form": "ber-selam"
+                                }
+                            }
+                        ],
+                        "syllables": 15
+                    },
+                    {
+                        "line": "Masih saja berpandangan",
+                        "words": [
+                            {
+                                "wf": "Masih",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "masih",
+                                    "pos": "n",
+                                    "form": "masih"
+                                }
+                            },
+                            {
+                                "wf": "saja",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "saja",
+                                    "pos": "adv",
+                                    "form": "saja"
+                                }
+                            },
+                            {
+                                "wf": "berpandangan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pandang",
+                                    "pos": "v",
+                                    "form": "ber-pandang-an"
+                                }
+                            }
+                        ],
+                        "syllables": 8
+                    },
+                    {
+                        "line": "Dalam lakon pertama",
+                        "words": [
+                            {
+                                "wf": "Dalam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dalam",
+                                    "pos": "a|n",
+                                    "form": "dalam"
+                                }
+                            },
+                            {
+                                "wf": "lakon",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lakon",
+                                    "pos": "n",
+                                    "form": "lakon"
+                                }
+                            },
+                            {
+                                "wf": "pertama",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pertama",
+                                    "pos": "num",
+                                    "form": "pertama"
+                                }
+                            }
+                        ],
+                        "syllables": 7
+                    },
+                    {
+                        "line": "Orkes meningkah dengan “Carmen” pula.",
+                        "words": [
+                            {
+                                "wf": "Orkes",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "orkes",
+                                    "pos": "?",
+                                    "form": "orkes"
+                                }
+                            },
+                            {
+                                "wf": "meningkah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tingkah",
+                                    "pos": "v",
+                                    "form": "meN-tingkah"
+                                }
+                            },
+                            {
+                                "wf": "dengan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dengan",
+                                    "pos": "p",
+                                    "form": "dengan"
+                                }
+                            },
+                            {
+                                "wf": " “",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "Carmen",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "carmen",
+                                    "pos": "?",
+                                    "form": "carmen"
+                                }
+                            },
+                            {
+                                "wf": "” ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "pula",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pula",
+                                    "pos": "p",
+                                    "form": "pula"
+                                }
+                            },
+                            {
+                                "wf": ".",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "Ia mengerling. Ia ketawa",
+                        "words": [
+                            {
+                                "wf": "Ia",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ia",
+                                    "pos": "n",
+                                    "form": "ia"
+                                }
+                            },
+                            {
+                                "wf": "mengerling",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kerling",
+                                    "pos": "v",
+                                    "form": "meN-kerling"
+                                }
+                            },
+                            {
+                                "wf": ". ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "Ia",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ia",
+                                    "pos": "n",
+                                    "form": "ia"
+                                }
+                            },
+                            {
+                                "wf": "ketawa",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ketawa",
+                                    "pos": "v",
+                                    "form": "ke-tawa"
+                                }
+                            }
+                        ],
+                        "syllables": 8
+                    },
+                    {
+                        "line": "Dan rumput kering terus menyala",
+                        "words": [
+                            {
+                                "wf": "Dan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dan",
+                                    "pos": "p",
+                                    "form": "dan"
+                                }
+                            },
+                            {
+                                "wf": "rumput",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "rumput",
+                                    "pos": "n",
+                                    "form": "rumput"
+                                }
+                            },
+                            {
+                                "wf": "kering",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kering",
+                                    "pos": "a",
+                                    "form": "kering"
+                                }
+                            },
+                            {
+                                "wf": "terus",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "terus",
+                                    "pos": "v",
+                                    "form": "terus"
+                                }
+                            },
+                            {
+                                "wf": "menyala",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "nyala",
+                                    "pos": "v",
+                                    "form": "meN-nyala"
+                                }
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "Ia berkata. Suaranya nyaring tinggi",
+                        "words": [
+                            {
+                                "wf": "Ia",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ia",
+                                    "pos": "n",
+                                    "form": "ia"
+                                }
+                            },
+                            {
+                                "wf": "berkata",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "a",
+                                    "pos": "v",
+                                    "form": "berkata"
+                                }
+                            },
+                            {
+                                "wf": ". ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "Suaranya",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "suara",
+                                    "pos": "n",
+                                    "form": "suara-nya"
+                                }
+                            },
+                            {
+                                "wf": "nyaring",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "nyaring",
+                                    "pos": "a",
+                                    "form": "nyaring"
+                                }
+                            },
+                            {
+                                "wf": "tinggi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tinggi",
+                                    "pos": "a",
+                                    "form": "tinggi"
+                                }
+                            }
+                        ],
+                        "syllables": 12
+                    },
+                    {
+                        "line": "Darahku terhenti berlari",
+                        "words": [
+                            {
+                                "wf": "Darahku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "darah",
+                                    "pos": "n",
+                                    "form": "darah-ku"
+                                }
+                            },
+                            {
+                                "wf": "terhenti",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "henti",
+                                    "pos": "v",
+                                    "form": "ter-henti"
+                                }
+                            },
+                            {
+                                "wf": "berlari",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lari",
+                                    "pos": "v",
+                                    "form": "ber-lari"
+                                }
+                            }
+                        ],
+                        "syllables": 9
+                    },
+                    {
+                        "line": "Ketika orkes memulai “Ave Maria”",
+                        "words": [
+                            {
+                                "wf": "Ketika",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ketika",
+                                    "pos": "n|p",
+                                    "form": "ketika"
+                                }
+                            },
+                            {
+                                "wf": "orkes",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "orkes",
+                                    "pos": "?",
+                                    "form": "orkes"
+                                }
+                            },
+                            {
+                                "wf": "memulai",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "memulai",
+                                    "pos": "v",
+                                    "form": "memulai"
+                                }
+                            },
+                            {
+                                "wf": " “",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "Ave",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ave",
+                                    "pos": "?",
+                                    "form": "ave"
+                                }
+                            },
+                            {
+                                "wf": "Maria",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "maria",
+                                    "pos": "n",
+                                    "form": "maria"
+                                }
+                            },
+                            {
+                                "wf": "”",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 12
+                    },
+                    {
+                        "line": "Kuseret ia ke sana….",
+                        "words": [
+                            {
+                                "wf": "Kuseret",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "Kuseret",
+                                    "pos": "v",
+                                    "form": "Kuseret"
+                                }
+                            },
+                            {
+                                "wf": "ia",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ia",
+                                    "pos": "n",
+                                    "form": "ia"
+                                }
+                            },
+                            {
+                                "wf": "ke",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ke",
+                                    "pos": "p",
+                                    "form": "ke"
+                                }
+                            },
+                            {
+                                "wf": "sana",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sana",
+                                    "pos": "pron",
+                                    "form": "sana"
+                                }
+                            },
+                            {
+                                "wf": "….",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 8
+                    }
+                ],
+                "num_lines": 12
+            }
+        ]
+    }
+}

@@ -1,0 +1,485 @@
+{
+    "meta": {
+        "file_name": "558.json",
+        "id_bd": 558,
+        "author": "Ajip Rosidi",
+        "title": "Warna",
+        "genre": "стихотворение",
+        "year": 1954,
+        "num_lines": 11,
+        "rhyme": "Есть",
+        "syllables": [
+            10,
+            8,
+            10,
+            8,
+            8,
+            5,
+            4,
+            8,
+            12,
+            9,
+            10
+        ],
+        "strofy": [
+            4,
+            1,
+            4,
+            1,
+            3
+        ]
+    },
+    "poem": {
+        "text": "{menyala warna membakar dada\r\nhari-hari penuh bisa\r\nwaktu dihabisi mimpi-mimpi\r\nbocah meningkat dewasa}\r\n{tiga jalan pertemuan\r\ndalam mengerti\r\ndalam diri\r\nmenyerah ke mata nyalang}\r\n{warna nyala dalam waktu dalam ruang\r\nselama jarak masih ada\r\nselama ia belum mengerti}",
+        "strof": [
+            {
+                "strof": "menyala warna membakar dada\r\nhari-hari penuh bisa\r\nwaktu dihabisi mimpi-mimpi\r\nbocah meningkat dewasa",
+                "lines": [
+                    {
+                        "line": "menyala warna membakar dada",
+                        "words": [
+                            {
+                                "wf": "menyala",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "nyala",
+                                    "pos": "v",
+                                    "form": "meN-nyala"
+                                }
+                            },
+                            {
+                                "wf": "warna",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "warna",
+                                    "pos": "n",
+                                    "form": "warna"
+                                }
+                            },
+                            {
+                                "wf": "membakar",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bakar",
+                                    "pos": "v",
+                                    "form": "meN-bakar"
+                                }
+                            },
+                            {
+                                "wf": "dada",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dada",
+                                    "pos": "n",
+                                    "form": "dada"
+                                }
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "hari-hari penuh bisa",
+                        "words": [
+                            {
+                                "wf": "hari-hari",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hari-hari",
+                                    "pos": "num",
+                                    "form": "hari-hari"
+                                }
+                            },
+                            {
+                                "wf": "penuh",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "penuh",
+                                    "pos": "a",
+                                    "form": "penuh"
+                                }
+                            },
+                            {
+                                "wf": "bisa",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bisa",
+                                    "pos": "v",
+                                    "form": "bisa"
+                                }
+                            }
+                        ],
+                        "syllables": 8
+                    },
+                    {
+                        "line": "waktu dihabisi mimpi-mimpi",
+                        "words": [
+                            {
+                                "wf": "waktu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "waktu",
+                                    "pos": "n|p",
+                                    "form": "waktu"
+                                }
+                            },
+                            {
+                                "wf": "dihabisi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dihabisi",
+                                    "pos": "v",
+                                    "form": "dihabisi"
+                                }
+                            },
+                            {
+                                "wf": "mimpi-mimpi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "mimpi",
+                                    "pos": "v",
+                                    "form": "mimpi-mimpi"
+                                }
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "bocah meningkat dewasa",
+                        "words": [
+                            {
+                                "wf": "bocah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bocah",
+                                    "pos": "n",
+                                    "form": "bocah"
+                                }
+                            },
+                            {
+                                "wf": "meningkat",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tingkat",
+                                    "pos": "v",
+                                    "form": "meN-tingkat"
+                                }
+                            },
+                            {
+                                "wf": "dewasa",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dewasa",
+                                    "pos": "",
+                                    "form": "dewasa"
+                                }
+                            }
+                        ],
+                        "syllables": 8
+                    }
+                ],
+                "num_lines": 4
+            },
+            {
+                "strof": "\r\n",
+                "lines": [
+                    {
+                        "line": "",
+                        "words": [],
+                        "syllables": 0
+                    }
+                ],
+                "num_lines": 1
+            },
+            {
+                "strof": "tiga jalan pertemuan\r\ndalam mengerti\r\ndalam diri\r\nmenyerah ke mata nyalang",
+                "lines": [
+                    {
+                        "line": "tiga jalan pertemuan",
+                        "words": [
+                            {
+                                "wf": "tiga",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tiga",
+                                    "pos": "num",
+                                    "form": "tiga"
+                                }
+                            },
+                            {
+                                "wf": "jalan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jalan",
+                                    "pos": "n|v|a",
+                                    "form": "jalan"
+                                }
+                            },
+                            {
+                                "wf": "pertemuan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pertemuan",
+                                    "pos": "n",
+                                    "form": "pertemuan"
+                                }
+                            }
+                        ],
+                        "syllables": 8
+                    },
+                    {
+                        "line": "dalam mengerti",
+                        "words": [
+                            {
+                                "wf": "dalam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dalam",
+                                    "pos": "a|n",
+                                    "form": "dalam"
+                                }
+                            },
+                            {
+                                "wf": "mengerti",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "erti",
+                                    "pos": "v",
+                                    "form": "meN-erti"
+                                }
+                            }
+                        ],
+                        "syllables": 5
+                    },
+                    {
+                        "line": "dalam diri",
+                        "words": [
+                            {
+                                "wf": "dalam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dalam",
+                                    "pos": "a|n",
+                                    "form": "dalam"
+                                }
+                            },
+                            {
+                                "wf": "diri",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "diri",
+                                    "pos": "n",
+                                    "form": "diri"
+                                }
+                            }
+                        ],
+                        "syllables": 4
+                    },
+                    {
+                        "line": "menyerah ke mata nyalang",
+                        "words": [
+                            {
+                                "wf": "menyerah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "serah",
+                                    "pos": "v",
+                                    "form": "meN-serah"
+                                }
+                            },
+                            {
+                                "wf": "ke",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ke",
+                                    "pos": "p",
+                                    "form": "ke"
+                                }
+                            },
+                            {
+                                "wf": "mata",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "mata",
+                                    "pos": "n",
+                                    "form": "mata"
+                                }
+                            },
+                            {
+                                "wf": "nyalang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "nyalang",
+                                    "pos": "a",
+                                    "form": "nyalang"
+                                }
+                            }
+                        ],
+                        "syllables": 8
+                    }
+                ],
+                "num_lines": 4
+            },
+            {
+                "strof": "\r\n",
+                "lines": [
+                    {
+                        "line": "",
+                        "words": [],
+                        "syllables": 0
+                    }
+                ],
+                "num_lines": 1
+            },
+            {
+                "strof": "warna nyala dalam waktu dalam ruang\r\nselama jarak masih ada\r\nselama ia belum mengerti",
+                "lines": [
+                    {
+                        "line": "warna nyala dalam waktu dalam ruang",
+                        "words": [
+                            {
+                                "wf": "warna",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "warna",
+                                    "pos": "n",
+                                    "form": "warna"
+                                }
+                            },
+                            {
+                                "wf": "nyala",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "nyala",
+                                    "pos": "n",
+                                    "form": "nyala"
+                                }
+                            },
+                            {
+                                "wf": "dalam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dalam",
+                                    "pos": "a|n",
+                                    "form": "dalam"
+                                }
+                            },
+                            {
+                                "wf": "waktu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "waktu",
+                                    "pos": "n|p",
+                                    "form": "waktu"
+                                }
+                            },
+                            {
+                                "wf": "dalam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dalam",
+                                    "pos": "a|n",
+                                    "form": "dalam"
+                                }
+                            },
+                            {
+                                "wf": "ruang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ruang",
+                                    "pos": "n",
+                                    "form": "ruang"
+                                }
+                            }
+                        ],
+                        "syllables": 12
+                    },
+                    {
+                        "line": "selama jarak masih ada",
+                        "words": [
+                            {
+                                "wf": "selama",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lama",
+                                    "pos": "n",
+                                    "form": "se-lama"
+                                }
+                            },
+                            {
+                                "wf": "jarak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jarak",
+                                    "pos": "n",
+                                    "form": "jarak"
+                                }
+                            },
+                            {
+                                "wf": "masih",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "masih",
+                                    "pos": "n",
+                                    "form": "masih"
+                                }
+                            },
+                            {
+                                "wf": "ada",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ada",
+                                    "pos": "v",
+                                    "form": "ada"
+                                }
+                            }
+                        ],
+                        "syllables": 9
+                    },
+                    {
+                        "line": "selama ia belum mengerti",
+                        "words": [
+                            {
+                                "wf": "selama",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lama",
+                                    "pos": "n",
+                                    "form": "se-lama"
+                                }
+                            },
+                            {
+                                "wf": "ia",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ia",
+                                    "pos": "n",
+                                    "form": "ia"
+                                }
+                            },
+                            {
+                                "wf": "belum",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "belum",
+                                    "pos": "adv",
+                                    "form": "belum"
+                                }
+                            },
+                            {
+                                "wf": "mengerti",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "erti",
+                                    "pos": "v",
+                                    "form": "meN-erti"
+                                }
+                            }
+                        ],
+                        "syllables": 10
+                    }
+                ],
+                "num_lines": 3
+            }
+        ]
+    }
+}

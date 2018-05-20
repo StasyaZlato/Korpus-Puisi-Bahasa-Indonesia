@@ -1,0 +1,602 @@
+{
+    "meta": {
+        "file_name": "605.json",
+        "id_bd": 605,
+        "author": "Umbu Landu Paranggi",
+        "title": "Kata, kata, kata",
+        "genre": "стихотворение",
+        "year": "---",
+        "num_lines": 14,
+        "rhyme": "Есть",
+        "syllables": [
+            9,
+            8,
+            8,
+            9,
+            10,
+            10,
+            10,
+            9,
+            8,
+            10,
+            11,
+            12,
+            10,
+            12
+        ],
+        "strofy": [
+            14
+        ]
+    },
+    "poem": {
+        "text": "{Kenangkanlah gumam pertama\r\nPertemuan tak terduga\r\nDi suatu kota pantai\r\nDi suatu hari kemarau\r\nDi suatu keasingan rindu\r\nDi suatu perjalanan biru\r\nKenangkanlah bisikan pertama\r\nRisau pertarungan kembara\r\nDuka percintaan sukma\r\nRahasia perjanjian sunyi\r\nKenangkanlah percakapan pertama\r\nGugusan waktu, napas dan peristiwa\r\nMungkin hanya angin, daun dan debu\r\nPesona terakhir nyanyian sajakku}",
+        "strof": [
+            {
+                "strof": "Kenangkanlah gumam pertama\r\nPertemuan tak terduga\r\nDi suatu kota pantai\r\nDi suatu hari kemarau\r\nDi suatu keasingan rindu\r\nDi suatu perjalanan biru\r\nKenangkanlah bisikan pertama\r\nRisau pertarungan kembara\r\nDuka percintaan sukma\r\nRahasia perjanjian sunyi\r\nKenangkanlah percakapan pertama\r\nGugusan waktu, napas dan peristiwa\r\nMungkin hanya angin, daun dan debu\r\nPesona terakhir nyanyian sajakku",
+                "lines": [
+                    {
+                        "line": "Kenangkanlah gumam pertama",
+                        "words": [
+                            {
+                                "wf": "Kenangkanlah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kenangkanlah",
+                                    "pos": "v",
+                                    "form": "kenangkanlah"
+                                }
+                            },
+                            {
+                                "wf": "gumam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "gumam",
+                                    "pos": "n",
+                                    "form": "gumam"
+                                }
+                            },
+                            {
+                                "wf": "pertama",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pertama",
+                                    "pos": "num",
+                                    "form": "pertama"
+                                }
+                            }
+                        ],
+                        "syllables": 9
+                    },
+                    {
+                        "line": "Pertemuan tak terduga",
+                        "words": [
+                            {
+                                "wf": "Pertemuan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pertemuan",
+                                    "pos": "n",
+                                    "form": "pertemuan"
+                                }
+                            },
+                            {
+                                "wf": "tak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tak",
+                                    "pos": "adv",
+                                    "form": "tak"
+                                }
+                            },
+                            {
+                                "wf": "terduga",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "duga",
+                                    "pos": "v",
+                                    "form": "ter-duga"
+                                }
+                            }
+                        ],
+                        "syllables": 8
+                    },
+                    {
+                        "line": "Di suatu kota pantai",
+                        "words": [
+                            {
+                                "wf": "Di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "suatu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "suatu",
+                                    "pos": "num",
+                                    "form": "suatu"
+                                }
+                            },
+                            {
+                                "wf": "kota",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kota",
+                                    "pos": "n",
+                                    "form": "kota"
+                                }
+                            },
+                            {
+                                "wf": "pantai",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pantai",
+                                    "pos": "n|a",
+                                    "form": "pantai"
+                                }
+                            }
+                        ],
+                        "syllables": 8
+                    },
+                    {
+                        "line": "Di suatu hari kemarau",
+                        "words": [
+                            {
+                                "wf": "Di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "suatu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "suatu",
+                                    "pos": "num",
+                                    "form": "suatu"
+                                }
+                            },
+                            {
+                                "wf": "hari",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hari",
+                                    "pos": "n",
+                                    "form": "hari"
+                                }
+                            },
+                            {
+                                "wf": "kemarau",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kemarau",
+                                    "pos": "a",
+                                    "form": "kemarau"
+                                }
+                            }
+                        ],
+                        "syllables": 9
+                    },
+                    {
+                        "line": "Di suatu keasingan rindu",
+                        "words": [
+                            {
+                                "wf": "Di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "suatu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "suatu",
+                                    "pos": "num",
+                                    "form": "suatu"
+                                }
+                            },
+                            {
+                                "wf": "keasingan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "asing",
+                                    "pos": "n",
+                                    "form": "ke-asing-an"
+                                }
+                            },
+                            {
+                                "wf": "rindu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "rindu",
+                                    "pos": "a",
+                                    "form": "rindu"
+                                }
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "Di suatu perjalanan biru",
+                        "words": [
+                            {
+                                "wf": "Di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "suatu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "suatu",
+                                    "pos": "num",
+                                    "form": "suatu"
+                                }
+                            },
+                            {
+                                "wf": "perjalanan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jalan",
+                                    "pos": "n",
+                                    "form": "per-jalan-an"
+                                }
+                            },
+                            {
+                                "wf": "biru",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "biru",
+                                    "pos": "n|a",
+                                    "form": "biru"
+                                }
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "Kenangkanlah bisikan pertama",
+                        "words": [
+                            {
+                                "wf": "Kenangkanlah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kenangkanlah",
+                                    "pos": "v",
+                                    "form": "kenangkanlah"
+                                }
+                            },
+                            {
+                                "wf": "bisikan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bisik",
+                                    "pos": "n",
+                                    "form": "bisik-an"
+                                }
+                            },
+                            {
+                                "wf": "pertama",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pertama",
+                                    "pos": "num",
+                                    "form": "pertama"
+                                }
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "Risau pertarungan kembara",
+                        "words": [
+                            {
+                                "wf": "Risau",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "risau",
+                                    "pos": "a",
+                                    "form": "risau"
+                                }
+                            },
+                            {
+                                "wf": "pertarungan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "b",
+                                    "pos": "n",
+                                    "form": "pertarungan"
+                                }
+                            },
+                            {
+                                "wf": "kembara",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kembara",
+                                    "pos": "?",
+                                    "form": "kembara"
+                                }
+                            }
+                        ],
+                        "syllables": 9
+                    },
+                    {
+                        "line": "Duka percintaan sukma",
+                        "words": [
+                            {
+                                "wf": "Duka",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "duka",
+                                    "pos": "a",
+                                    "form": "duka"
+                                }
+                            },
+                            {
+                                "wf": "percintaan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "cinta",
+                                    "pos": "n",
+                                    "form": "per-cinta-an"
+                                }
+                            },
+                            {
+                                "wf": "sukma",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sukma",
+                                    "pos": "n",
+                                    "form": "sukma"
+                                }
+                            }
+                        ],
+                        "syllables": 8
+                    },
+                    {
+                        "line": "Rahasia perjanjian sunyi",
+                        "words": [
+                            {
+                                "wf": "Rahasia",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "rahasia",
+                                    "pos": "n|a",
+                                    "form": "rahasia"
+                                }
+                            },
+                            {
+                                "wf": "perjanjian",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "janji",
+                                    "pos": "n",
+                                    "form": "per-janji-an"
+                                }
+                            },
+                            {
+                                "wf": "sunyi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sunyi",
+                                    "pos": "a",
+                                    "form": "sunyi"
+                                }
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "Kenangkanlah percakapan pertama",
+                        "words": [
+                            {
+                                "wf": "Kenangkanlah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kenangkanlah",
+                                    "pos": "v",
+                                    "form": "kenangkanlah"
+                                }
+                            },
+                            {
+                                "wf": "percakapan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "percakapan",
+                                    "pos": "n",
+                                    "form": "percakapan"
+                                }
+                            },
+                            {
+                                "wf": "pertama",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pertama",
+                                    "pos": "num",
+                                    "form": "pertama"
+                                }
+                            }
+                        ],
+                        "syllables": 11
+                    },
+                    {
+                        "line": "Gugusan waktu, napas dan peristiwa",
+                        "words": [
+                            {
+                                "wf": "Gugusan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "gugus",
+                                    "pos": "n",
+                                    "form": "gugus-an"
+                                }
+                            },
+                            {
+                                "wf": "waktu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "waktu",
+                                    "pos": "n|p",
+                                    "form": "waktu"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "napas",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "napas",
+                                    "pos": "n",
+                                    "form": "napas"
+                                }
+                            },
+                            {
+                                "wf": "dan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dan",
+                                    "pos": "p",
+                                    "form": "dan"
+                                }
+                            },
+                            {
+                                "wf": "peristiwa",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "peristiwa",
+                                    "pos": "n",
+                                    "form": "peristiwa"
+                                }
+                            }
+                        ],
+                        "syllables": 12
+                    },
+                    {
+                        "line": "Mungkin hanya angin, daun dan debu",
+                        "words": [
+                            {
+                                "wf": "Mungkin",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "mungkin",
+                                    "pos": "adv",
+                                    "form": "mungkin"
+                                }
+                            },
+                            {
+                                "wf": "hanya",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hanya",
+                                    "pos": "adv",
+                                    "form": "hanya"
+                                }
+                            },
+                            {
+                                "wf": "angin",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "angin",
+                                    "pos": "n",
+                                    "form": "angin"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "daun",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "daun",
+                                    "pos": "n",
+                                    "form": "daun"
+                                }
+                            },
+                            {
+                                "wf": "dan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dan",
+                                    "pos": "p",
+                                    "form": "dan"
+                                }
+                            },
+                            {
+                                "wf": "debu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "debu",
+                                    "pos": "n",
+                                    "form": "debu"
+                                }
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "Pesona terakhir nyanyian sajakku",
+                        "words": [
+                            {
+                                "wf": "Pesona",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pesona",
+                                    "pos": "n",
+                                    "form": "pesona"
+                                }
+                            },
+                            {
+                                "wf": "terakhir",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "akhir",
+                                    "pos": "a",
+                                    "form": "terakhir"
+                                }
+                            },
+                            {
+                                "wf": "nyanyian",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "nyanyi",
+                                    "pos": "n",
+                                    "form": "nyanyi-an"
+                                }
+                            },
+                            {
+                                "wf": "sajakku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sajak",
+                                    "pos": "n",
+                                    "form": "sajak-ku"
+                                }
+                            }
+                        ],
+                        "syllables": 12
+                    }
+                ],
+                "num_lines": 14
+            }
+        ]
+    }
+}

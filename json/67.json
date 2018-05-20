@@ -1,0 +1,659 @@
+{
+    "meta": {
+        "file_name": "67.json",
+        "id_bd": 67,
+        "author": "Amir Hamzah",
+        "title": "Nyanyian kabir i",
+        "genre": "религиозная поэзия: церковная песнь",
+        "year": "---",
+        "num_lines": 14,
+        "rhyme": "Спорадическая",
+        "syllables": [
+            13,
+            13,
+            4,
+            10,
+            3,
+            8,
+            9,
+            12,
+            11,
+            8,
+            7,
+            9,
+            15,
+            8
+        ],
+        "strofy": [
+            14
+        ]
+    },
+    "poem": {
+        "text": "Hatiku, hatiku, Sukma segala sukma\r\nHatiku, hatiku, Guru segala guru\r\nTelah hampir\r\nBangkit, bangkit hatiku dan kucup\r\nKakiNya\r\nKaki Guru maha-raya,\r\nSupaya detikan cintamu\r\nMemenuhi seluruh Kaki Gurumu\r\nTuan tidur, dari abad ke abad\r\nJagalah, hatiku, jaga\r\nPada subuh sentosa,\r\nJika embun menyejuk rumput.\r\nHendakkah tuan selalu bisu selaku batu,\r\nHatiku, aduh hatiku?",
+        "strof": [
+            {
+                "strof": "Hatiku, hatiku, Sukma segala sukma\r\nHatiku, hatiku, Guru segala guru\r\nTelah hampir\r\nBangkit, bangkit hatiku dan kucup\r\nKakiNya\r\nKaki Guru maha-raya,\r\nSupaya detikan cintamu\r\nMemenuhi seluruh Kaki Gurumu\r\nTuan tidur, dari abad ke abad\r\nJagalah, hatiku, jaga\r\nPada subuh sentosa,\r\nJika embun menyejuk rumput.\r\nHendakkah tuan selalu bisu selaku batu,\r\nHatiku, aduh hatiku?",
+                "lines": [
+                    {
+                        "line": "Hatiku, hatiku, Sukma segala sukma",
+                        "words": [
+                            {
+                                "wf": "Hatiku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hati",
+                                    "pos": "n",
+                                    "form": "hati-ku"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "hatiku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hati",
+                                    "pos": "n",
+                                    "form": "hati-ku"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "Sukma",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sukma",
+                                    "pos": "n",
+                                    "form": "sukma"
+                                }
+                            },
+                            {
+                                "wf": "segala",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "segala",
+                                    "pos": "num",
+                                    "form": "segala"
+                                }
+                            },
+                            {
+                                "wf": "sukma",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sukma",
+                                    "pos": "n",
+                                    "form": "sukma"
+                                }
+                            }
+                        ],
+                        "syllables": 13
+                    },
+                    {
+                        "line": "Hatiku, hatiku, Guru segala guru",
+                        "words": [
+                            {
+                                "wf": "Hatiku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hati",
+                                    "pos": "n",
+                                    "form": "hati-ku"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "hatiku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hati",
+                                    "pos": "n",
+                                    "form": "hati-ku"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "Guru",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "guru",
+                                    "pos": "n",
+                                    "form": "guru"
+                                }
+                            },
+                            {
+                                "wf": "segala",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "segala",
+                                    "pos": "num",
+                                    "form": "segala"
+                                }
+                            },
+                            {
+                                "wf": "guru",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "guru",
+                                    "pos": "n",
+                                    "form": "guru"
+                                }
+                            }
+                        ],
+                        "syllables": 13
+                    },
+                    {
+                        "line": "Telah hampir",
+                        "words": [
+                            {
+                                "wf": "Telah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "telah",
+                                    "pos": "adv",
+                                    "form": "telah"
+                                }
+                            },
+                            {
+                                "wf": "hampir",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hampir",
+                                    "pos": "adv",
+                                    "form": "hampir"
+                                }
+                            }
+                        ],
+                        "syllables": 4
+                    },
+                    {
+                        "line": "Bangkit, bangkit hatiku dan kucup",
+                        "words": [
+                            {
+                                "wf": "Bangkit",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bangkit",
+                                    "pos": "v",
+                                    "form": "bangkit"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "bangkit",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bangkit",
+                                    "pos": "v",
+                                    "form": "bangkit"
+                                }
+                            },
+                            {
+                                "wf": "hatiku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hati",
+                                    "pos": "n",
+                                    "form": "hati-ku"
+                                }
+                            },
+                            {
+                                "wf": "dan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dan",
+                                    "pos": "p",
+                                    "form": "dan"
+                                }
+                            },
+                            {
+                                "wf": "kucup",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kucup",
+                                    "pos": "",
+                                    "form": "kucup"
+                                }
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "KakiNya",
+                        "words": [
+                            {
+                                "wf": "KakiNya",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kakinya",
+                                    "pos": "?",
+                                    "form": "kakinya"
+                                }
+                            }
+                        ],
+                        "syllables": 3
+                    },
+                    {
+                        "line": "Kaki Guru maha-raya,",
+                        "words": [
+                            {
+                                "wf": "Kaki",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kaki",
+                                    "pos": "n",
+                                    "form": "kaki"
+                                }
+                            },
+                            {
+                                "wf": "Guru",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "guru",
+                                    "pos": "n",
+                                    "form": "guru"
+                                }
+                            },
+                            {
+                                "wf": "maha-raya",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "maha",
+                                    "pos": "?",
+                                    "form": "maha-raya"
+                                }
+                            },
+                            {
+                                "wf": ",",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 8
+                    },
+                    {
+                        "line": "Supaya detikan cintamu",
+                        "words": [
+                            {
+                                "wf": "Supaya",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "supaya",
+                                    "pos": "p",
+                                    "form": "supaya"
+                                }
+                            },
+                            {
+                                "wf": "detikan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "detik",
+                                    "pos": "v",
+                                    "form": "detik-an"
+                                }
+                            },
+                            {
+                                "wf": "cintamu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "cinta",
+                                    "pos": "a",
+                                    "form": "cinta-mu"
+                                }
+                            }
+                        ],
+                        "syllables": 9
+                    },
+                    {
+                        "line": "Memenuhi seluruh Kaki Gurumu",
+                        "words": [
+                            {
+                                "wf": "Memenuhi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "penuh",
+                                    "pos": "v",
+                                    "form": "meN-penuh-i"
+                                }
+                            },
+                            {
+                                "wf": "seluruh",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "seluruh",
+                                    "pos": "num",
+                                    "form": "seluruh"
+                                }
+                            },
+                            {
+                                "wf": "Kaki",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kaki",
+                                    "pos": "n",
+                                    "form": "kaki"
+                                }
+                            },
+                            {
+                                "wf": "Gurumu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "guru",
+                                    "pos": "n",
+                                    "form": "guru-mu"
+                                }
+                            }
+                        ],
+                        "syllables": 12
+                    },
+                    {
+                        "line": "Tuan tidur, dari abad ke abad",
+                        "words": [
+                            {
+                                "wf": "Tuan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tuan",
+                                    "pos": "n",
+                                    "form": "tuan"
+                                }
+                            },
+                            {
+                                "wf": "tidur",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tidur",
+                                    "pos": "v",
+                                    "form": "tidur"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "dari",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dari",
+                                    "pos": "p",
+                                    "form": "dari"
+                                }
+                            },
+                            {
+                                "wf": "abad",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "abad",
+                                    "pos": "n",
+                                    "form": "abad"
+                                }
+                            },
+                            {
+                                "wf": "ke",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ke",
+                                    "pos": "p",
+                                    "form": "ke"
+                                }
+                            },
+                            {
+                                "wf": "abad",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "abad",
+                                    "pos": "n",
+                                    "form": "abad"
+                                }
+                            }
+                        ],
+                        "syllables": 11
+                    },
+                    {
+                        "line": "Jagalah, hatiku, jaga",
+                        "words": [
+                            {
+                                "wf": "Jagalah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jaga",
+                                    "pos": "v",
+                                    "form": "jaga-lah"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "hatiku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hati",
+                                    "pos": "n",
+                                    "form": "hati-ku"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "jaga",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jaga",
+                                    "pos": "v",
+                                    "form": "jaga"
+                                }
+                            }
+                        ],
+                        "syllables": 8
+                    },
+                    {
+                        "line": "Pada subuh sentosa,",
+                        "words": [
+                            {
+                                "wf": "Pada",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pada",
+                                    "pos": "p",
+                                    "form": "pada"
+                                }
+                            },
+                            {
+                                "wf": "subuh",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "subuh",
+                                    "pos": "n",
+                                    "form": "subuh"
+                                }
+                            },
+                            {
+                                "wf": "sentosa",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sentosa",
+                                    "pos": "a",
+                                    "form": "sentosa"
+                                }
+                            },
+                            {
+                                "wf": ",",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 7
+                    },
+                    {
+                        "line": "Jika embun menyejuk rumput.",
+                        "words": [
+                            {
+                                "wf": "Jika",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jika",
+                                    "pos": "p",
+                                    "form": "jika"
+                                }
+                            },
+                            {
+                                "wf": "embun",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "embun",
+                                    "pos": "n",
+                                    "form": "embun"
+                                }
+                            },
+                            {
+                                "wf": "menyejuk",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sejuk",
+                                    "pos": "v",
+                                    "form": "meN-sejuk"
+                                }
+                            },
+                            {
+                                "wf": "rumput",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "rumput",
+                                    "pos": "n",
+                                    "form": "rumput"
+                                }
+                            },
+                            {
+                                "wf": ".",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 9
+                    },
+                    {
+                        "line": "Hendakkah tuan selalu bisu selaku batu,",
+                        "words": [
+                            {
+                                "wf": "Hendakkah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hendak",
+                                    "pos": "adv",
+                                    "form": "hendak-kah"
+                                }
+                            },
+                            {
+                                "wf": "tuan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tuan",
+                                    "pos": "n",
+                                    "form": "tuan"
+                                }
+                            },
+                            {
+                                "wf": "selalu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "selalu",
+                                    "pos": "adv",
+                                    "form": "selalu"
+                                }
+                            },
+                            {
+                                "wf": "bisu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bisu",
+                                    "pos": "a",
+                                    "form": "bisu"
+                                }
+                            },
+                            {
+                                "wf": "selaku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "laku",
+                                    "pos": "p",
+                                    "form": "se-laku"
+                                }
+                            },
+                            {
+                                "wf": "batu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "batu",
+                                    "pos": "n",
+                                    "form": "batu"
+                                }
+                            },
+                            {
+                                "wf": ",",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 15
+                    },
+                    {
+                        "line": "Hatiku, aduh hatiku?",
+                        "words": [
+                            {
+                                "wf": "Hatiku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hati",
+                                    "pos": "n",
+                                    "form": "hati-ku"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "aduh",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "aduh",
+                                    "pos": "a",
+                                    "form": "aduh"
+                                }
+                            },
+                            {
+                                "wf": "hatiku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hati",
+                                    "pos": "n",
+                                    "form": "hati-ku"
+                                }
+                            },
+                            {
+                                "wf": "?",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 8
+                    }
+                ],
+                "num_lines": 14
+            }
+        ]
+    }
+}

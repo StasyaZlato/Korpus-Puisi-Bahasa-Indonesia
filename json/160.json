@@ -1,0 +1,614 @@
+{
+    "meta": {
+        "file_name": "160.json",
+        "id_bd": 160,
+        "author": "Chairil Anwar",
+        "title": "Sudah dulu lagi",
+        "genre": "стихотворение",
+        "year": 1948,
+        "num_lines": 10,
+        "rhyme": "Есть",
+        "syllables": [
+            12,
+            16,
+            16,
+            14,
+            16,
+            4,
+            16,
+            6,
+            12,
+            16
+        ],
+        "strofy": [
+            10
+        ]
+    },
+    "poem": {
+        "text": "Sudah dulu lagi terjadi begini\r\nJari tidak bakal teranjak dari petikan bedil\r\nJangan tanya mengapa jari cari tempat di sini\r\nAku tidak tahu tanggal serta alasan lagi\r\nDan jangan tanya siapa akan menyiapkan liang\r\npenghabisan\r\nYang akan terima pusaka: kedamaian antara\r\nruntuhan menara\r\nSudah dulu lagi, sudah dulu lagi\r\nJari tidak bakal teranjak dari petikan bedil.",
+        "strof": [
+            {
+                "strof": "Sudah dulu lagi terjadi begini\r\nJari tidak bakal teranjak dari petikan bedil\r\nJangan tanya mengapa jari cari tempat di sini\r\nAku tidak tahu tanggal serta alasan lagi\r\nDan jangan tanya siapa akan menyiapkan liang\r\npenghabisan\r\nYang akan terima pusaka: kedamaian antara\r\nruntuhan menara\r\nSudah dulu lagi, sudah dulu lagi\r\nJari tidak bakal teranjak dari petikan bedil.",
+                "lines": [
+                    {
+                        "line": "Sudah dulu lagi terjadi begini",
+                        "words": [
+                            {
+                                "wf": "Sudah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sudah",
+                                    "pos": "adv",
+                                    "form": "sudah"
+                                }
+                            },
+                            {
+                                "wf": "dulu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dulu",
+                                    "pos": "?",
+                                    "form": "dulu"
+                                }
+                            },
+                            {
+                                "wf": "lagi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lagi",
+                                    "pos": "adv|p",
+                                    "form": "lagi"
+                                }
+                            },
+                            {
+                                "wf": "terjadi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jadi",
+                                    "pos": "v",
+                                    "form": "ter-jadi"
+                                }
+                            },
+                            {
+                                "wf": "begini",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "begini",
+                                    "pos": "pron",
+                                    "form": "begini"
+                                }
+                            }
+                        ],
+                        "syllables": 12
+                    },
+                    {
+                        "line": "Jari tidak bakal teranjak dari petikan bedil",
+                        "words": [
+                            {
+                                "wf": "Jari",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jari",
+                                    "pos": "n",
+                                    "form": "jari"
+                                }
+                            },
+                            {
+                                "wf": "tidak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tidak",
+                                    "pos": "adv",
+                                    "form": "tidak"
+                                }
+                            },
+                            {
+                                "wf": "bakal",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bakal",
+                                    "pos": "n|adv|p",
+                                    "form": "bakal"
+                                }
+                            },
+                            {
+                                "wf": "teranjak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "teranjak",
+                                    "pos": "v",
+                                    "form": "teranjak"
+                                }
+                            },
+                            {
+                                "wf": "dari",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dari",
+                                    "pos": "p",
+                                    "form": "dari"
+                                }
+                            },
+                            {
+                                "wf": "petikan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "petik",
+                                    "pos": "n",
+                                    "form": "petik-an"
+                                }
+                            },
+                            {
+                                "wf": "bedil",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bedil",
+                                    "pos": "n",
+                                    "form": "bedil"
+                                }
+                            }
+                        ],
+                        "syllables": 16
+                    },
+                    {
+                        "line": "Jangan tanya mengapa jari cari tempat di sini",
+                        "words": [
+                            {
+                                "wf": "Jangan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jangan",
+                                    "pos": "adv",
+                                    "form": "jangan"
+                                }
+                            },
+                            {
+                                "wf": "tanya",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tanya",
+                                    "pos": "n|v",
+                                    "form": "tanya"
+                                }
+                            },
+                            {
+                                "wf": "mengapa",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "apa",
+                                    "pos": "pron",
+                                    "form": "meN-apa"
+                                }
+                            },
+                            {
+                                "wf": "jari",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jari",
+                                    "pos": "n",
+                                    "form": "jari"
+                                }
+                            },
+                            {
+                                "wf": "cari",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "cari",
+                                    "pos": "v",
+                                    "form": "cari"
+                                }
+                            },
+                            {
+                                "wf": "tempat",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tempat",
+                                    "pos": "n",
+                                    "form": "tempat"
+                                }
+                            },
+                            {
+                                "wf": "di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "sini",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sini",
+                                    "pos": "pron",
+                                    "form": "sini"
+                                }
+                            }
+                        ],
+                        "syllables": 16
+                    },
+                    {
+                        "line": "Aku tidak tahu tanggal serta alasan lagi",
+                        "words": [
+                            {
+                                "wf": "Aku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "aku",
+                                    "pos": "pron",
+                                    "form": "aku"
+                                }
+                            },
+                            {
+                                "wf": "tidak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tidak",
+                                    "pos": "adv",
+                                    "form": "tidak"
+                                }
+                            },
+                            {
+                                "wf": "tahu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tahu",
+                                    "pos": "v",
+                                    "form": "tahu"
+                                }
+                            },
+                            {
+                                "wf": "tanggal",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tanggal",
+                                    "pos": "v",
+                                    "form": "tanggal"
+                                }
+                            },
+                            {
+                                "wf": "serta",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "serta",
+                                    "pos": "p",
+                                    "form": "serta"
+                                }
+                            },
+                            {
+                                "wf": "alasan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "alas",
+                                    "pos": "v",
+                                    "form": "alas-an"
+                                }
+                            },
+                            {
+                                "wf": "lagi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lagi",
+                                    "pos": "adv|p",
+                                    "form": "lagi"
+                                }
+                            }
+                        ],
+                        "syllables": 14
+                    },
+                    {
+                        "line": "Dan jangan tanya siapa akan menyiapkan liang",
+                        "words": [
+                            {
+                                "wf": "Dan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dan",
+                                    "pos": "p",
+                                    "form": "dan"
+                                }
+                            },
+                            {
+                                "wf": "jangan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jangan",
+                                    "pos": "adv",
+                                    "form": "jangan"
+                                }
+                            },
+                            {
+                                "wf": "tanya",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tanya",
+                                    "pos": "n|v",
+                                    "form": "tanya"
+                                }
+                            },
+                            {
+                                "wf": "siapa",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "siapa",
+                                    "pos": "pron",
+                                    "form": "siapa"
+                                }
+                            },
+                            {
+                                "wf": "akan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "akan",
+                                    "pos": "v",
+                                    "form": "akan"
+                                }
+                            },
+                            {
+                                "wf": "menyiapkan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "siap",
+                                    "pos": "v",
+                                    "form": "meN-siap-kan"
+                                }
+                            },
+                            {
+                                "wf": "liang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "liang",
+                                    "pos": "n",
+                                    "form": "liang"
+                                }
+                            }
+                        ],
+                        "syllables": 16
+                    },
+                    {
+                        "line": "penghabisan",
+                        "words": [
+                            {
+                                "wf": "penghabisan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "habis",
+                                    "pos": "n",
+                                    "form": "peN-habis-an"
+                                }
+                            }
+                        ],
+                        "syllables": 4
+                    },
+                    {
+                        "line": "Yang akan terima pusaka: kedamaian antara",
+                        "words": [
+                            {
+                                "wf": "Yang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "yang",
+                                    "pos": "a|v|n",
+                                    "form": "yang"
+                                }
+                            },
+                            {
+                                "wf": "akan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "akan",
+                                    "pos": "v",
+                                    "form": "akan"
+                                }
+                            },
+                            {
+                                "wf": "terima",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "terima",
+                                    "pos": "v",
+                                    "form": "terima"
+                                }
+                            },
+                            {
+                                "wf": "pusaka",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pusaka",
+                                    "pos": "n",
+                                    "form": "pusaka"
+                                }
+                            },
+                            {
+                                "wf": ": ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "kedamaian",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "damai",
+                                    "pos": "n",
+                                    "form": "ke-damai-an"
+                                }
+                            },
+                            {
+                                "wf": "antara",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "antara",
+                                    "pos": "n|p|a",
+                                    "form": "antara"
+                                }
+                            }
+                        ],
+                        "syllables": 16
+                    },
+                    {
+                        "line": "runtuhan menara",
+                        "words": [
+                            {
+                                "wf": "runtuhan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "runtuh",
+                                    "pos": "n",
+                                    "form": "runtuh-an"
+                                }
+                            },
+                            {
+                                "wf": "menara",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "menara",
+                                    "pos": "n",
+                                    "form": "menara"
+                                }
+                            }
+                        ],
+                        "syllables": 6
+                    },
+                    {
+                        "line": "Sudah dulu lagi, sudah dulu lagi",
+                        "words": [
+                            {
+                                "wf": "Sudah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sudah",
+                                    "pos": "adv",
+                                    "form": "sudah"
+                                }
+                            },
+                            {
+                                "wf": "dulu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dulu",
+                                    "pos": "?",
+                                    "form": "dulu"
+                                }
+                            },
+                            {
+                                "wf": "lagi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lagi",
+                                    "pos": "adv|p",
+                                    "form": "lagi"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "sudah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sudah",
+                                    "pos": "adv",
+                                    "form": "sudah"
+                                }
+                            },
+                            {
+                                "wf": "dulu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dulu",
+                                    "pos": "?",
+                                    "form": "dulu"
+                                }
+                            },
+                            {
+                                "wf": "lagi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lagi",
+                                    "pos": "adv|p",
+                                    "form": "lagi"
+                                }
+                            }
+                        ],
+                        "syllables": 12
+                    },
+                    {
+                        "line": "Jari tidak bakal teranjak dari petikan bedil.",
+                        "words": [
+                            {
+                                "wf": "Jari",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jari",
+                                    "pos": "n",
+                                    "form": "jari"
+                                }
+                            },
+                            {
+                                "wf": "tidak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tidak",
+                                    "pos": "adv",
+                                    "form": "tidak"
+                                }
+                            },
+                            {
+                                "wf": "bakal",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bakal",
+                                    "pos": "n|adv|p",
+                                    "form": "bakal"
+                                }
+                            },
+                            {
+                                "wf": "teranjak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "teranjak",
+                                    "pos": "v",
+                                    "form": "teranjak"
+                                }
+                            },
+                            {
+                                "wf": "dari",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dari",
+                                    "pos": "p",
+                                    "form": "dari"
+                                }
+                            },
+                            {
+                                "wf": "petikan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "petik",
+                                    "pos": "n",
+                                    "form": "petik-an"
+                                }
+                            },
+                            {
+                                "wf": "bedil",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bedil",
+                                    "pos": "n",
+                                    "form": "bedil"
+                                }
+                            },
+                            {
+                                "wf": ".",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 16
+                    }
+                ],
+                "num_lines": 10
+            }
+        ]
+    }
+}

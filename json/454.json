@@ -1,0 +1,734 @@
+{
+    "meta": {
+        "file_name": "454.json",
+        "id_bd": 454,
+        "author": "Rustam Effendi",
+        "title": "Mengeluh i",
+        "genre": "стихотворение",
+        "year": "---",
+        "num_lines": 14,
+        "rhyme": "Есть",
+        "syllables": [
+            10,
+            11,
+            10,
+            11,
+            10,
+            10,
+            9,
+            11,
+            10,
+            10,
+            11,
+            10,
+            10,
+            11
+        ],
+        "strofy": [
+            14
+        ]
+    },
+    "poem": {
+        "text": "{Bukanlah beta berpijak bunga,\r\nMelalui hidup menuju makam\r\nSetiap saat disimbur sukar,\r\nBermandi darah dicucurkan dendam.\r\nMenangis mata melihat makhluk,\r\nBerharta bukan berhak pun bukan\r\nInilah nasib negeri ‘nanda,\r\nMemerah madu menguruskan badan.\r\nBa’mana beta bersuka cita,\r\nRatapan ra’yat riuhan gaduh,\r\nMembobos masuk menyatu kalbuku.\r\nBa’mana boleh berkata beta,\r\nSuara sebat sedanan rusuh,\r\nMenghimpit madah, gubahan cintaku.}",
+        "strof": [
+            {
+                "strof": "Bukanlah beta berpijak bunga,\r\nMelalui hidup menuju makam\r\nSetiap saat disimbur sukar,\r\nBermandi darah dicucurkan dendam.\r\nMenangis mata melihat makhluk,\r\nBerharta bukan berhak pun bukan\r\nInilah nasib negeri ‘nanda,\r\nMemerah madu menguruskan badan.\r\nBa’mana beta bersuka cita,\r\nRatapan ra’yat riuhan gaduh,\r\nMembobos masuk menyatu kalbuku.\r\nBa’mana boleh berkata beta,\r\nSuara sebat sedanan rusuh,\r\nMenghimpit madah, gubahan cintaku.",
+                "lines": [
+                    {
+                        "line": "Bukanlah beta berpijak bunga,",
+                        "words": [
+                            {
+                                "wf": "Bukanlah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bukan",
+                                    "pos": "v",
+                                    "form": "bukan-lah"
+                                }
+                            },
+                            {
+                                "wf": "beta",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "beta",
+                                    "pos": "v",
+                                    "form": "beta"
+                                }
+                            },
+                            {
+                                "wf": "berpijak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pijak",
+                                    "pos": "v",
+                                    "form": "ber-pijak"
+                                }
+                            },
+                            {
+                                "wf": "bunga",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bunga",
+                                    "pos": "n",
+                                    "form": "bunga"
+                                }
+                            },
+                            {
+                                "wf": ",",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "Melalui hidup menuju makam",
+                        "words": [
+                            {
+                                "wf": "Melalui",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lalu",
+                                    "pos": "v",
+                                    "form": "meN-lalu-i"
+                                }
+                            },
+                            {
+                                "wf": "hidup",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hidup",
+                                    "pos": "v",
+                                    "form": "hidup"
+                                }
+                            },
+                            {
+                                "wf": "menuju",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tuju",
+                                    "pos": "v",
+                                    "form": "meN-tuju"
+                                }
+                            },
+                            {
+                                "wf": "makam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "makam",
+                                    "pos": "n",
+                                    "form": "makam"
+                                }
+                            }
+                        ],
+                        "syllables": 11
+                    },
+                    {
+                        "line": "Setiap saat disimbur sukar,",
+                        "words": [
+                            {
+                                "wf": "Setiap",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tiap",
+                                    "pos": "num",
+                                    "form": "se-tiap"
+                                }
+                            },
+                            {
+                                "wf": "saat",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "saat",
+                                    "pos": "n",
+                                    "form": "saat"
+                                }
+                            },
+                            {
+                                "wf": "disimbur",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "simbur",
+                                    "pos": "v",
+                                    "form": "di-simbur"
+                                }
+                            },
+                            {
+                                "wf": "sukar",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sukar",
+                                    "pos": "a",
+                                    "form": "sukar"
+                                }
+                            },
+                            {
+                                "wf": ",",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "Bermandi darah dicucurkan dendam.",
+                        "words": [
+                            {
+                                "wf": "Bermandi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "mandi",
+                                    "pos": "v",
+                                    "form": "ber-mandi"
+                                }
+                            },
+                            {
+                                "wf": "darah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "darah",
+                                    "pos": "n",
+                                    "form": "darah"
+                                }
+                            },
+                            {
+                                "wf": "dicucurkan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dicucurkan",
+                                    "pos": "v",
+                                    "form": "dicucurkan"
+                                }
+                            },
+                            {
+                                "wf": "dendam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dendam",
+                                    "pos": "a",
+                                    "form": "dendam"
+                                }
+                            },
+                            {
+                                "wf": ".",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 11
+                    },
+                    {
+                        "line": "Menangis mata melihat makhluk,",
+                        "words": [
+                            {
+                                "wf": "Menangis",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tangis",
+                                    "pos": "v",
+                                    "form": "meN-tangis"
+                                }
+                            },
+                            {
+                                "wf": "mata",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "mata",
+                                    "pos": "n",
+                                    "form": "mata"
+                                }
+                            },
+                            {
+                                "wf": "melihat",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lihat",
+                                    "pos": "v",
+                                    "form": "meN-lihat"
+                                }
+                            },
+                            {
+                                "wf": "makhluk",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "makhluk",
+                                    "pos": "n",
+                                    "form": "makhluk"
+                                }
+                            },
+                            {
+                                "wf": ",",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "Berharta bukan berhak pun bukan",
+                        "words": [
+                            {
+                                "wf": "Berharta",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "harta",
+                                    "pos": "v",
+                                    "form": "ber-harta"
+                                }
+                            },
+                            {
+                                "wf": "bukan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bukan",
+                                    "pos": "n",
+                                    "form": "bukan"
+                                }
+                            },
+                            {
+                                "wf": "berhak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hak",
+                                    "pos": "v",
+                                    "form": "ber-hak"
+                                }
+                            },
+                            {
+                                "wf": "pun",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pun",
+                                    "pos": "p",
+                                    "form": "pun"
+                                }
+                            },
+                            {
+                                "wf": "bukan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bukan",
+                                    "pos": "n",
+                                    "form": "bukan"
+                                }
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "Inilah nasib negeri ‘nanda,",
+                        "words": [
+                            {
+                                "wf": "Inilah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ini",
+                                    "pos": "pron",
+                                    "form": "ini-lah"
+                                }
+                            },
+                            {
+                                "wf": "nasib",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "nasib",
+                                    "pos": "n",
+                                    "form": "nasib"
+                                }
+                            },
+                            {
+                                "wf": "negeri",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "negeri",
+                                    "pos": "n",
+                                    "form": "negeri"
+                                }
+                            },
+                            {
+                                "wf": " ‘",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "nanda",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "nanda",
+                                    "pos": "n",
+                                    "form": "nanda"
+                                }
+                            },
+                            {
+                                "wf": ",",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 9
+                    },
+                    {
+                        "line": "Memerah madu menguruskan badan.",
+                        "words": [
+                            {
+                                "wf": "Memerah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "merah",
+                                    "pos": "v",
+                                    "form": "meN-merah"
+                                }
+                            },
+                            {
+                                "wf": "madu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "madu",
+                                    "pos": "n",
+                                    "form": "madu"
+                                }
+                            },
+                            {
+                                "wf": "menguruskan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "urus",
+                                    "pos": "v",
+                                    "form": "meN-kurus-kan"
+                                }
+                            },
+                            {
+                                "wf": "badan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "badan",
+                                    "pos": "n",
+                                    "form": "badan"
+                                }
+                            },
+                            {
+                                "wf": ".",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 11
+                    },
+                    {
+                        "line": "Ba’mana beta bersuka cita,",
+                        "words": [
+                            {
+                                "wf": "Ba",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ba",
+                                    "pos": "v",
+                                    "form": "ba"
+                                }
+                            },
+                            {
+                                "wf": "’",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "mana",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "mana",
+                                    "pos": "pron",
+                                    "form": "mana"
+                                }
+                            },
+                            {
+                                "wf": "beta",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "beta",
+                                    "pos": "v",
+                                    "form": "beta"
+                                }
+                            },
+                            {
+                                "wf": "bersuka",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bersuka",
+                                    "pos": "v",
+                                    "form": "bersuka"
+                                }
+                            },
+                            {
+                                "wf": "cita",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "cita",
+                                    "pos": "n",
+                                    "form": "cita"
+                                }
+                            },
+                            {
+                                "wf": ",",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "Ratapan ra’yat riuhan gaduh,",
+                        "words": [
+                            {
+                                "wf": "Ratapan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ratap",
+                                    "pos": "n",
+                                    "form": "ratap-an"
+                                }
+                            },
+                            {
+                                "wf": "ra",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ra",
+                                    "pos": "n",
+                                    "form": "ra"
+                                }
+                            },
+                            {
+                                "wf": "’",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "yat",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "yat",
+                                    "pos": "n",
+                                    "form": "yat"
+                                }
+                            },
+                            {
+                                "wf": "riuhan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "riuhan",
+                                    "pos": "a",
+                                    "form": "riuhan"
+                                }
+                            },
+                            {
+                                "wf": "gaduh",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "gaduh",
+                                    "pos": "a",
+                                    "form": "gaduh"
+                                }
+                            },
+                            {
+                                "wf": ",",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "Membobos masuk menyatu kalbuku.",
+                        "words": [
+                            {
+                                "wf": "Membobos",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bobos",
+                                    "pos": "v",
+                                    "form": "meN-bobos"
+                                }
+                            },
+                            {
+                                "wf": "masuk",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "masuk",
+                                    "pos": "v",
+                                    "form": "masuk"
+                                }
+                            },
+                            {
+                                "wf": "menyatu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "satu",
+                                    "pos": "v",
+                                    "form": "meN-satu"
+                                }
+                            },
+                            {
+                                "wf": "kalbuku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kalbu",
+                                    "pos": "n",
+                                    "form": "kalbu-ku"
+                                }
+                            },
+                            {
+                                "wf": ".",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 11
+                    },
+                    {
+                        "line": "Ba’mana boleh berkata beta,",
+                        "words": [
+                            {
+                                "wf": "Ba",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ba",
+                                    "pos": "v",
+                                    "form": "ba"
+                                }
+                            },
+                            {
+                                "wf": "’",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "mana",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "mana",
+                                    "pos": "pron",
+                                    "form": "mana"
+                                }
+                            },
+                            {
+                                "wf": "boleh",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "boleh",
+                                    "pos": "",
+                                    "form": "boleh"
+                                }
+                            },
+                            {
+                                "wf": "berkata",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "a",
+                                    "pos": "v",
+                                    "form": "berkata"
+                                }
+                            },
+                            {
+                                "wf": "beta",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "beta",
+                                    "pos": "v",
+                                    "form": "beta"
+                                }
+                            },
+                            {
+                                "wf": ",",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "Suara sebat sedanan rusuh,",
+                        "words": [
+                            {
+                                "wf": "Suara",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "suara",
+                                    "pos": "n",
+                                    "form": "suara"
+                                }
+                            },
+                            {
+                                "wf": "sebat",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sebat",
+                                    "pos": "v",
+                                    "form": "sebat"
+                                }
+                            },
+                            {
+                                "wf": "sedanan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sedanan",
+                                    "pos": "n",
+                                    "form": "sedanan"
+                                }
+                            },
+                            {
+                                "wf": "rusuh",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "rusuh",
+                                    "pos": "a",
+                                    "form": "rusuh"
+                                }
+                            },
+                            {
+                                "wf": ",",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "Menghimpit madah, gubahan cintaku.",
+                        "words": [
+                            {
+                                "wf": "Menghimpit",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "menghimpit",
+                                    "pos": "v",
+                                    "form": "menghimpit"
+                                }
+                            },
+                            {
+                                "wf": "madah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "madah",
+                                    "pos": "n",
+                                    "form": "madah"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "gubahan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "gubah",
+                                    "pos": "n",
+                                    "form": "gubah-an"
+                                }
+                            },
+                            {
+                                "wf": "cintaku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "cinta",
+                                    "pos": "a",
+                                    "form": "cinta-ku"
+                                }
+                            },
+                            {
+                                "wf": ".",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 11
+                    }
+                ],
+                "num_lines": 14
+            }
+        ]
+    }
+}

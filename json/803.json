@@ -1,0 +1,1350 @@
+{
+    "meta": {
+        "file_name": "803.json",
+        "id_bd": 803,
+        "author": "A. Mustofa Bisri",
+        "title": "Selamat idul fitri",
+        "genre": "стихотворение",
+        "year": "---",
+        "num_lines": 40,
+        "rhyme": "Есть",
+        "syllables": [
+            9,
+            5,
+            5,
+            7,
+            7,
+            9,
+            5,
+            5,
+            7,
+            8,
+            10,
+            5,
+            5,
+            6,
+            7,
+            8,
+            5,
+            5,
+            6,
+            7,
+            11,
+            5,
+            5,
+            6,
+            6,
+            11,
+            5,
+            5,
+            6,
+            6,
+            12,
+            5,
+            5,
+            6,
+            7,
+            9,
+            5,
+            5,
+            6,
+            8
+        ],
+        "strofy": [
+            5,
+            1,
+            5,
+            1,
+            5,
+            1,
+            5,
+            1,
+            5,
+            1,
+            5,
+            1,
+            5,
+            1,
+            5
+        ]
+    },
+    "poem": {
+        "text": "{selamat idul fitri, bumi\r\nmaafkan kami\r\nselama ini\r\ntidak semena-mena\r\nkami memerkosamu}\r\n{selamat idul fitri, langit\r\nmaafkan kami\r\nselama ini\r\ntidak henti-hentinya\r\nkami mengelabukanmu}\r\n{selamat idul fitri, mentari\r\nmaafkan kami\r\nselama ini\r\ntidak bosan-bosan\r\nkami mengaburkanmu}\r\n{selamat idul fitri, laut\r\nmaafkan kami\r\nselama ini\r\ntidak segan-segan\r\nkami mengeruhkanmu}\r\n{selamat idul fitri, burung-burung\r\nmaafkan kami\r\nselama ini\r\ntidak putus-putus\r\nkami membrangusmu}\r\n{selamat idul fitri, tetumbuhan\r\nmaafkan kami\r\nselama ini\r\ntidak puas-puas\r\nkami menebasmu}\r\n{selamat idul fitri, para pemimpin\r\nmaafkan kami\r\nselama ini\r\ntidak habis-habis\r\nkami membiarkanmu}\r\n{selamat idul fitri, rakyat\r\nmaafkan kami\r\nselama ini\r\ntidak sudah-sudah\r\nkami mempergunakanmu.}",
+        "strof": [
+            {
+                "strof": "selamat idul fitri, bumi\r\nmaafkan kami\r\nselama ini\r\ntidak semena-mena\r\nkami memerkosamu",
+                "lines": [
+                    {
+                        "line": "selamat idul fitri, bumi",
+                        "words": [
+                            {
+                                "wf": "selamat",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "selamat",
+                                    "pos": "a|n",
+                                    "form": "selamat"
+                                }
+                            },
+                            {
+                                "wf": "idul",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "idul",
+                                    "pos": "n",
+                                    "form": "idul"
+                                }
+                            },
+                            {
+                                "wf": "fitri",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "fitri",
+                                    "pos": "a",
+                                    "form": "fitri"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "bumi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bumi",
+                                    "pos": "n",
+                                    "form": "bumi"
+                                }
+                            }
+                        ],
+                        "syllables": 9
+                    },
+                    {
+                        "line": "maafkan kami",
+                        "words": [
+                            {
+                                "wf": "maafkan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "maafkan",
+                                    "pos": "v",
+                                    "form": "maafkan"
+                                }
+                            },
+                            {
+                                "wf": "kami",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kami",
+                                    "pos": "pron",
+                                    "form": "kami"
+                                }
+                            }
+                        ],
+                        "syllables": 5
+                    },
+                    {
+                        "line": "selama ini",
+                        "words": [
+                            {
+                                "wf": "selama",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lama",
+                                    "pos": "n",
+                                    "form": "se-lama"
+                                }
+                            },
+                            {
+                                "wf": "ini",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ini",
+                                    "pos": "pron",
+                                    "form": "ini"
+                                }
+                            }
+                        ],
+                        "syllables": 5
+                    },
+                    {
+                        "line": "tidak semena-mena",
+                        "words": [
+                            {
+                                "wf": "tidak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tidak",
+                                    "pos": "adv",
+                                    "form": "tidak"
+                                }
+                            },
+                            {
+                                "wf": "semena-mena",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "semena",
+                                    "pos": "adv",
+                                    "form": "semena-mena"
+                                }
+                            }
+                        ],
+                        "syllables": 7
+                    },
+                    {
+                        "line": "kami memerkosamu",
+                        "words": [
+                            {
+                                "wf": "kami",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kami",
+                                    "pos": "pron",
+                                    "form": "kami"
+                                }
+                            },
+                            {
+                                "wf": "memerkosamu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "",
+                                    "pos": "v",
+                                    "form": "memerkosamu-mu"
+                                }
+                            }
+                        ],
+                        "syllables": 7
+                    }
+                ],
+                "num_lines": 5
+            },
+            {
+                "strof": "\r\n",
+                "lines": [
+                    {
+                        "line": "",
+                        "words": [],
+                        "syllables": 0
+                    }
+                ],
+                "num_lines": 1
+            },
+            {
+                "strof": "selamat idul fitri, langit\r\nmaafkan kami\r\nselama ini\r\ntidak henti-hentinya\r\nkami mengelabukanmu",
+                "lines": [
+                    {
+                        "line": "selamat idul fitri, langit",
+                        "words": [
+                            {
+                                "wf": "selamat",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "selamat",
+                                    "pos": "a|n",
+                                    "form": "selamat"
+                                }
+                            },
+                            {
+                                "wf": "idul",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "idul",
+                                    "pos": "n",
+                                    "form": "idul"
+                                }
+                            },
+                            {
+                                "wf": "fitri",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "fitri",
+                                    "pos": "a",
+                                    "form": "fitri"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "langit",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "langit",
+                                    "pos": "n",
+                                    "form": "langit"
+                                }
+                            }
+                        ],
+                        "syllables": 9
+                    },
+                    {
+                        "line": "maafkan kami",
+                        "words": [
+                            {
+                                "wf": "maafkan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "maafkan",
+                                    "pos": "v",
+                                    "form": "maafkan"
+                                }
+                            },
+                            {
+                                "wf": "kami",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kami",
+                                    "pos": "pron",
+                                    "form": "kami"
+                                }
+                            }
+                        ],
+                        "syllables": 5
+                    },
+                    {
+                        "line": "selama ini",
+                        "words": [
+                            {
+                                "wf": "selama",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lama",
+                                    "pos": "n",
+                                    "form": "se-lama"
+                                }
+                            },
+                            {
+                                "wf": "ini",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ini",
+                                    "pos": "pron",
+                                    "form": "ini"
+                                }
+                            }
+                        ],
+                        "syllables": 5
+                    },
+                    {
+                        "line": "tidak henti-hentinya",
+                        "words": [
+                            {
+                                "wf": "tidak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tidak",
+                                    "pos": "adv",
+                                    "form": "tidak"
+                                }
+                            },
+                            {
+                                "wf": "henti-hentinya",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "",
+                                    "pos": "n",
+                                    "form": "henti-hentinya-nya"
+                                }
+                            }
+                        ],
+                        "syllables": 7
+                    },
+                    {
+                        "line": "kami mengelabukanmu",
+                        "words": [
+                            {
+                                "wf": "kami",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kami",
+                                    "pos": "pron",
+                                    "form": "kami"
+                                }
+                            },
+                            {
+                                "wf": "mengelabukanmu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "mengelabukanmu",
+                                    "pos": "v",
+                                    "form": "mengelabukanmu"
+                                }
+                            }
+                        ],
+                        "syllables": 8
+                    }
+                ],
+                "num_lines": 5
+            },
+            {
+                "strof": "\r\n",
+                "lines": [
+                    {
+                        "line": "",
+                        "words": [],
+                        "syllables": 0
+                    }
+                ],
+                "num_lines": 1
+            },
+            {
+                "strof": "selamat idul fitri, mentari\r\nmaafkan kami\r\nselama ini\r\ntidak bosan-bosan\r\nkami mengaburkanmu",
+                "lines": [
+                    {
+                        "line": "selamat idul fitri, mentari",
+                        "words": [
+                            {
+                                "wf": "selamat",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "selamat",
+                                    "pos": "a|n",
+                                    "form": "selamat"
+                                }
+                            },
+                            {
+                                "wf": "idul",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "idul",
+                                    "pos": "n",
+                                    "form": "idul"
+                                }
+                            },
+                            {
+                                "wf": "fitri",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "fitri",
+                                    "pos": "a",
+                                    "form": "fitri"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "mentari",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "mentari",
+                                    "pos": "n",
+                                    "form": "mentari"
+                                }
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "maafkan kami",
+                        "words": [
+                            {
+                                "wf": "maafkan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "maafkan",
+                                    "pos": "v",
+                                    "form": "maafkan"
+                                }
+                            },
+                            {
+                                "wf": "kami",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kami",
+                                    "pos": "pron",
+                                    "form": "kami"
+                                }
+                            }
+                        ],
+                        "syllables": 5
+                    },
+                    {
+                        "line": "selama ini",
+                        "words": [
+                            {
+                                "wf": "selama",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lama",
+                                    "pos": "n",
+                                    "form": "se-lama"
+                                }
+                            },
+                            {
+                                "wf": "ini",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ini",
+                                    "pos": "pron",
+                                    "form": "ini"
+                                }
+                            }
+                        ],
+                        "syllables": 5
+                    },
+                    {
+                        "line": "tidak bosan-bosan",
+                        "words": [
+                            {
+                                "wf": "tidak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tidak",
+                                    "pos": "adv",
+                                    "form": "tidak"
+                                }
+                            },
+                            {
+                                "wf": "bosan-bosan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bosan",
+                                    "pos": "n",
+                                    "form": "bosan-bosan"
+                                }
+                            }
+                        ],
+                        "syllables": 6
+                    },
+                    {
+                        "line": "kami mengaburkanmu",
+                        "words": [
+                            {
+                                "wf": "kami",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kami",
+                                    "pos": "pron",
+                                    "form": "kami"
+                                }
+                            },
+                            {
+                                "wf": "mengaburkanmu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kabur",
+                                    "pos": "v",
+                                    "form": "meN-kabur-kan-mu-mu"
+                                }
+                            }
+                        ],
+                        "syllables": 7
+                    }
+                ],
+                "num_lines": 5
+            },
+            {
+                "strof": "\r\n",
+                "lines": [
+                    {
+                        "line": "",
+                        "words": [],
+                        "syllables": 0
+                    }
+                ],
+                "num_lines": 1
+            },
+            {
+                "strof": "selamat idul fitri, laut\r\nmaafkan kami\r\nselama ini\r\ntidak segan-segan\r\nkami mengeruhkanmu",
+                "lines": [
+                    {
+                        "line": "selamat idul fitri, laut",
+                        "words": [
+                            {
+                                "wf": "selamat",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "selamat",
+                                    "pos": "a|n",
+                                    "form": "selamat"
+                                }
+                            },
+                            {
+                                "wf": "idul",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "idul",
+                                    "pos": "n",
+                                    "form": "idul"
+                                }
+                            },
+                            {
+                                "wf": "fitri",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "fitri",
+                                    "pos": "a",
+                                    "form": "fitri"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "laut",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "laut",
+                                    "pos": "n",
+                                    "form": "laut"
+                                }
+                            }
+                        ],
+                        "syllables": 8
+                    },
+                    {
+                        "line": "maafkan kami",
+                        "words": [
+                            {
+                                "wf": "maafkan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "maafkan",
+                                    "pos": "v",
+                                    "form": "maafkan"
+                                }
+                            },
+                            {
+                                "wf": "kami",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kami",
+                                    "pos": "pron",
+                                    "form": "kami"
+                                }
+                            }
+                        ],
+                        "syllables": 5
+                    },
+                    {
+                        "line": "selama ini",
+                        "words": [
+                            {
+                                "wf": "selama",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lama",
+                                    "pos": "n",
+                                    "form": "se-lama"
+                                }
+                            },
+                            {
+                                "wf": "ini",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ini",
+                                    "pos": "pron",
+                                    "form": "ini"
+                                }
+                            }
+                        ],
+                        "syllables": 5
+                    },
+                    {
+                        "line": "tidak segan-segan",
+                        "words": [
+                            {
+                                "wf": "tidak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tidak",
+                                    "pos": "adv",
+                                    "form": "tidak"
+                                }
+                            },
+                            {
+                                "wf": "segan-segan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "segan",
+                                    "pos": "a",
+                                    "form": "segan-segan"
+                                }
+                            }
+                        ],
+                        "syllables": 6
+                    },
+                    {
+                        "line": "kami mengeruhkanmu",
+                        "words": [
+                            {
+                                "wf": "kami",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kami",
+                                    "pos": "pron",
+                                    "form": "kami"
+                                }
+                            },
+                            {
+                                "wf": "mengeruhkanmu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "keruh",
+                                    "pos": "v",
+                                    "form": "meN-keruh-kan-mu-mu"
+                                }
+                            }
+                        ],
+                        "syllables": 7
+                    }
+                ],
+                "num_lines": 5
+            },
+            {
+                "strof": "\r\n",
+                "lines": [
+                    {
+                        "line": "",
+                        "words": [],
+                        "syllables": 0
+                    }
+                ],
+                "num_lines": 1
+            },
+            {
+                "strof": "selamat idul fitri, burung-burung\r\nmaafkan kami\r\nselama ini\r\ntidak putus-putus\r\nkami membrangusmu",
+                "lines": [
+                    {
+                        "line": "selamat idul fitri, burung-burung",
+                        "words": [
+                            {
+                                "wf": "selamat",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "selamat",
+                                    "pos": "a|n",
+                                    "form": "selamat"
+                                }
+                            },
+                            {
+                                "wf": "idul",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "idul",
+                                    "pos": "n",
+                                    "form": "idul"
+                                }
+                            },
+                            {
+                                "wf": "fitri",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "fitri",
+                                    "pos": "a",
+                                    "form": "fitri"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "burung-burung",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "burung",
+                                    "pos": "n",
+                                    "form": "burung-burung"
+                                }
+                            }
+                        ],
+                        "syllables": 11
+                    },
+                    {
+                        "line": "maafkan kami",
+                        "words": [
+                            {
+                                "wf": "maafkan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "maafkan",
+                                    "pos": "v",
+                                    "form": "maafkan"
+                                }
+                            },
+                            {
+                                "wf": "kami",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kami",
+                                    "pos": "pron",
+                                    "form": "kami"
+                                }
+                            }
+                        ],
+                        "syllables": 5
+                    },
+                    {
+                        "line": "selama ini",
+                        "words": [
+                            {
+                                "wf": "selama",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lama",
+                                    "pos": "n",
+                                    "form": "se-lama"
+                                }
+                            },
+                            {
+                                "wf": "ini",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ini",
+                                    "pos": "pron",
+                                    "form": "ini"
+                                }
+                            }
+                        ],
+                        "syllables": 5
+                    },
+                    {
+                        "line": "tidak putus-putus",
+                        "words": [
+                            {
+                                "wf": "tidak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tidak",
+                                    "pos": "adv",
+                                    "form": "tidak"
+                                }
+                            },
+                            {
+                                "wf": "putus-putus",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "putus",
+                                    "pos": "adv",
+                                    "form": "putus-putus"
+                                }
+                            }
+                        ],
+                        "syllables": 6
+                    },
+                    {
+                        "line": "kami membrangusmu",
+                        "words": [
+                            {
+                                "wf": "kami",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kami",
+                                    "pos": "pron",
+                                    "form": "kami"
+                                }
+                            },
+                            {
+                                "wf": "membrangusmu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "membrangusmu",
+                                    "pos": "v",
+                                    "form": "membrangusmu"
+                                }
+                            }
+                        ],
+                        "syllables": 6
+                    }
+                ],
+                "num_lines": 5
+            },
+            {
+                "strof": "\r\n",
+                "lines": [
+                    {
+                        "line": "",
+                        "words": [],
+                        "syllables": 0
+                    }
+                ],
+                "num_lines": 1
+            },
+            {
+                "strof": "selamat idul fitri, tetumbuhan\r\nmaafkan kami\r\nselama ini\r\ntidak puas-puas\r\nkami menebasmu",
+                "lines": [
+                    {
+                        "line": "selamat idul fitri, tetumbuhan",
+                        "words": [
+                            {
+                                "wf": "selamat",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "selamat",
+                                    "pos": "a|n",
+                                    "form": "selamat"
+                                }
+                            },
+                            {
+                                "wf": "idul",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "idul",
+                                    "pos": "n",
+                                    "form": "idul"
+                                }
+                            },
+                            {
+                                "wf": "fitri",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "fitri",
+                                    "pos": "a",
+                                    "form": "fitri"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "tetumbuhan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tumbuh",
+                                    "pos": "n",
+                                    "form": "tetumbuhan"
+                                }
+                            }
+                        ],
+                        "syllables": 11
+                    },
+                    {
+                        "line": "maafkan kami",
+                        "words": [
+                            {
+                                "wf": "maafkan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "maafkan",
+                                    "pos": "v",
+                                    "form": "maafkan"
+                                }
+                            },
+                            {
+                                "wf": "kami",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kami",
+                                    "pos": "pron",
+                                    "form": "kami"
+                                }
+                            }
+                        ],
+                        "syllables": 5
+                    },
+                    {
+                        "line": "selama ini",
+                        "words": [
+                            {
+                                "wf": "selama",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lama",
+                                    "pos": "n",
+                                    "form": "se-lama"
+                                }
+                            },
+                            {
+                                "wf": "ini",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ini",
+                                    "pos": "pron",
+                                    "form": "ini"
+                                }
+                            }
+                        ],
+                        "syllables": 5
+                    },
+                    {
+                        "line": "tidak puas-puas",
+                        "words": [
+                            {
+                                "wf": "tidak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tidak",
+                                    "pos": "adv",
+                                    "form": "tidak"
+                                }
+                            },
+                            {
+                                "wf": "puas-puas",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "puas",
+                                    "pos": "a|v",
+                                    "form": "puas-puas"
+                                }
+                            }
+                        ],
+                        "syllables": 6
+                    },
+                    {
+                        "line": "kami menebasmu",
+                        "words": [
+                            {
+                                "wf": "kami",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kami",
+                                    "pos": "pron",
+                                    "form": "kami"
+                                }
+                            },
+                            {
+                                "wf": "menebasmu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "menebasmu",
+                                    "pos": "v",
+                                    "form": "menebasmu"
+                                }
+                            }
+                        ],
+                        "syllables": 6
+                    }
+                ],
+                "num_lines": 5
+            },
+            {
+                "strof": "\r\n",
+                "lines": [
+                    {
+                        "line": "",
+                        "words": [],
+                        "syllables": 0
+                    }
+                ],
+                "num_lines": 1
+            },
+            {
+                "strof": "selamat idul fitri, para pemimpin\r\nmaafkan kami\r\nselama ini\r\ntidak habis-habis\r\nkami membiarkanmu",
+                "lines": [
+                    {
+                        "line": "selamat idul fitri, para pemimpin",
+                        "words": [
+                            {
+                                "wf": "selamat",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "selamat",
+                                    "pos": "a|n",
+                                    "form": "selamat"
+                                }
+                            },
+                            {
+                                "wf": "idul",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "idul",
+                                    "pos": "n",
+                                    "form": "idul"
+                                }
+                            },
+                            {
+                                "wf": "fitri",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "fitri",
+                                    "pos": "a",
+                                    "form": "fitri"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "para",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "para",
+                                    "pos": "p",
+                                    "form": "para"
+                                }
+                            },
+                            {
+                                "wf": "pemimpin",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pimpin",
+                                    "pos": "n",
+                                    "form": "peN-pimpin"
+                                }
+                            }
+                        ],
+                        "syllables": 12
+                    },
+                    {
+                        "line": "maafkan kami",
+                        "words": [
+                            {
+                                "wf": "maafkan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "maafkan",
+                                    "pos": "v",
+                                    "form": "maafkan"
+                                }
+                            },
+                            {
+                                "wf": "kami",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kami",
+                                    "pos": "pron",
+                                    "form": "kami"
+                                }
+                            }
+                        ],
+                        "syllables": 5
+                    },
+                    {
+                        "line": "selama ini",
+                        "words": [
+                            {
+                                "wf": "selama",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lama",
+                                    "pos": "n",
+                                    "form": "se-lama"
+                                }
+                            },
+                            {
+                                "wf": "ini",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ini",
+                                    "pos": "pron",
+                                    "form": "ini"
+                                }
+                            }
+                        ],
+                        "syllables": 5
+                    },
+                    {
+                        "line": "tidak habis-habis",
+                        "words": [
+                            {
+                                "wf": "tidak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tidak",
+                                    "pos": "adv",
+                                    "form": "tidak"
+                                }
+                            },
+                            {
+                                "wf": "habis-habis",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "habis",
+                                    "pos": "a",
+                                    "form": "habis-habis"
+                                }
+                            }
+                        ],
+                        "syllables": 6
+                    },
+                    {
+                        "line": "kami membiarkanmu",
+                        "words": [
+                            {
+                                "wf": "kami",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kami",
+                                    "pos": "pron",
+                                    "form": "kami"
+                                }
+                            },
+                            {
+                                "wf": "membiarkanmu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "biar",
+                                    "pos": "v",
+                                    "form": "meN-biar-kan-mu-mu"
+                                }
+                            }
+                        ],
+                        "syllables": 7
+                    }
+                ],
+                "num_lines": 5
+            },
+            {
+                "strof": "\r\n",
+                "lines": [
+                    {
+                        "line": "",
+                        "words": [],
+                        "syllables": 0
+                    }
+                ],
+                "num_lines": 1
+            },
+            {
+                "strof": "selamat idul fitri, rakyat\r\nmaafkan kami\r\nselama ini\r\ntidak sudah-sudah\r\nkami mempergunakanmu.",
+                "lines": [
+                    {
+                        "line": "selamat idul fitri, rakyat",
+                        "words": [
+                            {
+                                "wf": "selamat",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "selamat",
+                                    "pos": "a|n",
+                                    "form": "selamat"
+                                }
+                            },
+                            {
+                                "wf": "idul",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "idul",
+                                    "pos": "n",
+                                    "form": "idul"
+                                }
+                            },
+                            {
+                                "wf": "fitri",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "fitri",
+                                    "pos": "a",
+                                    "form": "fitri"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "rakyat",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "rakyat",
+                                    "pos": "n",
+                                    "form": "rakyat"
+                                }
+                            }
+                        ],
+                        "syllables": 9
+                    },
+                    {
+                        "line": "maafkan kami",
+                        "words": [
+                            {
+                                "wf": "maafkan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "maafkan",
+                                    "pos": "v",
+                                    "form": "maafkan"
+                                }
+                            },
+                            {
+                                "wf": "kami",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kami",
+                                    "pos": "pron",
+                                    "form": "kami"
+                                }
+                            }
+                        ],
+                        "syllables": 5
+                    },
+                    {
+                        "line": "selama ini",
+                        "words": [
+                            {
+                                "wf": "selama",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lama",
+                                    "pos": "n",
+                                    "form": "se-lama"
+                                }
+                            },
+                            {
+                                "wf": "ini",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ini",
+                                    "pos": "pron",
+                                    "form": "ini"
+                                }
+                            }
+                        ],
+                        "syllables": 5
+                    },
+                    {
+                        "line": "tidak sudah-sudah",
+                        "words": [
+                            {
+                                "wf": "tidak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tidak",
+                                    "pos": "adv",
+                                    "form": "tidak"
+                                }
+                            },
+                            {
+                                "wf": "sudah-sudah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sudah",
+                                    "pos": "v",
+                                    "form": "sudah-sudah"
+                                }
+                            }
+                        ],
+                        "syllables": 6
+                    },
+                    {
+                        "line": "kami mempergunakanmu.",
+                        "words": [
+                            {
+                                "wf": "kami",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kami",
+                                    "pos": "pron",
+                                    "form": "kami"
+                                }
+                            },
+                            {
+                                "wf": "mempergunakanmu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "guna",
+                                    "pos": "v",
+                                    "form": "meN-ber-guna-kan-mu-mu"
+                                }
+                            },
+                            {
+                                "wf": ".",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 8
+                    }
+                ],
+                "num_lines": 5
+            }
+        ]
+    }
+}

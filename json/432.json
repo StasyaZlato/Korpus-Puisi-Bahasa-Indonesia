@@ -1,0 +1,702 @@
+{
+    "meta": {
+        "file_name": "432.json",
+        "id_bd": 432,
+        "author": "Muhammad Yamin",
+        "title": "Gembala",
+        "genre": "стихотворение",
+        "year": "---",
+        "num_lines": 14,
+        "rhyme": "Есть",
+        "syllables": [
+            12,
+            11,
+            11,
+            11,
+            11,
+            11,
+            11,
+            10,
+            9,
+            11,
+            11,
+            11,
+            12,
+            10
+        ],
+        "strofy": [
+            14
+        ]
+    },
+    "poem": {
+        "text": "{Perasaan siapa tidak kan nyata\r\nMelihatkan anak berlagu dendang\r\nSeorang sahaja di tengah dendang\r\nTiada berbaju buka kepala\r\nBeginilah nasib anak gembala\r\nBerteduh di bawah kayu nan rindang\r\nSemenjak pagi meninggalkan kandang\r\nPulang ke rumah di senja kala\r\nJauh sedikit sesayup sampai\r\nTerdengar olehku bunyi serunai\r\nMelagukan alam nan elok permai\r\nWahai gembala di segara hijau\r\nMendengar puputmu menurutkan kerbau\r\nMaulah aku menurutkan dikau}",
+        "strof": [
+            {
+                "strof": "Perasaan siapa tidak kan nyata\r\nMelihatkan anak berlagu dendang\r\nSeorang sahaja di tengah dendang\r\nTiada berbaju buka kepala\r\nBeginilah nasib anak gembala\r\nBerteduh di bawah kayu nan rindang\r\nSemenjak pagi meninggalkan kandang\r\nPulang ke rumah di senja kala\r\nJauh sedikit sesayup sampai\r\nTerdengar olehku bunyi serunai\r\nMelagukan alam nan elok permai\r\nWahai gembala di segara hijau\r\nMendengar puputmu menurutkan kerbau\r\nMaulah aku menurutkan dikau",
+                "lines": [
+                    {
+                        "line": "Perasaan siapa tidak kan nyata",
+                        "words": [
+                            {
+                                "wf": "Perasaan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "rasa",
+                                    "pos": "n",
+                                    "form": "per-rasa-an"
+                                }
+                            },
+                            {
+                                "wf": "siapa",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "siapa",
+                                    "pos": "pron",
+                                    "form": "siapa"
+                                }
+                            },
+                            {
+                                "wf": "tidak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tidak",
+                                    "pos": "adv",
+                                    "form": "tidak"
+                                }
+                            },
+                            {
+                                "wf": "kan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kan",
+                                    "pos": "v",
+                                    "form": "kan"
+                                }
+                            },
+                            {
+                                "wf": "nyata",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "nyata",
+                                    "pos": "a",
+                                    "form": "nyata"
+                                }
+                            }
+                        ],
+                        "syllables": 12
+                    },
+                    {
+                        "line": "Melihatkan anak berlagu dendang",
+                        "words": [
+                            {
+                                "wf": "Melihatkan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lihat",
+                                    "pos": "v",
+                                    "form": "meN-lihat-kan"
+                                }
+                            },
+                            {
+                                "wf": "anak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "anak",
+                                    "pos": "n",
+                                    "form": "anak"
+                                }
+                            },
+                            {
+                                "wf": "berlagu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lagu",
+                                    "pos": "v",
+                                    "form": "ber-lagu"
+                                }
+                            },
+                            {
+                                "wf": "dendang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dendang",
+                                    "pos": "n",
+                                    "form": "dendang"
+                                }
+                            }
+                        ],
+                        "syllables": 11
+                    },
+                    {
+                        "line": "Seorang sahaja di tengah dendang",
+                        "words": [
+                            {
+                                "wf": "Seorang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "orang",
+                                    "pos": "n",
+                                    "form": "se-orang"
+                                }
+                            },
+                            {
+                                "wf": "sahaja",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sahaja",
+                                    "pos": "adv",
+                                    "form": "sahaja"
+                                }
+                            },
+                            {
+                                "wf": "di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "tengah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tengah",
+                                    "pos": "n",
+                                    "form": "tengah"
+                                }
+                            },
+                            {
+                                "wf": "dendang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dendang",
+                                    "pos": "n",
+                                    "form": "dendang"
+                                }
+                            }
+                        ],
+                        "syllables": 11
+                    },
+                    {
+                        "line": "Tiada berbaju buka kepala",
+                        "words": [
+                            {
+                                "wf": "Tiada",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tiada",
+                                    "pos": "v",
+                                    "form": "tiada"
+                                }
+                            },
+                            {
+                                "wf": "berbaju",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "baju",
+                                    "pos": "v",
+                                    "form": "ber-baju"
+                                }
+                            },
+                            {
+                                "wf": "buka",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "buka",
+                                    "pos": "v",
+                                    "form": "buka"
+                                }
+                            },
+                            {
+                                "wf": "kepala",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kepala",
+                                    "pos": "n",
+                                    "form": "kepala"
+                                }
+                            }
+                        ],
+                        "syllables": 11
+                    },
+                    {
+                        "line": "Beginilah nasib anak gembala",
+                        "words": [
+                            {
+                                "wf": "Beginilah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "begini",
+                                    "pos": "pron",
+                                    "form": "begini-lah"
+                                }
+                            },
+                            {
+                                "wf": "nasib",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "nasib",
+                                    "pos": "n",
+                                    "form": "nasib"
+                                }
+                            },
+                            {
+                                "wf": "anak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "anak",
+                                    "pos": "n",
+                                    "form": "anak"
+                                }
+                            },
+                            {
+                                "wf": "gembala",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "gembala",
+                                    "pos": "n",
+                                    "form": "gembala"
+                                }
+                            }
+                        ],
+                        "syllables": 11
+                    },
+                    {
+                        "line": "Berteduh di bawah kayu nan rindang",
+                        "words": [
+                            {
+                                "wf": "Berteduh",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "teduh",
+                                    "pos": "v",
+                                    "form": "ber-teduh"
+                                }
+                            },
+                            {
+                                "wf": "di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "bawah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bawah",
+                                    "pos": "n|v",
+                                    "form": "bawah"
+                                }
+                            },
+                            {
+                                "wf": "kayu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kayu",
+                                    "pos": "n",
+                                    "form": "kayu"
+                                }
+                            },
+                            {
+                                "wf": "nan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "nan",
+                                    "pos": "n",
+                                    "form": "nan"
+                                }
+                            },
+                            {
+                                "wf": "rindang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "rindang",
+                                    "pos": "a",
+                                    "form": "rindang"
+                                }
+                            }
+                        ],
+                        "syllables": 11
+                    },
+                    {
+                        "line": "Semenjak pagi meninggalkan kandang",
+                        "words": [
+                            {
+                                "wf": "Semenjak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "semenjak",
+                                    "pos": "p",
+                                    "form": "semenjak"
+                                }
+                            },
+                            {
+                                "wf": "pagi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pagi",
+                                    "pos": "n",
+                                    "form": "pagi"
+                                }
+                            },
+                            {
+                                "wf": "meninggalkan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tinggal",
+                                    "pos": "v",
+                                    "form": "meN-tinggal-kan"
+                                }
+                            },
+                            {
+                                "wf": "kandang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kandang",
+                                    "pos": "n",
+                                    "form": "kandang"
+                                }
+                            }
+                        ],
+                        "syllables": 11
+                    },
+                    {
+                        "line": "Pulang ke rumah di senja kala",
+                        "words": [
+                            {
+                                "wf": "Pulang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pulang",
+                                    "pos": "v",
+                                    "form": "pulang"
+                                }
+                            },
+                            {
+                                "wf": "ke",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ke",
+                                    "pos": "p",
+                                    "form": "ke"
+                                }
+                            },
+                            {
+                                "wf": "rumah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "rumah",
+                                    "pos": "n",
+                                    "form": "rumah"
+                                }
+                            },
+                            {
+                                "wf": "di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "senja",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "senja",
+                                    "pos": "n",
+                                    "form": "senja"
+                                }
+                            },
+                            {
+                                "wf": "kala",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kala",
+                                    "pos": "p",
+                                    "form": "kala"
+                                }
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "Jauh sedikit sesayup sampai",
+                        "words": [
+                            {
+                                "wf": "Jauh",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jauh",
+                                    "pos": "a",
+                                    "form": "jauh"
+                                }
+                            },
+                            {
+                                "wf": "sedikit",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sedikit",
+                                    "pos": "a",
+                                    "form": "sedikit"
+                                }
+                            },
+                            {
+                                "wf": "sesayup",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sesayup",
+                                    "pos": "a",
+                                    "form": "sesayup"
+                                }
+                            },
+                            {
+                                "wf": "sampai",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sampai",
+                                    "pos": "v",
+                                    "form": "sampai"
+                                }
+                            }
+                        ],
+                        "syllables": 9
+                    },
+                    {
+                        "line": "Terdengar olehku bunyi serunai",
+                        "words": [
+                            {
+                                "wf": "Terdengar",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dengar",
+                                    "pos": "v",
+                                    "form": "Terdengar"
+                                }
+                            },
+                            {
+                                "wf": "olehku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "oleh",
+                                    "pos": "",
+                                    "form": "oleh-ku"
+                                }
+                            },
+                            {
+                                "wf": "bunyi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bunyi",
+                                    "pos": "v",
+                                    "form": "bunyi"
+                                }
+                            },
+                            {
+                                "wf": "serunai",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "serunai",
+                                    "pos": "n",
+                                    "form": "serunai"
+                                }
+                            }
+                        ],
+                        "syllables": 11
+                    },
+                    {
+                        "line": "Melagukan alam nan elok permai",
+                        "words": [
+                            {
+                                "wf": "Melagukan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lagu",
+                                    "pos": "v",
+                                    "form": "meN-lagu-kan"
+                                }
+                            },
+                            {
+                                "wf": "alam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "alam",
+                                    "pos": "a|n",
+                                    "form": "alam"
+                                }
+                            },
+                            {
+                                "wf": "nan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "nan",
+                                    "pos": "n",
+                                    "form": "nan"
+                                }
+                            },
+                            {
+                                "wf": "elok",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "elok",
+                                    "pos": "v",
+                                    "form": "elok"
+                                }
+                            },
+                            {
+                                "wf": "permai",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "permai",
+                                    "pos": "a",
+                                    "form": "permai"
+                                }
+                            }
+                        ],
+                        "syllables": 11
+                    },
+                    {
+                        "line": "Wahai gembala di segara hijau",
+                        "words": [
+                            {
+                                "wf": "Wahai",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "wahai",
+                                    "pos": "p",
+                                    "form": "wahai"
+                                }
+                            },
+                            {
+                                "wf": "gembala",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "gembala",
+                                    "pos": "n",
+                                    "form": "gembala"
+                                }
+                            },
+                            {
+                                "wf": "di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "segara",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "segara",
+                                    "pos": "n",
+                                    "form": "segara"
+                                }
+                            },
+                            {
+                                "wf": "hijau",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hijau",
+                                    "pos": "n|a",
+                                    "form": "hijau"
+                                }
+                            }
+                        ],
+                        "syllables": 11
+                    },
+                    {
+                        "line": "Mendengar puputmu menurutkan kerbau",
+                        "words": [
+                            {
+                                "wf": "Mendengar",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dengar",
+                                    "pos": "v",
+                                    "form": "meN-dengar"
+                                }
+                            },
+                            {
+                                "wf": "puputmu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "puput",
+                                    "pos": "n",
+                                    "form": "puput-mu"
+                                }
+                            },
+                            {
+                                "wf": "menurutkan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "turut",
+                                    "pos": "v",
+                                    "form": "meN-turut-kan"
+                                }
+                            },
+                            {
+                                "wf": "kerbau",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kerbau",
+                                    "pos": "n",
+                                    "form": "kerbau"
+                                }
+                            }
+                        ],
+                        "syllables": 12
+                    },
+                    {
+                        "line": "Maulah aku menurutkan dikau",
+                        "words": [
+                            {
+                                "wf": "Maulah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "mau",
+                                    "pos": "adv|n",
+                                    "form": "mau-lah"
+                                }
+                            },
+                            {
+                                "wf": "aku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "aku",
+                                    "pos": "pron",
+                                    "form": "aku"
+                                }
+                            },
+                            {
+                                "wf": "menurutkan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "turut",
+                                    "pos": "v",
+                                    "form": "meN-turut-kan"
+                                }
+                            },
+                            {
+                                "wf": "dikau",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dikau",
+                                    "pos": "pron",
+                                    "form": "dikau"
+                                }
+                            }
+                        ],
+                        "syllables": 10
+                    }
+                ],
+                "num_lines": 14
+            }
+        ]
+    }
+}

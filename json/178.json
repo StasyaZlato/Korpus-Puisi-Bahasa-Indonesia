@@ -1,0 +1,576 @@
+{
+    "meta": {
+        "file_name": "178.json",
+        "id_bd": 178,
+        "author": "Chairil Anwar",
+        "title": "Ajakan",
+        "genre": "стихотворение",
+        "year": 2.1943,
+        "num_lines": 16,
+        "rhyme": "Есть",
+        "syllables": [
+            1,
+            7,
+            6,
+            6,
+            7,
+            7,
+            6,
+            9,
+            9,
+            9,
+            5,
+            7,
+            5,
+            6,
+            9,
+            11
+        ],
+        "strofy": [
+            16
+        ]
+    },
+    "poem": {
+        "text": "Ida\r\nMenembus sudah caya\r\nUdara tebal kabut\r\nKaca hitam lumut\r\nPecah pencar sekarang\r\nDi ruang lengang lapang\r\nMari ria lagi\r\nTujuh belas tahun kembali\r\nBersepeda sama gandengan\r\nKita jalani ini jalan\r\nRia bahgia\r\nTak acuh apa-apa\r\nGembira-girang\r\nBiar hujan datang\r\nKita mandi-basahkan diri\r\nTahu pasti sebentar kering lagi.",
+        "strof": [
+            {
+                "strof": "Ida\r\nMenembus sudah caya\r\nUdara tebal kabut\r\nKaca hitam lumut\r\nPecah pencar sekarang\r\nDi ruang lengang lapang\r\nMari ria lagi\r\nTujuh belas tahun kembali\r\nBersepeda sama gandengan\r\nKita jalani ini jalan\r\nRia bahgia\r\nTak acuh apa-apa\r\nGembira-girang\r\nBiar hujan datang\r\nKita mandi-basahkan diri\r\nTahu pasti sebentar kering lagi.",
+                "lines": [
+                    {
+                        "line": "Ida",
+                        "words": [
+                            {
+                                "wf": "Ida",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "Ida",
+                                    "pos": "n",
+                                    "form": "Ida"
+                                }
+                            }
+                        ],
+                        "syllables": 1
+                    },
+                    {
+                        "line": "Menembus sudah caya",
+                        "words": [
+                            {
+                                "wf": "Menembus",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tembus",
+                                    "pos": "v",
+                                    "form": "meN-tembus"
+                                }
+                            },
+                            {
+                                "wf": "sudah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sudah",
+                                    "pos": "adv",
+                                    "form": "sudah"
+                                }
+                            },
+                            {
+                                "wf": "caya",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "caya",
+                                    "pos": "v",
+                                    "form": "caya"
+                                }
+                            }
+                        ],
+                        "syllables": 7
+                    },
+                    {
+                        "line": "Udara tebal kabut",
+                        "words": [
+                            {
+                                "wf": "Udara",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "udara",
+                                    "pos": "n",
+                                    "form": "udara"
+                                }
+                            },
+                            {
+                                "wf": "tebal",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tebal",
+                                    "pos": "a",
+                                    "form": "tebal"
+                                }
+                            },
+                            {
+                                "wf": "kabut",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kabut",
+                                    "pos": "a|n",
+                                    "form": "kabut"
+                                }
+                            }
+                        ],
+                        "syllables": 6
+                    },
+                    {
+                        "line": "Kaca hitam lumut",
+                        "words": [
+                            {
+                                "wf": "Kaca",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kaca",
+                                    "pos": "n",
+                                    "form": "kaca"
+                                }
+                            },
+                            {
+                                "wf": "hitam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hitam",
+                                    "pos": "n|a",
+                                    "form": "hitam"
+                                }
+                            },
+                            {
+                                "wf": "lumut",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lumut",
+                                    "pos": "n",
+                                    "form": "lumut"
+                                }
+                            }
+                        ],
+                        "syllables": 6
+                    },
+                    {
+                        "line": "Pecah pencar sekarang",
+                        "words": [
+                            {
+                                "wf": "Pecah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pecah",
+                                    "pos": "v",
+                                    "form": "pecah"
+                                }
+                            },
+                            {
+                                "wf": "pencar",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pencar",
+                                    "pos": "v",
+                                    "form": "pencar"
+                                }
+                            },
+                            {
+                                "wf": "sekarang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sekarang",
+                                    "pos": "n",
+                                    "form": "sekarang"
+                                }
+                            }
+                        ],
+                        "syllables": 7
+                    },
+                    {
+                        "line": "Di ruang lengang lapang",
+                        "words": [
+                            {
+                                "wf": "Di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "ruang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ruang",
+                                    "pos": "n",
+                                    "form": "ruang"
+                                }
+                            },
+                            {
+                                "wf": "lengang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lengang",
+                                    "pos": "a",
+                                    "form": "lengang"
+                                }
+                            },
+                            {
+                                "wf": "lapang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lapang",
+                                    "pos": "a",
+                                    "form": "lapang"
+                                }
+                            }
+                        ],
+                        "syllables": 7
+                    },
+                    {
+                        "line": "Mari ria lagi",
+                        "words": [
+                            {
+                                "wf": "Mari",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "mari",
+                                    "pos": "p",
+                                    "form": "mari"
+                                }
+                            },
+                            {
+                                "wf": "ria",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ria",
+                                    "pos": "a",
+                                    "form": "ria"
+                                }
+                            },
+                            {
+                                "wf": "lagi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lagi",
+                                    "pos": "adv|p",
+                                    "form": "lagi"
+                                }
+                            }
+                        ],
+                        "syllables": 6
+                    },
+                    {
+                        "line": "Tujuh belas tahun kembali",
+                        "words": [
+                            {
+                                "wf": "Tujuh",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tujuh",
+                                    "pos": "num",
+                                    "form": "tujuh"
+                                }
+                            },
+                            {
+                                "wf": "belas",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "belas",
+                                    "pos": "n",
+                                    "form": "belas"
+                                }
+                            },
+                            {
+                                "wf": "tahun",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tahun",
+                                    "pos": "n",
+                                    "form": "tahun"
+                                }
+                            },
+                            {
+                                "wf": "kembali",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kembali",
+                                    "pos": "v",
+                                    "form": "kembali"
+                                }
+                            }
+                        ],
+                        "syllables": 9
+                    },
+                    {
+                        "line": "Bersepeda sama gandengan",
+                        "words": [
+                            {
+                                "wf": "Bersepeda",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sepeda",
+                                    "pos": "v",
+                                    "form": "ber-sepeda"
+                                }
+                            },
+                            {
+                                "wf": "sama",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sama",
+                                    "pos": "a",
+                                    "form": "sama"
+                                }
+                            },
+                            {
+                                "wf": "gandengan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "gandeng",
+                                    "pos": "n",
+                                    "form": "gandeng-an"
+                                }
+                            }
+                        ],
+                        "syllables": 9
+                    },
+                    {
+                        "line": "Kita jalani ini jalan",
+                        "words": [
+                            {
+                                "wf": "Kita",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kita",
+                                    "pos": "pron",
+                                    "form": "kita"
+                                }
+                            },
+                            {
+                                "wf": "jalani",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jalani",
+                                    "pos": "v",
+                                    "form": "jalani"
+                                }
+                            },
+                            {
+                                "wf": "ini",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ini",
+                                    "pos": "pron",
+                                    "form": "ini"
+                                }
+                            },
+                            {
+                                "wf": "jalan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jalan",
+                                    "pos": "n|v|a",
+                                    "form": "jalan"
+                                }
+                            }
+                        ],
+                        "syllables": 9
+                    },
+                    {
+                        "line": "Ria bahgia",
+                        "words": [
+                            {
+                                "wf": "Ria",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ria",
+                                    "pos": "a",
+                                    "form": "ria"
+                                }
+                            },
+                            {
+                                "wf": "bahgia",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bahgia",
+                                    "pos": "?",
+                                    "form": "bahgia"
+                                }
+                            }
+                        ],
+                        "syllables": 5
+                    },
+                    {
+                        "line": "Tak acuh apa-apa",
+                        "words": [
+                            {
+                                "wf": "Tak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tak",
+                                    "pos": "adv",
+                                    "form": "tak"
+                                }
+                            },
+                            {
+                                "wf": "acuh",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "acuh",
+                                    "pos": "v",
+                                    "form": "acuh"
+                                }
+                            },
+                            {
+                                "wf": "apa-apa",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "apa",
+                                    "pos": "n",
+                                    "form": "apa-apa"
+                                }
+                            }
+                        ],
+                        "syllables": 7
+                    },
+                    {
+                        "line": "Gembira-girang",
+                        "words": [
+                            {
+                                "wf": "Gembira-girang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "girang",
+                                    "pos": "?",
+                                    "form": "Gembira-girang"
+                                }
+                            }
+                        ],
+                        "syllables": 5
+                    },
+                    {
+                        "line": "Biar hujan datang",
+                        "words": [
+                            {
+                                "wf": "Biar",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "biar",
+                                    "pos": "p",
+                                    "form": "biar"
+                                }
+                            },
+                            {
+                                "wf": "hujan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hujan",
+                                    "pos": "n",
+                                    "form": "hujan"
+                                }
+                            },
+                            {
+                                "wf": "datang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "datang",
+                                    "pos": "v|n",
+                                    "form": "datang"
+                                }
+                            }
+                        ],
+                        "syllables": 6
+                    },
+                    {
+                        "line": "Kita mandi-basahkan diri",
+                        "words": [
+                            {
+                                "wf": "Kita",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kita",
+                                    "pos": "pron",
+                                    "form": "kita"
+                                }
+                            },
+                            {
+                                "wf": "mandi-basahkan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "mandi-basahkan",
+                                    "pos": "v",
+                                    "form": "mandi-basahkan"
+                                }
+                            },
+                            {
+                                "wf": "diri",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "diri",
+                                    "pos": "n",
+                                    "form": "diri"
+                                }
+                            }
+                        ],
+                        "syllables": 9
+                    },
+                    {
+                        "line": "Tahu pasti sebentar kering lagi.",
+                        "words": [
+                            {
+                                "wf": "Tahu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tahu",
+                                    "pos": "v",
+                                    "form": "tahu"
+                                }
+                            },
+                            {
+                                "wf": "pasti",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pasti",
+                                    "pos": "a",
+                                    "form": "pasti"
+                                }
+                            },
+                            {
+                                "wf": "sebentar",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sebentar",
+                                    "pos": "n",
+                                    "form": "sebentar"
+                                }
+                            },
+                            {
+                                "wf": "kering",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kering",
+                                    "pos": "a",
+                                    "form": "kering"
+                                }
+                            },
+                            {
+                                "wf": "lagi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lagi",
+                                    "pos": "adv|p",
+                                    "form": "lagi"
+                                }
+                            },
+                            {
+                                "wf": ".",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 11
+                    }
+                ],
+                "num_lines": 16
+            }
+        ]
+    }
+}

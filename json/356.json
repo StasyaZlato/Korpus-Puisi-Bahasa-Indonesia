@@ -1,0 +1,591 @@
+{
+    "meta": {
+        "file_name": "356.json",
+        "id_bd": 356,
+        "author": "Kuntowijoyo",
+        "title": "Mobil",
+        "genre": "стихотворение",
+        "year": "---",
+        "num_lines": 13,
+        "rhyme": "Спорадическая",
+        "syllables": [
+            9,
+            7,
+            8,
+            9,
+            7,
+            5,
+            9,
+            7,
+            6,
+            9,
+            10,
+            13,
+            13
+        ],
+        "strofy": [
+            8,
+            1,
+            5
+        ]
+    },
+    "poem": {
+        "text": "{Mobil-mobil sudah berangkat\r\npergi ke tengah kota\r\nmeninggalkan gas dan debu\r\nterdengar mereka tertawa\r\nkaravan yang sempurna\r\nDi pusat kota\r\ndi muara yang deras airnya\r\nmereka labuh waktu}\r\n{Aku menutup mata\r\ntidak karena debu-debu\r\naku ingin melihat rumahku\r\ndalam sunyi di tengah rimba kunang-kunang\r\nAlangkah jelasnya, Tuhan, alangkah jelasnya.}",
+        "strof": [
+            {
+                "strof": "Mobil-mobil sudah berangkat\r\npergi ke tengah kota\r\nmeninggalkan gas dan debu\r\nterdengar mereka tertawa\r\nkaravan yang sempurna\r\nDi pusat kota\r\ndi muara yang deras airnya\r\nmereka labuh waktu",
+                "lines": [
+                    {
+                        "line": "Mobil-mobil sudah berangkat",
+                        "words": [
+                            {
+                                "wf": "Mobil-mobil",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "mobil",
+                                    "pos": "n",
+                                    "form": "mobil-mobil"
+                                }
+                            },
+                            {
+                                "wf": "sudah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sudah",
+                                    "pos": "adv",
+                                    "form": "sudah"
+                                }
+                            },
+                            {
+                                "wf": "berangkat",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "berangkat",
+                                    "pos": "v",
+                                    "form": "berangkat"
+                                }
+                            }
+                        ],
+                        "syllables": 9
+                    },
+                    {
+                        "line": "pergi ke tengah kota",
+                        "words": [
+                            {
+                                "wf": "pergi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pergi",
+                                    "pos": "v",
+                                    "form": "pergi"
+                                }
+                            },
+                            {
+                                "wf": "ke",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ke",
+                                    "pos": "p",
+                                    "form": "ke"
+                                }
+                            },
+                            {
+                                "wf": "tengah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tengah",
+                                    "pos": "n",
+                                    "form": "tengah"
+                                }
+                            },
+                            {
+                                "wf": "kota",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kota",
+                                    "pos": "n",
+                                    "form": "kota"
+                                }
+                            }
+                        ],
+                        "syllables": 7
+                    },
+                    {
+                        "line": "meninggalkan gas dan debu",
+                        "words": [
+                            {
+                                "wf": "meninggalkan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tinggal",
+                                    "pos": "v",
+                                    "form": "meN-tinggal-kan"
+                                }
+                            },
+                            {
+                                "wf": "gas",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "gas",
+                                    "pos": "n",
+                                    "form": "gas"
+                                }
+                            },
+                            {
+                                "wf": "dan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dan",
+                                    "pos": "p",
+                                    "form": "dan"
+                                }
+                            },
+                            {
+                                "wf": "debu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "debu",
+                                    "pos": "n",
+                                    "form": "debu"
+                                }
+                            }
+                        ],
+                        "syllables": 8
+                    },
+                    {
+                        "line": "terdengar mereka tertawa",
+                        "words": [
+                            {
+                                "wf": "terdengar",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dengar",
+                                    "pos": "v",
+                                    "form": "terdengar"
+                                }
+                            },
+                            {
+                                "wf": "mereka",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "reka",
+                                    "pos": "v",
+                                    "form": "mereka"
+                                }
+                            },
+                            {
+                                "wf": "tertawa",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tawa",
+                                    "pos": "v",
+                                    "form": "ter-tawa"
+                                }
+                            }
+                        ],
+                        "syllables": 9
+                    },
+                    {
+                        "line": "karavan yang sempurna",
+                        "words": [
+                            {
+                                "wf": "karavan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "karavan",
+                                    "pos": "n",
+                                    "form": "karavan"
+                                }
+                            },
+                            {
+                                "wf": "yang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "yang",
+                                    "pos": "a|v|n",
+                                    "form": "yang"
+                                }
+                            },
+                            {
+                                "wf": "sempurna",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sempurna",
+                                    "pos": "a",
+                                    "form": "sempurna"
+                                }
+                            }
+                        ],
+                        "syllables": 7
+                    },
+                    {
+                        "line": "Di pusat kota",
+                        "words": [
+                            {
+                                "wf": "Di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "pusat",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pusat",
+                                    "pos": "n",
+                                    "form": "pusat"
+                                }
+                            },
+                            {
+                                "wf": "kota",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kota",
+                                    "pos": "n",
+                                    "form": "kota"
+                                }
+                            }
+                        ],
+                        "syllables": 5
+                    },
+                    {
+                        "line": "di muara yang deras airnya",
+                        "words": [
+                            {
+                                "wf": "di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "muara",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "muara",
+                                    "pos": "n",
+                                    "form": "muara"
+                                }
+                            },
+                            {
+                                "wf": "yang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "yang",
+                                    "pos": "a|v|n",
+                                    "form": "yang"
+                                }
+                            },
+                            {
+                                "wf": "deras",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "deras",
+                                    "pos": "a",
+                                    "form": "deras"
+                                }
+                            },
+                            {
+                                "wf": "airnya",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "air",
+                                    "pos": "n",
+                                    "form": "air-nya"
+                                }
+                            }
+                        ],
+                        "syllables": 9
+                    },
+                    {
+                        "line": "mereka labuh waktu",
+                        "words": [
+                            {
+                                "wf": "mereka",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "reka",
+                                    "pos": "v",
+                                    "form": "mereka"
+                                }
+                            },
+                            {
+                                "wf": "labuh",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "labuh",
+                                    "pos": "a",
+                                    "form": "labuh"
+                                }
+                            },
+                            {
+                                "wf": "waktu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "waktu",
+                                    "pos": "n|p",
+                                    "form": "waktu"
+                                }
+                            }
+                        ],
+                        "syllables": 7
+                    }
+                ],
+                "num_lines": 8
+            },
+            {
+                "strof": "\r\n",
+                "lines": [
+                    {
+                        "line": "",
+                        "words": [],
+                        "syllables": 0
+                    }
+                ],
+                "num_lines": 1
+            },
+            {
+                "strof": "Aku menutup mata\r\ntidak karena debu-debu\r\naku ingin melihat rumahku\r\ndalam sunyi di tengah rimba kunang-kunang\r\nAlangkah jelasnya, Tuhan, alangkah jelasnya.",
+                "lines": [
+                    {
+                        "line": "Aku menutup mata",
+                        "words": [
+                            {
+                                "wf": "Aku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "aku",
+                                    "pos": "pron",
+                                    "form": "aku"
+                                }
+                            },
+                            {
+                                "wf": "menutup",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tutup",
+                                    "pos": "v",
+                                    "form": "meN-tutup"
+                                }
+                            },
+                            {
+                                "wf": "mata",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "mata",
+                                    "pos": "n",
+                                    "form": "mata"
+                                }
+                            }
+                        ],
+                        "syllables": 6
+                    },
+                    {
+                        "line": "tidak karena debu-debu",
+                        "words": [
+                            {
+                                "wf": "tidak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tidak",
+                                    "pos": "adv",
+                                    "form": "tidak"
+                                }
+                            },
+                            {
+                                "wf": "karena",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "karena",
+                                    "pos": "p",
+                                    "form": "karena"
+                                }
+                            },
+                            {
+                                "wf": "debu-debu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "debu",
+                                    "pos": "n",
+                                    "form": "debu-debu"
+                                }
+                            }
+                        ],
+                        "syllables": 9
+                    },
+                    {
+                        "line": "aku ingin melihat rumahku",
+                        "words": [
+                            {
+                                "wf": "aku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "aku",
+                                    "pos": "pron",
+                                    "form": "aku"
+                                }
+                            },
+                            {
+                                "wf": "ingin",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ingin",
+                                    "pos": "adv",
+                                    "form": "ingin"
+                                }
+                            },
+                            {
+                                "wf": "melihat",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lihat",
+                                    "pos": "v",
+                                    "form": "meN-lihat"
+                                }
+                            },
+                            {
+                                "wf": "rumahku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "rumah",
+                                    "pos": "n",
+                                    "form": "rumah-ku"
+                                }
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "dalam sunyi di tengah rimba kunang-kunang",
+                        "words": [
+                            {
+                                "wf": "dalam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dalam",
+                                    "pos": "a|n",
+                                    "form": "dalam"
+                                }
+                            },
+                            {
+                                "wf": "sunyi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sunyi",
+                                    "pos": "a",
+                                    "form": "sunyi"
+                                }
+                            },
+                            {
+                                "wf": "di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "tengah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tengah",
+                                    "pos": "n",
+                                    "form": "tengah"
+                                }
+                            },
+                            {
+                                "wf": "rimba",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "rimba",
+                                    "pos": "n",
+                                    "form": "rimba"
+                                }
+                            },
+                            {
+                                "wf": "kunang-kunang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kunang-kunang",
+                                    "pos": "n",
+                                    "form": "kunang-kunang"
+                                }
+                            }
+                        ],
+                        "syllables": 13
+                    },
+                    {
+                        "line": "Alangkah jelasnya, Tuhan, alangkah jelasnya.",
+                        "words": [
+                            {
+                                "wf": "Alangkah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "alangkah",
+                                    "pos": "adv",
+                                    "form": "alangkah"
+                                }
+                            },
+                            {
+                                "wf": "jelasnya",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jelas",
+                                    "pos": "a",
+                                    "form": "jelas-nya"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "Tuhan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "Tuhan",
+                                    "pos": "n",
+                                    "form": "Tuhan"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "alangkah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "alangkah",
+                                    "pos": "adv",
+                                    "form": "alangkah"
+                                }
+                            },
+                            {
+                                "wf": "jelasnya",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jelas",
+                                    "pos": "a",
+                                    "form": "jelas-nya"
+                                }
+                            },
+                            {
+                                "wf": ".",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 13
+                    }
+                ],
+                "num_lines": 5
+            }
+        ]
+    }
+}

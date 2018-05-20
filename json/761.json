@@ -1,0 +1,621 @@
+{
+    "meta": {
+        "file_name": "761.json",
+        "id_bd": 761,
+        "author": "Ajip Rosidi",
+        "title": "Pantun kebun bambu",
+        "genre": "пантун",
+        "year": "---",
+        "num_lines": 12,
+        "rhyme": "Есть",
+        "syllables": [
+            9,
+            11,
+            11,
+            11,
+            9,
+            10,
+            9,
+            8,
+            9,
+            10,
+            10,
+            10
+        ],
+        "strofy": [
+            4,
+            1,
+            4,
+            1,
+            4
+        ]
+    },
+    "poem": {
+        "text": "{Kebun bambu hijau terbentang\r\nSepanjang bukit di sekelilingku;\r\nNasibku selalu terasa malang\r\nkarena terlempar dari sisimu}\r\n{Kebun bambu ditebang orang\r\njadi lahan perumahan baru;\r\nHati rindu bukan sembarang\r\nnamun engkau tak mau tahu}\r\n{Rebung tumbuh di musim semi\r\npengganti batang yang sudah tua;\r\nKalau engkau memenuhi janji\r\naku menunggu tidak mengapa}",
+        "strof": [
+            {
+                "strof": "Kebun bambu hijau terbentang\r\nSepanjang bukit di sekelilingku;\r\nNasibku selalu terasa malang\r\nkarena terlempar dari sisimu",
+                "lines": [
+                    {
+                        "line": "Kebun bambu hijau terbentang",
+                        "words": [
+                            {
+                                "wf": "Kebun",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kebun",
+                                    "pos": "n",
+                                    "form": "kebun"
+                                }
+                            },
+                            {
+                                "wf": "bambu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bambu",
+                                    "pos": "n",
+                                    "form": "bambu"
+                                }
+                            },
+                            {
+                                "wf": "hijau",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hijau",
+                                    "pos": "n|a",
+                                    "form": "hijau"
+                                }
+                            },
+                            {
+                                "wf": "terbentang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bentang",
+                                    "pos": "v",
+                                    "form": "ter-bentang"
+                                }
+                            }
+                        ],
+                        "syllables": 9
+                    },
+                    {
+                        "line": "Sepanjang bukit di sekelilingku;",
+                        "words": [
+                            {
+                                "wf": "Sepanjang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "panjang",
+                                    "pos": "n",
+                                    "form": "se-panjang"
+                                }
+                            },
+                            {
+                                "wf": "bukit",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bukit",
+                                    "pos": "n",
+                                    "form": "bukit"
+                                }
+                            },
+                            {
+                                "wf": "di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "sekelilingku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sekelilingku",
+                                    "pos": "?",
+                                    "form": "sekelilingku"
+                                }
+                            },
+                            {
+                                "wf": ";",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 11
+                    },
+                    {
+                        "line": "Nasibku selalu terasa malang",
+                        "words": [
+                            {
+                                "wf": "Nasibku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "nasib",
+                                    "pos": "n",
+                                    "form": "nasib-ku"
+                                }
+                            },
+                            {
+                                "wf": "selalu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "selalu",
+                                    "pos": "adv",
+                                    "form": "selalu"
+                                }
+                            },
+                            {
+                                "wf": "terasa",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "rasa",
+                                    "pos": "v",
+                                    "form": "ter-rasa"
+                                }
+                            },
+                            {
+                                "wf": "malang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "malang",
+                                    "pos": "a",
+                                    "form": "malang"
+                                }
+                            }
+                        ],
+                        "syllables": 11
+                    },
+                    {
+                        "line": "karena terlempar dari sisimu",
+                        "words": [
+                            {
+                                "wf": "karena",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "karena",
+                                    "pos": "p",
+                                    "form": "karena"
+                                }
+                            },
+                            {
+                                "wf": "terlempar",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "terlempar",
+                                    "pos": "",
+                                    "form": "terlempar"
+                                }
+                            },
+                            {
+                                "wf": "dari",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dari",
+                                    "pos": "p",
+                                    "form": "dari"
+                                }
+                            },
+                            {
+                                "wf": "sisimu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sisi",
+                                    "pos": "n",
+                                    "form": "sisi-mu"
+                                }
+                            }
+                        ],
+                        "syllables": 11
+                    }
+                ],
+                "num_lines": 4
+            },
+            {
+                "strof": "\r\n",
+                "lines": [
+                    {
+                        "line": "",
+                        "words": [],
+                        "syllables": 0
+                    }
+                ],
+                "num_lines": 1
+            },
+            {
+                "strof": "Kebun bambu ditebang orang\r\njadi lahan perumahan baru;\r\nHati rindu bukan sembarang\r\nnamun engkau tak mau tahu",
+                "lines": [
+                    {
+                        "line": "Kebun bambu ditebang orang",
+                        "words": [
+                            {
+                                "wf": "Kebun",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kebun",
+                                    "pos": "n",
+                                    "form": "kebun"
+                                }
+                            },
+                            {
+                                "wf": "bambu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bambu",
+                                    "pos": "n",
+                                    "form": "bambu"
+                                }
+                            },
+                            {
+                                "wf": "ditebang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tebang",
+                                    "pos": "v",
+                                    "form": "di-tebang"
+                                }
+                            },
+                            {
+                                "wf": "orang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "orang",
+                                    "pos": "n",
+                                    "form": "orang"
+                                }
+                            }
+                        ],
+                        "syllables": 9
+                    },
+                    {
+                        "line": "jadi lahan perumahan baru;",
+                        "words": [
+                            {
+                                "wf": "jadi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jadi",
+                                    "pos": "v",
+                                    "form": "jadi"
+                                }
+                            },
+                            {
+                                "wf": "lahan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lahan",
+                                    "pos": "n",
+                                    "form": "lahan"
+                                }
+                            },
+                            {
+                                "wf": "perumahan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "rumah",
+                                    "pos": "n",
+                                    "form": "pe-rumah-an"
+                                }
+                            },
+                            {
+                                "wf": "baru",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "baru",
+                                    "pos": "a|adv",
+                                    "form": "baru"
+                                }
+                            },
+                            {
+                                "wf": ";",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "Hati rindu bukan sembarang",
+                        "words": [
+                            {
+                                "wf": "Hati",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hati",
+                                    "pos": "n",
+                                    "form": "hati"
+                                }
+                            },
+                            {
+                                "wf": "rindu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "rindu",
+                                    "pos": "a",
+                                    "form": "rindu"
+                                }
+                            },
+                            {
+                                "wf": "bukan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bukan",
+                                    "pos": "n",
+                                    "form": "bukan"
+                                }
+                            },
+                            {
+                                "wf": "sembarang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sebarang",
+                                    "pos": "a",
+                                    "form": "sembarang"
+                                }
+                            }
+                        ],
+                        "syllables": 9
+                    },
+                    {
+                        "line": "namun engkau tak mau tahu",
+                        "words": [
+                            {
+                                "wf": "namun",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "namun",
+                                    "pos": "p",
+                                    "form": "namun"
+                                }
+                            },
+                            {
+                                "wf": "engkau",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "engkau",
+                                    "pos": "pron",
+                                    "form": "engkau"
+                                }
+                            },
+                            {
+                                "wf": "tak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tak",
+                                    "pos": "adv",
+                                    "form": "tak"
+                                }
+                            },
+                            {
+                                "wf": "mau",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "mau",
+                                    "pos": "adv|n",
+                                    "form": "mau"
+                                }
+                            },
+                            {
+                                "wf": "tahu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tahu",
+                                    "pos": "v",
+                                    "form": "tahu"
+                                }
+                            }
+                        ],
+                        "syllables": 8
+                    }
+                ],
+                "num_lines": 4
+            },
+            {
+                "strof": "\r\n",
+                "lines": [
+                    {
+                        "line": "",
+                        "words": [],
+                        "syllables": 0
+                    }
+                ],
+                "num_lines": 1
+            },
+            {
+                "strof": "Rebung tumbuh di musim semi\r\npengganti batang yang sudah tua;\r\nKalau engkau memenuhi janji\r\naku menunggu tidak mengapa",
+                "lines": [
+                    {
+                        "line": "Rebung tumbuh di musim semi",
+                        "words": [
+                            {
+                                "wf": "Rebung",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "rebung",
+                                    "pos": "n",
+                                    "form": "rebung"
+                                }
+                            },
+                            {
+                                "wf": "tumbuh",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tumbuh",
+                                    "pos": "v",
+                                    "form": "tumbuh"
+                                }
+                            },
+                            {
+                                "wf": "di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "musim",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "musim",
+                                    "pos": "n",
+                                    "form": "musim"
+                                }
+                            },
+                            {
+                                "wf": "semi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "semi",
+                                    "pos": "n",
+                                    "form": "semi"
+                                }
+                            }
+                        ],
+                        "syllables": 9
+                    },
+                    {
+                        "line": "pengganti batang yang sudah tua;",
+                        "words": [
+                            {
+                                "wf": "pengganti",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ganti",
+                                    "pos": "n",
+                                    "form": "peN-ganti"
+                                }
+                            },
+                            {
+                                "wf": "batang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "batang",
+                                    "pos": "n",
+                                    "form": "batang"
+                                }
+                            },
+                            {
+                                "wf": "yang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "yang",
+                                    "pos": "a|v|n",
+                                    "form": "yang"
+                                }
+                            },
+                            {
+                                "wf": "sudah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sudah",
+                                    "pos": "adv",
+                                    "form": "sudah"
+                                }
+                            },
+                            {
+                                "wf": "tua",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tua",
+                                    "pos": "a",
+                                    "form": "tua"
+                                }
+                            },
+                            {
+                                "wf": ";",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "Kalau engkau memenuhi janji",
+                        "words": [
+                            {
+                                "wf": "Kalau",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kalau",
+                                    "pos": "p",
+                                    "form": "kalau"
+                                }
+                            },
+                            {
+                                "wf": "engkau",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "engkau",
+                                    "pos": "pron",
+                                    "form": "engkau"
+                                }
+                            },
+                            {
+                                "wf": "memenuhi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "penuh",
+                                    "pos": "v",
+                                    "form": "meN-penuh-i"
+                                }
+                            },
+                            {
+                                "wf": "janji",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "janji",
+                                    "pos": "n",
+                                    "form": "janji"
+                                }
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "aku menunggu tidak mengapa",
+                        "words": [
+                            {
+                                "wf": "aku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "aku",
+                                    "pos": "pron",
+                                    "form": "aku"
+                                }
+                            },
+                            {
+                                "wf": "menunggu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tunggu",
+                                    "pos": "v",
+                                    "form": "meN-tunggu"
+                                }
+                            },
+                            {
+                                "wf": "tidak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tidak",
+                                    "pos": "adv",
+                                    "form": "tidak"
+                                }
+                            },
+                            {
+                                "wf": "mengapa",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "apa",
+                                    "pos": "pron",
+                                    "form": "meN-apa"
+                                }
+                            }
+                        ],
+                        "syllables": 10
+                    }
+                ],
+                "num_lines": 4
+            }
+        ]
+    }
+}

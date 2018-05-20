@@ -1,0 +1,612 @@
+{
+    "meta": {
+        "file_name": "768.json",
+        "id_bd": 768,
+        "author": "Ajip Rosidi",
+        "title": "Pantun musim panas",
+        "genre": "пантун",
+        "year": "---",
+        "num_lines": 12,
+        "rhyme": "Есть",
+        "syllables": [
+            11,
+            9,
+            10,
+            9,
+            9,
+            9,
+            8,
+            9,
+            9,
+            9,
+            9,
+            11
+        ],
+        "strofy": [
+            4,
+            1,
+            4,
+            1,
+            4
+        ]
+    },
+    "poem": {
+        "text": "{Matahari terik membakar jangat\r\ntiada tempat kan berteduh;\r\nMeski engkau selalu kuingat\r\nnamun rasanya terlalu jauh}\r\n{Tiada tempat kan berteduh\r\ntiada tempat kan berlindung;\r\nEngkau terasa terlalu jauh\r\ndi atas awan kau terapung}\r\n{Tiada tempat kan berlindung\r\npohon pinang tegak berdiri;\r\nDi atas awan kau mengapung\r\nmembiarkan aku kecil sendiri}",
+        "strof": [
+            {
+                "strof": "Matahari terik membakar jangat\r\ntiada tempat kan berteduh;\r\nMeski engkau selalu kuingat\r\nnamun rasanya terlalu jauh",
+                "lines": [
+                    {
+                        "line": "Matahari terik membakar jangat",
+                        "words": [
+                            {
+                                "wf": "Matahari",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "matahari",
+                                    "pos": "n",
+                                    "form": "matahari"
+                                }
+                            },
+                            {
+                                "wf": "terik",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "terik",
+                                    "pos": "a",
+                                    "form": "terik"
+                                }
+                            },
+                            {
+                                "wf": "membakar",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bakar",
+                                    "pos": "v",
+                                    "form": "meN-bakar"
+                                }
+                            },
+                            {
+                                "wf": "jangat",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jangat",
+                                    "pos": "n",
+                                    "form": "jangat"
+                                }
+                            }
+                        ],
+                        "syllables": 11
+                    },
+                    {
+                        "line": "tiada tempat kan berteduh;",
+                        "words": [
+                            {
+                                "wf": "tiada",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tiada",
+                                    "pos": "v",
+                                    "form": "tiada"
+                                }
+                            },
+                            {
+                                "wf": "tempat",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tempat",
+                                    "pos": "n",
+                                    "form": "tempat"
+                                }
+                            },
+                            {
+                                "wf": "kan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kan",
+                                    "pos": "v",
+                                    "form": "kan"
+                                }
+                            },
+                            {
+                                "wf": "berteduh",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "teduh",
+                                    "pos": "v",
+                                    "form": "ber-teduh"
+                                }
+                            },
+                            {
+                                "wf": ";",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 9
+                    },
+                    {
+                        "line": "Meski engkau selalu kuingat",
+                        "words": [
+                            {
+                                "wf": "Meski",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "meski",
+                                    "pos": "p",
+                                    "form": "meski"
+                                }
+                            },
+                            {
+                                "wf": "engkau",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "engkau",
+                                    "pos": "pron",
+                                    "form": "engkau"
+                                }
+                            },
+                            {
+                                "wf": "selalu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "selalu",
+                                    "pos": "adv",
+                                    "form": "selalu"
+                                }
+                            },
+                            {
+                                "wf": "kuingat",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ingat",
+                                    "pos": "n",
+                                    "form": "ku-ingat"
+                                }
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "namun rasanya terlalu jauh",
+                        "words": [
+                            {
+                                "wf": "namun",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "namun",
+                                    "pos": "p",
+                                    "form": "namun"
+                                }
+                            },
+                            {
+                                "wf": "rasanya",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "rasa",
+                                    "pos": "adv",
+                                    "form": "rasa-nya"
+                                }
+                            },
+                            {
+                                "wf": "terlalu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lalu",
+                                    "pos": "adv",
+                                    "form": "ter-lalu"
+                                }
+                            },
+                            {
+                                "wf": "jauh",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jauh",
+                                    "pos": "a",
+                                    "form": "jauh"
+                                }
+                            }
+                        ],
+                        "syllables": 9
+                    }
+                ],
+                "num_lines": 4
+            },
+            {
+                "strof": "\r\n",
+                "lines": [
+                    {
+                        "line": "",
+                        "words": [],
+                        "syllables": 0
+                    }
+                ],
+                "num_lines": 1
+            },
+            {
+                "strof": "Tiada tempat kan berteduh\r\ntiada tempat kan berlindung;\r\nEngkau terasa terlalu jauh\r\ndi atas awan kau terapung",
+                "lines": [
+                    {
+                        "line": "Tiada tempat kan berteduh",
+                        "words": [
+                            {
+                                "wf": "Tiada",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tiada",
+                                    "pos": "v",
+                                    "form": "tiada"
+                                }
+                            },
+                            {
+                                "wf": "tempat",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tempat",
+                                    "pos": "n",
+                                    "form": "tempat"
+                                }
+                            },
+                            {
+                                "wf": "kan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kan",
+                                    "pos": "v",
+                                    "form": "kan"
+                                }
+                            },
+                            {
+                                "wf": "berteduh",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "teduh",
+                                    "pos": "v",
+                                    "form": "ber-teduh"
+                                }
+                            }
+                        ],
+                        "syllables": 9
+                    },
+                    {
+                        "line": "tiada tempat kan berlindung;",
+                        "words": [
+                            {
+                                "wf": "tiada",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tiada",
+                                    "pos": "v",
+                                    "form": "tiada"
+                                }
+                            },
+                            {
+                                "wf": "tempat",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tempat",
+                                    "pos": "n",
+                                    "form": "tempat"
+                                }
+                            },
+                            {
+                                "wf": "kan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kan",
+                                    "pos": "v",
+                                    "form": "kan"
+                                }
+                            },
+                            {
+                                "wf": "berlindung",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lindung",
+                                    "pos": "v",
+                                    "form": "ber-lindung"
+                                }
+                            },
+                            {
+                                "wf": ";",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 9
+                    },
+                    {
+                        "line": "Engkau terasa terlalu jauh",
+                        "words": [
+                            {
+                                "wf": "Engkau",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "engkau",
+                                    "pos": "pron",
+                                    "form": "engkau"
+                                }
+                            },
+                            {
+                                "wf": "terasa",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "rasa",
+                                    "pos": "v",
+                                    "form": "ter-rasa"
+                                }
+                            },
+                            {
+                                "wf": "terlalu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lalu",
+                                    "pos": "adv",
+                                    "form": "ter-lalu"
+                                }
+                            },
+                            {
+                                "wf": "jauh",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jauh",
+                                    "pos": "a",
+                                    "form": "jauh"
+                                }
+                            }
+                        ],
+                        "syllables": 8
+                    },
+                    {
+                        "line": "di atas awan kau terapung",
+                        "words": [
+                            {
+                                "wf": "di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "atas",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "atas",
+                                    "pos": "n",
+                                    "form": "atas"
+                                }
+                            },
+                            {
+                                "wf": "awan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "awan",
+                                    "pos": "n",
+                                    "form": "awan"
+                                }
+                            },
+                            {
+                                "wf": "kau",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kau",
+                                    "pos": "pron",
+                                    "form": "kau"
+                                }
+                            },
+                            {
+                                "wf": "terapung",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "apung",
+                                    "pos": "v",
+                                    "form": "ter-apung"
+                                }
+                            }
+                        ],
+                        "syllables": 9
+                    }
+                ],
+                "num_lines": 4
+            },
+            {
+                "strof": "\r\n",
+                "lines": [
+                    {
+                        "line": "",
+                        "words": [],
+                        "syllables": 0
+                    }
+                ],
+                "num_lines": 1
+            },
+            {
+                "strof": "Tiada tempat kan berlindung\r\npohon pinang tegak berdiri;\r\nDi atas awan kau mengapung\r\nmembiarkan aku kecil sendiri",
+                "lines": [
+                    {
+                        "line": "Tiada tempat kan berlindung",
+                        "words": [
+                            {
+                                "wf": "Tiada",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tiada",
+                                    "pos": "v",
+                                    "form": "tiada"
+                                }
+                            },
+                            {
+                                "wf": "tempat",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tempat",
+                                    "pos": "n",
+                                    "form": "tempat"
+                                }
+                            },
+                            {
+                                "wf": "kan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kan",
+                                    "pos": "v",
+                                    "form": "kan"
+                                }
+                            },
+                            {
+                                "wf": "berlindung",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lindung",
+                                    "pos": "v",
+                                    "form": "ber-lindung"
+                                }
+                            }
+                        ],
+                        "syllables": 9
+                    },
+                    {
+                        "line": "pohon pinang tegak berdiri;",
+                        "words": [
+                            {
+                                "wf": "pohon",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pohon",
+                                    "pos": "n",
+                                    "form": "pohon"
+                                }
+                            },
+                            {
+                                "wf": "pinang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pinang",
+                                    "pos": "n",
+                                    "form": "pinang"
+                                }
+                            },
+                            {
+                                "wf": "tegak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tegak",
+                                    "pos": "a",
+                                    "form": "tegak"
+                                }
+                            },
+                            {
+                                "wf": "berdiri",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "berdiri",
+                                    "pos": "v",
+                                    "form": "berdiri"
+                                }
+                            },
+                            {
+                                "wf": ";",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 9
+                    },
+                    {
+                        "line": "Di atas awan kau mengapung",
+                        "words": [
+                            {
+                                "wf": "Di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "atas",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "atas",
+                                    "pos": "n",
+                                    "form": "atas"
+                                }
+                            },
+                            {
+                                "wf": "awan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "awan",
+                                    "pos": "n",
+                                    "form": "awan"
+                                }
+                            },
+                            {
+                                "wf": "kau",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kau",
+                                    "pos": "pron",
+                                    "form": "kau"
+                                }
+                            },
+                            {
+                                "wf": "mengapung",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "apung",
+                                    "pos": "v",
+                                    "form": "meN-apung"
+                                }
+                            }
+                        ],
+                        "syllables": 9
+                    },
+                    {
+                        "line": "membiarkan aku kecil sendiri",
+                        "words": [
+                            {
+                                "wf": "membiarkan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "biar",
+                                    "pos": "v",
+                                    "form": "meN-biar-kan"
+                                }
+                            },
+                            {
+                                "wf": "aku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "aku",
+                                    "pos": "pron",
+                                    "form": "aku"
+                                }
+                            },
+                            {
+                                "wf": "kecil",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kecil",
+                                    "pos": "a",
+                                    "form": "kecil"
+                                }
+                            },
+                            {
+                                "wf": "sendiri",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sendiri",
+                                    "pos": "adv|a|n",
+                                    "form": "sendiri"
+                                }
+                            }
+                        ],
+                        "syllables": 11
+                    }
+                ],
+                "num_lines": 4
+            }
+        ]
+    }
+}

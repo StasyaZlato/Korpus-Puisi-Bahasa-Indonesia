@@ -5,7 +5,8 @@ from pprint import pprint
 import time
 start_time = time.time()
 
-CLITICS = ['lah', 'kah', 'nya', 'ku', 'mu', 'kau']
+CLITICS = ['lah', 'kah', 'nya', 'ku', 'mu', 'kau', 'anda']
+# да, был автор, использующий anda как клитику (слитно со словом)
 CLITICS_PRE = ['ku', 'kau', 'di']
 SUFFIXES = ['', 'kan', 'an', 'nya', 'ku', 'mu', 'kau',
             'i', 'lah', 'kah']
@@ -33,13 +34,13 @@ def find_in_dict_new(word, dict_strr, dict_dictt: dict):
     red = False
     morph = word
     if not '\"' + word + '\"' in dict_strr and not '\"' + word.lower() + '\"' in dict_strr:
-        print('Слово не в списках')
+        # print('Слово не в списках')
         if good_end(CLITICS, word)[0]:
             clitic = '-' + good_end(CLITICS, word)[1]
             word = word[:-len(good_end(CLITICS, word)[1])]
-            print('Слово кончается на клитику')
+            # print('Слово кончается на клитику')
         elif good_start(CLITICS_PRE, word)[0]:
-            print('Слово начинается на клитику')
+            # print('Слово начинается на клитику')
             clitic = good_start(CLITICS_PRE, word)[1] + '-'
             word = word[len(good_start(CLITICS_PRE, word)[1]):]
         elif '-' in word:
@@ -106,8 +107,8 @@ def complex_both(word, root):
     possible_forms = []
     combs = list(set([(i, k) for i in prefixes for k in prefixes]))
     combs1 = list(set([(i,k) for i in suffixes for k in suffixes]))
-    combs = [(combs[i][0], combs[i][1]) for i in range(len(combs)) if combs[i][0] != combs[i][1] and (word.startswith(combs[i][0]) or word.startswith(combs[i][0][:2]) or combs[i][0] == 'N')]
-    combs1 = [(combs1[i][0], combs1[i][1]) for i in range(len(combs1)) if combs1[i][0] != combs1[i][1] and word.endswith(combs1[i][1])]
+    combs = [(combs[i][0], combs[i][1]) for i in range(len(combs)) if (word.startswith(combs[i][0]) or word.startswith(combs[i][0][:2]) or combs[i][0] == 'N')]
+    combs1 = [(combs1[i][0], combs1[i][1]) for i in range(len(combs1)) if word.endswith(combs1[i][1])]
     for n in combs:
         for t in combs1:
             if n == ('meN', 'ber'):
@@ -171,15 +172,15 @@ def main(text):
     list_w = take_text(text)
     new_text = []
     dict_str, dict_dict = take_dict()
-    print('Словари взяты.')
+    # print('Словари взяты.')
     for i in list_w:
         if re.search('\w', i) is not None:
-            print(i)
+            # print(i)
             a = find_in_dict_new(i, dict_str, dict_dict)
-            print('Поиск осуществлен.')
+            # print('Поиск осуществлен.')
             if a != None:
                 new_text.append({'слово': a[0], 'корень': a[1], 'форма': a[2]})
-                print('Слово добавлено в список')
+                # print('Слово добавлено в список')
             else:
                 new_text.append(i)
         else:
@@ -188,6 +189,60 @@ def main(text):
 
 
 if __name__ == "__main__":
-    print(main(text='Saya mau pertunjukan'))
+    pprint(main(text='''"{Tuhan yang Maha Esa,
+alangkah tegangnya
+melihat hidup yang tergadai,
+fikiran yang dipabrikkan,
+dan masyarakat yang diternakkan.}
+{Malam rebah dalam udara yang kotor.
+Di manakah harapan akan dikaitkan
+bila tipu daya telah menjadi seni kehidupan?
+Dendam diasah di kolong yang basah
+siap untuk terseret dalam gelombang edan.
+Perkelahian dalam hidup sehari-hari
+telah menjadi kewajaran.
+Pepatah dan petitih
+tak akan menyelesaikan masalah
+bagi hidup yang bosan,
+terpenjara, tanpa jendela.}
+{Tuhan yang Maha Faham,
+alangkah tak masuk akal
+jarak selangkah
+yang bererti empat puluh tahun gaji seorang buruh,
+yang memisahkan
+sebuah halaman bertaman tanaman hias
+dengan rumah-rumah tanpa sumur dan W.C.
+Hati manusia telah menjadi acuh,
+panser yang angkuh,
+traktor yang dendam.}
+{Tuhan yang Maha Rahman,
+ketika air mata menjadi gombal,
+dan kata-kata menjadi lumpur becek,
+aku menoleh ke utara dan ke selatan -
+di manakah Kamu?
+Di manakah tabungan keramik untuk wang logam?
+Di manakah catatan belanja harian?
+Di manakah peradaban?
+Ya, Tuhan yang Maha Hakim,
+harapan kosong, optimisme hampa.
+Hanya akal sihat dan daya hidup
+menjadi peganganku yang nyata.}
+{Ibumu mempunyai hak yang sekiranya kamu mengetahui tentu itu besar sekali
+Kebaikanmu yang banyak ini
+Sungguh di sisi-Nya masih sedikit
+Berapa banyak malam yang ia gunakan mengaduh karena menanggung bebanmu
+Dalam pelayanannya ia menanggung rintih dan nafas panjang
+Ketika melahirkan andai kamu mengetahui keletihan yang ditanggungnya
+Dari balik sumbatan kerongkongannya hatinya terbang
+Berapa banyak ia membasuh sakitmu dengan tangannya
+Pangkuannya bagimu adalah sebuah ranjang
+Sesuatu yang kamu keluhkan selalu ditebusnya dengan dirinya
+Dari susunya keluarlah minuman yang sangat enak buatmu
+Berapa kali ia lapar dan ia memberikan makanannya kepadamu
+Dengan belas kasih dan kasih sayang saat kamu masih kecil
+Aneh orang yang berakal tapi masih mengikuti hawa nafsunya
+Aneh orang yang buta mata hatinya sementara matanya melihat
+Wujudkan cintaimu dengan memberikan doamu yang setulusnya pada ibumu
+Karena kamu sangat membutuhkan doanya padamu}"'''))
     print("--- %s seconds ---" % (time.time() - start_time))
 

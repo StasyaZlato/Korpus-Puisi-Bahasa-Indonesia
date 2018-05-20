@@ -1,0 +1,213 @@
+{
+    "meta": {
+        "file_name": "126.json",
+        "id_bd": 126,
+        "author": "Chairil Anwar",
+        "title": "Mulutmu mencubit di mulutku",
+        "genre": "стихотворение",
+        "year": "12.07.1943",
+        "num_lines": 4,
+        "rhyme": "Есть",
+        "syllables": [
+            10,
+            11,
+            12,
+            11
+        ],
+        "strofy": [
+            4
+        ]
+    },
+    "poem": {
+        "text": "Mulutmu mencubit di mulutku\r\nMenggelegak benci sejenak itu\r\nMengapa merihmu tak kucekik pula\r\nKetika halus-perih kau meluka??",
+        "strof": [
+            {
+                "strof": "Mulutmu mencubit di mulutku\r\nMenggelegak benci sejenak itu\r\nMengapa merihmu tak kucekik pula\r\nKetika halus-perih kau meluka??",
+                "lines": [
+                    {
+                        "line": "Mulutmu mencubit di mulutku",
+                        "words": [
+                            {
+                                "wf": "Mulutmu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "mulut",
+                                    "pos": "n",
+                                    "form": "mulut-mu"
+                                }
+                            },
+                            {
+                                "wf": "mencubit",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "cubit",
+                                    "pos": "v",
+                                    "form": "meN-cubit"
+                                }
+                            },
+                            {
+                                "wf": "di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "mulutku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "mulut",
+                                    "pos": "n",
+                                    "form": "mulut-ku"
+                                }
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "Menggelegak benci sejenak itu",
+                        "words": [
+                            {
+                                "wf": "Menggelegak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "gelegak",
+                                    "pos": "v",
+                                    "form": "meN-gelegak"
+                                }
+                            },
+                            {
+                                "wf": "benci",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "benci",
+                                    "pos": "a",
+                                    "form": "benci"
+                                }
+                            },
+                            {
+                                "wf": "sejenak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sejenak",
+                                    "pos": "n",
+                                    "form": "sejenak"
+                                }
+                            },
+                            {
+                                "wf": "itu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "itu",
+                                    "pos": "pron|n",
+                                    "form": "itu"
+                                }
+                            }
+                        ],
+                        "syllables": 11
+                    },
+                    {
+                        "line": "Mengapa merihmu tak kucekik pula",
+                        "words": [
+                            {
+                                "wf": "Mengapa",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "apa",
+                                    "pos": "pron",
+                                    "form": "meN-apa"
+                                }
+                            },
+                            {
+                                "wf": "merihmu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "merih",
+                                    "pos": "v",
+                                    "form": "merih-mu"
+                                }
+                            },
+                            {
+                                "wf": "tak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tak",
+                                    "pos": "adv",
+                                    "form": "tak"
+                                }
+                            },
+                            {
+                                "wf": "kucekik",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "cekik",
+                                    "pos": "v",
+                                    "form": "ku-cekik"
+                                }
+                            },
+                            {
+                                "wf": "pula",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pula",
+                                    "pos": "p",
+                                    "form": "pula"
+                                }
+                            }
+                        ],
+                        "syllables": 12
+                    },
+                    {
+                        "line": "Ketika halus-perih kau meluka??",
+                        "words": [
+                            {
+                                "wf": "Ketika",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ketika",
+                                    "pos": "n|p",
+                                    "form": "ketika"
+                                }
+                            },
+                            {
+                                "wf": "halus-perih",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "halus",
+                                    "pos": "?",
+                                    "form": "halus-perih"
+                                }
+                            },
+                            {
+                                "wf": "kau",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kau",
+                                    "pos": "pron",
+                                    "form": "kau"
+                                }
+                            },
+                            {
+                                "wf": "meluka",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "meluka",
+                                    "pos": "v",
+                                    "form": "meluka"
+                                }
+                            },
+                            {
+                                "wf": "??",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 11
+                    }
+                ],
+                "num_lines": 4
+            }
+        ]
+    }
+}

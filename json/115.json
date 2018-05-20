@@ -1,0 +1,612 @@
+{
+    "meta": {
+        "file_name": "115.json",
+        "id_bd": 115,
+        "author": "Chairil Anwar",
+        "title": "Semangat",
+        "genre": "стихотворение",
+        "year": 3.1943,
+        "num_lines": 13,
+        "rhyme": "Есть",
+        "syllables": [
+            7,
+            11,
+            5,
+            9,
+            8,
+            8,
+            11,
+            9,
+            11,
+            3,
+            9,
+            10,
+            11
+        ],
+        "strofy": [
+            13
+        ]
+    },
+    "poem": {
+        "text": "Kalau sampai waktuku\r\nkutahu tak seorang ‘kan merayu\r\nTidak juga kau\r\nTak perlu sedu sedan itu!\r\nAku ini binatang jalang\r\nDari kumpulan terbuang\r\nBiar peluru menembus kulitku\r\nAku tetap meradang menerjang\r\nLuka dan bisa kubawa berlari\r\nBerlari\r\nHingga hilang pedih dan peri.\r\nDan aku lebih tidak perduli\r\nAku mau hidup seribu tahun lagi.",
+        "strof": [
+            {
+                "strof": "Kalau sampai waktuku\r\nkutahu tak seorang ‘kan merayu\r\nTidak juga kau\r\nTak perlu sedu sedan itu!\r\nAku ini binatang jalang\r\nDari kumpulan terbuang\r\nBiar peluru menembus kulitku\r\nAku tetap meradang menerjang\r\nLuka dan bisa kubawa berlari\r\nBerlari\r\nHingga hilang pedih dan peri.\r\nDan aku lebih tidak perduli\r\nAku mau hidup seribu tahun lagi.",
+                "lines": [
+                    {
+                        "line": "Kalau sampai waktuku",
+                        "words": [
+                            {
+                                "wf": "Kalau",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kalau",
+                                    "pos": "p",
+                                    "form": "kalau"
+                                }
+                            },
+                            {
+                                "wf": "sampai",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sampai",
+                                    "pos": "v",
+                                    "form": "sampai"
+                                }
+                            },
+                            {
+                                "wf": "waktuku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "waktu",
+                                    "pos": "n|p",
+                                    "form": "waktu-ku"
+                                }
+                            }
+                        ],
+                        "syllables": 7
+                    },
+                    {
+                        "line": "kutahu tak seorang ‘kan merayu",
+                        "words": [
+                            {
+                                "wf": "kutahu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kutahu",
+                                    "pos": "v",
+                                    "form": "kutahu"
+                                }
+                            },
+                            {
+                                "wf": "tak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tak",
+                                    "pos": "adv",
+                                    "form": "tak"
+                                }
+                            },
+                            {
+                                "wf": "seorang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "orang",
+                                    "pos": "n",
+                                    "form": "se-orang"
+                                }
+                            },
+                            {
+                                "wf": " ‘",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "kan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kan",
+                                    "pos": "v",
+                                    "form": "kan"
+                                }
+                            },
+                            {
+                                "wf": "merayu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "rayu",
+                                    "pos": "v",
+                                    "form": "meN-rayu"
+                                }
+                            }
+                        ],
+                        "syllables": 11
+                    },
+                    {
+                        "line": "Tidak juga kau",
+                        "words": [
+                            {
+                                "wf": "Tidak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tidak",
+                                    "pos": "adv",
+                                    "form": "tidak"
+                                }
+                            },
+                            {
+                                "wf": "juga",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "juga",
+                                    "pos": "adv",
+                                    "form": "juga"
+                                }
+                            },
+                            {
+                                "wf": "kau",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kau",
+                                    "pos": "pron",
+                                    "form": "kau"
+                                }
+                            }
+                        ],
+                        "syllables": 5
+                    },
+                    {
+                        "line": "Tak perlu sedu sedan itu!",
+                        "words": [
+                            {
+                                "wf": "Tak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tak",
+                                    "pos": "adv",
+                                    "form": "tak"
+                                }
+                            },
+                            {
+                                "wf": "perlu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "perlu",
+                                    "pos": "adv|a|v|p",
+                                    "form": "perlu"
+                                }
+                            },
+                            {
+                                "wf": "sedu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sedu",
+                                    "pos": "n",
+                                    "form": "sedu"
+                                }
+                            },
+                            {
+                                "wf": "sedan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sedan",
+                                    "pos": "n",
+                                    "form": "sedan"
+                                }
+                            },
+                            {
+                                "wf": "itu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "itu",
+                                    "pos": "pron|n",
+                                    "form": "itu"
+                                }
+                            },
+                            {
+                                "wf": "!",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 9
+                    },
+                    {
+                        "line": "Aku ini binatang jalang",
+                        "words": [
+                            {
+                                "wf": "Aku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "aku",
+                                    "pos": "pron",
+                                    "form": "aku"
+                                }
+                            },
+                            {
+                                "wf": "ini",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ini",
+                                    "pos": "pron",
+                                    "form": "ini"
+                                }
+                            },
+                            {
+                                "wf": "binatang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "binatang",
+                                    "pos": "n",
+                                    "form": "binatang"
+                                }
+                            },
+                            {
+                                "wf": "jalang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jalang",
+                                    "pos": "a",
+                                    "form": "jalang"
+                                }
+                            }
+                        ],
+                        "syllables": 8
+                    },
+                    {
+                        "line": "Dari kumpulan terbuang",
+                        "words": [
+                            {
+                                "wf": "Dari",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dari",
+                                    "pos": "p",
+                                    "form": "dari"
+                                }
+                            },
+                            {
+                                "wf": "kumpulan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kumpul",
+                                    "pos": "n",
+                                    "form": "kumpul-an"
+                                }
+                            },
+                            {
+                                "wf": "terbuang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "buang",
+                                    "pos": "v",
+                                    "form": "ter-buang"
+                                }
+                            }
+                        ],
+                        "syllables": 8
+                    },
+                    {
+                        "line": "Biar peluru menembus kulitku",
+                        "words": [
+                            {
+                                "wf": "Biar",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "biar",
+                                    "pos": "p",
+                                    "form": "biar"
+                                }
+                            },
+                            {
+                                "wf": "peluru",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "peluru",
+                                    "pos": "n",
+                                    "form": "peluru"
+                                }
+                            },
+                            {
+                                "wf": "menembus",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tembus",
+                                    "pos": "v",
+                                    "form": "meN-tembus"
+                                }
+                            },
+                            {
+                                "wf": "kulitku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kulitku",
+                                    "pos": "?",
+                                    "form": "kulitku"
+                                }
+                            }
+                        ],
+                        "syllables": 11
+                    },
+                    {
+                        "line": "Aku tetap meradang menerjang",
+                        "words": [
+                            {
+                                "wf": "Aku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "aku",
+                                    "pos": "pron",
+                                    "form": "aku"
+                                }
+                            },
+                            {
+                                "wf": "tetap",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tetap",
+                                    "pos": "v|a|adv",
+                                    "form": "tetap"
+                                }
+                            },
+                            {
+                                "wf": "meradang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "radang",
+                                    "pos": "a",
+                                    "form": "meN-radang"
+                                }
+                            },
+                            {
+                                "wf": "menerjang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "terjang",
+                                    "pos": "v",
+                                    "form": "meN-terjang"
+                                }
+                            }
+                        ],
+                        "syllables": 9
+                    },
+                    {
+                        "line": "Luka dan bisa kubawa berlari",
+                        "words": [
+                            {
+                                "wf": "Luka",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "luka",
+                                    "pos": "n|v",
+                                    "form": "luka"
+                                }
+                            },
+                            {
+                                "wf": "dan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dan",
+                                    "pos": "p",
+                                    "form": "dan"
+                                }
+                            },
+                            {
+                                "wf": "bisa",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bisa",
+                                    "pos": "v",
+                                    "form": "bisa"
+                                }
+                            },
+                            {
+                                "wf": "kubawa",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bawa",
+                                    "pos": "v",
+                                    "form": "ku-bawa"
+                                }
+                            },
+                            {
+                                "wf": "berlari",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lari",
+                                    "pos": "v",
+                                    "form": "ber-lari"
+                                }
+                            }
+                        ],
+                        "syllables": 11
+                    },
+                    {
+                        "line": "Berlari",
+                        "words": [
+                            {
+                                "wf": "Berlari",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lari",
+                                    "pos": "v",
+                                    "form": "ber-lari"
+                                }
+                            }
+                        ],
+                        "syllables": 3
+                    },
+                    {
+                        "line": "Hingga hilang pedih dan peri.",
+                        "words": [
+                            {
+                                "wf": "Hingga",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hingga",
+                                    "pos": "n|p",
+                                    "form": "hingga"
+                                }
+                            },
+                            {
+                                "wf": "hilang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hilang",
+                                    "pos": "v",
+                                    "form": "hilang"
+                                }
+                            },
+                            {
+                                "wf": "pedih",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pedih",
+                                    "pos": "a",
+                                    "form": "pedih"
+                                }
+                            },
+                            {
+                                "wf": "dan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dan",
+                                    "pos": "p",
+                                    "form": "dan"
+                                }
+                            },
+                            {
+                                "wf": "peri",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "peri",
+                                    "pos": "n",
+                                    "form": "peri"
+                                }
+                            },
+                            {
+                                "wf": ".",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 9
+                    },
+                    {
+                        "line": "Dan aku lebih tidak perduli",
+                        "words": [
+                            {
+                                "wf": "Dan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dan",
+                                    "pos": "p",
+                                    "form": "dan"
+                                }
+                            },
+                            {
+                                "wf": "aku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "aku",
+                                    "pos": "pron",
+                                    "form": "aku"
+                                }
+                            },
+                            {
+                                "wf": "lebih",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lebih",
+                                    "pos": "a",
+                                    "form": "lebih"
+                                }
+                            },
+                            {
+                                "wf": "tidak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tidak",
+                                    "pos": "adv",
+                                    "form": "tidak"
+                                }
+                            },
+                            {
+                                "wf": "perduli",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "perduli",
+                                    "pos": "?",
+                                    "form": "perduli"
+                                }
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "Aku mau hidup seribu tahun lagi.",
+                        "words": [
+                            {
+                                "wf": "Aku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "aku",
+                                    "pos": "pron",
+                                    "form": "aku"
+                                }
+                            },
+                            {
+                                "wf": "mau",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "mau",
+                                    "pos": "adv|n",
+                                    "form": "mau"
+                                }
+                            },
+                            {
+                                "wf": "hidup",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hidup",
+                                    "pos": "v",
+                                    "form": "hidup"
+                                }
+                            },
+                            {
+                                "wf": "seribu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ribu",
+                                    "pos": "v",
+                                    "form": "se-ribu"
+                                }
+                            },
+                            {
+                                "wf": "tahun",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tahun",
+                                    "pos": "n",
+                                    "form": "tahun"
+                                }
+                            },
+                            {
+                                "wf": "lagi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lagi",
+                                    "pos": "adv|p",
+                                    "form": "lagi"
+                                }
+                            },
+                            {
+                                "wf": ".",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 11
+                    }
+                ],
+                "num_lines": 13
+            }
+        ]
+    }
+}

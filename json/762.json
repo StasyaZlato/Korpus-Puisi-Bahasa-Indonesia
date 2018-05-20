@@ -1,0 +1,771 @@
+{
+    "meta": {
+        "file_name": "762.json",
+        "id_bd": 762,
+        "author": "Ajip Rosidi",
+        "title": "Pantun tanjung katung",
+        "genre": "пантун",
+        "year": "---",
+        "num_lines": 16,
+        "rhyme": "Есть",
+        "syllables": [
+            8,
+            9,
+            10,
+            11,
+            8,
+            9,
+            10,
+            10,
+            8,
+            9,
+            10,
+            9,
+            8,
+            9,
+            10,
+            9
+        ],
+        "strofy": [
+            4,
+            1,
+            4,
+            1,
+            4,
+            1,
+            4
+        ]
+    },
+    "poem": {
+        "text": "{Tanjugn Katung airnya biru\r\nkalau boleh menumpang mandi;\r\nHidup selalu memendam rindu\r\nbertemu denganmu meski sekali}\r\n{Tanjung Katung airnya biru\r\ntempat gadis berenang-renang;\r\nHidup selalu menanggung rindu\r\nhanya padamu aku terkenang}\r\n{Tanjung Katung airnya biru\r\nberkecimpung simbur-simburan;\r\nHati selalu ingat yang satu\r\nkian dekat dengan kuburan}\r\n{Tanjung Katung airnya biru\r\nlautnya dalam langitnya jernih;\r\nHati selalu ingat padamu\r\nsemakin kuat terpaut kasih}",
+        "strof": [
+            {
+                "strof": "Tanjugn Katung airnya biru\r\nkalau boleh menumpang mandi;\r\nHidup selalu memendam rindu\r\nbertemu denganmu meski sekali",
+                "lines": [
+                    {
+                        "line": "Tanjugn Katung airnya biru",
+                        "words": [
+                            {
+                                "wf": "Tanjugn",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tanjugn",
+                                    "pos": "?",
+                                    "form": "tanjugn"
+                                }
+                            },
+                            {
+                                "wf": "Katung",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "katung",
+                                    "pos": "v",
+                                    "form": "katung"
+                                }
+                            },
+                            {
+                                "wf": "airnya",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "air",
+                                    "pos": "n",
+                                    "form": "air-nya"
+                                }
+                            },
+                            {
+                                "wf": "biru",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "biru",
+                                    "pos": "n|a",
+                                    "form": "biru"
+                                }
+                            }
+                        ],
+                        "syllables": 8
+                    },
+                    {
+                        "line": "kalau boleh menumpang mandi;",
+                        "words": [
+                            {
+                                "wf": "kalau",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kalau",
+                                    "pos": "p",
+                                    "form": "kalau"
+                                }
+                            },
+                            {
+                                "wf": "boleh",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "boleh",
+                                    "pos": "",
+                                    "form": "boleh"
+                                }
+                            },
+                            {
+                                "wf": "menumpang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "menghaki",
+                                    "pos": "v",
+                                    "form": "menumpang"
+                                }
+                            },
+                            {
+                                "wf": "mandi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "mandi",
+                                    "pos": "v",
+                                    "form": "mandi"
+                                }
+                            },
+                            {
+                                "wf": ";",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 9
+                    },
+                    {
+                        "line": "Hidup selalu memendam rindu",
+                        "words": [
+                            {
+                                "wf": "Hidup",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hidup",
+                                    "pos": "v",
+                                    "form": "hidup"
+                                }
+                            },
+                            {
+                                "wf": "selalu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "selalu",
+                                    "pos": "adv",
+                                    "form": "selalu"
+                                }
+                            },
+                            {
+                                "wf": "memendam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pendam",
+                                    "pos": "v",
+                                    "form": "meN-pendam"
+                                }
+                            },
+                            {
+                                "wf": "rindu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "rindu",
+                                    "pos": "a",
+                                    "form": "rindu"
+                                }
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "bertemu denganmu meski sekali",
+                        "words": [
+                            {
+                                "wf": "bertemu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "",
+                                    "pos": "v",
+                                    "form": "bertemu-mu"
+                                }
+                            },
+                            {
+                                "wf": "denganmu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dengan",
+                                    "pos": "p",
+                                    "form": "dengan-mu"
+                                }
+                            },
+                            {
+                                "wf": "meski",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "meski",
+                                    "pos": "p",
+                                    "form": "meski"
+                                }
+                            },
+                            {
+                                "wf": "sekali",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kali",
+                                    "pos": "adv|num|n",
+                                    "form": "se-kali"
+                                }
+                            }
+                        ],
+                        "syllables": 11
+                    }
+                ],
+                "num_lines": 4
+            },
+            {
+                "strof": "\r\n",
+                "lines": [
+                    {
+                        "line": "",
+                        "words": [],
+                        "syllables": 0
+                    }
+                ],
+                "num_lines": 1
+            },
+            {
+                "strof": "Tanjung Katung airnya biru\r\ntempat gadis berenang-renang;\r\nHidup selalu menanggung rindu\r\nhanya padamu aku terkenang",
+                "lines": [
+                    {
+                        "line": "Tanjung Katung airnya biru",
+                        "words": [
+                            {
+                                "wf": "Tanjung",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tanjung",
+                                    "pos": "n",
+                                    "form": "tanjung"
+                                }
+                            },
+                            {
+                                "wf": "Katung",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "katung",
+                                    "pos": "v",
+                                    "form": "katung"
+                                }
+                            },
+                            {
+                                "wf": "airnya",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "air",
+                                    "pos": "n",
+                                    "form": "air-nya"
+                                }
+                            },
+                            {
+                                "wf": "biru",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "biru",
+                                    "pos": "n|a",
+                                    "form": "biru"
+                                }
+                            }
+                        ],
+                        "syllables": 8
+                    },
+                    {
+                        "line": "tempat gadis berenang-renang;",
+                        "words": [
+                            {
+                                "wf": "tempat",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tempat",
+                                    "pos": "n",
+                                    "form": "tempat"
+                                }
+                            },
+                            {
+                                "wf": "gadis",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "gadis",
+                                    "pos": "n",
+                                    "form": "gadis"
+                                }
+                            },
+                            {
+                                "wf": "berenang-renang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "renang",
+                                    "pos": "v",
+                                    "form": "berenang-renang"
+                                }
+                            },
+                            {
+                                "wf": ";",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 9
+                    },
+                    {
+                        "line": "Hidup selalu menanggung rindu",
+                        "words": [
+                            {
+                                "wf": "Hidup",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hidup",
+                                    "pos": "v",
+                                    "form": "hidup"
+                                }
+                            },
+                            {
+                                "wf": "selalu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "selalu",
+                                    "pos": "adv",
+                                    "form": "selalu"
+                                }
+                            },
+                            {
+                                "wf": "menanggung",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tanggung",
+                                    "pos": "v",
+                                    "form": "meN-tanggung"
+                                }
+                            },
+                            {
+                                "wf": "rindu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "rindu",
+                                    "pos": "a",
+                                    "form": "rindu"
+                                }
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "hanya padamu aku terkenang",
+                        "words": [
+                            {
+                                "wf": "hanya",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hanya",
+                                    "pos": "adv",
+                                    "form": "hanya"
+                                }
+                            },
+                            {
+                                "wf": "padamu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "padamu",
+                                    "pos": "p",
+                                    "form": "padamu"
+                                }
+                            },
+                            {
+                                "wf": "aku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "aku",
+                                    "pos": "pron",
+                                    "form": "aku"
+                                }
+                            },
+                            {
+                                "wf": "terkenang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kenang",
+                                    "pos": "v",
+                                    "form": "ter-kenang"
+                                }
+                            }
+                        ],
+                        "syllables": 10
+                    }
+                ],
+                "num_lines": 4
+            },
+            {
+                "strof": "\r\n",
+                "lines": [
+                    {
+                        "line": "",
+                        "words": [],
+                        "syllables": 0
+                    }
+                ],
+                "num_lines": 1
+            },
+            {
+                "strof": "Tanjung Katung airnya biru\r\nberkecimpung simbur-simburan;\r\nHati selalu ingat yang satu\r\nkian dekat dengan kuburan",
+                "lines": [
+                    {
+                        "line": "Tanjung Katung airnya biru",
+                        "words": [
+                            {
+                                "wf": "Tanjung",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tanjung",
+                                    "pos": "n",
+                                    "form": "tanjung"
+                                }
+                            },
+                            {
+                                "wf": "Katung",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "katung",
+                                    "pos": "v",
+                                    "form": "katung"
+                                }
+                            },
+                            {
+                                "wf": "airnya",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "air",
+                                    "pos": "n",
+                                    "form": "air-nya"
+                                }
+                            },
+                            {
+                                "wf": "biru",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "biru",
+                                    "pos": "n|a",
+                                    "form": "biru"
+                                }
+                            }
+                        ],
+                        "syllables": 8
+                    },
+                    {
+                        "line": "berkecimpung simbur-simburan;",
+                        "words": [
+                            {
+                                "wf": "berkecimpung",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kecimpung",
+                                    "pos": "v",
+                                    "form": "ber-kecimpung"
+                                }
+                            },
+                            {
+                                "wf": "simbur-simburan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "simbur",
+                                    "pos": "v",
+                                    "form": "simbur-simbur-an"
+                                }
+                            },
+                            {
+                                "wf": ";",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 9
+                    },
+                    {
+                        "line": "Hati selalu ingat yang satu",
+                        "words": [
+                            {
+                                "wf": "Hati",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hati",
+                                    "pos": "n",
+                                    "form": "hati"
+                                }
+                            },
+                            {
+                                "wf": "selalu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "selalu",
+                                    "pos": "adv",
+                                    "form": "selalu"
+                                }
+                            },
+                            {
+                                "wf": "ingat",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ingat",
+                                    "pos": "n",
+                                    "form": "ingat"
+                                }
+                            },
+                            {
+                                "wf": "yang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "yang",
+                                    "pos": "a|v|n",
+                                    "form": "yang"
+                                }
+                            },
+                            {
+                                "wf": "satu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "satu",
+                                    "pos": "num",
+                                    "form": "satu"
+                                }
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "kian dekat dengan kuburan",
+                        "words": [
+                            {
+                                "wf": "kian",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kian",
+                                    "pos": "n|adv",
+                                    "form": "kian"
+                                }
+                            },
+                            {
+                                "wf": "dekat",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dekat",
+                                    "pos": "a",
+                                    "form": "dekat"
+                                }
+                            },
+                            {
+                                "wf": "dengan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dengan",
+                                    "pos": "p",
+                                    "form": "dengan"
+                                }
+                            },
+                            {
+                                "wf": "kuburan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kubur",
+                                    "pos": "n",
+                                    "form": "kubur-an"
+                                }
+                            }
+                        ],
+                        "syllables": 9
+                    }
+                ],
+                "num_lines": 4
+            },
+            {
+                "strof": "\r\n",
+                "lines": [
+                    {
+                        "line": "",
+                        "words": [],
+                        "syllables": 0
+                    }
+                ],
+                "num_lines": 1
+            },
+            {
+                "strof": "Tanjung Katung airnya biru\r\nlautnya dalam langitnya jernih;\r\nHati selalu ingat padamu\r\nsemakin kuat terpaut kasih",
+                "lines": [
+                    {
+                        "line": "Tanjung Katung airnya biru",
+                        "words": [
+                            {
+                                "wf": "Tanjung",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tanjung",
+                                    "pos": "n",
+                                    "form": "tanjung"
+                                }
+                            },
+                            {
+                                "wf": "Katung",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "katung",
+                                    "pos": "v",
+                                    "form": "katung"
+                                }
+                            },
+                            {
+                                "wf": "airnya",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "air",
+                                    "pos": "n",
+                                    "form": "air-nya"
+                                }
+                            },
+                            {
+                                "wf": "biru",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "biru",
+                                    "pos": "n|a",
+                                    "form": "biru"
+                                }
+                            }
+                        ],
+                        "syllables": 8
+                    },
+                    {
+                        "line": "lautnya dalam langitnya jernih;",
+                        "words": [
+                            {
+                                "wf": "lautnya",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "laut",
+                                    "pos": "n",
+                                    "form": "laut-nya"
+                                }
+                            },
+                            {
+                                "wf": "dalam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dalam",
+                                    "pos": "a|n",
+                                    "form": "dalam"
+                                }
+                            },
+                            {
+                                "wf": "langitnya",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "langit",
+                                    "pos": "n",
+                                    "form": "langit-nya"
+                                }
+                            },
+                            {
+                                "wf": "jernih",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jernih",
+                                    "pos": "a",
+                                    "form": "jernih"
+                                }
+                            },
+                            {
+                                "wf": ";",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 9
+                    },
+                    {
+                        "line": "Hati selalu ingat padamu",
+                        "words": [
+                            {
+                                "wf": "Hati",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hati",
+                                    "pos": "n",
+                                    "form": "hati"
+                                }
+                            },
+                            {
+                                "wf": "selalu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "selalu",
+                                    "pos": "adv",
+                                    "form": "selalu"
+                                }
+                            },
+                            {
+                                "wf": "ingat",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ingat",
+                                    "pos": "n",
+                                    "form": "ingat"
+                                }
+                            },
+                            {
+                                "wf": "padamu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "padamu",
+                                    "pos": "p",
+                                    "form": "padamu"
+                                }
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "semakin kuat terpaut kasih",
+                        "words": [
+                            {
+                                "wf": "semakin",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "makin",
+                                    "pos": "adv",
+                                    "form": "se-makin"
+                                }
+                            },
+                            {
+                                "wf": "kuat",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kuat",
+                                    "pos": "a",
+                                    "form": "kuat"
+                                }
+                            },
+                            {
+                                "wf": "terpaut",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "paut",
+                                    "pos": "v",
+                                    "form": "ter-paut"
+                                }
+                            },
+                            {
+                                "wf": "kasih",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kasih",
+                                    "pos": "n",
+                                    "form": "kasih"
+                                }
+                            }
+                        ],
+                        "syllables": 9
+                    }
+                ],
+                "num_lines": 4
+            }
+        ]
+    }
+}

@@ -1,0 +1,520 @@
+{
+    "meta": {
+        "file_name": "119.json",
+        "id_bd": 119,
+        "author": "Chairil Anwar",
+        "title": "Doa",
+        "genre": "религиозная поэзия: молитва",
+        "year": "13.11.1943",
+        "num_lines": 15,
+        "rhyme": "Есть",
+        "syllables": [
+            3,
+            5,
+            9,
+            6,
+            9,
+            7,
+            12,
+            3,
+            6,
+            2,
+            3,
+            12,
+            3,
+            9,
+            9
+        ],
+        "strofy": [
+            15
+        ]
+    },
+    "poem": {
+        "text": "Tuhanku\r\nDalam termangu\r\nAku masih menyebut namaMu\r\nBiar susah sungguh\r\nmengingat Kau penuh seluruh\r\ncayaMu panas suci\r\ntinggal berkedip lilin di kelam sunyi\r\nTuhanku\r\naku hilang bentuk\r\nremuk\r\nTuhanku\r\naku mengembara di negeri asing\r\nTuhanku\r\ndi pintuMu aku mengetuk\r\naku tidak bisa berpulang",
+        "strof": [
+            {
+                "strof": "Tuhanku\r\nDalam termangu\r\nAku masih menyebut namaMu\r\nBiar susah sungguh\r\nmengingat Kau penuh seluruh\r\ncayaMu panas suci\r\ntinggal berkedip lilin di kelam sunyi\r\nTuhanku\r\naku hilang bentuk\r\nremuk\r\nTuhanku\r\naku mengembara di negeri asing\r\nTuhanku\r\ndi pintuMu aku mengetuk\r\naku tidak bisa berpulang",
+                "lines": [
+                    {
+                        "line": "Tuhanku",
+                        "words": [
+                            {
+                                "wf": "Tuhanku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "Tuhan",
+                                    "pos": "n",
+                                    "form": "Tuhan-ku"
+                                }
+                            }
+                        ],
+                        "syllables": 3
+                    },
+                    {
+                        "line": "Dalam termangu",
+                        "words": [
+                            {
+                                "wf": "Dalam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dalam",
+                                    "pos": "a|n",
+                                    "form": "dalam"
+                                }
+                            },
+                            {
+                                "wf": "termangu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "termangu",
+                                    "pos": "v",
+                                    "form": "termangu"
+                                }
+                            }
+                        ],
+                        "syllables": 5
+                    },
+                    {
+                        "line": "Aku masih menyebut namaMu",
+                        "words": [
+                            {
+                                "wf": "Aku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "aku",
+                                    "pos": "pron",
+                                    "form": "aku"
+                                }
+                            },
+                            {
+                                "wf": "masih",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "masih",
+                                    "pos": "n",
+                                    "form": "masih"
+                                }
+                            },
+                            {
+                                "wf": "menyebut",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sebut",
+                                    "pos": "v",
+                                    "form": "meN-sebut"
+                                }
+                            },
+                            {
+                                "wf": "namaMu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "namamu",
+                                    "pos": "?",
+                                    "form": "namamu"
+                                }
+                            }
+                        ],
+                        "syllables": 9
+                    },
+                    {
+                        "line": "Biar susah sungguh",
+                        "words": [
+                            {
+                                "wf": "Biar",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "biar",
+                                    "pos": "p",
+                                    "form": "biar"
+                                }
+                            },
+                            {
+                                "wf": "susah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "susah",
+                                    "pos": "a",
+                                    "form": "susah"
+                                }
+                            },
+                            {
+                                "wf": "sungguh",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sungguh",
+                                    "pos": "a",
+                                    "form": "sungguh"
+                                }
+                            }
+                        ],
+                        "syllables": 6
+                    },
+                    {
+                        "line": "mengingat Kau penuh seluruh",
+                        "words": [
+                            {
+                                "wf": "mengingat",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ingat",
+                                    "pos": "v",
+                                    "form": "meN-ingat"
+                                }
+                            },
+                            {
+                                "wf": "Kau",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kau",
+                                    "pos": "pron",
+                                    "form": "kau"
+                                }
+                            },
+                            {
+                                "wf": "penuh",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "penuh",
+                                    "pos": "a",
+                                    "form": "penuh"
+                                }
+                            },
+                            {
+                                "wf": "seluruh",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "seluruh",
+                                    "pos": "num",
+                                    "form": "seluruh"
+                                }
+                            }
+                        ],
+                        "syllables": 9
+                    },
+                    {
+                        "line": "cayaMu panas suci",
+                        "words": [
+                            {
+                                "wf": "cayaMu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "cayamu",
+                                    "pos": "?",
+                                    "form": "cayamu"
+                                }
+                            },
+                            {
+                                "wf": "panas",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "panas",
+                                    "pos": "a|n",
+                                    "form": "panas"
+                                }
+                            },
+                            {
+                                "wf": "suci",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "suci",
+                                    "pos": "a",
+                                    "form": "suci"
+                                }
+                            }
+                        ],
+                        "syllables": 7
+                    },
+                    {
+                        "line": "tinggal berkedip lilin di kelam sunyi",
+                        "words": [
+                            {
+                                "wf": "tinggal",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tinggal",
+                                    "pos": "v",
+                                    "form": "tinggal"
+                                }
+                            },
+                            {
+                                "wf": "berkedip",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kedip",
+                                    "pos": "v",
+                                    "form": "ber-kedip"
+                                }
+                            },
+                            {
+                                "wf": "lilin",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lilin",
+                                    "pos": "n",
+                                    "form": "lilin"
+                                }
+                            },
+                            {
+                                "wf": "di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "kelam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kelam",
+                                    "pos": "a",
+                                    "form": "kelam"
+                                }
+                            },
+                            {
+                                "wf": "sunyi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sunyi",
+                                    "pos": "a",
+                                    "form": "sunyi"
+                                }
+                            }
+                        ],
+                        "syllables": 12
+                    },
+                    {
+                        "line": "Tuhanku",
+                        "words": [
+                            {
+                                "wf": "Tuhanku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "Tuhan",
+                                    "pos": "n",
+                                    "form": "Tuhan-ku"
+                                }
+                            }
+                        ],
+                        "syllables": 3
+                    },
+                    {
+                        "line": "aku hilang bentuk",
+                        "words": [
+                            {
+                                "wf": "aku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "aku",
+                                    "pos": "pron",
+                                    "form": "aku"
+                                }
+                            },
+                            {
+                                "wf": "hilang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hilang",
+                                    "pos": "v",
+                                    "form": "hilang"
+                                }
+                            },
+                            {
+                                "wf": "bentuk",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bentuk",
+                                    "pos": "n",
+                                    "form": "bentuk"
+                                }
+                            }
+                        ],
+                        "syllables": 6
+                    },
+                    {
+                        "line": "remuk",
+                        "words": [
+                            {
+                                "wf": "remuk",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "remuk",
+                                    "pos": "a",
+                                    "form": "remuk"
+                                }
+                            }
+                        ],
+                        "syllables": 2
+                    },
+                    {
+                        "line": "Tuhanku",
+                        "words": [
+                            {
+                                "wf": "Tuhanku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "Tuhan",
+                                    "pos": "n",
+                                    "form": "Tuhan-ku"
+                                }
+                            }
+                        ],
+                        "syllables": 3
+                    },
+                    {
+                        "line": "aku mengembara di negeri asing",
+                        "words": [
+                            {
+                                "wf": "aku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "aku",
+                                    "pos": "pron",
+                                    "form": "aku"
+                                }
+                            },
+                            {
+                                "wf": "mengembara",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "embara",
+                                    "pos": "v",
+                                    "form": "meN-embara"
+                                }
+                            },
+                            {
+                                "wf": "di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "negeri",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "negeri",
+                                    "pos": "n",
+                                    "form": "negeri"
+                                }
+                            },
+                            {
+                                "wf": "asing",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "asing",
+                                    "pos": "a",
+                                    "form": "asing"
+                                }
+                            }
+                        ],
+                        "syllables": 12
+                    },
+                    {
+                        "line": "Tuhanku",
+                        "words": [
+                            {
+                                "wf": "Tuhanku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "Tuhan",
+                                    "pos": "n",
+                                    "form": "Tuhan-ku"
+                                }
+                            }
+                        ],
+                        "syllables": 3
+                    },
+                    {
+                        "line": "di pintuMu aku mengetuk",
+                        "words": [
+                            {
+                                "wf": "di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "pintuMu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pintumu",
+                                    "pos": "?",
+                                    "form": "pintumu"
+                                }
+                            },
+                            {
+                                "wf": "aku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "aku",
+                                    "pos": "pron",
+                                    "form": "aku"
+                                }
+                            },
+                            {
+                                "wf": "mengetuk",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ketuk",
+                                    "pos": "v",
+                                    "form": "meN-ketuk"
+                                }
+                            }
+                        ],
+                        "syllables": 9
+                    },
+                    {
+                        "line": "aku tidak bisa berpulang",
+                        "words": [
+                            {
+                                "wf": "aku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "aku",
+                                    "pos": "pron",
+                                    "form": "aku"
+                                }
+                            },
+                            {
+                                "wf": "tidak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tidak",
+                                    "pos": "adv",
+                                    "form": "tidak"
+                                }
+                            },
+                            {
+                                "wf": "bisa",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bisa",
+                                    "pos": "v",
+                                    "form": "bisa"
+                                }
+                            },
+                            {
+                                "wf": "berpulang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pulang",
+                                    "pos": "v",
+                                    "form": "ber-pulang"
+                                }
+                            }
+                        ],
+                        "syllables": 9
+                    }
+                ],
+                "num_lines": 15
+            }
+        ]
+    }
+}

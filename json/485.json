@@ -1,0 +1,708 @@
+{
+    "meta": {
+        "file_name": "485.json",
+        "id_bd": 485,
+        "author": "Sapardi Djoko Damono",
+        "title": "Di sebuah halte bis",
+        "genre": "верлибр; без деления на строки!",
+        "year": "---",
+        "num_lines": 2,
+        "rhyme": "Нет",
+        "syllables": [
+            58,
+            104
+        ],
+        "strofy": [
+            2
+        ]
+    },
+    "poem": {
+        "text": "{Hujan tengah malam membimbingmu ke sebuah halte bis dan membaringkanmu di sana.  Kau memang tak pernah berumah, dan hujan tua itu kedengaran terengah batuk-batuk dan tampak putih.\r\nPagi harinya anak-anak sekolah yang menunggu di halte bis itu melihat bekas-bekas darah dan mencium bau busuk.  Bis tak kunjung datang.  Anak-anak tak pernah bisa sabar menunggu.  Mereka menjadi kesal dan, bagai para pemabok, berjalan sempoyongan sambil melempar-lemparkan buku dan menjerit-jerit menyebut-nyebut namamu.}",
+        "strof": [
+            {
+                "strof": "Hujan tengah malam membimbingmu ke sebuah halte bis dan membaringkanmu di sana.  Kau memang tak pernah berumah, dan hujan tua itu kedengaran terengah batuk-batuk dan tampak putih.\r\nPagi harinya anak-anak sekolah yang menunggu di halte bis itu melihat bekas-bekas darah dan mencium bau busuk.  Bis tak kunjung datang.  Anak-anak tak pernah bisa sabar menunggu.  Mereka menjadi kesal dan, bagai para pemabok, berjalan sempoyongan sambil melempar-lemparkan buku dan menjerit-jerit menyebut-nyebut namamu.",
+                "lines": [
+                    {
+                        "line": "Hujan tengah malam membimbingmu ke sebuah halte bis dan membaringkanmu di sana.  Kau memang tak pernah berumah, dan hujan tua itu kedengaran terengah batuk-batuk dan tampak putih.",
+                        "words": [
+                            {
+                                "wf": "Hujan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hujan",
+                                    "pos": "n",
+                                    "form": "hujan"
+                                }
+                            },
+                            {
+                                "wf": "tengah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tengah",
+                                    "pos": "n",
+                                    "form": "tengah"
+                                }
+                            },
+                            {
+                                "wf": "malam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "malam",
+                                    "pos": "n",
+                                    "form": "malam"
+                                }
+                            },
+                            {
+                                "wf": "membimbingmu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bimbing",
+                                    "pos": "v",
+                                    "form": "meN-bimbing-mu"
+                                }
+                            },
+                            {
+                                "wf": "ke",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ke",
+                                    "pos": "p",
+                                    "form": "ke"
+                                }
+                            },
+                            {
+                                "wf": "sebuah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "buah",
+                                    "pos": "n",
+                                    "form": "se-buah"
+                                }
+                            },
+                            {
+                                "wf": "halte",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "halte",
+                                    "pos": "n",
+                                    "form": "halte"
+                                }
+                            },
+                            {
+                                "wf": "bis",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bis",
+                                    "pos": "v|p|adv|n",
+                                    "form": "bis"
+                                }
+                            },
+                            {
+                                "wf": "dan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dan",
+                                    "pos": "p",
+                                    "form": "dan"
+                                }
+                            },
+                            {
+                                "wf": "membaringkanmu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "baring",
+                                    "pos": "v",
+                                    "form": "meN-baring-kan-mu-mu"
+                                }
+                            },
+                            {
+                                "wf": "di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "sana",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sana",
+                                    "pos": "pron",
+                                    "form": "sana"
+                                }
+                            },
+                            {
+                                "wf": ".  ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "Kau",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kau",
+                                    "pos": "pron",
+                                    "form": "kau"
+                                }
+                            },
+                            {
+                                "wf": "memang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "memang",
+                                    "pos": "adv",
+                                    "form": "memang"
+                                }
+                            },
+                            {
+                                "wf": "tak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tak",
+                                    "pos": "adv",
+                                    "form": "tak"
+                                }
+                            },
+                            {
+                                "wf": "pernah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pernah",
+                                    "pos": "adv",
+                                    "form": "pernah"
+                                }
+                            },
+                            {
+                                "wf": "berumah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "rumah",
+                                    "pos": "v",
+                                    "form": "ber-rumah"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "dan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dan",
+                                    "pos": "p",
+                                    "form": "dan"
+                                }
+                            },
+                            {
+                                "wf": "hujan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hujan",
+                                    "pos": "n",
+                                    "form": "hujan"
+                                }
+                            },
+                            {
+                                "wf": "tua",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tua",
+                                    "pos": "a",
+                                    "form": "tua"
+                                }
+                            },
+                            {
+                                "wf": "itu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "itu",
+                                    "pos": "pron|n",
+                                    "form": "itu"
+                                }
+                            },
+                            {
+                                "wf": "kedengaran",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dengar",
+                                    "pos": "v",
+                                    "form": "ke-dengar-an"
+                                }
+                            },
+                            {
+                                "wf": "terengah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "engah",
+                                    "pos": "n",
+                                    "form": "ter-engah"
+                                }
+                            },
+                            {
+                                "wf": "batuk-batuk",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "batuk",
+                                    "pos": "n",
+                                    "form": "batuk-batuk"
+                                }
+                            },
+                            {
+                                "wf": "dan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dan",
+                                    "pos": "p",
+                                    "form": "dan"
+                                }
+                            },
+                            {
+                                "wf": "tampak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "nampak",
+                                    "pos": "v",
+                                    "form": "tampak"
+                                }
+                            },
+                            {
+                                "wf": "putih",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "putih",
+                                    "pos": "n|a",
+                                    "form": "putih"
+                                }
+                            },
+                            {
+                                "wf": ".",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 58
+                    },
+                    {
+                        "line": "Pagi harinya anak-anak sekolah yang menunggu di halte bis itu melihat bekas-bekas darah dan mencium bau busuk.  Bis tak kunjung datang.  Anak-anak tak pernah bisa sabar menunggu.  Mereka menjadi kesal dan, bagai para pemabok, berjalan sempoyongan sambil melempar-lemparkan buku dan menjerit-jerit menyebut-nyebut namamu.",
+                        "words": [
+                            {
+                                "wf": "Pagi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pagi",
+                                    "pos": "n",
+                                    "form": "pagi"
+                                }
+                            },
+                            {
+                                "wf": "harinya",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hari",
+                                    "pos": "n",
+                                    "form": "hari-nya"
+                                }
+                            },
+                            {
+                                "wf": "anak-anak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "anak",
+                                    "pos": "a|n",
+                                    "form": "anak-anak"
+                                }
+                            },
+                            {
+                                "wf": "sekolah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sekolah",
+                                    "pos": "n",
+                                    "form": "sekolah"
+                                }
+                            },
+                            {
+                                "wf": "yang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "yang",
+                                    "pos": "a|v|n",
+                                    "form": "yang"
+                                }
+                            },
+                            {
+                                "wf": "menunggu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tunggu",
+                                    "pos": "v",
+                                    "form": "meN-tunggu"
+                                }
+                            },
+                            {
+                                "wf": "di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "halte",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "halte",
+                                    "pos": "n",
+                                    "form": "halte"
+                                }
+                            },
+                            {
+                                "wf": "bis",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bis",
+                                    "pos": "v|p|adv|n",
+                                    "form": "bis"
+                                }
+                            },
+                            {
+                                "wf": "itu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "itu",
+                                    "pos": "pron|n",
+                                    "form": "itu"
+                                }
+                            },
+                            {
+                                "wf": "melihat",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lihat",
+                                    "pos": "v",
+                                    "form": "meN-lihat"
+                                }
+                            },
+                            {
+                                "wf": "bekas-bekas",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bekas",
+                                    "pos": "n",
+                                    "form": "bekas-bekas"
+                                }
+                            },
+                            {
+                                "wf": "darah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "darah",
+                                    "pos": "n",
+                                    "form": "darah"
+                                }
+                            },
+                            {
+                                "wf": "dan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dan",
+                                    "pos": "p",
+                                    "form": "dan"
+                                }
+                            },
+                            {
+                                "wf": "mencium",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "cium",
+                                    "pos": "v",
+                                    "form": "meN-cium"
+                                }
+                            },
+                            {
+                                "wf": "bau",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bau",
+                                    "pos": "n",
+                                    "form": "bau"
+                                }
+                            },
+                            {
+                                "wf": "busuk",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "busuk",
+                                    "pos": "a",
+                                    "form": "busuk"
+                                }
+                            },
+                            {
+                                "wf": ".  ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "Bis",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bis",
+                                    "pos": "v|p|adv|n",
+                                    "form": "bis"
+                                }
+                            },
+                            {
+                                "wf": "tak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tak",
+                                    "pos": "adv",
+                                    "form": "tak"
+                                }
+                            },
+                            {
+                                "wf": "kunjung",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kunjung",
+                                    "pos": "v",
+                                    "form": "kunjung"
+                                }
+                            },
+                            {
+                                "wf": "datang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "datang",
+                                    "pos": "v|n",
+                                    "form": "datang"
+                                }
+                            },
+                            {
+                                "wf": ".  ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "Anak-anak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "anak",
+                                    "pos": "a|n",
+                                    "form": "anak-anak"
+                                }
+                            },
+                            {
+                                "wf": "tak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tak",
+                                    "pos": "adv",
+                                    "form": "tak"
+                                }
+                            },
+                            {
+                                "wf": "pernah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pernah",
+                                    "pos": "adv",
+                                    "form": "pernah"
+                                }
+                            },
+                            {
+                                "wf": "bisa",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bisa",
+                                    "pos": "v",
+                                    "form": "bisa"
+                                }
+                            },
+                            {
+                                "wf": "sabar",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sabar",
+                                    "pos": "a",
+                                    "form": "sabar"
+                                }
+                            },
+                            {
+                                "wf": "menunggu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tunggu",
+                                    "pos": "v",
+                                    "form": "meN-tunggu"
+                                }
+                            },
+                            {
+                                "wf": ".  ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "Mereka",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "reka",
+                                    "pos": "v",
+                                    "form": "mereka"
+                                }
+                            },
+                            {
+                                "wf": "menjadi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jadi",
+                                    "pos": "v",
+                                    "form": "meN-jadi"
+                                }
+                            },
+                            {
+                                "wf": "kesal",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kesal",
+                                    "pos": "a",
+                                    "form": "kesal"
+                                }
+                            },
+                            {
+                                "wf": "dan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dan",
+                                    "pos": "p",
+                                    "form": "dan"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "bagai",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bagai",
+                                    "pos": "n|p",
+                                    "form": "bagai"
+                                }
+                            },
+                            {
+                                "wf": "para",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "para",
+                                    "pos": "p",
+                                    "form": "para"
+                                }
+                            },
+                            {
+                                "wf": "pemabok",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pemabok",
+                                    "pos": "?",
+                                    "form": "pemabok"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "berjalan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jalan",
+                                    "pos": "v",
+                                    "form": "ber-jalan"
+                                }
+                            },
+                            {
+                                "wf": "sempoyongan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sempoyongan",
+                                    "pos": "?",
+                                    "form": "sempoyongan"
+                                }
+                            },
+                            {
+                                "wf": "sambil",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sambil",
+                                    "pos": "p",
+                                    "form": "sambil"
+                                }
+                            },
+                            {
+                                "wf": "melempar-lemparkan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "melempar-lemparkan",
+                                    "pos": "v",
+                                    "form": "melempar-lemparkan"
+                                }
+                            },
+                            {
+                                "wf": "buku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "buku",
+                                    "pos": "n",
+                                    "form": "buku"
+                                }
+                            },
+                            {
+                                "wf": "dan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dan",
+                                    "pos": "p",
+                                    "form": "dan"
+                                }
+                            },
+                            {
+                                "wf": "menjerit-jerit",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jerit",
+                                    "pos": "v",
+                                    "form": "meN-jerit-jerit"
+                                }
+                            },
+                            {
+                                "wf": "menyebut-nyebut",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sebut",
+                                    "pos": "v",
+                                    "form": "menyebut-nyebut"
+                                }
+                            },
+                            {
+                                "wf": "namamu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "namamu",
+                                    "pos": "a|n",
+                                    "form": "namamu"
+                                }
+                            },
+                            {
+                                "wf": ".",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 104
+                    }
+                ],
+                "num_lines": 2
+            }
+        ]
+    }
+}

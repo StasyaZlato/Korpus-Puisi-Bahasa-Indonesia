@@ -1,0 +1,434 @@
+{
+    "meta": {
+        "file_name": "527.json",
+        "id_bd": 527,
+        "author": "Sapardi Djoko Damono",
+        "title": "Gonggong anjing",
+        "genre": "стихотворение",
+        "year": "---",
+        "num_lines": 6,
+        "rhyme": "Нет",
+        "syllables": [
+            15,
+            24,
+            11,
+            11,
+            15,
+            19
+        ],
+        "strofy": [
+            6
+        ]
+    },
+    "poem": {
+        "text": "{gonggong anjing itu mula-mula lengket di lumpur\r\nlalu merayapi pohon cemara dan tergelincir terbanting di atas rumah\r\nmenyusup lewat celah-celah genting\r\nbergema dalam kamar demi kamar\r\ntersuling lewat mimpi seorang anak lelaki\r\nsiapa itu yang bernyanyi bagai bidadari?\" tanya sunyi}",
+        "strof": [
+            {
+                "strof": "gonggong anjing itu mula-mula lengket di lumpur\r\nlalu merayapi pohon cemara dan tergelincir terbanting di atas rumah\r\nmenyusup lewat celah-celah genting\r\nbergema dalam kamar demi kamar\r\ntersuling lewat mimpi seorang anak lelaki\r\nsiapa itu yang bernyanyi bagai bidadari?\" tanya sunyi",
+                "lines": [
+                    {
+                        "line": "gonggong anjing itu mula-mula lengket di lumpur",
+                        "words": [
+                            {
+                                "wf": "gonggong",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "gonggong",
+                                    "pos": "v",
+                                    "form": "gonggong"
+                                }
+                            },
+                            {
+                                "wf": "anjing",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "anjing",
+                                    "pos": "n",
+                                    "form": "anjing"
+                                }
+                            },
+                            {
+                                "wf": "itu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "itu",
+                                    "pos": "pron|n",
+                                    "form": "itu"
+                                }
+                            },
+                            {
+                                "wf": "mula-mula",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "mula",
+                                    "pos": "adv",
+                                    "form": "mula-mula"
+                                }
+                            },
+                            {
+                                "wf": "lengket",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lengket",
+                                    "pos": "v",
+                                    "form": "lengket"
+                                }
+                            },
+                            {
+                                "wf": "di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "lumpur",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lumpur",
+                                    "pos": "n",
+                                    "form": "lumpur"
+                                }
+                            }
+                        ],
+                        "syllables": 15
+                    },
+                    {
+                        "line": "lalu merayapi pohon cemara dan tergelincir terbanting di atas rumah",
+                        "words": [
+                            {
+                                "wf": "lalu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lalu",
+                                    "pos": "adv",
+                                    "form": "lalu"
+                                }
+                            },
+                            {
+                                "wf": "merayapi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "rayap",
+                                    "pos": "v",
+                                    "form": "meN-rayap-i"
+                                }
+                            },
+                            {
+                                "wf": "pohon",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pohon",
+                                    "pos": "n",
+                                    "form": "pohon"
+                                }
+                            },
+                            {
+                                "wf": "cemara",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "cemara",
+                                    "pos": "n",
+                                    "form": "cemara"
+                                }
+                            },
+                            {
+                                "wf": "dan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dan",
+                                    "pos": "p",
+                                    "form": "dan"
+                                }
+                            },
+                            {
+                                "wf": "tergelincir",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "gelincir",
+                                    "pos": "v",
+                                    "form": "tergelincir"
+                                }
+                            },
+                            {
+                                "wf": "terbanting",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "terbanting",
+                                    "pos": "v",
+                                    "form": "terbanting"
+                                }
+                            },
+                            {
+                                "wf": "di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "atas",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "atas",
+                                    "pos": "n",
+                                    "form": "atas"
+                                }
+                            },
+                            {
+                                "wf": "rumah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "rumah",
+                                    "pos": "n",
+                                    "form": "rumah"
+                                }
+                            }
+                        ],
+                        "syllables": 24
+                    },
+                    {
+                        "line": "menyusup lewat celah-celah genting",
+                        "words": [
+                            {
+                                "wf": "menyusup",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "su",
+                                    "pos": "v",
+                                    "form": "menyusup"
+                                }
+                            },
+                            {
+                                "wf": "lewat",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lewat",
+                                    "pos": "v|adv|a|p",
+                                    "form": "lewat"
+                                }
+                            },
+                            {
+                                "wf": "celah-celah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "",
+                                    "pos": "n",
+                                    "form": "celah-celah-lah"
+                                }
+                            },
+                            {
+                                "wf": "genting",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "genting",
+                                    "pos": "a",
+                                    "form": "genting"
+                                }
+                            }
+                        ],
+                        "syllables": 11
+                    },
+                    {
+                        "line": "bergema dalam kamar demi kamar",
+                        "words": [
+                            {
+                                "wf": "bergema",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "gema",
+                                    "pos": "v",
+                                    "form": "ber-gema"
+                                }
+                            },
+                            {
+                                "wf": "dalam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dalam",
+                                    "pos": "a|n",
+                                    "form": "dalam"
+                                }
+                            },
+                            {
+                                "wf": "kamar",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kamar",
+                                    "pos": "n",
+                                    "form": "kamar"
+                                }
+                            },
+                            {
+                                "wf": "demi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "demi",
+                                    "pos": "p",
+                                    "form": "demi"
+                                }
+                            },
+                            {
+                                "wf": "kamar",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kamar",
+                                    "pos": "n",
+                                    "form": "kamar"
+                                }
+                            }
+                        ],
+                        "syllables": 11
+                    },
+                    {
+                        "line": "tersuling lewat mimpi seorang anak lelaki",
+                        "words": [
+                            {
+                                "wf": "tersuling",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tersuling",
+                                    "pos": "v",
+                                    "form": "tersuling"
+                                }
+                            },
+                            {
+                                "wf": "lewat",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lewat",
+                                    "pos": "v|adv|a|p",
+                                    "form": "lewat"
+                                }
+                            },
+                            {
+                                "wf": "mimpi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "mimpi",
+                                    "pos": "n",
+                                    "form": "mimpi"
+                                }
+                            },
+                            {
+                                "wf": "seorang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "orang",
+                                    "pos": "n",
+                                    "form": "se-orang"
+                                }
+                            },
+                            {
+                                "wf": "anak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "anak",
+                                    "pos": "n",
+                                    "form": "anak"
+                                }
+                            },
+                            {
+                                "wf": "lelaki",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lelaki",
+                                    "pos": "n",
+                                    "form": "lelaki"
+                                }
+                            }
+                        ],
+                        "syllables": 15
+                    },
+                    {
+                        "line": "siapa itu yang bernyanyi bagai bidadari?\" tanya sunyi",
+                        "words": [
+                            {
+                                "wf": "siapa",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "siapa",
+                                    "pos": "pron",
+                                    "form": "siapa"
+                                }
+                            },
+                            {
+                                "wf": "itu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "itu",
+                                    "pos": "pron|n",
+                                    "form": "itu"
+                                }
+                            },
+                            {
+                                "wf": "yang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "yang",
+                                    "pos": "a|v|n",
+                                    "form": "yang"
+                                }
+                            },
+                            {
+                                "wf": "bernyanyi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "nyanyi",
+                                    "pos": "v",
+                                    "form": "ber-nyanyi"
+                                }
+                            },
+                            {
+                                "wf": "bagai",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bagai",
+                                    "pos": "n|p",
+                                    "form": "bagai"
+                                }
+                            },
+                            {
+                                "wf": "bidadari",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bidadari",
+                                    "pos": "n",
+                                    "form": "bidadari"
+                                }
+                            },
+                            {
+                                "wf": "?\" ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "tanya",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tanya",
+                                    "pos": "n|v",
+                                    "form": "tanya"
+                                }
+                            },
+                            {
+                                "wf": "sunyi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sunyi",
+                                    "pos": "a",
+                                    "form": "sunyi"
+                                }
+                            }
+                        ],
+                        "syllables": 19
+                    }
+                ],
+                "num_lines": 6
+            }
+        ]
+    }
+}

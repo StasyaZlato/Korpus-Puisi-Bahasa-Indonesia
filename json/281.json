@@ -1,0 +1,713 @@
+{
+    "meta": {
+        "file_name": "281.json",
+        "id_bd": 281,
+        "author": "Isbedy Stiawan ZS",
+        "title": "Puisi terakhir",
+        "genre": "стихотворение",
+        "year": 1999,
+        "num_lines": 11,
+        "rhyme": "Спорадическая",
+        "syllables": [
+            14,
+            16,
+            12,
+            13,
+            19,
+            15,
+            16,
+            13,
+            16,
+            14,
+            8
+        ],
+        "strofy": [
+            11
+        ]
+    },
+    "poem": {
+        "text": "{puisi terakhir menyudahi segalanya,\r\nlalu kukumpulkan senja demi senja di hatiku,\r\nseperti daun-daun yang jatuh dari ranting.\r\npuisi terakhir menutup daun jendela,\r\nlalu kuburu angin yang nyaris terbang dari kerongkonganku,\r\nseperti kerinduan bunga pada taman-taman\r\npuisi terakhir membuka pagar tanaman lalu\r\nkusudahi langkah dan ucapku di sana,\r\nseperti kau yang lebih dulu berdiam dalam kata!\r\npuisi terakhir menutup senja halaman\r\ntak ada lagi untuknya!}",
+        "strof": [
+            {
+                "strof": "puisi terakhir menyudahi segalanya,\r\nlalu kukumpulkan senja demi senja di hatiku,\r\nseperti daun-daun yang jatuh dari ranting.\r\npuisi terakhir menutup daun jendela,\r\nlalu kuburu angin yang nyaris terbang dari kerongkonganku,\r\nseperti kerinduan bunga pada taman-taman\r\npuisi terakhir membuka pagar tanaman lalu\r\nkusudahi langkah dan ucapku di sana,\r\nseperti kau yang lebih dulu berdiam dalam kata!\r\npuisi terakhir menutup senja halaman\r\ntak ada lagi untuknya!",
+                "lines": [
+                    {
+                        "line": "puisi terakhir menyudahi segalanya,",
+                        "words": [
+                            {
+                                "wf": "puisi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "puisi",
+                                    "pos": "n",
+                                    "form": "puisi"
+                                }
+                            },
+                            {
+                                "wf": "terakhir",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "akhir",
+                                    "pos": "a",
+                                    "form": "terakhir"
+                                }
+                            },
+                            {
+                                "wf": "menyudahi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sudah",
+                                    "pos": "v",
+                                    "form": "meN-sudah-i"
+                                }
+                            },
+                            {
+                                "wf": "segalanya",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "segala",
+                                    "pos": "adv",
+                                    "form": "segala-nya"
+                                }
+                            },
+                            {
+                                "wf": ",",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 14
+                    },
+                    {
+                        "line": "lalu kukumpulkan senja demi senja di hatiku,",
+                        "words": [
+                            {
+                                "wf": "lalu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lalu",
+                                    "pos": "adv",
+                                    "form": "lalu"
+                                }
+                            },
+                            {
+                                "wf": "kukumpulkan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kukumpulkan",
+                                    "pos": "v",
+                                    "form": "kukumpulkan"
+                                }
+                            },
+                            {
+                                "wf": "senja",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "senja",
+                                    "pos": "n",
+                                    "form": "senja"
+                                }
+                            },
+                            {
+                                "wf": "demi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "demi",
+                                    "pos": "p",
+                                    "form": "demi"
+                                }
+                            },
+                            {
+                                "wf": "senja",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "senja",
+                                    "pos": "n",
+                                    "form": "senja"
+                                }
+                            },
+                            {
+                                "wf": "di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "hatiku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hati",
+                                    "pos": "n",
+                                    "form": "hati-ku"
+                                }
+                            },
+                            {
+                                "wf": ",",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 16
+                    },
+                    {
+                        "line": "seperti daun-daun yang jatuh dari ranting.",
+                        "words": [
+                            {
+                                "wf": "seperti",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "seperti",
+                                    "pos": "p",
+                                    "form": "seperti"
+                                }
+                            },
+                            {
+                                "wf": "daun-daun",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "daun",
+                                    "pos": "n",
+                                    "form": "daun-daun"
+                                }
+                            },
+                            {
+                                "wf": "yang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "yang",
+                                    "pos": "a|v|n",
+                                    "form": "yang"
+                                }
+                            },
+                            {
+                                "wf": "jatuh",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jatuh",
+                                    "pos": "v",
+                                    "form": "jatuh"
+                                }
+                            },
+                            {
+                                "wf": "dari",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dari",
+                                    "pos": "p",
+                                    "form": "dari"
+                                }
+                            },
+                            {
+                                "wf": "ranting",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ranting",
+                                    "pos": "n",
+                                    "form": "ranting"
+                                }
+                            },
+                            {
+                                "wf": ".",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 12
+                    },
+                    {
+                        "line": "puisi terakhir menutup daun jendela,",
+                        "words": [
+                            {
+                                "wf": "puisi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "puisi",
+                                    "pos": "n",
+                                    "form": "puisi"
+                                }
+                            },
+                            {
+                                "wf": "terakhir",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "akhir",
+                                    "pos": "a",
+                                    "form": "terakhir"
+                                }
+                            },
+                            {
+                                "wf": "menutup",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tutup",
+                                    "pos": "v",
+                                    "form": "meN-tutup"
+                                }
+                            },
+                            {
+                                "wf": "daun",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "daun",
+                                    "pos": "n",
+                                    "form": "daun"
+                                }
+                            },
+                            {
+                                "wf": "jendela",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jendela",
+                                    "pos": "?",
+                                    "form": "jendela"
+                                }
+                            },
+                            {
+                                "wf": ",",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 13
+                    },
+                    {
+                        "line": "lalu kuburu angin yang nyaris terbang dari kerongkonganku,",
+                        "words": [
+                            {
+                                "wf": "lalu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lalu",
+                                    "pos": "adv",
+                                    "form": "lalu"
+                                }
+                            },
+                            {
+                                "wf": "kuburu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "buru",
+                                    "pos": "v",
+                                    "form": "ku-buru"
+                                }
+                            },
+                            {
+                                "wf": "angin",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "angin",
+                                    "pos": "n",
+                                    "form": "angin"
+                                }
+                            },
+                            {
+                                "wf": "yang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "yang",
+                                    "pos": "a|v|n",
+                                    "form": "yang"
+                                }
+                            },
+                            {
+                                "wf": "nyaris",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "nyaris",
+                                    "pos": "adv",
+                                    "form": "nyaris"
+                                }
+                            },
+                            {
+                                "wf": "terbang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "terbang",
+                                    "pos": "v",
+                                    "form": "terbang"
+                                }
+                            },
+                            {
+                                "wf": "dari",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dari",
+                                    "pos": "p",
+                                    "form": "dari"
+                                }
+                            },
+                            {
+                                "wf": "kerongkonganku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "",
+                                    "pos": "?",
+                                    "form": "kerongkonganku-ku"
+                                }
+                            },
+                            {
+                                "wf": ",",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 19
+                    },
+                    {
+                        "line": "seperti kerinduan bunga pada taman-taman",
+                        "words": [
+                            {
+                                "wf": "seperti",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "seperti",
+                                    "pos": "p",
+                                    "form": "seperti"
+                                }
+                            },
+                            {
+                                "wf": "kerinduan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "rindu",
+                                    "pos": "n",
+                                    "form": "ke-rindu-an"
+                                }
+                            },
+                            {
+                                "wf": "bunga",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bunga",
+                                    "pos": "n",
+                                    "form": "bunga"
+                                }
+                            },
+                            {
+                                "wf": "pada",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pada",
+                                    "pos": "p",
+                                    "form": "pada"
+                                }
+                            },
+                            {
+                                "wf": "taman-taman",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "taman",
+                                    "pos": "n",
+                                    "form": "taman-taman"
+                                }
+                            }
+                        ],
+                        "syllables": 15
+                    },
+                    {
+                        "line": "puisi terakhir membuka pagar tanaman lalu",
+                        "words": [
+                            {
+                                "wf": "puisi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "puisi",
+                                    "pos": "n",
+                                    "form": "puisi"
+                                }
+                            },
+                            {
+                                "wf": "terakhir",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "akhir",
+                                    "pos": "a",
+                                    "form": "terakhir"
+                                }
+                            },
+                            {
+                                "wf": "membuka",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "buka",
+                                    "pos": "v",
+                                    "form": "meN-buka"
+                                }
+                            },
+                            {
+                                "wf": "pagar",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pagar",
+                                    "pos": "n",
+                                    "form": "pagar"
+                                }
+                            },
+                            {
+                                "wf": "tanaman",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tanam",
+                                    "pos": "n",
+                                    "form": "tanam-an"
+                                }
+                            },
+                            {
+                                "wf": "lalu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lalu",
+                                    "pos": "adv",
+                                    "form": "lalu"
+                                }
+                            }
+                        ],
+                        "syllables": 16
+                    },
+                    {
+                        "line": "kusudahi langkah dan ucapku di sana,",
+                        "words": [
+                            {
+                                "wf": "kusudahi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kusudahi",
+                                    "pos": "?",
+                                    "form": "kusudahi"
+                                }
+                            },
+                            {
+                                "wf": "langkah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "langkah",
+                                    "pos": "n",
+                                    "form": "langkah"
+                                }
+                            },
+                            {
+                                "wf": "dan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dan",
+                                    "pos": "p",
+                                    "form": "dan"
+                                }
+                            },
+                            {
+                                "wf": "ucapku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ucap",
+                                    "pos": "n",
+                                    "form": "ucap-ku"
+                                }
+                            },
+                            {
+                                "wf": "di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "sana",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sana",
+                                    "pos": "pron",
+                                    "form": "sana"
+                                }
+                            },
+                            {
+                                "wf": ",",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 13
+                    },
+                    {
+                        "line": "seperti kau yang lebih dulu berdiam dalam kata!",
+                        "words": [
+                            {
+                                "wf": "seperti",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "seperti",
+                                    "pos": "p",
+                                    "form": "seperti"
+                                }
+                            },
+                            {
+                                "wf": "kau",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kau",
+                                    "pos": "pron",
+                                    "form": "kau"
+                                }
+                            },
+                            {
+                                "wf": "yang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "yang",
+                                    "pos": "a|v|n",
+                                    "form": "yang"
+                                }
+                            },
+                            {
+                                "wf": "lebih",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lebih",
+                                    "pos": "a",
+                                    "form": "lebih"
+                                }
+                            },
+                            {
+                                "wf": "dulu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dulu",
+                                    "pos": "?",
+                                    "form": "dulu"
+                                }
+                            },
+                            {
+                                "wf": "berdiam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "diam",
+                                    "pos": "v",
+                                    "form": "ber-diam"
+                                }
+                            },
+                            {
+                                "wf": "dalam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dalam",
+                                    "pos": "a|n",
+                                    "form": "dalam"
+                                }
+                            },
+                            {
+                                "wf": "kata",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "a",
+                                    "pos": "n",
+                                    "form": "kata"
+                                }
+                            },
+                            {
+                                "wf": "!",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 16
+                    },
+                    {
+                        "line": "puisi terakhir menutup senja halaman",
+                        "words": [
+                            {
+                                "wf": "puisi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "puisi",
+                                    "pos": "n",
+                                    "form": "puisi"
+                                }
+                            },
+                            {
+                                "wf": "terakhir",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "akhir",
+                                    "pos": "a",
+                                    "form": "terakhir"
+                                }
+                            },
+                            {
+                                "wf": "menutup",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tutup",
+                                    "pos": "v",
+                                    "form": "meN-tutup"
+                                }
+                            },
+                            {
+                                "wf": "senja",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "senja",
+                                    "pos": "n",
+                                    "form": "senja"
+                                }
+                            },
+                            {
+                                "wf": "halaman",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "halaman",
+                                    "pos": "n",
+                                    "form": "halaman"
+                                }
+                            }
+                        ],
+                        "syllables": 14
+                    },
+                    {
+                        "line": "tak ada lagi untuknya!",
+                        "words": [
+                            {
+                                "wf": "tak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tak",
+                                    "pos": "adv",
+                                    "form": "tak"
+                                }
+                            },
+                            {
+                                "wf": "ada",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ada",
+                                    "pos": "v",
+                                    "form": "ada"
+                                }
+                            },
+                            {
+                                "wf": "lagi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lagi",
+                                    "pos": "adv|p",
+                                    "form": "lagi"
+                                }
+                            },
+                            {
+                                "wf": "untuknya",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "untuk",
+                                    "pos": "p",
+                                    "form": "untuk-nya"
+                                }
+                            },
+                            {
+                                "wf": "!",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 8
+                    }
+                ],
+                "num_lines": 11
+            }
+        ]
+    }
+}

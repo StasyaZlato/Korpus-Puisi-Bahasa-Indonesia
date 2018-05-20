@@ -1,0 +1,645 @@
+{
+    "meta": {
+        "file_name": "257.json",
+        "id_bd": 257,
+        "author": "Isbedy Stiawan ZS",
+        "title": "Aku hanya kerak di liang bumimu",
+        "genre": "стихотворение",
+        "year": "16.09.1987",
+        "num_lines": 11,
+        "rhyme": "Спорадическая",
+        "syllables": [
+            11,
+            10,
+            11,
+            10,
+            13,
+            11,
+            8,
+            14,
+            11,
+            14,
+            18
+        ],
+        "strofy": [
+            6,
+            1,
+            5
+        ]
+    },
+    "poem": {
+        "text": "{Aku hanya kerak di liang bumimu\r\nmenunggu sampai musim bertukar.\r\nTubuhku hitam terpanggang, menahan\r\nderita sepanjang kehendakmu\r\nDi liang bumimu aku menjadi kerak\r\nterlempar dari segala cuaca}\r\n{sampai musim esok datang\r\nsampai waktumu tak lagi kudengar dentingnya\r\nDan kota-kota makin jauh dariku\r\nAku tenggelam dan menghuni di dasar yang sunyi\r\nsementara matahari tak terbit dari bola matamu}",
+        "strof": [
+            {
+                "strof": "Aku hanya kerak di liang bumimu\r\nmenunggu sampai musim bertukar.\r\nTubuhku hitam terpanggang, menahan\r\nderita sepanjang kehendakmu\r\nDi liang bumimu aku menjadi kerak\r\nterlempar dari segala cuaca",
+                "lines": [
+                    {
+                        "line": "Aku hanya kerak di liang bumimu",
+                        "words": [
+                            {
+                                "wf": "Aku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "aku",
+                                    "pos": "pron",
+                                    "form": "aku"
+                                }
+                            },
+                            {
+                                "wf": "hanya",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hanya",
+                                    "pos": "adv",
+                                    "form": "hanya"
+                                }
+                            },
+                            {
+                                "wf": "kerak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "erak",
+                                    "pos": "n",
+                                    "form": "kerak"
+                                }
+                            },
+                            {
+                                "wf": "di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "liang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "liang",
+                                    "pos": "n",
+                                    "form": "liang"
+                                }
+                            },
+                            {
+                                "wf": "bumimu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bumi",
+                                    "pos": "n",
+                                    "form": "bumi-mu"
+                                }
+                            }
+                        ],
+                        "syllables": 11
+                    },
+                    {
+                        "line": "menunggu sampai musim bertukar.",
+                        "words": [
+                            {
+                                "wf": "menunggu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tunggu",
+                                    "pos": "v",
+                                    "form": "meN-tunggu"
+                                }
+                            },
+                            {
+                                "wf": "sampai",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sampai",
+                                    "pos": "v",
+                                    "form": "sampai"
+                                }
+                            },
+                            {
+                                "wf": "musim",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "musim",
+                                    "pos": "n",
+                                    "form": "musim"
+                                }
+                            },
+                            {
+                                "wf": "bertukar",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tukar",
+                                    "pos": "v",
+                                    "form": "bertukar"
+                                }
+                            },
+                            {
+                                "wf": ".",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "Tubuhku hitam terpanggang, menahan",
+                        "words": [
+                            {
+                                "wf": "Tubuhku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tubuh",
+                                    "pos": "n",
+                                    "form": "tubuh-ku"
+                                }
+                            },
+                            {
+                                "wf": "hitam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hitam",
+                                    "pos": "n|a",
+                                    "form": "hitam"
+                                }
+                            },
+                            {
+                                "wf": "terpanggang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "terpanggang",
+                                    "pos": "v",
+                                    "form": "terpanggang"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "menahan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "menahan",
+                                    "pos": "v",
+                                    "form": "menahan"
+                                }
+                            }
+                        ],
+                        "syllables": 11
+                    },
+                    {
+                        "line": "derita sepanjang kehendakmu",
+                        "words": [
+                            {
+                                "wf": "derita",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "derita",
+                                    "pos": "n",
+                                    "form": "derita"
+                                }
+                            },
+                            {
+                                "wf": "sepanjang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "panjang",
+                                    "pos": "n",
+                                    "form": "se-panjang"
+                                }
+                            },
+                            {
+                                "wf": "kehendakmu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hendak",
+                                    "pos": "n",
+                                    "form": "ke-hendak-mu-mu"
+                                }
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "Di liang bumimu aku menjadi kerak",
+                        "words": [
+                            {
+                                "wf": "Di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "liang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "liang",
+                                    "pos": "n",
+                                    "form": "liang"
+                                }
+                            },
+                            {
+                                "wf": "bumimu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bumi",
+                                    "pos": "n",
+                                    "form": "bumi-mu"
+                                }
+                            },
+                            {
+                                "wf": "aku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "aku",
+                                    "pos": "pron",
+                                    "form": "aku"
+                                }
+                            },
+                            {
+                                "wf": "menjadi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jadi",
+                                    "pos": "v",
+                                    "form": "meN-jadi"
+                                }
+                            },
+                            {
+                                "wf": "kerak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "erak",
+                                    "pos": "n",
+                                    "form": "kerak"
+                                }
+                            }
+                        ],
+                        "syllables": 13
+                    },
+                    {
+                        "line": "terlempar dari segala cuaca",
+                        "words": [
+                            {
+                                "wf": "terlempar",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "terlempar",
+                                    "pos": "",
+                                    "form": "terlempar"
+                                }
+                            },
+                            {
+                                "wf": "dari",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dari",
+                                    "pos": "p",
+                                    "form": "dari"
+                                }
+                            },
+                            {
+                                "wf": "segala",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "segala",
+                                    "pos": "num",
+                                    "form": "segala"
+                                }
+                            },
+                            {
+                                "wf": "cuaca",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "cuaca",
+                                    "pos": "n",
+                                    "form": "cuaca"
+                                }
+                            }
+                        ],
+                        "syllables": 11
+                    }
+                ],
+                "num_lines": 6
+            },
+            {
+                "strof": "\r\n",
+                "lines": [
+                    {
+                        "line": "",
+                        "words": [],
+                        "syllables": 0
+                    }
+                ],
+                "num_lines": 1
+            },
+            {
+                "strof": "sampai musim esok datang\r\nsampai waktumu tak lagi kudengar dentingnya\r\nDan kota-kota makin jauh dariku\r\nAku tenggelam dan menghuni di dasar yang sunyi\r\nsementara matahari tak terbit dari bola matamu",
+                "lines": [
+                    {
+                        "line": "sampai musim esok datang",
+                        "words": [
+                            {
+                                "wf": "sampai",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sampai",
+                                    "pos": "v",
+                                    "form": "sampai"
+                                }
+                            },
+                            {
+                                "wf": "musim",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "musim",
+                                    "pos": "n",
+                                    "form": "musim"
+                                }
+                            },
+                            {
+                                "wf": "esok",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "esok",
+                                    "pos": "adv",
+                                    "form": "esok"
+                                }
+                            },
+                            {
+                                "wf": "datang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "datang",
+                                    "pos": "v|n",
+                                    "form": "datang"
+                                }
+                            }
+                        ],
+                        "syllables": 8
+                    },
+                    {
+                        "line": "sampai waktumu tak lagi kudengar dentingnya",
+                        "words": [
+                            {
+                                "wf": "sampai",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sampai",
+                                    "pos": "v",
+                                    "form": "sampai"
+                                }
+                            },
+                            {
+                                "wf": "waktumu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "waktu",
+                                    "pos": "n|p",
+                                    "form": "waktu-mu"
+                                }
+                            },
+                            {
+                                "wf": "tak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tak",
+                                    "pos": "adv",
+                                    "form": "tak"
+                                }
+                            },
+                            {
+                                "wf": "lagi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lagi",
+                                    "pos": "adv|p",
+                                    "form": "lagi"
+                                }
+                            },
+                            {
+                                "wf": "kudengar",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dengar",
+                                    "pos": "v",
+                                    "form": "ku-dengar"
+                                }
+                            },
+                            {
+                                "wf": "dentingnya",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "denting",
+                                    "pos": "n",
+                                    "form": "denting-nya"
+                                }
+                            }
+                        ],
+                        "syllables": 14
+                    },
+                    {
+                        "line": "Dan kota-kota makin jauh dariku",
+                        "words": [
+                            {
+                                "wf": "Dan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dan",
+                                    "pos": "p",
+                                    "form": "dan"
+                                }
+                            },
+                            {
+                                "wf": "kota-kota",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kota",
+                                    "pos": "n",
+                                    "form": "kota-kota"
+                                }
+                            },
+                            {
+                                "wf": "makin",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "makin",
+                                    "pos": "adv|p",
+                                    "form": "makin"
+                                }
+                            },
+                            {
+                                "wf": "jauh",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jauh",
+                                    "pos": "a",
+                                    "form": "jauh"
+                                }
+                            },
+                            {
+                                "wf": "dariku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dari",
+                                    "pos": "p",
+                                    "form": "dari-ku"
+                                }
+                            }
+                        ],
+                        "syllables": 11
+                    },
+                    {
+                        "line": "Aku tenggelam dan menghuni di dasar yang sunyi",
+                        "words": [
+                            {
+                                "wf": "Aku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "aku",
+                                    "pos": "pron",
+                                    "form": "aku"
+                                }
+                            },
+                            {
+                                "wf": "tenggelam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tenggelam",
+                                    "pos": "v",
+                                    "form": "tenggelam"
+                                }
+                            },
+                            {
+                                "wf": "dan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dan",
+                                    "pos": "p",
+                                    "form": "dan"
+                                }
+                            },
+                            {
+                                "wf": "menghuni",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "huni",
+                                    "pos": "v",
+                                    "form": "meN-huni"
+                                }
+                            },
+                            {
+                                "wf": "di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "dasar",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dasar",
+                                    "pos": "n",
+                                    "form": "dasar"
+                                }
+                            },
+                            {
+                                "wf": "yang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "yang",
+                                    "pos": "a|v|n",
+                                    "form": "yang"
+                                }
+                            },
+                            {
+                                "wf": "sunyi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sunyi",
+                                    "pos": "a",
+                                    "form": "sunyi"
+                                }
+                            }
+                        ],
+                        "syllables": 14
+                    },
+                    {
+                        "line": "sementara matahari tak terbit dari bola matamu",
+                        "words": [
+                            {
+                                "wf": "sementara",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sementara",
+                                    "pos": "p|n|num",
+                                    "form": "sementara"
+                                }
+                            },
+                            {
+                                "wf": "matahari",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "matahari",
+                                    "pos": "n",
+                                    "form": "matahari"
+                                }
+                            },
+                            {
+                                "wf": "tak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tak",
+                                    "pos": "adv",
+                                    "form": "tak"
+                                }
+                            },
+                            {
+                                "wf": "terbit",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "terbit",
+                                    "pos": "v",
+                                    "form": "terbit"
+                                }
+                            },
+                            {
+                                "wf": "dari",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dari",
+                                    "pos": "p",
+                                    "form": "dari"
+                                }
+                            },
+                            {
+                                "wf": "bola",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bola",
+                                    "pos": "n",
+                                    "form": "bola"
+                                }
+                            },
+                            {
+                                "wf": "matamu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "mata",
+                                    "pos": "n",
+                                    "form": "mata-mu"
+                                }
+                            }
+                        ],
+                        "syllables": 18
+                    }
+                ],
+                "num_lines": 5
+            }
+        ]
+    }
+}

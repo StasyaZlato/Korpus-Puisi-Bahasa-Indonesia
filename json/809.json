@@ -1,0 +1,544 @@
+{
+    "meta": {
+        "file_name": "809.json",
+        "id_bd": 809,
+        "author": "Abdul Hadi WM",
+        "title": "Angin: mendesir lagi",
+        "genre": "стихотворение",
+        "year": 1968,
+        "num_lines": 12,
+        "rhyme": "Есть",
+        "syllables": [
+            6,
+            5,
+            3,
+            10,
+            9,
+            9,
+            7,
+            9,
+            6,
+            9,
+            6,
+            5
+        ],
+        "strofy": [
+            5,
+            1,
+            6,
+            1,
+            1
+        ]
+    },
+    "poem": {
+        "text": "{Angin; mendesir lagi\r\nHampir mengantuk\r\nAda sepi\r\nBerbisik di dahan-dahan pohon\r\nLagi tahu, gerimis turun}\r\n{Di luar kamar yang tembaga\r\nDi luar rongga kata\r\nEngkau gemetar karena musim\r\nCemas dalam kata\r\nDan tahu: ada yang tiada\r\nBangkit di jendela}\r\n{Dan mungkin: senja}",
+        "strof": [
+            {
+                "strof": "Angin; mendesir lagi\r\nHampir mengantuk\r\nAda sepi\r\nBerbisik di dahan-dahan pohon\r\nLagi tahu, gerimis turun",
+                "lines": [
+                    {
+                        "line": "Angin; mendesir lagi",
+                        "words": [
+                            {
+                                "wf": "Angin",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "angin",
+                                    "pos": "n",
+                                    "form": "angin"
+                                }
+                            },
+                            {
+                                "wf": "; ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "mendesir",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "desir",
+                                    "pos": "v",
+                                    "form": "meN-desir"
+                                }
+                            },
+                            {
+                                "wf": "lagi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lagi",
+                                    "pos": "adv|p",
+                                    "form": "lagi"
+                                }
+                            }
+                        ],
+                        "syllables": 6
+                    },
+                    {
+                        "line": "Hampir mengantuk",
+                        "words": [
+                            {
+                                "wf": "Hampir",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hampir",
+                                    "pos": "adv",
+                                    "form": "hampir"
+                                }
+                            },
+                            {
+                                "wf": "mengantuk",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kantuk",
+                                    "pos": "v",
+                                    "form": "meN-kantuk"
+                                }
+                            }
+                        ],
+                        "syllables": 5
+                    },
+                    {
+                        "line": "Ada sepi",
+                        "words": [
+                            {
+                                "wf": "Ada",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ada",
+                                    "pos": "v",
+                                    "form": "ada"
+                                }
+                            },
+                            {
+                                "wf": "sepi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sepi",
+                                    "pos": "a",
+                                    "form": "sepi"
+                                }
+                            }
+                        ],
+                        "syllables": 3
+                    },
+                    {
+                        "line": "Berbisik di dahan-dahan pohon",
+                        "words": [
+                            {
+                                "wf": "Berbisik",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bisik",
+                                    "pos": "v",
+                                    "form": "ber-bisik"
+                                }
+                            },
+                            {
+                                "wf": "di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "dahan-dahan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dahan",
+                                    "pos": "n",
+                                    "form": "dahan-dahan"
+                                }
+                            },
+                            {
+                                "wf": "pohon",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pohon",
+                                    "pos": "n",
+                                    "form": "pohon"
+                                }
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "Lagi tahu, gerimis turun",
+                        "words": [
+                            {
+                                "wf": "Lagi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lagi",
+                                    "pos": "adv|p",
+                                    "form": "lagi"
+                                }
+                            },
+                            {
+                                "wf": "tahu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tahu",
+                                    "pos": "v",
+                                    "form": "tahu"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "gerimis",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "gerimis",
+                                    "pos": "n",
+                                    "form": "gerimis"
+                                }
+                            },
+                            {
+                                "wf": "turun",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "turun",
+                                    "pos": "v",
+                                    "form": "turun"
+                                }
+                            }
+                        ],
+                        "syllables": 9
+                    }
+                ],
+                "num_lines": 5
+            },
+            {
+                "strof": "\r\n",
+                "lines": [
+                    {
+                        "line": "",
+                        "words": [],
+                        "syllables": 0
+                    }
+                ],
+                "num_lines": 1
+            },
+            {
+                "strof": "Di luar kamar yang tembaga\r\nDi luar rongga kata\r\nEngkau gemetar karena musim\r\nCemas dalam kata\r\nDan tahu: ada yang tiada\r\nBangkit di jendela",
+                "lines": [
+                    {
+                        "line": "Di luar kamar yang tembaga",
+                        "words": [
+                            {
+                                "wf": "Di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "luar",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "luar",
+                                    "pos": "v",
+                                    "form": "luar"
+                                }
+                            },
+                            {
+                                "wf": "kamar",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kamar",
+                                    "pos": "n",
+                                    "form": "kamar"
+                                }
+                            },
+                            {
+                                "wf": "yang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "yang",
+                                    "pos": "a|v|n",
+                                    "form": "yang"
+                                }
+                            },
+                            {
+                                "wf": "tembaga",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tembaga",
+                                    "pos": "n",
+                                    "form": "tembaga"
+                                }
+                            }
+                        ],
+                        "syllables": 9
+                    },
+                    {
+                        "line": "Di luar rongga kata",
+                        "words": [
+                            {
+                                "wf": "Di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "luar",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "luar",
+                                    "pos": "v",
+                                    "form": "luar"
+                                }
+                            },
+                            {
+                                "wf": "rongga",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "rongga",
+                                    "pos": "n",
+                                    "form": "rongga"
+                                }
+                            },
+                            {
+                                "wf": "kata",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "a",
+                                    "pos": "n",
+                                    "form": "kata"
+                                }
+                            }
+                        ],
+                        "syllables": 7
+                    },
+                    {
+                        "line": "Engkau gemetar karena musim",
+                        "words": [
+                            {
+                                "wf": "Engkau",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "engkau",
+                                    "pos": "pron",
+                                    "form": "engkau"
+                                }
+                            },
+                            {
+                                "wf": "gemetar",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "gemetar",
+                                    "pos": "a",
+                                    "form": "gemetar"
+                                }
+                            },
+                            {
+                                "wf": "karena",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "karena",
+                                    "pos": "p",
+                                    "form": "karena"
+                                }
+                            },
+                            {
+                                "wf": "musim",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "musim",
+                                    "pos": "n",
+                                    "form": "musim"
+                                }
+                            }
+                        ],
+                        "syllables": 9
+                    },
+                    {
+                        "line": "Cemas dalam kata",
+                        "words": [
+                            {
+                                "wf": "Cemas",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "cemas",
+                                    "pos": "a",
+                                    "form": "cemas"
+                                }
+                            },
+                            {
+                                "wf": "dalam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dalam",
+                                    "pos": "a|n",
+                                    "form": "dalam"
+                                }
+                            },
+                            {
+                                "wf": "kata",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "a",
+                                    "pos": "n",
+                                    "form": "kata"
+                                }
+                            }
+                        ],
+                        "syllables": 6
+                    },
+                    {
+                        "line": "Dan tahu: ada yang tiada",
+                        "words": [
+                            {
+                                "wf": "Dan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dan",
+                                    "pos": "p",
+                                    "form": "dan"
+                                }
+                            },
+                            {
+                                "wf": "tahu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tahu",
+                                    "pos": "v",
+                                    "form": "tahu"
+                                }
+                            },
+                            {
+                                "wf": ": ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "ada",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ada",
+                                    "pos": "v",
+                                    "form": "ada"
+                                }
+                            },
+                            {
+                                "wf": "yang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "yang",
+                                    "pos": "a|v|n",
+                                    "form": "yang"
+                                }
+                            },
+                            {
+                                "wf": "tiada",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tiada",
+                                    "pos": "v",
+                                    "form": "tiada"
+                                }
+                            }
+                        ],
+                        "syllables": 9
+                    },
+                    {
+                        "line": "Bangkit di jendela",
+                        "words": [
+                            {
+                                "wf": "Bangkit",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bangkit",
+                                    "pos": "v",
+                                    "form": "bangkit"
+                                }
+                            },
+                            {
+                                "wf": "di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "jendela",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jendela",
+                                    "pos": "?",
+                                    "form": "jendela"
+                                }
+                            }
+                        ],
+                        "syllables": 6
+                    }
+                ],
+                "num_lines": 6
+            },
+            {
+                "strof": "\r\n",
+                "lines": [
+                    {
+                        "line": "",
+                        "words": [],
+                        "syllables": 0
+                    }
+                ],
+                "num_lines": 1
+            },
+            {
+                "strof": "Dan mungkin: senja",
+                "lines": [
+                    {
+                        "line": "Dan mungkin: senja",
+                        "words": [
+                            {
+                                "wf": "Dan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dan",
+                                    "pos": "p",
+                                    "form": "dan"
+                                }
+                            },
+                            {
+                                "wf": "mungkin",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "mungkin",
+                                    "pos": "adv",
+                                    "form": "mungkin"
+                                }
+                            },
+                            {
+                                "wf": ": ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "senja",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "senja",
+                                    "pos": "n",
+                                    "form": "senja"
+                                }
+                            }
+                        ],
+                        "syllables": 5
+                    }
+                ],
+                "num_lines": 1
+            }
+        ]
+    }
+}

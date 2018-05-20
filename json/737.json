@@ -1,0 +1,541 @@
+{
+    "meta": {
+        "file_name": "737.json",
+        "id_bd": 737,
+        "author": "Wing Kardjo Wangsaatmadja",
+        "title": "Bisikan",
+        "genre": "стихотворение",
+        "year": "---",
+        "num_lines": 14,
+        "rhyme": "Есть",
+        "syllables": [
+            4,
+            5,
+            7,
+            5,
+            4,
+            4,
+            5,
+            6,
+            4,
+            5,
+            7,
+            9,
+            8,
+            9
+        ],
+        "strofy": [
+            4,
+            1,
+            4,
+            1,
+            4,
+            1,
+            2
+        ]
+    },
+    "poem": {
+        "text": "{Aku pun tahu\r\nhidup yang itu\r\ntapi ada suara\r\nyang berkata, Yang}\r\n{ini saja\r\nlebih rapat\r\nke hati, lebih\r\nakrab dan berarti}\r\n{dari terang\r\nlampu di ruang\r\ntivi dan itu-ini\r\nduniamu yang gemerlapan.}\r\n{Sekiranya kuindahkan\r\ntentunya bukan pelarian.}",
+        "strof": [
+            {
+                "strof": "Aku pun tahu\r\nhidup yang itu\r\ntapi ada suara\r\nyang berkata, Yang",
+                "lines": [
+                    {
+                        "line": "Aku pun tahu",
+                        "words": [
+                            {
+                                "wf": "Aku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "aku",
+                                    "pos": "pron",
+                                    "form": "aku"
+                                }
+                            },
+                            {
+                                "wf": "pun",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pun",
+                                    "pos": "p",
+                                    "form": "pun"
+                                }
+                            },
+                            {
+                                "wf": "tahu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tahu",
+                                    "pos": "v",
+                                    "form": "tahu"
+                                }
+                            }
+                        ],
+                        "syllables": 4
+                    },
+                    {
+                        "line": "hidup yang itu",
+                        "words": [
+                            {
+                                "wf": "hidup",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hidup",
+                                    "pos": "v",
+                                    "form": "hidup"
+                                }
+                            },
+                            {
+                                "wf": "yang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "yang",
+                                    "pos": "a|v|n",
+                                    "form": "yang"
+                                }
+                            },
+                            {
+                                "wf": "itu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "itu",
+                                    "pos": "pron|n",
+                                    "form": "itu"
+                                }
+                            }
+                        ],
+                        "syllables": 5
+                    },
+                    {
+                        "line": "tapi ada suara",
+                        "words": [
+                            {
+                                "wf": "tapi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tapi",
+                                    "pos": "v",
+                                    "form": "tapi"
+                                }
+                            },
+                            {
+                                "wf": "ada",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ada",
+                                    "pos": "v",
+                                    "form": "ada"
+                                }
+                            },
+                            {
+                                "wf": "suara",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "suara",
+                                    "pos": "n",
+                                    "form": "suara"
+                                }
+                            }
+                        ],
+                        "syllables": 7
+                    },
+                    {
+                        "line": "yang berkata, Yang",
+                        "words": [
+                            {
+                                "wf": "yang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "yang",
+                                    "pos": "a|v|n",
+                                    "form": "yang"
+                                }
+                            },
+                            {
+                                "wf": "berkata",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "a",
+                                    "pos": "v",
+                                    "form": "berkata"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "Yang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "yang",
+                                    "pos": "a|v|n",
+                                    "form": "yang"
+                                }
+                            }
+                        ],
+                        "syllables": 5
+                    }
+                ],
+                "num_lines": 4
+            },
+            {
+                "strof": "\r\n",
+                "lines": [
+                    {
+                        "line": "",
+                        "words": [],
+                        "syllables": 0
+                    }
+                ],
+                "num_lines": 1
+            },
+            {
+                "strof": "ini saja\r\nlebih rapat\r\nke hati, lebih\r\nakrab dan berarti",
+                "lines": [
+                    {
+                        "line": "ini saja",
+                        "words": [
+                            {
+                                "wf": "ini",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ini",
+                                    "pos": "pron",
+                                    "form": "ini"
+                                }
+                            },
+                            {
+                                "wf": "saja",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "saja",
+                                    "pos": "adv",
+                                    "form": "saja"
+                                }
+                            }
+                        ],
+                        "syllables": 4
+                    },
+                    {
+                        "line": "lebih rapat",
+                        "words": [
+                            {
+                                "wf": "lebih",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lebih",
+                                    "pos": "a",
+                                    "form": "lebih"
+                                }
+                            },
+                            {
+                                "wf": "rapat",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "rapat",
+                                    "pos": "a",
+                                    "form": "rapat"
+                                }
+                            }
+                        ],
+                        "syllables": 4
+                    },
+                    {
+                        "line": "ke hati, lebih",
+                        "words": [
+                            {
+                                "wf": "ke",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ke",
+                                    "pos": "p",
+                                    "form": "ke"
+                                }
+                            },
+                            {
+                                "wf": "hati",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hati",
+                                    "pos": "n",
+                                    "form": "hati"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "lebih",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lebih",
+                                    "pos": "a",
+                                    "form": "lebih"
+                                }
+                            }
+                        ],
+                        "syllables": 5
+                    },
+                    {
+                        "line": "akrab dan berarti",
+                        "words": [
+                            {
+                                "wf": "akrab",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "akrab",
+                                    "pos": "a",
+                                    "form": "akrab"
+                                }
+                            },
+                            {
+                                "wf": "dan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dan",
+                                    "pos": "p",
+                                    "form": "dan"
+                                }
+                            },
+                            {
+                                "wf": "berarti",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "arti",
+                                    "pos": "v",
+                                    "form": "ber-arti"
+                                }
+                            }
+                        ],
+                        "syllables": 6
+                    }
+                ],
+                "num_lines": 4
+            },
+            {
+                "strof": "\r\n",
+                "lines": [
+                    {
+                        "line": "",
+                        "words": [],
+                        "syllables": 0
+                    }
+                ],
+                "num_lines": 1
+            },
+            {
+                "strof": "dari terang\r\nlampu di ruang\r\ntivi dan itu-ini\r\nduniamu yang gemerlapan.",
+                "lines": [
+                    {
+                        "line": "dari terang",
+                        "words": [
+                            {
+                                "wf": "dari",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dari",
+                                    "pos": "p",
+                                    "form": "dari"
+                                }
+                            },
+                            {
+                                "wf": "terang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "terang",
+                                    "pos": "a",
+                                    "form": "terang"
+                                }
+                            }
+                        ],
+                        "syllables": 4
+                    },
+                    {
+                        "line": "lampu di ruang",
+                        "words": [
+                            {
+                                "wf": "lampu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lampu",
+                                    "pos": "n",
+                                    "form": "lampu"
+                                }
+                            },
+                            {
+                                "wf": "di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "ruang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ruang",
+                                    "pos": "n",
+                                    "form": "ruang"
+                                }
+                            }
+                        ],
+                        "syllables": 5
+                    },
+                    {
+                        "line": "tivi dan itu-ini",
+                        "words": [
+                            {
+                                "wf": "tivi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tivi",
+                                    "pos": "?",
+                                    "form": "tivi"
+                                }
+                            },
+                            {
+                                "wf": "dan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dan",
+                                    "pos": "p",
+                                    "form": "dan"
+                                }
+                            },
+                            {
+                                "wf": "itu-ini",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "itu",
+                                    "pos": "?",
+                                    "form": "itu-ini"
+                                }
+                            }
+                        ],
+                        "syllables": 7
+                    },
+                    {
+                        "line": "duniamu yang gemerlapan.",
+                        "words": [
+                            {
+                                "wf": "duniamu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dunia",
+                                    "pos": "n",
+                                    "form": "dunia-mu"
+                                }
+                            },
+                            {
+                                "wf": "yang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "yang",
+                                    "pos": "a|v|n",
+                                    "form": "yang"
+                                }
+                            },
+                            {
+                                "wf": "gemerlapan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "gemerlap",
+                                    "pos": "a",
+                                    "form": "gemerlap-an"
+                                }
+                            },
+                            {
+                                "wf": ".",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 9
+                    }
+                ],
+                "num_lines": 4
+            },
+            {
+                "strof": "\r\n",
+                "lines": [
+                    {
+                        "line": "",
+                        "words": [],
+                        "syllables": 0
+                    }
+                ],
+                "num_lines": 1
+            },
+            {
+                "strof": "Sekiranya kuindahkan\r\ntentunya bukan pelarian.",
+                "lines": [
+                    {
+                        "line": "Sekiranya kuindahkan",
+                        "words": [
+                            {
+                                "wf": "Sekiranya",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kira",
+                                    "pos": "adv",
+                                    "form": "se-kira-nya"
+                                }
+                            },
+                            {
+                                "wf": "kuindahkan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kuindahkan",
+                                    "pos": "v",
+                                    "form": "kuindahkan"
+                                }
+                            }
+                        ],
+                        "syllables": 8
+                    },
+                    {
+                        "line": "tentunya bukan pelarian.",
+                        "words": [
+                            {
+                                "wf": "tentunya",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tentu",
+                                    "pos": "a|adv",
+                                    "form": "tentu-nya"
+                                }
+                            },
+                            {
+                                "wf": "bukan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bukan",
+                                    "pos": "n",
+                                    "form": "bukan"
+                                }
+                            },
+                            {
+                                "wf": "pelarian",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lari",
+                                    "pos": "n",
+                                    "form": "pe-lari-an"
+                                }
+                            },
+                            {
+                                "wf": ".",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 9
+                    }
+                ],
+                "num_lines": 2
+            }
+        ]
+    }
+}

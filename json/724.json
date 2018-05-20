@@ -1,0 +1,612 @@
+{
+    "meta": {
+        "file_name": "724.json",
+        "id_bd": 724,
+        "author": "Ajip Rosidi",
+        "title": "Pantun kembang jati",
+        "genre": "пантун",
+        "year": "---",
+        "num_lines": 12,
+        "rhyme": "Есть",
+        "syllables": [
+            8,
+            9,
+            8,
+            9,
+            8,
+            10,
+            8,
+            10,
+            9,
+            9,
+            11,
+            11
+        ],
+        "strofy": [
+            4,
+            1,
+            4,
+            1,
+            4
+        ]
+    },
+    "poem": {
+        "text": "{Elok rupanya kumbang jati\r\ndibawa itik pulang petang;\r\nElok nian kasih di hati\r\nengkau terima dengan sayang}\r\n{Elok rupanya kumbang jati\r\nterbang melayang di atas rumah;\r\nElok nian hatimu suci\r\nmenerima aku sedang gundah}\r\n{Kumbang terbang di atas rumah\r\nberkeliling mencari mangsa;\r\nHatiku selalu merasa gundah\r\nkarena diri berlumuran dosa}",
+        "strof": [
+            {
+                "strof": "Elok rupanya kumbang jati\r\ndibawa itik pulang petang;\r\nElok nian kasih di hati\r\nengkau terima dengan sayang",
+                "lines": [
+                    {
+                        "line": "Elok rupanya kumbang jati",
+                        "words": [
+                            {
+                                "wf": "Elok",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "elok",
+                                    "pos": "v",
+                                    "form": "elok"
+                                }
+                            },
+                            {
+                                "wf": "rupanya",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "rupa",
+                                    "pos": "adv",
+                                    "form": "rupa-nya"
+                                }
+                            },
+                            {
+                                "wf": "kumbang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kumbang",
+                                    "pos": "n",
+                                    "form": "kumbang"
+                                }
+                            },
+                            {
+                                "wf": "jati",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jati",
+                                    "pos": "a",
+                                    "form": "jati"
+                                }
+                            }
+                        ],
+                        "syllables": 8
+                    },
+                    {
+                        "line": "dibawa itik pulang petang;",
+                        "words": [
+                            {
+                                "wf": "dibawa",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bawa",
+                                    "pos": "v",
+                                    "form": "di-bawa"
+                                }
+                            },
+                            {
+                                "wf": "itik",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "itik",
+                                    "pos": "n",
+                                    "form": "itik"
+                                }
+                            },
+                            {
+                                "wf": "pulang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pulang",
+                                    "pos": "v",
+                                    "form": "pulang"
+                                }
+                            },
+                            {
+                                "wf": "petang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "petang",
+                                    "pos": "n",
+                                    "form": "petang"
+                                }
+                            },
+                            {
+                                "wf": ";",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 9
+                    },
+                    {
+                        "line": "Elok nian kasih di hati",
+                        "words": [
+                            {
+                                "wf": "Elok",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "elok",
+                                    "pos": "v",
+                                    "form": "elok"
+                                }
+                            },
+                            {
+                                "wf": "nian",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "nian",
+                                    "pos": "v|pron",
+                                    "form": "nian"
+                                }
+                            },
+                            {
+                                "wf": "kasih",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kasih",
+                                    "pos": "n",
+                                    "form": "kasih"
+                                }
+                            },
+                            {
+                                "wf": "di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "hati",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hati",
+                                    "pos": "n",
+                                    "form": "hati"
+                                }
+                            }
+                        ],
+                        "syllables": 8
+                    },
+                    {
+                        "line": "engkau terima dengan sayang",
+                        "words": [
+                            {
+                                "wf": "engkau",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "engkau",
+                                    "pos": "pron",
+                                    "form": "engkau"
+                                }
+                            },
+                            {
+                                "wf": "terima",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "terima",
+                                    "pos": "v",
+                                    "form": "terima"
+                                }
+                            },
+                            {
+                                "wf": "dengan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dengan",
+                                    "pos": "p",
+                                    "form": "dengan"
+                                }
+                            },
+                            {
+                                "wf": "sayang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sayang",
+                                    "pos": "a|v|n",
+                                    "form": "sayang"
+                                }
+                            }
+                        ],
+                        "syllables": 9
+                    }
+                ],
+                "num_lines": 4
+            },
+            {
+                "strof": "\r\n",
+                "lines": [
+                    {
+                        "line": "",
+                        "words": [],
+                        "syllables": 0
+                    }
+                ],
+                "num_lines": 1
+            },
+            {
+                "strof": "Elok rupanya kumbang jati\r\nterbang melayang di atas rumah;\r\nElok nian hatimu suci\r\nmenerima aku sedang gundah",
+                "lines": [
+                    {
+                        "line": "Elok rupanya kumbang jati",
+                        "words": [
+                            {
+                                "wf": "Elok",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "elok",
+                                    "pos": "v",
+                                    "form": "elok"
+                                }
+                            },
+                            {
+                                "wf": "rupanya",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "rupa",
+                                    "pos": "adv",
+                                    "form": "rupa-nya"
+                                }
+                            },
+                            {
+                                "wf": "kumbang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kumbang",
+                                    "pos": "n",
+                                    "form": "kumbang"
+                                }
+                            },
+                            {
+                                "wf": "jati",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jati",
+                                    "pos": "a",
+                                    "form": "jati"
+                                }
+                            }
+                        ],
+                        "syllables": 8
+                    },
+                    {
+                        "line": "terbang melayang di atas rumah;",
+                        "words": [
+                            {
+                                "wf": "terbang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "terbang",
+                                    "pos": "v",
+                                    "form": "terbang"
+                                }
+                            },
+                            {
+                                "wf": "melayang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "layang",
+                                    "pos": "v",
+                                    "form": "meN-layang"
+                                }
+                            },
+                            {
+                                "wf": "di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "atas",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "atas",
+                                    "pos": "n",
+                                    "form": "atas"
+                                }
+                            },
+                            {
+                                "wf": "rumah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "rumah",
+                                    "pos": "n",
+                                    "form": "rumah"
+                                }
+                            },
+                            {
+                                "wf": ";",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "Elok nian hatimu suci",
+                        "words": [
+                            {
+                                "wf": "Elok",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "elok",
+                                    "pos": "v",
+                                    "form": "elok"
+                                }
+                            },
+                            {
+                                "wf": "nian",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "nian",
+                                    "pos": "v|pron",
+                                    "form": "nian"
+                                }
+                            },
+                            {
+                                "wf": "hatimu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hati",
+                                    "pos": "n",
+                                    "form": "hati-mu"
+                                }
+                            },
+                            {
+                                "wf": "suci",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "suci",
+                                    "pos": "a",
+                                    "form": "suci"
+                                }
+                            }
+                        ],
+                        "syllables": 8
+                    },
+                    {
+                        "line": "menerima aku sedang gundah",
+                        "words": [
+                            {
+                                "wf": "menerima",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "terima",
+                                    "pos": "v",
+                                    "form": "meN-terima"
+                                }
+                            },
+                            {
+                                "wf": "aku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "aku",
+                                    "pos": "pron",
+                                    "form": "aku"
+                                }
+                            },
+                            {
+                                "wf": "sedang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sedang",
+                                    "pos": "adv",
+                                    "form": "sedang"
+                                }
+                            },
+                            {
+                                "wf": "gundah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "gundah",
+                                    "pos": "a",
+                                    "form": "gundah"
+                                }
+                            }
+                        ],
+                        "syllables": 10
+                    }
+                ],
+                "num_lines": 4
+            },
+            {
+                "strof": "\r\n",
+                "lines": [
+                    {
+                        "line": "",
+                        "words": [],
+                        "syllables": 0
+                    }
+                ],
+                "num_lines": 1
+            },
+            {
+                "strof": "Kumbang terbang di atas rumah\r\nberkeliling mencari mangsa;\r\nHatiku selalu merasa gundah\r\nkarena diri berlumuran dosa",
+                "lines": [
+                    {
+                        "line": "Kumbang terbang di atas rumah",
+                        "words": [
+                            {
+                                "wf": "Kumbang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kumbang",
+                                    "pos": "n",
+                                    "form": "kumbang"
+                                }
+                            },
+                            {
+                                "wf": "terbang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "terbang",
+                                    "pos": "v",
+                                    "form": "terbang"
+                                }
+                            },
+                            {
+                                "wf": "di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "atas",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "atas",
+                                    "pos": "n",
+                                    "form": "atas"
+                                }
+                            },
+                            {
+                                "wf": "rumah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "rumah",
+                                    "pos": "n",
+                                    "form": "rumah"
+                                }
+                            }
+                        ],
+                        "syllables": 9
+                    },
+                    {
+                        "line": "berkeliling mencari mangsa;",
+                        "words": [
+                            {
+                                "wf": "berkeliling",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "keliling",
+                                    "pos": "v",
+                                    "form": "ber-keliling"
+                                }
+                            },
+                            {
+                                "wf": "mencari",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "cari",
+                                    "pos": "v",
+                                    "form": "meN-cari"
+                                }
+                            },
+                            {
+                                "wf": "mangsa",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "mangsa",
+                                    "pos": "n",
+                                    "form": "mangsa"
+                                }
+                            },
+                            {
+                                "wf": ";",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 9
+                    },
+                    {
+                        "line": "Hatiku selalu merasa gundah",
+                        "words": [
+                            {
+                                "wf": "Hatiku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hati",
+                                    "pos": "n",
+                                    "form": "hati-ku"
+                                }
+                            },
+                            {
+                                "wf": "selalu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "selalu",
+                                    "pos": "adv",
+                                    "form": "selalu"
+                                }
+                            },
+                            {
+                                "wf": "merasa",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "rasa",
+                                    "pos": "v",
+                                    "form": "meN-rasa"
+                                }
+                            },
+                            {
+                                "wf": "gundah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "gundah",
+                                    "pos": "a",
+                                    "form": "gundah"
+                                }
+                            }
+                        ],
+                        "syllables": 11
+                    },
+                    {
+                        "line": "karena diri berlumuran dosa",
+                        "words": [
+                            {
+                                "wf": "karena",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "karena",
+                                    "pos": "p",
+                                    "form": "karena"
+                                }
+                            },
+                            {
+                                "wf": "diri",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "diri",
+                                    "pos": "n",
+                                    "form": "diri"
+                                }
+                            },
+                            {
+                                "wf": "berlumuran",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "berlumuran",
+                                    "pos": "v",
+                                    "form": "berlumuran"
+                                }
+                            },
+                            {
+                                "wf": "dosa",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dosa",
+                                    "pos": "n",
+                                    "form": "dosa"
+                                }
+                            }
+                        ],
+                        "syllables": 11
+                    }
+                ],
+                "num_lines": 4
+            }
+        ]
+    }
+}

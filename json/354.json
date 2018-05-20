@@ -1,0 +1,588 @@
+{
+    "meta": {
+        "file_name": "354.json",
+        "id_bd": 354,
+        "author": "Kuntowijoyo",
+        "title": "Engkau, sukma",
+        "genre": "стихотворение",
+        "year": "---",
+        "num_lines": 15,
+        "rhyme": "Есть",
+        "syllables": [
+            5,
+            6,
+            3,
+            5,
+            10,
+            11,
+            6,
+            7,
+            5,
+            8,
+            7,
+            10,
+            2,
+            8,
+            8
+        ],
+        "strofy": [
+            6,
+            1,
+            3,
+            1,
+            3,
+            1,
+            3
+        ]
+    },
+    "poem": {
+        "text": "{Sukmamu bangkit\r\nBagai bianglala\r\nBerdiri\r\nDi cakrawala\r\nMerenda siang dalam impian\r\nGemerlap warna-warni benang sutra.}\r\n{Badai tidak datang\r\nAngin pulang ke pangkalan\r\nIstirahat panjang.}\r\n{Langit menyerah padamu\r\nMenggagalkan lingkaran\r\nSurya kabur kembali ke timur.}\r\n{Sepi.\r\nHanya napasmu yang tenang\r\nTerdengar bagai nyanyian.}",
+        "strof": [
+            {
+                "strof": "Sukmamu bangkit\r\nBagai bianglala\r\nBerdiri\r\nDi cakrawala\r\nMerenda siang dalam impian\r\nGemerlap warna-warni benang sutra.",
+                "lines": [
+                    {
+                        "line": "Sukmamu bangkit",
+                        "words": [
+                            {
+                                "wf": "Sukmamu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sukma",
+                                    "pos": "n",
+                                    "form": "sukma-mu"
+                                }
+                            },
+                            {
+                                "wf": "bangkit",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bangkit",
+                                    "pos": "v",
+                                    "form": "bangkit"
+                                }
+                            }
+                        ],
+                        "syllables": 5
+                    },
+                    {
+                        "line": "Bagai bianglala",
+                        "words": [
+                            {
+                                "wf": "Bagai",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bagai",
+                                    "pos": "n|p",
+                                    "form": "bagai"
+                                }
+                            },
+                            {
+                                "wf": "bianglala",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bianglala",
+                                    "pos": "n",
+                                    "form": "bianglala"
+                                }
+                            }
+                        ],
+                        "syllables": 6
+                    },
+                    {
+                        "line": "Berdiri",
+                        "words": [
+                            {
+                                "wf": "Berdiri",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "Berdiri",
+                                    "pos": "v",
+                                    "form": "Berdiri"
+                                }
+                            }
+                        ],
+                        "syllables": 3
+                    },
+                    {
+                        "line": "Di cakrawala",
+                        "words": [
+                            {
+                                "wf": "Di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "cakrawala",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "cakrawala",
+                                    "pos": "n",
+                                    "form": "cakrawala"
+                                }
+                            }
+                        ],
+                        "syllables": 5
+                    },
+                    {
+                        "line": "Merenda siang dalam impian",
+                        "words": [
+                            {
+                                "wf": "Merenda",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "renda",
+                                    "pos": "v",
+                                    "form": "meN-renda"
+                                }
+                            },
+                            {
+                                "wf": "siang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "siang",
+                                    "pos": "n",
+                                    "form": "siang"
+                                }
+                            },
+                            {
+                                "wf": "dalam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dalam",
+                                    "pos": "a|n",
+                                    "form": "dalam"
+                                }
+                            },
+                            {
+                                "wf": "impian",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "impian",
+                                    "pos": "n",
+                                    "form": "impian"
+                                }
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "Gemerlap warna-warni benang sutra.",
+                        "words": [
+                            {
+                                "wf": "Gemerlap",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "gemerlap",
+                                    "pos": "a",
+                                    "form": "gemerlap"
+                                }
+                            },
+                            {
+                                "wf": "warna-warni",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "mewarna",
+                                    "pos": "n",
+                                    "form": "warna-warni"
+                                }
+                            },
+                            {
+                                "wf": "benang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "benang",
+                                    "pos": "n",
+                                    "form": "benang"
+                                }
+                            },
+                            {
+                                "wf": "sutra",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sutra",
+                                    "pos": "n",
+                                    "form": "sutra"
+                                }
+                            },
+                            {
+                                "wf": ".",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 11
+                    }
+                ],
+                "num_lines": 6
+            },
+            {
+                "strof": "\r\n",
+                "lines": [
+                    {
+                        "line": "",
+                        "words": [],
+                        "syllables": 0
+                    }
+                ],
+                "num_lines": 1
+            },
+            {
+                "strof": "Badai tidak datang\r\nAngin pulang ke pangkalan\r\nIstirahat panjang.",
+                "lines": [
+                    {
+                        "line": "Badai tidak datang",
+                        "words": [
+                            {
+                                "wf": "Badai",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "badai",
+                                    "pos": "n",
+                                    "form": "badai"
+                                }
+                            },
+                            {
+                                "wf": "tidak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tidak",
+                                    "pos": "adv",
+                                    "form": "tidak"
+                                }
+                            },
+                            {
+                                "wf": "datang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "datang",
+                                    "pos": "v|n",
+                                    "form": "datang"
+                                }
+                            }
+                        ],
+                        "syllables": 6
+                    },
+                    {
+                        "line": "Angin pulang ke pangkalan",
+                        "words": [
+                            {
+                                "wf": "Angin",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "angin",
+                                    "pos": "n",
+                                    "form": "angin"
+                                }
+                            },
+                            {
+                                "wf": "pulang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pulang",
+                                    "pos": "v",
+                                    "form": "pulang"
+                                }
+                            },
+                            {
+                                "wf": "ke",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ke",
+                                    "pos": "p",
+                                    "form": "ke"
+                                }
+                            },
+                            {
+                                "wf": "pangkalan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pangkal",
+                                    "pos": "v",
+                                    "form": "pangkal-an"
+                                }
+                            }
+                        ],
+                        "syllables": 7
+                    },
+                    {
+                        "line": "Istirahat panjang.",
+                        "words": [
+                            {
+                                "wf": "Istirahat",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "istirahat",
+                                    "pos": "v",
+                                    "form": "istirahat"
+                                }
+                            },
+                            {
+                                "wf": "panjang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "panjang",
+                                    "pos": "a|n",
+                                    "form": "panjang"
+                                }
+                            },
+                            {
+                                "wf": ".",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 5
+                    }
+                ],
+                "num_lines": 3
+            },
+            {
+                "strof": "\r\n",
+                "lines": [
+                    {
+                        "line": "",
+                        "words": [],
+                        "syllables": 0
+                    }
+                ],
+                "num_lines": 1
+            },
+            {
+                "strof": "Langit menyerah padamu\r\nMenggagalkan lingkaran\r\nSurya kabur kembali ke timur.",
+                "lines": [
+                    {
+                        "line": "Langit menyerah padamu",
+                        "words": [
+                            {
+                                "wf": "Langit",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "langit",
+                                    "pos": "n",
+                                    "form": "langit"
+                                }
+                            },
+                            {
+                                "wf": "menyerah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "serah",
+                                    "pos": "v",
+                                    "form": "meN-serah"
+                                }
+                            },
+                            {
+                                "wf": "padamu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pada",
+                                    "pos": "p",
+                                    "form": "padamu"
+                                }
+                            }
+                        ],
+                        "syllables": 8
+                    },
+                    {
+                        "line": "Menggagalkan lingkaran",
+                        "words": [
+                            {
+                                "wf": "Menggagalkan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "gagal",
+                                    "pos": "v",
+                                    "form": "meN-gagal-kan"
+                                }
+                            },
+                            {
+                                "wf": "lingkaran",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lingkar",
+                                    "pos": "n",
+                                    "form": "lingkar-an"
+                                }
+                            }
+                        ],
+                        "syllables": 7
+                    },
+                    {
+                        "line": "Surya kabur kembali ke timur.",
+                        "words": [
+                            {
+                                "wf": "Surya",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "surya",
+                                    "pos": "n",
+                                    "form": "surya"
+                                }
+                            },
+                            {
+                                "wf": "kabur",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kabur",
+                                    "pos": "a",
+                                    "form": "kabur"
+                                }
+                            },
+                            {
+                                "wf": "kembali",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kembali",
+                                    "pos": "v",
+                                    "form": "kembali"
+                                }
+                            },
+                            {
+                                "wf": "ke",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ke",
+                                    "pos": "p",
+                                    "form": "ke"
+                                }
+                            },
+                            {
+                                "wf": "timur",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "timur",
+                                    "pos": "n",
+                                    "form": "timur"
+                                }
+                            },
+                            {
+                                "wf": ".",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 10
+                    }
+                ],
+                "num_lines": 3
+            },
+            {
+                "strof": "\r\n",
+                "lines": [
+                    {
+                        "line": "",
+                        "words": [],
+                        "syllables": 0
+                    }
+                ],
+                "num_lines": 1
+            },
+            {
+                "strof": "Sepi.\r\nHanya napasmu yang tenang\r\nTerdengar bagai nyanyian.",
+                "lines": [
+                    {
+                        "line": "Sepi.",
+                        "words": [
+                            {
+                                "wf": "Sepi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sepi",
+                                    "pos": "a",
+                                    "form": "sepi"
+                                }
+                            },
+                            {
+                                "wf": ".",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 2
+                    },
+                    {
+                        "line": "Hanya napasmu yang tenang",
+                        "words": [
+                            {
+                                "wf": "Hanya",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hanya",
+                                    "pos": "adv",
+                                    "form": "hanya"
+                                }
+                            },
+                            {
+                                "wf": "napasmu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "napas",
+                                    "pos": "n",
+                                    "form": "napas-mu"
+                                }
+                            },
+                            {
+                                "wf": "yang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "yang",
+                                    "pos": "a|v|n",
+                                    "form": "yang"
+                                }
+                            },
+                            {
+                                "wf": "tenang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tenang",
+                                    "pos": "a",
+                                    "form": "tenang"
+                                }
+                            }
+                        ],
+                        "syllables": 8
+                    },
+                    {
+                        "line": "Terdengar bagai nyanyian.",
+                        "words": [
+                            {
+                                "wf": "Terdengar",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dengar",
+                                    "pos": "v",
+                                    "form": "Terdengar"
+                                }
+                            },
+                            {
+                                "wf": "bagai",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bagai",
+                                    "pos": "n|p",
+                                    "form": "bagai"
+                                }
+                            },
+                            {
+                                "wf": "nyanyian",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "nyanyi",
+                                    "pos": "n",
+                                    "form": "nyanyi-an"
+                                }
+                            },
+                            {
+                                "wf": ".",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 8
+                    }
+                ],
+                "num_lines": 3
+            }
+        ]
+    }
+}

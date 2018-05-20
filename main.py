@@ -57,9 +57,11 @@ def making_meta(list_bd, index):
     year = list_bd[5]
     num_lines = down.count_lines(list_bd[8])
     rhyme = list_bd[11]
+    id_bd = list_bd[1]
     syllables = [down.count_syllables(i) for i in list_bd[8].splitlines()]
     strofy = [len(i.splitlines()) for i in re.split('[{}]', list_bd[8]) if len(i.splitlines()) != 0]
     return {"file_name": file_name,
+            "id_bd": id_bd,
             "author": author,
             "title": title,
             "genre": genre,
@@ -119,19 +121,19 @@ def make_json(list_bd, index):
 
 # print(make_json())
 def main():
-    conn = sqlite3.connect('main_bd13_SOS_shit.sqlite')
+    conn = sqlite3.connect('KorpusBD.sqlite')
     c = conn.cursor()
-    c.execute('SELECT * FROM poems_all WHERE id_poem = 1')
+    c.execute('SELECT * FROM poems_all WHERE id_poem >= 821 and id_poem < 900')
     try_sth = c.fetchall()
-    index = 0
+    index = 821
     for line_bd in try_sth:
         print('file №{}'.format(str(index)))
-        # try:
-        #     make_json(line_bd, index)
-        # except Exception:
-        #     with open('errors_json.log', 'a', encoding='utf-8') as f:
-        #         f.write('{}\n'.format(traceback.format_exc()))
-        make_json(line_bd, index)
+        try:
+            make_json(line_bd, index)
+        except Exception:
+            with open('errors_json.log', 'a', encoding='utf-8') as f:
+                f.write('{}{}{}\n'.format(str(index)+'\n', str(time.time()) + '\n', traceback.format_exc()))
+        # make_json(line_bd, index)
         index += 1
 
 main()

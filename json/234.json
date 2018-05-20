@@ -1,0 +1,761 @@
+{
+    "meta": {
+        "file_name": "234.json",
+        "id_bd": 234,
+        "author": "Gola Gong",
+        "title": "Lidah",
+        "genre": "стихотворение",
+        "year": 2.1998,
+        "num_lines": 10,
+        "rhyme": "Есть",
+        "syllables": [
+            17,
+            20,
+            17,
+            17,
+            15,
+            15,
+            13,
+            14,
+            17,
+            16
+        ],
+        "strofy": [
+            10
+        ]
+    },
+    "poem": {
+        "text": "Beruntung aku punya lidah, sehingga bisa bicara\r\nkutata kalimat alif bata, walau tak peduli hati patah\r\nBetapa takjub aku pada lidah, tak bertulang pula\r\nLidah kubasahi ludah, begitu jika bermain lidah\r\nLidah bikin hati gundah, tubuhku jadi basah\r\nTapi ada orang tak tahu diri pada lidah\r\ndipakainya lidah untuk sumpah serapah\r\nPadahal lidah tajam bagai pedang membelah\r\nBeruntung aku punya lidah, sehingga bisa bicara\r\ntak peduli pada siapa benar siapa salah",
+        "strof": [
+            {
+                "strof": "Beruntung aku punya lidah, sehingga bisa bicara\r\nkutata kalimat alif bata, walau tak peduli hati patah\r\nBetapa takjub aku pada lidah, tak bertulang pula\r\nLidah kubasahi ludah, begitu jika bermain lidah\r\nLidah bikin hati gundah, tubuhku jadi basah\r\nTapi ada orang tak tahu diri pada lidah\r\ndipakainya lidah untuk sumpah serapah\r\nPadahal lidah tajam bagai pedang membelah\r\nBeruntung aku punya lidah, sehingga bisa bicara\r\ntak peduli pada siapa benar siapa salah",
+                "lines": [
+                    {
+                        "line": "Beruntung aku punya lidah, sehingga bisa bicara",
+                        "words": [
+                            {
+                                "wf": "Beruntung",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "untung",
+                                    "pos": "v",
+                                    "form": "ber-untung"
+                                }
+                            },
+                            {
+                                "wf": "aku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "aku",
+                                    "pos": "pron",
+                                    "form": "aku"
+                                }
+                            },
+                            {
+                                "wf": "punya",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "punya",
+                                    "pos": "v|n",
+                                    "form": "punya"
+                                }
+                            },
+                            {
+                                "wf": "lidah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lidah",
+                                    "pos": "n",
+                                    "form": "lidah"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "sehingga",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sehingga",
+                                    "pos": "p",
+                                    "form": "sehingga"
+                                }
+                            },
+                            {
+                                "wf": "bisa",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bisa",
+                                    "pos": "v",
+                                    "form": "bisa"
+                                }
+                            },
+                            {
+                                "wf": "bicara",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bicara",
+                                    "pos": "n|v|a",
+                                    "form": "bicara"
+                                }
+                            }
+                        ],
+                        "syllables": 17
+                    },
+                    {
+                        "line": "kutata kalimat alif bata, walau tak peduli hati patah",
+                        "words": [
+                            {
+                                "wf": "kutata",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tata",
+                                    "pos": "n",
+                                    "form": "ku-tata"
+                                }
+                            },
+                            {
+                                "wf": "kalimat",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kalimat",
+                                    "pos": "n",
+                                    "form": "kalimat"
+                                }
+                            },
+                            {
+                                "wf": "alif",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "alif",
+                                    "pos": "n",
+                                    "form": "alif"
+                                }
+                            },
+                            {
+                                "wf": "bata",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bata",
+                                    "pos": "n",
+                                    "form": "bata"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "walau",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "walau",
+                                    "pos": "p",
+                                    "form": "walau"
+                                }
+                            },
+                            {
+                                "wf": "tak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tak",
+                                    "pos": "adv",
+                                    "form": "tak"
+                                }
+                            },
+                            {
+                                "wf": "peduli",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "peduli",
+                                    "pos": "v",
+                                    "form": "peduli"
+                                }
+                            },
+                            {
+                                "wf": "hati",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hati",
+                                    "pos": "n",
+                                    "form": "hati"
+                                }
+                            },
+                            {
+                                "wf": "patah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "patah",
+                                    "pos": "a",
+                                    "form": "patah"
+                                }
+                            }
+                        ],
+                        "syllables": 20
+                    },
+                    {
+                        "line": "Betapa takjub aku pada lidah, tak bertulang pula",
+                        "words": [
+                            {
+                                "wf": "Betapa",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "betapa",
+                                    "pos": "pron|p",
+                                    "form": "betapa"
+                                }
+                            },
+                            {
+                                "wf": "takjub",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "takjub",
+                                    "pos": "a",
+                                    "form": "takjub"
+                                }
+                            },
+                            {
+                                "wf": "aku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "aku",
+                                    "pos": "pron",
+                                    "form": "aku"
+                                }
+                            },
+                            {
+                                "wf": "pada",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pada",
+                                    "pos": "p",
+                                    "form": "pada"
+                                }
+                            },
+                            {
+                                "wf": "lidah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lidah",
+                                    "pos": "n",
+                                    "form": "lidah"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "tak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tak",
+                                    "pos": "adv",
+                                    "form": "tak"
+                                }
+                            },
+                            {
+                                "wf": "bertulang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tulang",
+                                    "pos": "v",
+                                    "form": "ber-tulang"
+                                }
+                            },
+                            {
+                                "wf": "pula",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pula",
+                                    "pos": "p",
+                                    "form": "pula"
+                                }
+                            }
+                        ],
+                        "syllables": 17
+                    },
+                    {
+                        "line": "Lidah kubasahi ludah, begitu jika bermain lidah",
+                        "words": [
+                            {
+                                "wf": "Lidah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lidah",
+                                    "pos": "n",
+                                    "form": "lidah"
+                                }
+                            },
+                            {
+                                "wf": "kubasahi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kubasahi",
+                                    "pos": "v",
+                                    "form": "kubasahi"
+                                }
+                            },
+                            {
+                                "wf": "ludah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ludah",
+                                    "pos": "n",
+                                    "form": "ludah"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "begitu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "begitu",
+                                    "pos": "pron",
+                                    "form": "begitu"
+                                }
+                            },
+                            {
+                                "wf": "jika",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jika",
+                                    "pos": "p",
+                                    "form": "jika"
+                                }
+                            },
+                            {
+                                "wf": "bermain",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "main",
+                                    "pos": "v",
+                                    "form": "ber-main"
+                                }
+                            },
+                            {
+                                "wf": "lidah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lidah",
+                                    "pos": "n",
+                                    "form": "lidah"
+                                }
+                            }
+                        ],
+                        "syllables": 17
+                    },
+                    {
+                        "line": "Lidah bikin hati gundah, tubuhku jadi basah",
+                        "words": [
+                            {
+                                "wf": "Lidah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lidah",
+                                    "pos": "n",
+                                    "form": "lidah"
+                                }
+                            },
+                            {
+                                "wf": "bikin",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bikin",
+                                    "pos": "v",
+                                    "form": "bikin"
+                                }
+                            },
+                            {
+                                "wf": "hati",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hati",
+                                    "pos": "n",
+                                    "form": "hati"
+                                }
+                            },
+                            {
+                                "wf": "gundah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "gundah",
+                                    "pos": "a",
+                                    "form": "gundah"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "tubuhku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tubuh",
+                                    "pos": "n",
+                                    "form": "tubuh-ku"
+                                }
+                            },
+                            {
+                                "wf": "jadi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jadi",
+                                    "pos": "v",
+                                    "form": "jadi"
+                                }
+                            },
+                            {
+                                "wf": "basah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "basah",
+                                    "pos": "a",
+                                    "form": "basah"
+                                }
+                            }
+                        ],
+                        "syllables": 15
+                    },
+                    {
+                        "line": "Tapi ada orang tak tahu diri pada lidah",
+                        "words": [
+                            {
+                                "wf": "Tapi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tapi",
+                                    "pos": "v",
+                                    "form": "tapi"
+                                }
+                            },
+                            {
+                                "wf": "ada",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ada",
+                                    "pos": "v",
+                                    "form": "ada"
+                                }
+                            },
+                            {
+                                "wf": "orang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "orang",
+                                    "pos": "n",
+                                    "form": "orang"
+                                }
+                            },
+                            {
+                                "wf": "tak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tak",
+                                    "pos": "adv",
+                                    "form": "tak"
+                                }
+                            },
+                            {
+                                "wf": "tahu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tahu",
+                                    "pos": "v",
+                                    "form": "tahu"
+                                }
+                            },
+                            {
+                                "wf": "diri",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "diri",
+                                    "pos": "n",
+                                    "form": "diri"
+                                }
+                            },
+                            {
+                                "wf": "pada",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pada",
+                                    "pos": "p",
+                                    "form": "pada"
+                                }
+                            },
+                            {
+                                "wf": "lidah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lidah",
+                                    "pos": "n",
+                                    "form": "lidah"
+                                }
+                            }
+                        ],
+                        "syllables": 15
+                    },
+                    {
+                        "line": "dipakainya lidah untuk sumpah serapah",
+                        "words": [
+                            {
+                                "wf": "dipakainya",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dipakainya",
+                                    "pos": "?",
+                                    "form": "dipakainya"
+                                }
+                            },
+                            {
+                                "wf": "lidah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lidah",
+                                    "pos": "n",
+                                    "form": "lidah"
+                                }
+                            },
+                            {
+                                "wf": "untuk",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "untuk",
+                                    "pos": "p",
+                                    "form": "untuk"
+                                }
+                            },
+                            {
+                                "wf": "sumpah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sumpah",
+                                    "pos": "n",
+                                    "form": "sumpah"
+                                }
+                            },
+                            {
+                                "wf": "serapah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "serpa",
+                                    "pos": "n",
+                                    "form": "serapah"
+                                }
+                            }
+                        ],
+                        "syllables": 13
+                    },
+                    {
+                        "line": "Padahal lidah tajam bagai pedang membelah",
+                        "words": [
+                            {
+                                "wf": "Padahal",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "padahal",
+                                    "pos": "p",
+                                    "form": "padahal"
+                                }
+                            },
+                            {
+                                "wf": "lidah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lidah",
+                                    "pos": "n",
+                                    "form": "lidah"
+                                }
+                            },
+                            {
+                                "wf": "tajam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tajam",
+                                    "pos": "a",
+                                    "form": "tajam"
+                                }
+                            },
+                            {
+                                "wf": "bagai",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bagai",
+                                    "pos": "n|p",
+                                    "form": "bagai"
+                                }
+                            },
+                            {
+                                "wf": "pedang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pedang",
+                                    "pos": "n",
+                                    "form": "pedang"
+                                }
+                            },
+                            {
+                                "wf": "membelah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "belah",
+                                    "pos": "v",
+                                    "form": "meN-belah"
+                                }
+                            }
+                        ],
+                        "syllables": 14
+                    },
+                    {
+                        "line": "Beruntung aku punya lidah, sehingga bisa bicara",
+                        "words": [
+                            {
+                                "wf": "Beruntung",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "untung",
+                                    "pos": "v",
+                                    "form": "ber-untung"
+                                }
+                            },
+                            {
+                                "wf": "aku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "aku",
+                                    "pos": "pron",
+                                    "form": "aku"
+                                }
+                            },
+                            {
+                                "wf": "punya",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "punya",
+                                    "pos": "v|n",
+                                    "form": "punya"
+                                }
+                            },
+                            {
+                                "wf": "lidah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lidah",
+                                    "pos": "n",
+                                    "form": "lidah"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "sehingga",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sehingga",
+                                    "pos": "p",
+                                    "form": "sehingga"
+                                }
+                            },
+                            {
+                                "wf": "bisa",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bisa",
+                                    "pos": "v",
+                                    "form": "bisa"
+                                }
+                            },
+                            {
+                                "wf": "bicara",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bicara",
+                                    "pos": "n|v|a",
+                                    "form": "bicara"
+                                }
+                            }
+                        ],
+                        "syllables": 17
+                    },
+                    {
+                        "line": "tak peduli pada siapa benar siapa salah",
+                        "words": [
+                            {
+                                "wf": "tak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tak",
+                                    "pos": "adv",
+                                    "form": "tak"
+                                }
+                            },
+                            {
+                                "wf": "peduli",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "peduli",
+                                    "pos": "v",
+                                    "form": "peduli"
+                                }
+                            },
+                            {
+                                "wf": "pada",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pada",
+                                    "pos": "p",
+                                    "form": "pada"
+                                }
+                            },
+                            {
+                                "wf": "siapa",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "siapa",
+                                    "pos": "pron",
+                                    "form": "siapa"
+                                }
+                            },
+                            {
+                                "wf": "benar",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "benar",
+                                    "pos": "a",
+                                    "form": "benar"
+                                }
+                            },
+                            {
+                                "wf": "siapa",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "siapa",
+                                    "pos": "pron",
+                                    "form": "siapa"
+                                }
+                            },
+                            {
+                                "wf": "salah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "salah",
+                                    "pos": "a",
+                                    "form": "salah"
+                                }
+                            }
+                        ],
+                        "syllables": 16
+                    }
+                ],
+                "num_lines": 10
+            }
+        ]
+    }
+}

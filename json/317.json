@@ -1,0 +1,527 @@
+{
+    "meta": {
+        "file_name": "317.json",
+        "id_bd": 317,
+        "author": "Korrie Layun Rampan",
+        "title": "Puisi",
+        "genre": "стихотворение",
+        "year": 1973,
+        "num_lines": 10,
+        "rhyme": "Есть",
+        "syllables": [
+            10,
+            8,
+            18,
+            12,
+            14,
+            7,
+            6,
+            4,
+            10,
+            11
+        ],
+        "strofy": [
+            4,
+            1,
+            3,
+            1,
+            3
+        ]
+    },
+    "poem": {
+        "text": "{Jalan ini berdebu, kekasih\r\nTerbentang di padang rasa\r\nEnam belas matahari memanah dari enam belas ufuk\r\nSiang pun garang sepanjang kulminasi}\r\n{Bahak malam mengikut pelan langkah tertatih\r\nKetipak bulan putih\r\nDi taman kekasih}\r\n{Pengantinku\r\nAntara kerikil dan pasir merah\r\nTersembunyi jejak-jejak yang singgah}",
+        "strof": [
+            {
+                "strof": "Jalan ini berdebu, kekasih\r\nTerbentang di padang rasa\r\nEnam belas matahari memanah dari enam belas ufuk\r\nSiang pun garang sepanjang kulminasi",
+                "lines": [
+                    {
+                        "line": "Jalan ini berdebu, kekasih",
+                        "words": [
+                            {
+                                "wf": "Jalan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jalan",
+                                    "pos": "n|v|a",
+                                    "form": "jalan"
+                                }
+                            },
+                            {
+                                "wf": "ini",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ini",
+                                    "pos": "pron",
+                                    "form": "ini"
+                                }
+                            },
+                            {
+                                "wf": "berdebu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "debu",
+                                    "pos": "v",
+                                    "form": "ber-debu"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "kekasih",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kasih",
+                                    "pos": "n",
+                                    "form": "ke-kasih"
+                                }
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "Terbentang di padang rasa",
+                        "words": [
+                            {
+                                "wf": "Terbentang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bentang",
+                                    "pos": "v",
+                                    "form": "ter-bentang"
+                                }
+                            },
+                            {
+                                "wf": "di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "padang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "padang",
+                                    "pos": "n",
+                                    "form": "padang"
+                                }
+                            },
+                            {
+                                "wf": "rasa",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "rasa",
+                                    "pos": "n",
+                                    "form": "rasa"
+                                }
+                            }
+                        ],
+                        "syllables": 8
+                    },
+                    {
+                        "line": "Enam belas matahari memanah dari enam belas ufuk",
+                        "words": [
+                            {
+                                "wf": "Enam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "enam",
+                                    "pos": "v",
+                                    "form": "enam"
+                                }
+                            },
+                            {
+                                "wf": "belas",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "belas",
+                                    "pos": "n",
+                                    "form": "belas"
+                                }
+                            },
+                            {
+                                "wf": "matahari",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "matahari",
+                                    "pos": "n",
+                                    "form": "matahari"
+                                }
+                            },
+                            {
+                                "wf": "memanah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "panah",
+                                    "pos": "v",
+                                    "form": "meN-panah"
+                                }
+                            },
+                            {
+                                "wf": "dari",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dari",
+                                    "pos": "p",
+                                    "form": "dari"
+                                }
+                            },
+                            {
+                                "wf": "enam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "enam",
+                                    "pos": "v",
+                                    "form": "enam"
+                                }
+                            },
+                            {
+                                "wf": "belas",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "belas",
+                                    "pos": "n",
+                                    "form": "belas"
+                                }
+                            },
+                            {
+                                "wf": "ufuk",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ufuk",
+                                    "pos": "n",
+                                    "form": "ufuk"
+                                }
+                            }
+                        ],
+                        "syllables": 18
+                    },
+                    {
+                        "line": "Siang pun garang sepanjang kulminasi",
+                        "words": [
+                            {
+                                "wf": "Siang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "siang",
+                                    "pos": "n",
+                                    "form": "siang"
+                                }
+                            },
+                            {
+                                "wf": "pun",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pun",
+                                    "pos": "p",
+                                    "form": "pun"
+                                }
+                            },
+                            {
+                                "wf": "garang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "garang",
+                                    "pos": "v",
+                                    "form": "garang"
+                                }
+                            },
+                            {
+                                "wf": "sepanjang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "panjang",
+                                    "pos": "n",
+                                    "form": "se-panjang"
+                                }
+                            },
+                            {
+                                "wf": "kulminasi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kulminasi",
+                                    "pos": "n",
+                                    "form": "kulminasi"
+                                }
+                            }
+                        ],
+                        "syllables": 12
+                    }
+                ],
+                "num_lines": 4
+            },
+            {
+                "strof": "\r\n",
+                "lines": [
+                    {
+                        "line": "",
+                        "words": [],
+                        "syllables": 0
+                    }
+                ],
+                "num_lines": 1
+            },
+            {
+                "strof": "Bahak malam mengikut pelan langkah tertatih\r\nKetipak bulan putih\r\nDi taman kekasih",
+                "lines": [
+                    {
+                        "line": "Bahak malam mengikut pelan langkah tertatih",
+                        "words": [
+                            {
+                                "wf": "Bahak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bahak",
+                                    "pos": "adv",
+                                    "form": "bahak"
+                                }
+                            },
+                            {
+                                "wf": "malam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "malam",
+                                    "pos": "n",
+                                    "form": "malam"
+                                }
+                            },
+                            {
+                                "wf": "mengikut",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ikut",
+                                    "pos": "v",
+                                    "form": "meN-ikut"
+                                }
+                            },
+                            {
+                                "wf": "pelan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pelan",
+                                    "pos": "a",
+                                    "form": "pelan"
+                                }
+                            },
+                            {
+                                "wf": "langkah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "langkah",
+                                    "pos": "n",
+                                    "form": "langkah"
+                                }
+                            },
+                            {
+                                "wf": "tertatih",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tatih",
+                                    "pos": "v",
+                                    "form": "ter-tatih"
+                                }
+                            }
+                        ],
+                        "syllables": 14
+                    },
+                    {
+                        "line": "Ketipak bulan putih",
+                        "words": [
+                            {
+                                "wf": "Ketipak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ketipak",
+                                    "pos": "?",
+                                    "form": "ketipak"
+                                }
+                            },
+                            {
+                                "wf": "bulan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bulan",
+                                    "pos": "n",
+                                    "form": "bulan"
+                                }
+                            },
+                            {
+                                "wf": "putih",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "putih",
+                                    "pos": "n|a",
+                                    "form": "putih"
+                                }
+                            }
+                        ],
+                        "syllables": 7
+                    },
+                    {
+                        "line": "Di taman kekasih",
+                        "words": [
+                            {
+                                "wf": "Di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "taman",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "taman",
+                                    "pos": "n",
+                                    "form": "taman"
+                                }
+                            },
+                            {
+                                "wf": "kekasih",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kasih",
+                                    "pos": "n",
+                                    "form": "ke-kasih"
+                                }
+                            }
+                        ],
+                        "syllables": 6
+                    }
+                ],
+                "num_lines": 3
+            },
+            {
+                "strof": "\r\n",
+                "lines": [
+                    {
+                        "line": "",
+                        "words": [],
+                        "syllables": 0
+                    }
+                ],
+                "num_lines": 1
+            },
+            {
+                "strof": "Pengantinku\r\nAntara kerikil dan pasir merah\r\nTersembunyi jejak-jejak yang singgah",
+                "lines": [
+                    {
+                        "line": "Pengantinku",
+                        "words": [
+                            {
+                                "wf": "Pengantinku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pengantin",
+                                    "pos": "n",
+                                    "form": "pengantin-ku"
+                                }
+                            }
+                        ],
+                        "syllables": 4
+                    },
+                    {
+                        "line": "Antara kerikil dan pasir merah",
+                        "words": [
+                            {
+                                "wf": "Antara",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "antara",
+                                    "pos": "n|p|a",
+                                    "form": "antara"
+                                }
+                            },
+                            {
+                                "wf": "kerikil",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kerikil",
+                                    "pos": "n",
+                                    "form": "kerikil"
+                                }
+                            },
+                            {
+                                "wf": "dan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dan",
+                                    "pos": "p",
+                                    "form": "dan"
+                                }
+                            },
+                            {
+                                "wf": "pasir",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pasir",
+                                    "pos": "n|a",
+                                    "form": "pasir"
+                                }
+                            },
+                            {
+                                "wf": "merah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "merah",
+                                    "pos": "n|a",
+                                    "form": "merah"
+                                }
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "Tersembunyi jejak-jejak yang singgah",
+                        "words": [
+                            {
+                                "wf": "Tersembunyi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sembunyi",
+                                    "pos": "v",
+                                    "form": "ter-sembunyi"
+                                }
+                            },
+                            {
+                                "wf": "jejak-jejak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jejak",
+                                    "pos": "n",
+                                    "form": "jejak-jejak"
+                                }
+                            },
+                            {
+                                "wf": "yang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "yang",
+                                    "pos": "a|v|n",
+                                    "form": "yang"
+                                }
+                            },
+                            {
+                                "wf": "singgah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "singgah",
+                                    "pos": "v",
+                                    "form": "singgah"
+                                }
+                            }
+                        ],
+                        "syllables": 11
+                    }
+                ],
+                "num_lines": 3
+            }
+        ]
+    }
+}

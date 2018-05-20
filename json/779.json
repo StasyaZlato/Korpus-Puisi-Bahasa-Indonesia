@@ -1,0 +1,749 @@
+{
+    "meta": {
+        "file_name": "779.json",
+        "id_bd": 779,
+        "author": "A. Mustofa Bisri",
+        "title": "Bagaimana",
+        "genre": "стихотворение",
+        "year": "---",
+        "num_lines": 18,
+        "rhyme": "Есть",
+        "syllables": [
+            17,
+            12,
+            9,
+            8,
+            7,
+            14,
+            7,
+            9,
+            10,
+            11,
+            6,
+            5,
+            5,
+            9,
+            10,
+            7,
+            10,
+            3
+        ],
+        "strofy": [
+            5,
+            1,
+            5,
+            1,
+            8
+        ]
+    },
+    "poem": {
+        "text": "{Bagaimana kau hendak menulis puisi dengan apa?\r\nHuruf-huruf dan kata-kata telah aus\r\nDigunakan terus menerus\r\nOleh tikus-tikus yang rakus\r\nMeruapkan bau kakus}\r\n{Bagaimana kau hendak menulis dengan apa?\r\nOrang-orang tak bersukma\r\nYang nuraninya matirasa\r\nTerus menerus mempergunkannya\r\nUntuk menyembunyikan borok mereka}\r\n{Bertapa sajalah\r\nSeperti rumput\r\nBersama rumput\r\nSiapa tahu esok pagi\r\nBurung-burung bersedia lagi\r\nMengajari menyanyi\r\nSementara kalian berbagi\r\nEmbun pagi}",
+        "strof": [
+            {
+                "strof": "Bagaimana kau hendak menulis puisi dengan apa?\r\nHuruf-huruf dan kata-kata telah aus\r\nDigunakan terus menerus\r\nOleh tikus-tikus yang rakus\r\nMeruapkan bau kakus",
+                "lines": [
+                    {
+                        "line": "Bagaimana kau hendak menulis puisi dengan apa?",
+                        "words": [
+                            {
+                                "wf": "Bagaimana",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bagaimana",
+                                    "pos": "pron",
+                                    "form": "bagaimana"
+                                }
+                            },
+                            {
+                                "wf": "kau",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kau",
+                                    "pos": "pron",
+                                    "form": "kau"
+                                }
+                            },
+                            {
+                                "wf": "hendak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hendak",
+                                    "pos": "adv",
+                                    "form": "hendak"
+                                }
+                            },
+                            {
+                                "wf": "menulis",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tulis",
+                                    "pos": "v",
+                                    "form": "meN-tulis"
+                                }
+                            },
+                            {
+                                "wf": "puisi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "puisi",
+                                    "pos": "n",
+                                    "form": "puisi"
+                                }
+                            },
+                            {
+                                "wf": "dengan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dengan",
+                                    "pos": "p",
+                                    "form": "dengan"
+                                }
+                            },
+                            {
+                                "wf": "apa",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "apa",
+                                    "pos": "pron|p",
+                                    "form": "apa"
+                                }
+                            },
+                            {
+                                "wf": "?",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 17
+                    },
+                    {
+                        "line": "Huruf-huruf dan kata-kata telah aus",
+                        "words": [
+                            {
+                                "wf": "Huruf-huruf",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "huruf",
+                                    "pos": "n",
+                                    "form": "huruf-huruf"
+                                }
+                            },
+                            {
+                                "wf": "dan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dan",
+                                    "pos": "p",
+                                    "form": "dan"
+                                }
+                            },
+                            {
+                                "wf": "kata-kata",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "a",
+                                    "pos": "v",
+                                    "form": "kata-kata"
+                                }
+                            },
+                            {
+                                "wf": "telah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "telah",
+                                    "pos": "adv",
+                                    "form": "telah"
+                                }
+                            },
+                            {
+                                "wf": "aus",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "aus",
+                                    "pos": "n",
+                                    "form": "aus"
+                                }
+                            }
+                        ],
+                        "syllables": 12
+                    },
+                    {
+                        "line": "Digunakan terus menerus",
+                        "words": [
+                            {
+                                "wf": "Digunakan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "digunakan",
+                                    "pos": "v",
+                                    "form": "digunakan"
+                                }
+                            },
+                            {
+                                "wf": "terus",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "terus",
+                                    "pos": "v",
+                                    "form": "terus"
+                                }
+                            },
+                            {
+                                "wf": "menerus",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "terus",
+                                    "pos": "v",
+                                    "form": "meN-terus"
+                                }
+                            }
+                        ],
+                        "syllables": 9
+                    },
+                    {
+                        "line": "Oleh tikus-tikus yang rakus",
+                        "words": [
+                            {
+                                "wf": "Oleh",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "oleh",
+                                    "pos": "",
+                                    "form": "oleh"
+                                }
+                            },
+                            {
+                                "wf": "tikus-tikus",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tikus",
+                                    "pos": "n",
+                                    "form": "tikus-tikus"
+                                }
+                            },
+                            {
+                                "wf": "yang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "yang",
+                                    "pos": "a|v|n",
+                                    "form": "yang"
+                                }
+                            },
+                            {
+                                "wf": "rakus",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "rakus",
+                                    "pos": "a",
+                                    "form": "rakus"
+                                }
+                            }
+                        ],
+                        "syllables": 8
+                    },
+                    {
+                        "line": "Meruapkan bau kakus",
+                        "words": [
+                            {
+                                "wf": "Meruapkan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "meruapkan",
+                                    "pos": "v",
+                                    "form": "meruapkan"
+                                }
+                            },
+                            {
+                                "wf": "bau",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bau",
+                                    "pos": "n",
+                                    "form": "bau"
+                                }
+                            },
+                            {
+                                "wf": "kakus",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kakus",
+                                    "pos": "n",
+                                    "form": "kakus"
+                                }
+                            }
+                        ],
+                        "syllables": 7
+                    }
+                ],
+                "num_lines": 5
+            },
+            {
+                "strof": "\r\n",
+                "lines": [
+                    {
+                        "line": "",
+                        "words": [],
+                        "syllables": 0
+                    }
+                ],
+                "num_lines": 1
+            },
+            {
+                "strof": "Bagaimana kau hendak menulis dengan apa?\r\nOrang-orang tak bersukma\r\nYang nuraninya matirasa\r\nTerus menerus mempergunkannya\r\nUntuk menyembunyikan borok mereka",
+                "lines": [
+                    {
+                        "line": "Bagaimana kau hendak menulis dengan apa?",
+                        "words": [
+                            {
+                                "wf": "Bagaimana",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bagaimana",
+                                    "pos": "pron",
+                                    "form": "bagaimana"
+                                }
+                            },
+                            {
+                                "wf": "kau",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kau",
+                                    "pos": "pron",
+                                    "form": "kau"
+                                }
+                            },
+                            {
+                                "wf": "hendak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hendak",
+                                    "pos": "adv",
+                                    "form": "hendak"
+                                }
+                            },
+                            {
+                                "wf": "menulis",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tulis",
+                                    "pos": "v",
+                                    "form": "meN-tulis"
+                                }
+                            },
+                            {
+                                "wf": "dengan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dengan",
+                                    "pos": "p",
+                                    "form": "dengan"
+                                }
+                            },
+                            {
+                                "wf": "apa",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "apa",
+                                    "pos": "pron|p",
+                                    "form": "apa"
+                                }
+                            },
+                            {
+                                "wf": "?",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 14
+                    },
+                    {
+                        "line": "Orang-orang tak bersukma",
+                        "words": [
+                            {
+                                "wf": "Orang-orang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "orang",
+                                    "pos": "v",
+                                    "form": "orang-orang"
+                                }
+                            },
+                            {
+                                "wf": "tak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tak",
+                                    "pos": "adv",
+                                    "form": "tak"
+                                }
+                            },
+                            {
+                                "wf": "bersukma",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bersukma",
+                                    "pos": "v",
+                                    "form": "bersukma"
+                                }
+                            }
+                        ],
+                        "syllables": 7
+                    },
+                    {
+                        "line": "Yang nuraninya matirasa",
+                        "words": [
+                            {
+                                "wf": "Yang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "yang",
+                                    "pos": "a|v|n",
+                                    "form": "yang"
+                                }
+                            },
+                            {
+                                "wf": "nuraninya",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "nurani",
+                                    "pos": "a|n",
+                                    "form": "nurani-nya"
+                                }
+                            },
+                            {
+                                "wf": "matirasa",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "matirasa",
+                                    "pos": "?",
+                                    "form": "matirasa"
+                                }
+                            }
+                        ],
+                        "syllables": 9
+                    },
+                    {
+                        "line": "Terus menerus mempergunkannya",
+                        "words": [
+                            {
+                                "wf": "Terus",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "terus",
+                                    "pos": "v",
+                                    "form": "terus"
+                                }
+                            },
+                            {
+                                "wf": "menerus",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "terus",
+                                    "pos": "v",
+                                    "form": "meN-terus"
+                                }
+                            },
+                            {
+                                "wf": "mempergunkannya",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "mempergunkannya",
+                                    "pos": "v",
+                                    "form": "mempergunkannya"
+                                }
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "Untuk menyembunyikan borok mereka",
+                        "words": [
+                            {
+                                "wf": "Untuk",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "untuk",
+                                    "pos": "p",
+                                    "form": "untuk"
+                                }
+                            },
+                            {
+                                "wf": "menyembunyikan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sembunyi",
+                                    "pos": "v",
+                                    "form": "meN-sembunyi-kan"
+                                }
+                            },
+                            {
+                                "wf": "borok",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "borok",
+                                    "pos": "n",
+                                    "form": "borok"
+                                }
+                            },
+                            {
+                                "wf": "mereka",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "mereka",
+                                    "pos": "v",
+                                    "form": "mereka"
+                                }
+                            }
+                        ],
+                        "syllables": 11
+                    }
+                ],
+                "num_lines": 5
+            },
+            {
+                "strof": "\r\n",
+                "lines": [
+                    {
+                        "line": "",
+                        "words": [],
+                        "syllables": 0
+                    }
+                ],
+                "num_lines": 1
+            },
+            {
+                "strof": "Bertapa sajalah\r\nSeperti rumput\r\nBersama rumput\r\nSiapa tahu esok pagi\r\nBurung-burung bersedia lagi\r\nMengajari menyanyi\r\nSementara kalian berbagi\r\nEmbun pagi",
+                "lines": [
+                    {
+                        "line": "Bertapa sajalah",
+                        "words": [
+                            {
+                                "wf": "Bertapa",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tapa",
+                                    "pos": "v",
+                                    "form": "ber-tapa"
+                                }
+                            },
+                            {
+                                "wf": "sajalah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "saja",
+                                    "pos": "adv",
+                                    "form": "saja-lah"
+                                }
+                            }
+                        ],
+                        "syllables": 6
+                    },
+                    {
+                        "line": "Seperti rumput",
+                        "words": [
+                            {
+                                "wf": "Seperti",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "seperti",
+                                    "pos": "p",
+                                    "form": "seperti"
+                                }
+                            },
+                            {
+                                "wf": "rumput",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "rumput",
+                                    "pos": "n",
+                                    "form": "rumput"
+                                }
+                            }
+                        ],
+                        "syllables": 5
+                    },
+                    {
+                        "line": "Bersama rumput",
+                        "words": [
+                            {
+                                "wf": "Bersama",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sama",
+                                    "pos": "v",
+                                    "form": "ber-sama"
+                                }
+                            },
+                            {
+                                "wf": "rumput",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "rumput",
+                                    "pos": "n",
+                                    "form": "rumput"
+                                }
+                            }
+                        ],
+                        "syllables": 5
+                    },
+                    {
+                        "line": "Siapa tahu esok pagi",
+                        "words": [
+                            {
+                                "wf": "Siapa",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "siapa",
+                                    "pos": "pron",
+                                    "form": "siapa"
+                                }
+                            },
+                            {
+                                "wf": "tahu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tahu",
+                                    "pos": "v",
+                                    "form": "tahu"
+                                }
+                            },
+                            {
+                                "wf": "esok",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "esok",
+                                    "pos": "adv",
+                                    "form": "esok"
+                                }
+                            },
+                            {
+                                "wf": "pagi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pagi",
+                                    "pos": "n",
+                                    "form": "pagi"
+                                }
+                            }
+                        ],
+                        "syllables": 9
+                    },
+                    {
+                        "line": "Burung-burung bersedia lagi",
+                        "words": [
+                            {
+                                "wf": "Burung-burung",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "burung",
+                                    "pos": "n",
+                                    "form": "burung-burung"
+                                }
+                            },
+                            {
+                                "wf": "bersedia",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bersedia",
+                                    "pos": "v",
+                                    "form": "bersedia"
+                                }
+                            },
+                            {
+                                "wf": "lagi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lagi",
+                                    "pos": "adv|p",
+                                    "form": "lagi"
+                                }
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "Mengajari menyanyi",
+                        "words": [
+                            {
+                                "wf": "Mengajari",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ajar",
+                                    "pos": "v",
+                                    "form": "meN-ajar-i"
+                                }
+                            },
+                            {
+                                "wf": "menyanyi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "nyanyi",
+                                    "pos": "v",
+                                    "form": "meN-nyanyi"
+                                }
+                            }
+                        ],
+                        "syllables": 7
+                    },
+                    {
+                        "line": "Sementara kalian berbagi",
+                        "words": [
+                            {
+                                "wf": "Sementara",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sementara",
+                                    "pos": "p|n|num",
+                                    "form": "sementara"
+                                }
+                            },
+                            {
+                                "wf": "kalian",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kalian",
+                                    "pos": "pron",
+                                    "form": "kalian"
+                                }
+                            },
+                            {
+                                "wf": "berbagi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "berbagi",
+                                    "pos": "v",
+                                    "form": "berbagi"
+                                }
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "Embun pagi",
+                        "words": [
+                            {
+                                "wf": "Embun",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "embun",
+                                    "pos": "n",
+                                    "form": "embun"
+                                }
+                            },
+                            {
+                                "wf": "pagi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pagi",
+                                    "pos": "n",
+                                    "form": "pagi"
+                                }
+                            }
+                        ],
+                        "syllables": 3
+                    }
+                ],
+                "num_lines": 8
+            }
+        ]
+    }
+}

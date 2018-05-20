@@ -1,0 +1,776 @@
+{
+    "meta": {
+        "file_name": "248.json",
+        "id_bd": 248,
+        "author": "Isbedy Stiawan ZS",
+        "title": "Interior pantai",
+        "genre": "стихотворение",
+        "year": "27.05.1993",
+        "num_lines": 11,
+        "rhyme": "Нет",
+        "syllables": [
+            16,
+            19,
+            19,
+            7,
+            13,
+            19,
+            16,
+            15,
+            19,
+            10,
+            6
+        ],
+        "strofy": [
+            11
+        ]
+    },
+    "poem": {
+        "text": "rinduku seperti rindu laut pada pantai. tak ada\r\nwaktuku untuk melupakanmu, karena aku akan terus\r\ndatang dan menyapamu. meski kemudian aku harus menjauh\r\nke samudera luas,\r\nmembaca desah angin dan riak gelombang\r\nrinduku padamu seperti rindu laut pada pantai. siapa\r\nmampu mencegahku untuk sampai padamu melepas\r\nrindu? seperti laut melepas rindunya di pantai,\r\naku pun mengurai benang-benang rinduku di maha pantaimu\r\nlaut yang liar dan ganas pun tunduk\r\ndi pangkuan pantai!",
+        "strof": [
+            {
+                "strof": "rinduku seperti rindu laut pada pantai. tak ada\r\nwaktuku untuk melupakanmu, karena aku akan terus\r\ndatang dan menyapamu. meski kemudian aku harus menjauh\r\nke samudera luas,\r\nmembaca desah angin dan riak gelombang\r\nrinduku padamu seperti rindu laut pada pantai. siapa\r\nmampu mencegahku untuk sampai padamu melepas\r\nrindu? seperti laut melepas rindunya di pantai,\r\naku pun mengurai benang-benang rinduku di maha pantaimu\r\nlaut yang liar dan ganas pun tunduk\r\ndi pangkuan pantai!",
+                "lines": [
+                    {
+                        "line": "rinduku seperti rindu laut pada pantai. tak ada",
+                        "words": [
+                            {
+                                "wf": "rinduku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "rindu",
+                                    "pos": "a",
+                                    "form": "rindu-ku"
+                                }
+                            },
+                            {
+                                "wf": "seperti",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "seperti",
+                                    "pos": "p",
+                                    "form": "seperti"
+                                }
+                            },
+                            {
+                                "wf": "rindu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "rindu",
+                                    "pos": "a",
+                                    "form": "rindu"
+                                }
+                            },
+                            {
+                                "wf": "laut",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "laut",
+                                    "pos": "n",
+                                    "form": "laut"
+                                }
+                            },
+                            {
+                                "wf": "pada",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pada",
+                                    "pos": "p",
+                                    "form": "pada"
+                                }
+                            },
+                            {
+                                "wf": "pantai",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pantai",
+                                    "pos": "n|a",
+                                    "form": "pantai"
+                                }
+                            },
+                            {
+                                "wf": ". ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "tak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tak",
+                                    "pos": "adv",
+                                    "form": "tak"
+                                }
+                            },
+                            {
+                                "wf": "ada",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ada",
+                                    "pos": "v",
+                                    "form": "ada"
+                                }
+                            }
+                        ],
+                        "syllables": 16
+                    },
+                    {
+                        "line": "waktuku untuk melupakanmu, karena aku akan terus",
+                        "words": [
+                            {
+                                "wf": "waktuku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "waktu",
+                                    "pos": "n|p",
+                                    "form": "waktu-ku"
+                                }
+                            },
+                            {
+                                "wf": "untuk",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "untuk",
+                                    "pos": "p",
+                                    "form": "untuk"
+                                }
+                            },
+                            {
+                                "wf": "melupakanmu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lupa",
+                                    "pos": "v",
+                                    "form": "meN-lupa-kan-mu-mu"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "karena",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "karena",
+                                    "pos": "p",
+                                    "form": "karena"
+                                }
+                            },
+                            {
+                                "wf": "aku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "aku",
+                                    "pos": "pron",
+                                    "form": "aku"
+                                }
+                            },
+                            {
+                                "wf": "akan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "akan",
+                                    "pos": "v",
+                                    "form": "akan"
+                                }
+                            },
+                            {
+                                "wf": "terus",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "terus",
+                                    "pos": "v",
+                                    "form": "terus"
+                                }
+                            }
+                        ],
+                        "syllables": 19
+                    },
+                    {
+                        "line": "datang dan menyapamu. meski kemudian aku harus menjauh",
+                        "words": [
+                            {
+                                "wf": "datang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "datang",
+                                    "pos": "v|n",
+                                    "form": "datang"
+                                }
+                            },
+                            {
+                                "wf": "dan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dan",
+                                    "pos": "p",
+                                    "form": "dan"
+                                }
+                            },
+                            {
+                                "wf": "menyapamu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sapa",
+                                    "pos": "v",
+                                    "form": "meN-sapa-mu-mu"
+                                }
+                            },
+                            {
+                                "wf": ". ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "meski",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "meski",
+                                    "pos": "p",
+                                    "form": "meski"
+                                }
+                            },
+                            {
+                                "wf": "kemudian",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kemudian",
+                                    "pos": "n",
+                                    "form": "kemudian"
+                                }
+                            },
+                            {
+                                "wf": "aku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "aku",
+                                    "pos": "pron",
+                                    "form": "aku"
+                                }
+                            },
+                            {
+                                "wf": "harus",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "harus",
+                                    "pos": "adv",
+                                    "form": "harus"
+                                }
+                            },
+                            {
+                                "wf": "menjauh",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jauh",
+                                    "pos": "v",
+                                    "form": "meN-jauh"
+                                }
+                            }
+                        ],
+                        "syllables": 19
+                    },
+                    {
+                        "line": "ke samudera luas,",
+                        "words": [
+                            {
+                                "wf": "ke",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ke",
+                                    "pos": "p",
+                                    "form": "ke"
+                                }
+                            },
+                            {
+                                "wf": "samudera",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "samudra",
+                                    "pos": "?",
+                                    "form": "samudera"
+                                }
+                            },
+                            {
+                                "wf": "luas",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "luas",
+                                    "pos": "a",
+                                    "form": "luas"
+                                }
+                            },
+                            {
+                                "wf": ",",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 7
+                    },
+                    {
+                        "line": "membaca desah angin dan riak gelombang",
+                        "words": [
+                            {
+                                "wf": "membaca",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "baca",
+                                    "pos": "v",
+                                    "form": "meN-baca"
+                                }
+                            },
+                            {
+                                "wf": "desah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "desah",
+                                    "pos": "n",
+                                    "form": "desah"
+                                }
+                            },
+                            {
+                                "wf": "angin",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "angin",
+                                    "pos": "n",
+                                    "form": "angin"
+                                }
+                            },
+                            {
+                                "wf": "dan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dan",
+                                    "pos": "p",
+                                    "form": "dan"
+                                }
+                            },
+                            {
+                                "wf": "riak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "riak",
+                                    "pos": "n",
+                                    "form": "riak"
+                                }
+                            },
+                            {
+                                "wf": "gelombang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "gelombang",
+                                    "pos": "n",
+                                    "form": "gelombang"
+                                }
+                            }
+                        ],
+                        "syllables": 13
+                    },
+                    {
+                        "line": "rinduku padamu seperti rindu laut pada pantai. siapa",
+                        "words": [
+                            {
+                                "wf": "rinduku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "rindu",
+                                    "pos": "a",
+                                    "form": "rindu-ku"
+                                }
+                            },
+                            {
+                                "wf": "padamu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pada",
+                                    "pos": "p",
+                                    "form": "padamu"
+                                }
+                            },
+                            {
+                                "wf": "seperti",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "seperti",
+                                    "pos": "p",
+                                    "form": "seperti"
+                                }
+                            },
+                            {
+                                "wf": "rindu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "rindu",
+                                    "pos": "a",
+                                    "form": "rindu"
+                                }
+                            },
+                            {
+                                "wf": "laut",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "laut",
+                                    "pos": "n",
+                                    "form": "laut"
+                                }
+                            },
+                            {
+                                "wf": "pada",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pada",
+                                    "pos": "p",
+                                    "form": "pada"
+                                }
+                            },
+                            {
+                                "wf": "pantai",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pantai",
+                                    "pos": "n|a",
+                                    "form": "pantai"
+                                }
+                            },
+                            {
+                                "wf": ". ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "siapa",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "siapa",
+                                    "pos": "pron",
+                                    "form": "siapa"
+                                }
+                            }
+                        ],
+                        "syllables": 19
+                    },
+                    {
+                        "line": "mampu mencegahku untuk sampai padamu melepas",
+                        "words": [
+                            {
+                                "wf": "mampu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "mampu",
+                                    "pos": "a",
+                                    "form": "mampu"
+                                }
+                            },
+                            {
+                                "wf": "mencegahku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "cegah",
+                                    "pos": "v",
+                                    "form": "meN-cegah-ku"
+                                }
+                            },
+                            {
+                                "wf": "untuk",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "untuk",
+                                    "pos": "p",
+                                    "form": "untuk"
+                                }
+                            },
+                            {
+                                "wf": "sampai",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sampai",
+                                    "pos": "v",
+                                    "form": "sampai"
+                                }
+                            },
+                            {
+                                "wf": "padamu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pada",
+                                    "pos": "p",
+                                    "form": "padamu"
+                                }
+                            },
+                            {
+                                "wf": "melepas",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lepas",
+                                    "pos": "v",
+                                    "form": "meN-lepas"
+                                }
+                            }
+                        ],
+                        "syllables": 16
+                    },
+                    {
+                        "line": "rindu? seperti laut melepas rindunya di pantai,",
+                        "words": [
+                            {
+                                "wf": "rindu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "rindu",
+                                    "pos": "a",
+                                    "form": "rindu"
+                                }
+                            },
+                            {
+                                "wf": "? ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "seperti",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "seperti",
+                                    "pos": "p",
+                                    "form": "seperti"
+                                }
+                            },
+                            {
+                                "wf": "laut",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "laut",
+                                    "pos": "n",
+                                    "form": "laut"
+                                }
+                            },
+                            {
+                                "wf": "melepas",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lepas",
+                                    "pos": "v",
+                                    "form": "meN-lepas"
+                                }
+                            },
+                            {
+                                "wf": "rindunya",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "rindu",
+                                    "pos": "a",
+                                    "form": "rindu-nya"
+                                }
+                            },
+                            {
+                                "wf": "di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "pantai",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pantai",
+                                    "pos": "n|a",
+                                    "form": "pantai"
+                                }
+                            },
+                            {
+                                "wf": ",",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 15
+                    },
+                    {
+                        "line": "aku pun mengurai benang-benang rinduku di maha pantaimu",
+                        "words": [
+                            {
+                                "wf": "aku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "aku",
+                                    "pos": "pron",
+                                    "form": "aku"
+                                }
+                            },
+                            {
+                                "wf": "pun",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pun",
+                                    "pos": "p",
+                                    "form": "pun"
+                                }
+                            },
+                            {
+                                "wf": "mengurai",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "urai",
+                                    "pos": "v",
+                                    "form": "meN-urai"
+                                }
+                            },
+                            {
+                                "wf": "benang-benang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "benang",
+                                    "pos": "v",
+                                    "form": "benang-benang"
+                                }
+                            },
+                            {
+                                "wf": "rinduku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "rindu",
+                                    "pos": "a",
+                                    "form": "rindu-ku"
+                                }
+                            },
+                            {
+                                "wf": "di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "maha",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "maha",
+                                    "pos": "?",
+                                    "form": "maha"
+                                }
+                            },
+                            {
+                                "wf": "pantaimu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pantai",
+                                    "pos": "n|a",
+                                    "form": "pantai-mu"
+                                }
+                            }
+                        ],
+                        "syllables": 19
+                    },
+                    {
+                        "line": "laut yang liar dan ganas pun tunduk",
+                        "words": [
+                            {
+                                "wf": "laut",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "laut",
+                                    "pos": "n",
+                                    "form": "laut"
+                                }
+                            },
+                            {
+                                "wf": "yang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "yang",
+                                    "pos": "a|v|n",
+                                    "form": "yang"
+                                }
+                            },
+                            {
+                                "wf": "liar",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "liar",
+                                    "pos": "a",
+                                    "form": "liar"
+                                }
+                            },
+                            {
+                                "wf": "dan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dan",
+                                    "pos": "p",
+                                    "form": "dan"
+                                }
+                            },
+                            {
+                                "wf": "ganas",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ganas",
+                                    "pos": "a",
+                                    "form": "ganas"
+                                }
+                            },
+                            {
+                                "wf": "pun",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pun",
+                                    "pos": "p",
+                                    "form": "pun"
+                                }
+                            },
+                            {
+                                "wf": "tunduk",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tunduk",
+                                    "pos": "v",
+                                    "form": "tunduk"
+                                }
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "di pangkuan pantai!",
+                        "words": [
+                            {
+                                "wf": "di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "pangkuan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pangku",
+                                    "pos": "n",
+                                    "form": "pangku-an"
+                                }
+                            },
+                            {
+                                "wf": "pantai",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pantai",
+                                    "pos": "n|a",
+                                    "form": "pantai"
+                                }
+                            },
+                            {
+                                "wf": "!",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 6
+                    }
+                ],
+                "num_lines": 11
+            }
+        ]
+    }
+}

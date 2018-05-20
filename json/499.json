@@ -1,0 +1,139 @@
+{
+    "meta": {
+        "file_name": "499.json",
+        "id_bd": 499,
+        "author": "Sapardi Djoko Damono",
+        "title": "Tuan",
+        "genre": "стихотворение",
+        "year": "---",
+        "num_lines": 2,
+        "rhyme": "Есть",
+        "syllables": [
+            11,
+            7
+        ],
+        "strofy": [
+            2
+        ]
+    },
+    "poem": {
+        "text": "{Tuan Tuhan, bukan?  Tunggu sebentar,\r\nsaya sedang ke luar.}",
+        "strof": [
+            {
+                "strof": "Tuan Tuhan, bukan?  Tunggu sebentar,\r\nsaya sedang ke luar.",
+                "lines": [
+                    {
+                        "line": "Tuan Tuhan, bukan?  Tunggu sebentar,",
+                        "words": [
+                            {
+                                "wf": "Tuan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tuan",
+                                    "pos": "n",
+                                    "form": "tuan"
+                                }
+                            },
+                            {
+                                "wf": "Tuhan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "Tuhan",
+                                    "pos": "n",
+                                    "form": "Tuhan"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "bukan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bukan",
+                                    "pos": "n",
+                                    "form": "bukan"
+                                }
+                            },
+                            {
+                                "wf": "?  ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "Tunggu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tunggu",
+                                    "pos": "v",
+                                    "form": "tunggu"
+                                }
+                            },
+                            {
+                                "wf": "sebentar",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sebentar",
+                                    "pos": "n",
+                                    "form": "sebentar"
+                                }
+                            },
+                            {
+                                "wf": ",",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 11
+                    },
+                    {
+                        "line": "saya sedang ke luar.",
+                        "words": [
+                            {
+                                "wf": "saya",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "saya",
+                                    "pos": "pron",
+                                    "form": "saya"
+                                }
+                            },
+                            {
+                                "wf": "sedang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sedang",
+                                    "pos": "adv",
+                                    "form": "sedang"
+                                }
+                            },
+                            {
+                                "wf": "ke",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ke",
+                                    "pos": "p",
+                                    "form": "ke"
+                                }
+                            },
+                            {
+                                "wf": "luar",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "luar",
+                                    "pos": "v",
+                                    "form": "luar"
+                                }
+                            },
+                            {
+                                "wf": ".",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 7
+                    }
+                ],
+                "num_lines": 2
+            }
+        ]
+    }
+}

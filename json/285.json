@@ -1,0 +1,323 @@
+{
+    "meta": {
+        "file_name": "285.json",
+        "id_bd": 285,
+        "author": "Ajip Rosidi",
+        "title": "Tandatanya",
+        "genre": "стихотворение",
+        "year": "---",
+        "num_lines": 8,
+        "rhyme": "Есть",
+        "syllables": [
+            5,
+            9,
+            6,
+            8,
+            5,
+            8,
+            8,
+            7
+        ],
+        "strofy": [
+            2,
+            1,
+            2,
+            1,
+            4
+        ]
+    },
+    "poem": {
+        "text": "{Dalam diammu\r\nengkau sebuah tandatanya}\r\n{Dalam tandatanya\r\nengkau adalah jawabnya}\r\n{Dalam heningmu\r\nSiapa masih bertanya?\r\nSiapa masih menyeru?\r\nSiapa masih ragu?}",
+        "strof": [
+            {
+                "strof": "Dalam diammu\r\nengkau sebuah tandatanya",
+                "lines": [
+                    {
+                        "line": "Dalam diammu",
+                        "words": [
+                            {
+                                "wf": "Dalam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dalam",
+                                    "pos": "a|n",
+                                    "form": "dalam"
+                                }
+                            },
+                            {
+                                "wf": "diammu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "diammu",
+                                    "pos": "?",
+                                    "form": "diammu"
+                                }
+                            }
+                        ],
+                        "syllables": 5
+                    },
+                    {
+                        "line": "engkau sebuah tandatanya",
+                        "words": [
+                            {
+                                "wf": "engkau",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "engkau",
+                                    "pos": "pron",
+                                    "form": "engkau"
+                                }
+                            },
+                            {
+                                "wf": "sebuah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "buah",
+                                    "pos": "n",
+                                    "form": "se-buah"
+                                }
+                            },
+                            {
+                                "wf": "tandatanya",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "",
+                                    "pos": "?",
+                                    "form": "tandatanya-nya"
+                                }
+                            }
+                        ],
+                        "syllables": 9
+                    }
+                ],
+                "num_lines": 2
+            },
+            {
+                "strof": "\r\n",
+                "lines": [
+                    {
+                        "line": "",
+                        "words": [],
+                        "syllables": 0
+                    }
+                ],
+                "num_lines": 1
+            },
+            {
+                "strof": "Dalam tandatanya\r\nengkau adalah jawabnya",
+                "lines": [
+                    {
+                        "line": "Dalam tandatanya",
+                        "words": [
+                            {
+                                "wf": "Dalam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dalam",
+                                    "pos": "a|n",
+                                    "form": "dalam"
+                                }
+                            },
+                            {
+                                "wf": "tandatanya",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "",
+                                    "pos": "?",
+                                    "form": "tandatanya-nya"
+                                }
+                            }
+                        ],
+                        "syllables": 6
+                    },
+                    {
+                        "line": "engkau adalah jawabnya",
+                        "words": [
+                            {
+                                "wf": "engkau",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "engkau",
+                                    "pos": "pron",
+                                    "form": "engkau"
+                                }
+                            },
+                            {
+                                "wf": "adalah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "adalah",
+                                    "pos": "v",
+                                    "form": "adalah"
+                                }
+                            },
+                            {
+                                "wf": "jawabnya",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jawab",
+                                    "pos": "n",
+                                    "form": "jawab-nya"
+                                }
+                            }
+                        ],
+                        "syllables": 8
+                    }
+                ],
+                "num_lines": 2
+            },
+            {
+                "strof": "\r\n",
+                "lines": [
+                    {
+                        "line": "",
+                        "words": [],
+                        "syllables": 0
+                    }
+                ],
+                "num_lines": 1
+            },
+            {
+                "strof": "Dalam heningmu\r\nSiapa masih bertanya?\r\nSiapa masih menyeru?\r\nSiapa masih ragu?",
+                "lines": [
+                    {
+                        "line": "Dalam heningmu",
+                        "words": [
+                            {
+                                "wf": "Dalam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dalam",
+                                    "pos": "a|n",
+                                    "form": "dalam"
+                                }
+                            },
+                            {
+                                "wf": "heningmu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hening",
+                                    "pos": "a",
+                                    "form": "hening-mu"
+                                }
+                            }
+                        ],
+                        "syllables": 5
+                    },
+                    {
+                        "line": "Siapa masih bertanya?",
+                        "words": [
+                            {
+                                "wf": "Siapa",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "siapa",
+                                    "pos": "pron",
+                                    "form": "siapa"
+                                }
+                            },
+                            {
+                                "wf": "masih",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "masih",
+                                    "pos": "n",
+                                    "form": "masih"
+                                }
+                            },
+                            {
+                                "wf": "bertanya",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tanya",
+                                    "pos": "v|a",
+                                    "form": "ber-tanya"
+                                }
+                            },
+                            {
+                                "wf": "?",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 8
+                    },
+                    {
+                        "line": "Siapa masih menyeru?",
+                        "words": [
+                            {
+                                "wf": "Siapa",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "siapa",
+                                    "pos": "pron",
+                                    "form": "siapa"
+                                }
+                            },
+                            {
+                                "wf": "masih",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "masih",
+                                    "pos": "n",
+                                    "form": "masih"
+                                }
+                            },
+                            {
+                                "wf": "menyeru",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "seru",
+                                    "pos": "v",
+                                    "form": "meN-seru"
+                                }
+                            },
+                            {
+                                "wf": "?",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 8
+                    },
+                    {
+                        "line": "Siapa masih ragu?",
+                        "words": [
+                            {
+                                "wf": "Siapa",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "siapa",
+                                    "pos": "pron",
+                                    "form": "siapa"
+                                }
+                            },
+                            {
+                                "wf": "masih",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "masih",
+                                    "pos": "n",
+                                    "form": "masih"
+                                }
+                            },
+                            {
+                                "wf": "ragu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ragu",
+                                    "pos": "a",
+                                    "form": "ragu"
+                                }
+                            },
+                            {
+                                "wf": "?",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 7
+                    }
+                ],
+                "num_lines": 4
+            }
+        ]
+    }
+}

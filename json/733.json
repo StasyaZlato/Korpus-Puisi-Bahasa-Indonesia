@@ -1,0 +1,566 @@
+{
+    "meta": {
+        "file_name": "733.json",
+        "id_bd": 733,
+        "author": "Wing Kardjo Wangsaatmadja",
+        "title": "Endless tape",
+        "genre": "стихотворение",
+        "year": "---",
+        "num_lines": 14,
+        "rhyme": "Нет",
+        "syllables": [
+            9,
+            8,
+            8,
+            3,
+            10,
+            8,
+            8,
+            4,
+            4,
+            6,
+            7,
+            6,
+            6,
+            2
+        ],
+        "strofy": [
+            4,
+            1,
+            4,
+            1,
+            3,
+            1,
+            3
+        ]
+    },
+    "poem": {
+        "text": "{Seperti sekian lagu yang\r\nberulang-ulang, seperti\r\nsekian mimpi kembali\r\nmengganggu.}\r\n{Hidup lebih balk apakah itu?\r\nHidup lebih baik apakah\r\nitu ketaatan mesin\r\npada program?}\r\n{Kau tak lebih\r\ndari musik kamar\r\nyang gemetar, telantar.}\r\n{Menggelepar lapar\r\nhidup, atau jadi\r\nsekrup.}",
+        "strof": [
+            {
+                "strof": "Seperti sekian lagu yang\r\nberulang-ulang, seperti\r\nsekian mimpi kembali\r\nmengganggu.",
+                "lines": [
+                    {
+                        "line": "Seperti sekian lagu yang",
+                        "words": [
+                            {
+                                "wf": "Seperti",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "seperti",
+                                    "pos": "p",
+                                    "form": "seperti"
+                                }
+                            },
+                            {
+                                "wf": "sekian",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kian",
+                                    "pos": "n",
+                                    "form": "se-kian"
+                                }
+                            },
+                            {
+                                "wf": "lagu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lagu",
+                                    "pos": "n",
+                                    "form": "lagu"
+                                }
+                            },
+                            {
+                                "wf": "yang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "yang",
+                                    "pos": "a|v|n",
+                                    "form": "yang"
+                                }
+                            }
+                        ],
+                        "syllables": 9
+                    },
+                    {
+                        "line": "berulang-ulang, seperti",
+                        "words": [
+                            {
+                                "wf": "berulang-ulang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ulang",
+                                    "pos": "v",
+                                    "form": "ber-ulang-ulang"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "seperti",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "seperti",
+                                    "pos": "p",
+                                    "form": "seperti"
+                                }
+                            }
+                        ],
+                        "syllables": 8
+                    },
+                    {
+                        "line": "sekian mimpi kembali",
+                        "words": [
+                            {
+                                "wf": "sekian",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kian",
+                                    "pos": "n",
+                                    "form": "se-kian"
+                                }
+                            },
+                            {
+                                "wf": "mimpi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "mimpi",
+                                    "pos": "n",
+                                    "form": "mimpi"
+                                }
+                            },
+                            {
+                                "wf": "kembali",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kembali",
+                                    "pos": "v",
+                                    "form": "kembali"
+                                }
+                            }
+                        ],
+                        "syllables": 8
+                    },
+                    {
+                        "line": "mengganggu.",
+                        "words": [
+                            {
+                                "wf": "mengganggu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ganggu",
+                                    "pos": "v",
+                                    "form": "meN-ganggu"
+                                }
+                            },
+                            {
+                                "wf": ".",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 3
+                    }
+                ],
+                "num_lines": 4
+            },
+            {
+                "strof": "\r\n",
+                "lines": [
+                    {
+                        "line": "",
+                        "words": [],
+                        "syllables": 0
+                    }
+                ],
+                "num_lines": 1
+            },
+            {
+                "strof": "Hidup lebih balk apakah itu?\r\nHidup lebih baik apakah\r\nitu ketaatan mesin\r\npada program?",
+                "lines": [
+                    {
+                        "line": "Hidup lebih balk apakah itu?",
+                        "words": [
+                            {
+                                "wf": "Hidup",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hidup",
+                                    "pos": "v",
+                                    "form": "hidup"
+                                }
+                            },
+                            {
+                                "wf": "lebih",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lebih",
+                                    "pos": "a",
+                                    "form": "lebih"
+                                }
+                            },
+                            {
+                                "wf": "balk",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "balk",
+                                    "pos": "?",
+                                    "form": "balk"
+                                }
+                            },
+                            {
+                                "wf": "apakah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "apakah",
+                                    "pos": "pron",
+                                    "form": "apakah"
+                                }
+                            },
+                            {
+                                "wf": "itu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "itu",
+                                    "pos": "pron|n",
+                                    "form": "itu"
+                                }
+                            },
+                            {
+                                "wf": "?",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "Hidup lebih baik apakah",
+                        "words": [
+                            {
+                                "wf": "Hidup",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hidup",
+                                    "pos": "v",
+                                    "form": "hidup"
+                                }
+                            },
+                            {
+                                "wf": "lebih",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lebih",
+                                    "pos": "a",
+                                    "form": "lebih"
+                                }
+                            },
+                            {
+                                "wf": "baik",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "baik",
+                                    "pos": "a|v|p|n",
+                                    "form": "baik"
+                                }
+                            },
+                            {
+                                "wf": "apakah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "apakah",
+                                    "pos": "pron",
+                                    "form": "apakah"
+                                }
+                            }
+                        ],
+                        "syllables": 8
+                    },
+                    {
+                        "line": "itu ketaatan mesin",
+                        "words": [
+                            {
+                                "wf": "itu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "itu",
+                                    "pos": "pron|n",
+                                    "form": "itu"
+                                }
+                            },
+                            {
+                                "wf": "ketaatan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "taat",
+                                    "pos": "n",
+                                    "form": "ke-taat-an"
+                                }
+                            },
+                            {
+                                "wf": "mesin",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "mesin",
+                                    "pos": "n",
+                                    "form": "mesin"
+                                }
+                            }
+                        ],
+                        "syllables": 8
+                    },
+                    {
+                        "line": "pada program?",
+                        "words": [
+                            {
+                                "wf": "pada",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pada",
+                                    "pos": "p",
+                                    "form": "pada"
+                                }
+                            },
+                            {
+                                "wf": "program",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "program",
+                                    "pos": "n",
+                                    "form": "program"
+                                }
+                            },
+                            {
+                                "wf": "?",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 4
+                    }
+                ],
+                "num_lines": 4
+            },
+            {
+                "strof": "\r\n",
+                "lines": [
+                    {
+                        "line": "",
+                        "words": [],
+                        "syllables": 0
+                    }
+                ],
+                "num_lines": 1
+            },
+            {
+                "strof": "Kau tak lebih\r\ndari musik kamar\r\nyang gemetar, telantar.",
+                "lines": [
+                    {
+                        "line": "Kau tak lebih",
+                        "words": [
+                            {
+                                "wf": "Kau",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kau",
+                                    "pos": "pron",
+                                    "form": "kau"
+                                }
+                            },
+                            {
+                                "wf": "tak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tak",
+                                    "pos": "adv",
+                                    "form": "tak"
+                                }
+                            },
+                            {
+                                "wf": "lebih",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lebih",
+                                    "pos": "a",
+                                    "form": "lebih"
+                                }
+                            }
+                        ],
+                        "syllables": 4
+                    },
+                    {
+                        "line": "dari musik kamar",
+                        "words": [
+                            {
+                                "wf": "dari",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dari",
+                                    "pos": "p",
+                                    "form": "dari"
+                                }
+                            },
+                            {
+                                "wf": "musik",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "musik",
+                                    "pos": "n",
+                                    "form": "musik"
+                                }
+                            },
+                            {
+                                "wf": "kamar",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kamar",
+                                    "pos": "n",
+                                    "form": "kamar"
+                                }
+                            }
+                        ],
+                        "syllables": 6
+                    },
+                    {
+                        "line": "yang gemetar, telantar.",
+                        "words": [
+                            {
+                                "wf": "yang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "yang",
+                                    "pos": "a|v|n",
+                                    "form": "yang"
+                                }
+                            },
+                            {
+                                "wf": "gemetar",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "gemetar",
+                                    "pos": "a",
+                                    "form": "gemetar"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "telantar",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "telantar",
+                                    "pos": "v",
+                                    "form": "telantar"
+                                }
+                            },
+                            {
+                                "wf": ".",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 7
+                    }
+                ],
+                "num_lines": 3
+            },
+            {
+                "strof": "\r\n",
+                "lines": [
+                    {
+                        "line": "",
+                        "words": [],
+                        "syllables": 0
+                    }
+                ],
+                "num_lines": 1
+            },
+            {
+                "strof": "Menggelepar lapar\r\nhidup, atau jadi\r\nsekrup.",
+                "lines": [
+                    {
+                        "line": "Menggelepar lapar",
+                        "words": [
+                            {
+                                "wf": "Menggelepar",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "gelepar",
+                                    "pos": "v",
+                                    "form": "meN-gelepar"
+                                }
+                            },
+                            {
+                                "wf": "lapar",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lapar",
+                                    "pos": "a",
+                                    "form": "lapar"
+                                }
+                            }
+                        ],
+                        "syllables": 6
+                    },
+                    {
+                        "line": "hidup, atau jadi",
+                        "words": [
+                            {
+                                "wf": "hidup",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hidup",
+                                    "pos": "v",
+                                    "form": "hidup"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "atau",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "atau",
+                                    "pos": "p",
+                                    "form": "atau"
+                                }
+                            },
+                            {
+                                "wf": "jadi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jadi",
+                                    "pos": "v",
+                                    "form": "jadi"
+                                }
+                            }
+                        ],
+                        "syllables": 6
+                    },
+                    {
+                        "line": "sekrup.",
+                        "words": [
+                            {
+                                "wf": "sekrup",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sekrup",
+                                    "pos": "n",
+                                    "form": "sekrup"
+                                }
+                            },
+                            {
+                                "wf": ".",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 2
+                    }
+                ],
+                "num_lines": 3
+            }
+        ]
+    }
+}

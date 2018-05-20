@@ -1,0 +1,621 @@
+{
+    "meta": {
+        "file_name": "773.json",
+        "id_bd": 773,
+        "author": "Ajip Rosidi",
+        "title": "Pantun angin barat",
+        "genre": "пантун",
+        "year": "---",
+        "num_lines": 12,
+        "rhyme": "Есть",
+        "syllables": [
+            7,
+            10,
+            10,
+            10,
+            7,
+            10,
+            9,
+            9,
+            7,
+            9,
+            11,
+            9
+        ],
+        "strofy": [
+            4,
+            1,
+            4,
+            1,
+            4
+        ]
+    },
+    "poem": {
+        "text": "{Angin Barat angin Timur\r\nbertiup kencang sepanjang hari;\r\nHendak mencari sepanjang umur\r\nsampai ketemu di dalam hati}\r\n{Angin Barat angin Timur\r\nbolak-balik di lima benua;\r\nMeski harus masuk ke kubur\r\nnamun engkau kucari jua}\r\n{Angin Barat angin Timur\r\nmenghembus lautan dan daratan;\r\nMeski dalam lahat aku terbujur\r\nkau selalu dalam ingatan}",
+        "strof": [
+            {
+                "strof": "Angin Barat angin Timur\r\nbertiup kencang sepanjang hari;\r\nHendak mencari sepanjang umur\r\nsampai ketemu di dalam hati",
+                "lines": [
+                    {
+                        "line": "Angin Barat angin Timur",
+                        "words": [
+                            {
+                                "wf": "Angin",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "angin",
+                                    "pos": "n",
+                                    "form": "angin"
+                                }
+                            },
+                            {
+                                "wf": "Barat",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "barat",
+                                    "pos": "n",
+                                    "form": "barat"
+                                }
+                            },
+                            {
+                                "wf": "angin",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "angin",
+                                    "pos": "n",
+                                    "form": "angin"
+                                }
+                            },
+                            {
+                                "wf": "Timur",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "timur",
+                                    "pos": "n",
+                                    "form": "timur"
+                                }
+                            }
+                        ],
+                        "syllables": 7
+                    },
+                    {
+                        "line": "bertiup kencang sepanjang hari;",
+                        "words": [
+                            {
+                                "wf": "bertiup",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tiup",
+                                    "pos": "v",
+                                    "form": "ber-tiup"
+                                }
+                            },
+                            {
+                                "wf": "kencang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kencang",
+                                    "pos": "a",
+                                    "form": "kencang"
+                                }
+                            },
+                            {
+                                "wf": "sepanjang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "panjang",
+                                    "pos": "n",
+                                    "form": "se-panjang"
+                                }
+                            },
+                            {
+                                "wf": "hari",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hari",
+                                    "pos": "n",
+                                    "form": "hari"
+                                }
+                            },
+                            {
+                                "wf": ";",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "Hendak mencari sepanjang umur",
+                        "words": [
+                            {
+                                "wf": "Hendak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hendak",
+                                    "pos": "adv",
+                                    "form": "hendak"
+                                }
+                            },
+                            {
+                                "wf": "mencari",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "cari",
+                                    "pos": "v",
+                                    "form": "meN-cari"
+                                }
+                            },
+                            {
+                                "wf": "sepanjang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "panjang",
+                                    "pos": "n",
+                                    "form": "se-panjang"
+                                }
+                            },
+                            {
+                                "wf": "umur",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "umur",
+                                    "pos": "n",
+                                    "form": "umur"
+                                }
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "sampai ketemu di dalam hati",
+                        "words": [
+                            {
+                                "wf": "sampai",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sampai",
+                                    "pos": "v",
+                                    "form": "sampai"
+                                }
+                            },
+                            {
+                                "wf": "ketemu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ketemu",
+                                    "pos": "v",
+                                    "form": "ketemu"
+                                }
+                            },
+                            {
+                                "wf": "di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "dalam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dalam",
+                                    "pos": "a|n",
+                                    "form": "dalam"
+                                }
+                            },
+                            {
+                                "wf": "hati",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hati",
+                                    "pos": "n",
+                                    "form": "hati"
+                                }
+                            }
+                        ],
+                        "syllables": 10
+                    }
+                ],
+                "num_lines": 4
+            },
+            {
+                "strof": "\r\n",
+                "lines": [
+                    {
+                        "line": "",
+                        "words": [],
+                        "syllables": 0
+                    }
+                ],
+                "num_lines": 1
+            },
+            {
+                "strof": "Angin Barat angin Timur\r\nbolak-balik di lima benua;\r\nMeski harus masuk ke kubur\r\nnamun engkau kucari jua",
+                "lines": [
+                    {
+                        "line": "Angin Barat angin Timur",
+                        "words": [
+                            {
+                                "wf": "Angin",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "angin",
+                                    "pos": "n",
+                                    "form": "angin"
+                                }
+                            },
+                            {
+                                "wf": "Barat",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "barat",
+                                    "pos": "n",
+                                    "form": "barat"
+                                }
+                            },
+                            {
+                                "wf": "angin",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "angin",
+                                    "pos": "n",
+                                    "form": "angin"
+                                }
+                            },
+                            {
+                                "wf": "Timur",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "timur",
+                                    "pos": "n",
+                                    "form": "timur"
+                                }
+                            }
+                        ],
+                        "syllables": 7
+                    },
+                    {
+                        "line": "bolak-balik di lima benua;",
+                        "words": [
+                            {
+                                "wf": "bolak-balik",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "balikkan",
+                                    "pos": "v|a",
+                                    "form": "bolak-balik"
+                                }
+                            },
+                            {
+                                "wf": "di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "lima",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lima",
+                                    "pos": "num",
+                                    "form": "lima"
+                                }
+                            },
+                            {
+                                "wf": "benua",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "benua",
+                                    "pos": "n",
+                                    "form": "benua"
+                                }
+                            },
+                            {
+                                "wf": ";",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "Meski harus masuk ke kubur",
+                        "words": [
+                            {
+                                "wf": "Meski",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "meski",
+                                    "pos": "p",
+                                    "form": "meski"
+                                }
+                            },
+                            {
+                                "wf": "harus",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "harus",
+                                    "pos": "adv",
+                                    "form": "harus"
+                                }
+                            },
+                            {
+                                "wf": "masuk",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "masuk",
+                                    "pos": "v",
+                                    "form": "masuk"
+                                }
+                            },
+                            {
+                                "wf": "ke",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ke",
+                                    "pos": "p",
+                                    "form": "ke"
+                                }
+                            },
+                            {
+                                "wf": "kubur",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kubur",
+                                    "pos": "n",
+                                    "form": "kubur"
+                                }
+                            }
+                        ],
+                        "syllables": 9
+                    },
+                    {
+                        "line": "namun engkau kucari jua",
+                        "words": [
+                            {
+                                "wf": "namun",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "namun",
+                                    "pos": "p",
+                                    "form": "namun"
+                                }
+                            },
+                            {
+                                "wf": "engkau",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "engkau",
+                                    "pos": "pron",
+                                    "form": "engkau"
+                                }
+                            },
+                            {
+                                "wf": "kucari",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "cari",
+                                    "pos": "v",
+                                    "form": "ku-cari"
+                                }
+                            },
+                            {
+                                "wf": "jua",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jua",
+                                    "pos": "adv",
+                                    "form": "jua"
+                                }
+                            }
+                        ],
+                        "syllables": 9
+                    }
+                ],
+                "num_lines": 4
+            },
+            {
+                "strof": "\r\n",
+                "lines": [
+                    {
+                        "line": "",
+                        "words": [],
+                        "syllables": 0
+                    }
+                ],
+                "num_lines": 1
+            },
+            {
+                "strof": "Angin Barat angin Timur\r\nmenghembus lautan dan daratan;\r\nMeski dalam lahat aku terbujur\r\nkau selalu dalam ingatan",
+                "lines": [
+                    {
+                        "line": "Angin Barat angin Timur",
+                        "words": [
+                            {
+                                "wf": "Angin",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "angin",
+                                    "pos": "n",
+                                    "form": "angin"
+                                }
+                            },
+                            {
+                                "wf": "Barat",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "barat",
+                                    "pos": "n",
+                                    "form": "barat"
+                                }
+                            },
+                            {
+                                "wf": "angin",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "angin",
+                                    "pos": "n",
+                                    "form": "angin"
+                                }
+                            },
+                            {
+                                "wf": "Timur",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "timur",
+                                    "pos": "n",
+                                    "form": "timur"
+                                }
+                            }
+                        ],
+                        "syllables": 7
+                    },
+                    {
+                        "line": "menghembus lautan dan daratan;",
+                        "words": [
+                            {
+                                "wf": "menghembus",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "menghembus",
+                                    "pos": "v",
+                                    "form": "menghembus"
+                                }
+                            },
+                            {
+                                "wf": "lautan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "laut",
+                                    "pos": "n",
+                                    "form": "laut-an"
+                                }
+                            },
+                            {
+                                "wf": "dan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dan",
+                                    "pos": "p",
+                                    "form": "dan"
+                                }
+                            },
+                            {
+                                "wf": "daratan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "darat",
+                                    "pos": "n",
+                                    "form": "darat-an"
+                                }
+                            },
+                            {
+                                "wf": ";",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 9
+                    },
+                    {
+                        "line": "Meski dalam lahat aku terbujur",
+                        "words": [
+                            {
+                                "wf": "Meski",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "meski",
+                                    "pos": "p",
+                                    "form": "meski"
+                                }
+                            },
+                            {
+                                "wf": "dalam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dalam",
+                                    "pos": "a|n",
+                                    "form": "dalam"
+                                }
+                            },
+                            {
+                                "wf": "lahat",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lahat",
+                                    "pos": "?",
+                                    "form": "lahat"
+                                }
+                            },
+                            {
+                                "wf": "aku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "aku",
+                                    "pos": "pron",
+                                    "form": "aku"
+                                }
+                            },
+                            {
+                                "wf": "terbujur",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bujur",
+                                    "pos": "v",
+                                    "form": "terbujur"
+                                }
+                            }
+                        ],
+                        "syllables": 11
+                    },
+                    {
+                        "line": "kau selalu dalam ingatan",
+                        "words": [
+                            {
+                                "wf": "kau",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kau",
+                                    "pos": "pron",
+                                    "form": "kau"
+                                }
+                            },
+                            {
+                                "wf": "selalu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "selalu",
+                                    "pos": "adv",
+                                    "form": "selalu"
+                                }
+                            },
+                            {
+                                "wf": "dalam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dalam",
+                                    "pos": "a|n",
+                                    "form": "dalam"
+                                }
+                            },
+                            {
+                                "wf": "ingatan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ingat",
+                                    "pos": "n",
+                                    "form": "ingat-an"
+                                }
+                            }
+                        ],
+                        "syllables": 9
+                    }
+                ],
+                "num_lines": 4
+            }
+        ]
+    }
+}

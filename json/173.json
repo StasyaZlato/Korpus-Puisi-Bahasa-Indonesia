@@ -1,0 +1,359 @@
+{
+    "meta": {
+        "file_name": "173.json",
+        "id_bd": 173,
+        "author": "Chairil Anwar",
+        "title": "Dalam kereta",
+        "genre": "стихотворение",
+        "year": "15.03.1944",
+        "num_lines": 8,
+        "rhyme": "Есть",
+        "syllables": [
+            5,
+            8,
+            11,
+            5,
+            6,
+            10,
+            11,
+            8
+        ],
+        "strofy": [
+            8
+        ]
+    },
+    "poem": {
+        "text": "Dalam kereta.\r\nHujan menebal jendela\r\nSemarang, Solo…, makin dekat saja\r\nMenangkup senja.\r\nMenguak purnama.\r\nCaya menyayat mulut dan mata.\r\nMenjengking kereta. Menjengking jiwa,\r\nSayatan terus ke dada",
+        "strof": [
+            {
+                "strof": "Dalam kereta.\r\nHujan menebal jendela\r\nSemarang, Solo…, makin dekat saja\r\nMenangkup senja.\r\nMenguak purnama.\r\nCaya menyayat mulut dan mata.\r\nMenjengking kereta. Menjengking jiwa,\r\nSayatan terus ke dada",
+                "lines": [
+                    {
+                        "line": "Dalam kereta.",
+                        "words": [
+                            {
+                                "wf": "Dalam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dalam",
+                                    "pos": "a|n",
+                                    "form": "dalam"
+                                }
+                            },
+                            {
+                                "wf": "kereta",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kereta",
+                                    "pos": "v",
+                                    "form": "kereta"
+                                }
+                            },
+                            {
+                                "wf": ".",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 5
+                    },
+                    {
+                        "line": "Hujan menebal jendela",
+                        "words": [
+                            {
+                                "wf": "Hujan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hujan",
+                                    "pos": "n",
+                                    "form": "hujan"
+                                }
+                            },
+                            {
+                                "wf": "menebal",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tebal",
+                                    "pos": "v",
+                                    "form": "meN-tebal"
+                                }
+                            },
+                            {
+                                "wf": "jendela",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jendela",
+                                    "pos": "?",
+                                    "form": "jendela"
+                                }
+                            }
+                        ],
+                        "syllables": 8
+                    },
+                    {
+                        "line": "Semarang, Solo…, makin dekat saja",
+                        "words": [
+                            {
+                                "wf": "Semarang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "semarang",
+                                    "pos": "?",
+                                    "form": "semarang"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "Solo",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "solo",
+                                    "pos": "n|a",
+                                    "form": "solo"
+                                }
+                            },
+                            {
+                                "wf": "…, ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "makin",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "makin",
+                                    "pos": "adv|p",
+                                    "form": "makin"
+                                }
+                            },
+                            {
+                                "wf": "dekat",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dekat",
+                                    "pos": "a",
+                                    "form": "dekat"
+                                }
+                            },
+                            {
+                                "wf": "saja",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "saja",
+                                    "pos": "adv",
+                                    "form": "saja"
+                                }
+                            }
+                        ],
+                        "syllables": 11
+                    },
+                    {
+                        "line": "Menangkup senja.",
+                        "words": [
+                            {
+                                "wf": "Menangkup",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tangkup",
+                                    "pos": "v",
+                                    "form": "meN-tangkup"
+                                }
+                            },
+                            {
+                                "wf": "senja",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "senja",
+                                    "pos": "n",
+                                    "form": "senja"
+                                }
+                            },
+                            {
+                                "wf": ".",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 5
+                    },
+                    {
+                        "line": "Menguak purnama.",
+                        "words": [
+                            {
+                                "wf": "Menguak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kuak",
+                                    "pos": "v",
+                                    "form": "meN-kuak"
+                                }
+                            },
+                            {
+                                "wf": "purnama",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "purnama",
+                                    "pos": "a|n",
+                                    "form": "purnama"
+                                }
+                            },
+                            {
+                                "wf": ".",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 6
+                    },
+                    {
+                        "line": "Caya menyayat mulut dan mata.",
+                        "words": [
+                            {
+                                "wf": "Caya",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "caya",
+                                    "pos": "v",
+                                    "form": "caya"
+                                }
+                            },
+                            {
+                                "wf": "menyayat",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sayat",
+                                    "pos": "v",
+                                    "form": "meN-sayat"
+                                }
+                            },
+                            {
+                                "wf": "mulut",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "mulut",
+                                    "pos": "n",
+                                    "form": "mulut"
+                                }
+                            },
+                            {
+                                "wf": "dan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dan",
+                                    "pos": "p",
+                                    "form": "dan"
+                                }
+                            },
+                            {
+                                "wf": "mata",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "mata",
+                                    "pos": "n",
+                                    "form": "mata"
+                                }
+                            },
+                            {
+                                "wf": ".",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "Menjengking kereta. Menjengking jiwa,",
+                        "words": [
+                            {
+                                "wf": "Menjengking",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jengking",
+                                    "pos": "v",
+                                    "form": "meN-jengking"
+                                }
+                            },
+                            {
+                                "wf": "kereta",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kereta",
+                                    "pos": "v",
+                                    "form": "kereta"
+                                }
+                            },
+                            {
+                                "wf": ". ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "Menjengking",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jengking",
+                                    "pos": "v",
+                                    "form": "meN-jengking"
+                                }
+                            },
+                            {
+                                "wf": "jiwa",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jiwa",
+                                    "pos": "n",
+                                    "form": "jiwa"
+                                }
+                            },
+                            {
+                                "wf": ",",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 11
+                    },
+                    {
+                        "line": "Sayatan terus ke dada",
+                        "words": [
+                            {
+                                "wf": "Sayatan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sayat",
+                                    "pos": "n",
+                                    "form": "sayat-an"
+                                }
+                            },
+                            {
+                                "wf": "terus",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "terus",
+                                    "pos": "v",
+                                    "form": "terus"
+                                }
+                            },
+                            {
+                                "wf": "ke",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ke",
+                                    "pos": "p",
+                                    "form": "ke"
+                                }
+                            },
+                            {
+                                "wf": "dada",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dada",
+                                    "pos": "n",
+                                    "form": "dada"
+                                }
+                            }
+                        ],
+                        "syllables": 8
+                    }
+                ],
+                "num_lines": 8
+            }
+        ]
+    }
+}

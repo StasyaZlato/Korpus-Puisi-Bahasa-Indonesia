@@ -1,0 +1,469 @@
+{
+    "meta": {
+        "file_name": "602.json",
+        "id_bd": 602,
+        "author": "Ajip Rosidi",
+        "title": "Mata derita",
+        "genre": "стихотворение",
+        "year": 1954,
+        "num_lines": 8,
+        "rhyme": "Есть",
+        "syllables": [
+            11,
+            8,
+            11,
+            9,
+            12,
+            7,
+            12,
+            12
+        ],
+        "strofy": [
+            2,
+            1,
+            2,
+            1,
+            2,
+            1,
+            2
+        ]
+    },
+    "poem": {
+        "text": "{ada yang datang bermata derita\r\npagi berwarna olehnya}\r\n{ada perawan bermata derita\r\nberselendang angin remaja}\r\n{ada yang memandang ke dalam hatiku\r\nbumi pun jadi biru}\r\n{ada yang memancar: kebeningan hening\r\ndan segalanya pun tak teraba lagi}",
+        "strof": [
+            {
+                "strof": "ada yang datang bermata derita\r\npagi berwarna olehnya",
+                "lines": [
+                    {
+                        "line": "ada yang datang bermata derita",
+                        "words": [
+                            {
+                                "wf": "ada",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ada",
+                                    "pos": "v",
+                                    "form": "ada"
+                                }
+                            },
+                            {
+                                "wf": "yang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "yang",
+                                    "pos": "a|v|n",
+                                    "form": "yang"
+                                }
+                            },
+                            {
+                                "wf": "datang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "datang",
+                                    "pos": "v|n",
+                                    "form": "datang"
+                                }
+                            },
+                            {
+                                "wf": "bermata",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "mata",
+                                    "pos": "v",
+                                    "form": "ber-mata"
+                                }
+                            },
+                            {
+                                "wf": "derita",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "derita",
+                                    "pos": "n",
+                                    "form": "derita"
+                                }
+                            }
+                        ],
+                        "syllables": 11
+                    },
+                    {
+                        "line": "pagi berwarna olehnya",
+                        "words": [
+                            {
+                                "wf": "pagi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pagi",
+                                    "pos": "n",
+                                    "form": "pagi"
+                                }
+                            },
+                            {
+                                "wf": "berwarna",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "warna",
+                                    "pos": "v",
+                                    "form": "ber-warna"
+                                }
+                            },
+                            {
+                                "wf": "olehnya",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "oleh",
+                                    "pos": "adv",
+                                    "form": "oleh-nya"
+                                }
+                            }
+                        ],
+                        "syllables": 8
+                    }
+                ],
+                "num_lines": 2
+            },
+            {
+                "strof": "\r\n",
+                "lines": [
+                    {
+                        "line": "",
+                        "words": [],
+                        "syllables": 0
+                    }
+                ],
+                "num_lines": 1
+            },
+            {
+                "strof": "ada perawan bermata derita\r\nberselendang angin remaja",
+                "lines": [
+                    {
+                        "line": "ada perawan bermata derita",
+                        "words": [
+                            {
+                                "wf": "ada",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ada",
+                                    "pos": "v",
+                                    "form": "ada"
+                                }
+                            },
+                            {
+                                "wf": "perawan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "perawan",
+                                    "pos": "n|a",
+                                    "form": "perawan"
+                                }
+                            },
+                            {
+                                "wf": "bermata",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "mata",
+                                    "pos": "v",
+                                    "form": "ber-mata"
+                                }
+                            },
+                            {
+                                "wf": "derita",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "derita",
+                                    "pos": "n",
+                                    "form": "derita"
+                                }
+                            }
+                        ],
+                        "syllables": 11
+                    },
+                    {
+                        "line": "berselendang angin remaja",
+                        "words": [
+                            {
+                                "wf": "berselendang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "selendang",
+                                    "pos": "v",
+                                    "form": "ber-selendang"
+                                }
+                            },
+                            {
+                                "wf": "angin",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "angin",
+                                    "pos": "n",
+                                    "form": "angin"
+                                }
+                            },
+                            {
+                                "wf": "remaja",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "remaja",
+                                    "pos": "a|n",
+                                    "form": "remaja"
+                                }
+                            }
+                        ],
+                        "syllables": 9
+                    }
+                ],
+                "num_lines": 2
+            },
+            {
+                "strof": "\r\n",
+                "lines": [
+                    {
+                        "line": "",
+                        "words": [],
+                        "syllables": 0
+                    }
+                ],
+                "num_lines": 1
+            },
+            {
+                "strof": "ada yang memandang ke dalam hatiku\r\nbumi pun jadi biru",
+                "lines": [
+                    {
+                        "line": "ada yang memandang ke dalam hatiku",
+                        "words": [
+                            {
+                                "wf": "ada",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ada",
+                                    "pos": "v",
+                                    "form": "ada"
+                                }
+                            },
+                            {
+                                "wf": "yang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "yang",
+                                    "pos": "a|v|n",
+                                    "form": "yang"
+                                }
+                            },
+                            {
+                                "wf": "memandang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pandang",
+                                    "pos": "v",
+                                    "form": "meN-pandang"
+                                }
+                            },
+                            {
+                                "wf": "ke",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ke",
+                                    "pos": "p",
+                                    "form": "ke"
+                                }
+                            },
+                            {
+                                "wf": "dalam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dalam",
+                                    "pos": "a|n",
+                                    "form": "dalam"
+                                }
+                            },
+                            {
+                                "wf": "hatiku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hati",
+                                    "pos": "n",
+                                    "form": "hati-ku"
+                                }
+                            }
+                        ],
+                        "syllables": 12
+                    },
+                    {
+                        "line": "bumi pun jadi biru",
+                        "words": [
+                            {
+                                "wf": "bumi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bumi",
+                                    "pos": "n",
+                                    "form": "bumi"
+                                }
+                            },
+                            {
+                                "wf": "pun",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pun",
+                                    "pos": "p",
+                                    "form": "pun"
+                                }
+                            },
+                            {
+                                "wf": "jadi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jadi",
+                                    "pos": "v",
+                                    "form": "jadi"
+                                }
+                            },
+                            {
+                                "wf": "biru",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "biru",
+                                    "pos": "n|a",
+                                    "form": "biru"
+                                }
+                            }
+                        ],
+                        "syllables": 7
+                    }
+                ],
+                "num_lines": 2
+            },
+            {
+                "strof": "\r\n",
+                "lines": [
+                    {
+                        "line": "",
+                        "words": [],
+                        "syllables": 0
+                    }
+                ],
+                "num_lines": 1
+            },
+            {
+                "strof": "ada yang memancar: kebeningan hening\r\ndan segalanya pun tak teraba lagi",
+                "lines": [
+                    {
+                        "line": "ada yang memancar: kebeningan hening",
+                        "words": [
+                            {
+                                "wf": "ada",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ada",
+                                    "pos": "v",
+                                    "form": "ada"
+                                }
+                            },
+                            {
+                                "wf": "yang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "yang",
+                                    "pos": "a|v|n",
+                                    "form": "yang"
+                                }
+                            },
+                            {
+                                "wf": "memancar",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pancar",
+                                    "pos": "v",
+                                    "form": "meN-pancar"
+                                }
+                            },
+                            {
+                                "wf": ": ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "kebeningan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bening",
+                                    "pos": "n",
+                                    "form": "ke-bening-an"
+                                }
+                            },
+                            {
+                                "wf": "hening",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hening",
+                                    "pos": "a",
+                                    "form": "hening"
+                                }
+                            }
+                        ],
+                        "syllables": 12
+                    },
+                    {
+                        "line": "dan segalanya pun tak teraba lagi",
+                        "words": [
+                            {
+                                "wf": "dan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dan",
+                                    "pos": "p",
+                                    "form": "dan"
+                                }
+                            },
+                            {
+                                "wf": "segalanya",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "segala",
+                                    "pos": "adv",
+                                    "form": "segala-nya"
+                                }
+                            },
+                            {
+                                "wf": "pun",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pun",
+                                    "pos": "p",
+                                    "form": "pun"
+                                }
+                            },
+                            {
+                                "wf": "tak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tak",
+                                    "pos": "adv",
+                                    "form": "tak"
+                                }
+                            },
+                            {
+                                "wf": "teraba",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "raba",
+                                    "pos": "v",
+                                    "form": "ter-raba"
+                                }
+                            },
+                            {
+                                "wf": "lagi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lagi",
+                                    "pos": "adv|p",
+                                    "form": "lagi"
+                                }
+                            }
+                        ],
+                        "syllables": 12
+                    }
+                ],
+                "num_lines": 2
+            }
+        ]
+    }
+}

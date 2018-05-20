@@ -1,0 +1,685 @@
+{
+    "meta": {
+        "file_name": "568.json",
+        "id_bd": 568,
+        "author": "Sutan Takdir Alisyahbana",
+        "title": "Air mata",
+        "genre": "стихотворение",
+        "year": "---",
+        "num_lines": 14,
+        "rhyme": "Нет",
+        "syllables": [
+            8,
+            9,
+            9,
+            9,
+            9,
+            8,
+            9,
+            9,
+            8,
+            7,
+            7,
+            8,
+            8,
+            10
+        ],
+        "strofy": [
+            14
+        ]
+    },
+    "poem": {
+        "text": "{‘Ngalir, ‘ngalirlah air mata,\r\nAku tiada akan ‘nahanmu.\r\nApa gunanya aku halangi,\r\nEngkau ‘ngalirkan penuh kalbuku\r\nSeperti air jernih memancar\r\nDari celah gunung rimbun,\r\nSeperti hujan sejuk gugur\r\nDari mega berat mengandung,\r\n‘Ngalirlah wahai air mata,\r\nEngkaupun mendapat hakmu\r\nDari Khalik yang satu.\r\n‘Ngalir, ‘ngalirlah air mata,\r\nAku hendak merasa nikmat\r\nPanasmu ngalir pada pipiku.}",
+        "strof": [
+            {
+                "strof": "‘Ngalir, ‘ngalirlah air mata,\r\nAku tiada akan ‘nahanmu.\r\nApa gunanya aku halangi,\r\nEngkau ‘ngalirkan penuh kalbuku\r\nSeperti air jernih memancar\r\nDari celah gunung rimbun,\r\nSeperti hujan sejuk gugur\r\nDari mega berat mengandung,\r\n‘Ngalirlah wahai air mata,\r\nEngkaupun mendapat hakmu\r\nDari Khalik yang satu.\r\n‘Ngalir, ‘ngalirlah air mata,\r\nAku hendak merasa nikmat\r\nPanasmu ngalir pada pipiku.",
+                "lines": [
+                    {
+                        "line": "‘Ngalir, ‘ngalirlah air mata,",
+                        "words": [
+                            {
+                                "wf": "‘",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "Ngalir",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ngalir",
+                                    "pos": "v",
+                                    "form": "ngalir"
+                                }
+                            },
+                            {
+                                "wf": ", ‘",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "ngalirlah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ngalirlah",
+                                    "pos": "v",
+                                    "form": "ngalirlah"
+                                }
+                            },
+                            {
+                                "wf": "air",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "air",
+                                    "pos": "n",
+                                    "form": "air"
+                                }
+                            },
+                            {
+                                "wf": "mata",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "mata",
+                                    "pos": "n",
+                                    "form": "mata"
+                                }
+                            },
+                            {
+                                "wf": ",",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 8
+                    },
+                    {
+                        "line": "Aku tiada akan ‘nahanmu.",
+                        "words": [
+                            {
+                                "wf": "Aku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "aku",
+                                    "pos": "pron",
+                                    "form": "aku"
+                                }
+                            },
+                            {
+                                "wf": "tiada",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tiada",
+                                    "pos": "v",
+                                    "form": "tiada"
+                                }
+                            },
+                            {
+                                "wf": "akan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "akan",
+                                    "pos": "v",
+                                    "form": "akan"
+                                }
+                            },
+                            {
+                                "wf": " ‘",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "nahanmu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "nahanmu",
+                                    "pos": "n",
+                                    "form": "nahanmu"
+                                }
+                            },
+                            {
+                                "wf": ".",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 9
+                    },
+                    {
+                        "line": "Apa gunanya aku halangi,",
+                        "words": [
+                            {
+                                "wf": "Apa",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "apa",
+                                    "pos": "pron|p",
+                                    "form": "apa"
+                                }
+                            },
+                            {
+                                "wf": "gunanya",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "guna",
+                                    "pos": "n",
+                                    "form": "guna-nya"
+                                }
+                            },
+                            {
+                                "wf": "aku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "aku",
+                                    "pos": "pron",
+                                    "form": "aku"
+                                }
+                            },
+                            {
+                                "wf": "halangi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "halangi",
+                                    "pos": "v",
+                                    "form": "halangi"
+                                }
+                            },
+                            {
+                                "wf": ",",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 9
+                    },
+                    {
+                        "line": "Engkau ‘ngalirkan penuh kalbuku",
+                        "words": [
+                            {
+                                "wf": "Engkau",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "engkau",
+                                    "pos": "pron",
+                                    "form": "engkau"
+                                }
+                            },
+                            {
+                                "wf": " ‘",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "ngalirkan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ngalirkan",
+                                    "pos": "v",
+                                    "form": "ngalirkan"
+                                }
+                            },
+                            {
+                                "wf": "penuh",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "penuh",
+                                    "pos": "a",
+                                    "form": "penuh"
+                                }
+                            },
+                            {
+                                "wf": "kalbuku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kalbu",
+                                    "pos": "n",
+                                    "form": "kalbu-ku"
+                                }
+                            }
+                        ],
+                        "syllables": 9
+                    },
+                    {
+                        "line": "Seperti air jernih memancar",
+                        "words": [
+                            {
+                                "wf": "Seperti",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "seperti",
+                                    "pos": "p",
+                                    "form": "seperti"
+                                }
+                            },
+                            {
+                                "wf": "air",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "air",
+                                    "pos": "n",
+                                    "form": "air"
+                                }
+                            },
+                            {
+                                "wf": "jernih",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jernih",
+                                    "pos": "a",
+                                    "form": "jernih"
+                                }
+                            },
+                            {
+                                "wf": "memancar",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pancar",
+                                    "pos": "v",
+                                    "form": "meN-pancar"
+                                }
+                            }
+                        ],
+                        "syllables": 9
+                    },
+                    {
+                        "line": "Dari celah gunung rimbun,",
+                        "words": [
+                            {
+                                "wf": "Dari",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dari",
+                                    "pos": "p",
+                                    "form": "dari"
+                                }
+                            },
+                            {
+                                "wf": "celah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "celah",
+                                    "pos": "n",
+                                    "form": "celah"
+                                }
+                            },
+                            {
+                                "wf": "gunung",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "gunung",
+                                    "pos": "n",
+                                    "form": "gunung"
+                                }
+                            },
+                            {
+                                "wf": "rimbun",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "rimbun",
+                                    "pos": "a",
+                                    "form": "rimbun"
+                                }
+                            },
+                            {
+                                "wf": ",",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 8
+                    },
+                    {
+                        "line": "Seperti hujan sejuk gugur",
+                        "words": [
+                            {
+                                "wf": "Seperti",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "seperti",
+                                    "pos": "p",
+                                    "form": "seperti"
+                                }
+                            },
+                            {
+                                "wf": "hujan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hujan",
+                                    "pos": "n",
+                                    "form": "hujan"
+                                }
+                            },
+                            {
+                                "wf": "sejuk",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sejuk",
+                                    "pos": "a",
+                                    "form": "sejuk"
+                                }
+                            },
+                            {
+                                "wf": "gugur",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "gugur",
+                                    "pos": "v",
+                                    "form": "gugur"
+                                }
+                            }
+                        ],
+                        "syllables": 9
+                    },
+                    {
+                        "line": "Dari mega berat mengandung,",
+                        "words": [
+                            {
+                                "wf": "Dari",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dari",
+                                    "pos": "p",
+                                    "form": "dari"
+                                }
+                            },
+                            {
+                                "wf": "mega",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "mega",
+                                    "pos": "v",
+                                    "form": "mega"
+                                }
+                            },
+                            {
+                                "wf": "berat",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "berat",
+                                    "pos": "a|v|n",
+                                    "form": "berat"
+                                }
+                            },
+                            {
+                                "wf": "mengandung",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "mengawan",
+                                    "pos": "v",
+                                    "form": "meN-kandung"
+                                }
+                            },
+                            {
+                                "wf": ",",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 9
+                    },
+                    {
+                        "line": "‘Ngalirlah wahai air mata,",
+                        "words": [
+                            {
+                                "wf": "‘",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "Ngalirlah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ngalirlah",
+                                    "pos": "v",
+                                    "form": "ngalirlah"
+                                }
+                            },
+                            {
+                                "wf": "wahai",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "wahai",
+                                    "pos": "p",
+                                    "form": "wahai"
+                                }
+                            },
+                            {
+                                "wf": "air",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "air",
+                                    "pos": "n",
+                                    "form": "air"
+                                }
+                            },
+                            {
+                                "wf": "mata",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "mata",
+                                    "pos": "n",
+                                    "form": "mata"
+                                }
+                            },
+                            {
+                                "wf": ",",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 8
+                    },
+                    {
+                        "line": "Engkaupun mendapat hakmu",
+                        "words": [
+                            {
+                                "wf": "Engkaupun",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "engkaupun",
+                                    "pos": "?",
+                                    "form": "engkaupun"
+                                }
+                            },
+                            {
+                                "wf": "mendapat",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dapat",
+                                    "pos": "v",
+                                    "form": "meN-dapat"
+                                }
+                            },
+                            {
+                                "wf": "hakmu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hak",
+                                    "pos": "adv",
+                                    "form": "hak-mu"
+                                }
+                            }
+                        ],
+                        "syllables": 7
+                    },
+                    {
+                        "line": "Dari Khalik yang satu.",
+                        "words": [
+                            {
+                                "wf": "Dari",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dari",
+                                    "pos": "p",
+                                    "form": "dari"
+                                }
+                            },
+                            {
+                                "wf": "Khalik",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "khalik",
+                                    "pos": "n",
+                                    "form": "khalik"
+                                }
+                            },
+                            {
+                                "wf": "yang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "yang",
+                                    "pos": "a|v|n",
+                                    "form": "yang"
+                                }
+                            },
+                            {
+                                "wf": "satu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "satu",
+                                    "pos": "num",
+                                    "form": "satu"
+                                }
+                            },
+                            {
+                                "wf": ".",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 7
+                    },
+                    {
+                        "line": "‘Ngalir, ‘ngalirlah air mata,",
+                        "words": [
+                            {
+                                "wf": "‘",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "Ngalir",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ngalir",
+                                    "pos": "v",
+                                    "form": "ngalir"
+                                }
+                            },
+                            {
+                                "wf": ", ‘",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "ngalirlah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ngalirlah",
+                                    "pos": "v",
+                                    "form": "ngalirlah"
+                                }
+                            },
+                            {
+                                "wf": "air",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "air",
+                                    "pos": "n",
+                                    "form": "air"
+                                }
+                            },
+                            {
+                                "wf": "mata",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "mata",
+                                    "pos": "n",
+                                    "form": "mata"
+                                }
+                            },
+                            {
+                                "wf": ",",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 8
+                    },
+                    {
+                        "line": "Aku hendak merasa nikmat",
+                        "words": [
+                            {
+                                "wf": "Aku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "aku",
+                                    "pos": "pron",
+                                    "form": "aku"
+                                }
+                            },
+                            {
+                                "wf": "hendak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hendak",
+                                    "pos": "adv",
+                                    "form": "hendak"
+                                }
+                            },
+                            {
+                                "wf": "merasa",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "rasa",
+                                    "pos": "v",
+                                    "form": "meN-rasa"
+                                }
+                            },
+                            {
+                                "wf": "nikmat",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "nikmat",
+                                    "pos": "a|n",
+                                    "form": "nikmat"
+                                }
+                            }
+                        ],
+                        "syllables": 8
+                    },
+                    {
+                        "line": "Panasmu ngalir pada pipiku.",
+                        "words": [
+                            {
+                                "wf": "Panasmu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "panas",
+                                    "pos": "a|n",
+                                    "form": "panas-mu"
+                                }
+                            },
+                            {
+                                "wf": "ngalir",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ngalir",
+                                    "pos": "v",
+                                    "form": "ngalir"
+                                }
+                            },
+                            {
+                                "wf": "pada",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pada",
+                                    "pos": "p",
+                                    "form": "pada"
+                                }
+                            },
+                            {
+                                "wf": "pipiku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pipi",
+                                    "pos": "n",
+                                    "form": "pipi-ku"
+                                }
+                            },
+                            {
+                                "wf": ".",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 10
+                    }
+                ],
+                "num_lines": 14
+            }
+        ]
+    }
+}

@@ -1,0 +1,637 @@
+{
+    "meta": {
+        "file_name": "401.json",
+        "id_bd": 401,
+        "author": "L.K. Ara",
+        "title": "Untuk do karim",
+        "genre": "стихотворение",
+        "year": "20.07.1986",
+        "num_lines": 16,
+        "rhyme": "Есть",
+        "syllables": [
+            4,
+            12,
+            6,
+            6,
+            6,
+            4,
+            12,
+            8,
+            5,
+            6,
+            5,
+            4,
+            10,
+            8,
+            7,
+            7
+        ],
+        "strofy": [
+            5,
+            1,
+            6,
+            1,
+            5
+        ]
+    },
+    "poem": {
+        "text": "{Pagi ini\r\nSeperti ada yang menitik ke bumi\r\nBarangkali embun\r\nAtau gerimis sunyi\r\nAtau desah syair sepi}\r\n{Pagi ini\r\nSeperti ada yang bergumam di bumi\r\nBarangkali suaramu\r\nAtau jerit luka\r\nAtau tusukan syairmu\r\nKe hulu hati}\r\n{Pagi ini\r\nSeperti terdengar kersik angin\r\nAtau percik keringat bumi\r\nMengguratkan namamu\r\nDi pualam abadi}",
+        "strof": [
+            {
+                "strof": "Pagi ini\r\nSeperti ada yang menitik ke bumi\r\nBarangkali embun\r\nAtau gerimis sunyi\r\nAtau desah syair sepi",
+                "lines": [
+                    {
+                        "line": "Pagi ini",
+                        "words": [
+                            {
+                                "wf": "Pagi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pagi",
+                                    "pos": "n",
+                                    "form": "pagi"
+                                }
+                            },
+                            {
+                                "wf": "ini",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ini",
+                                    "pos": "pron",
+                                    "form": "ini"
+                                }
+                            }
+                        ],
+                        "syllables": 4
+                    },
+                    {
+                        "line": "Seperti ada yang menitik ke bumi",
+                        "words": [
+                            {
+                                "wf": "Seperti",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "seperti",
+                                    "pos": "p",
+                                    "form": "seperti"
+                                }
+                            },
+                            {
+                                "wf": "ada",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ada",
+                                    "pos": "v",
+                                    "form": "ada"
+                                }
+                            },
+                            {
+                                "wf": "yang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "yang",
+                                    "pos": "a|v|n",
+                                    "form": "yang"
+                                }
+                            },
+                            {
+                                "wf": "menitik",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "menitik",
+                                    "pos": "v",
+                                    "form": "menitik"
+                                }
+                            },
+                            {
+                                "wf": "ke",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ke",
+                                    "pos": "p",
+                                    "form": "ke"
+                                }
+                            },
+                            {
+                                "wf": "bumi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bumi",
+                                    "pos": "n",
+                                    "form": "bumi"
+                                }
+                            }
+                        ],
+                        "syllables": 12
+                    },
+                    {
+                        "line": "Barangkali embun",
+                        "words": [
+                            {
+                                "wf": "Barangkali",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "barangkali",
+                                    "pos": "adv",
+                                    "form": "barangkali"
+                                }
+                            },
+                            {
+                                "wf": "embun",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "embun",
+                                    "pos": "n",
+                                    "form": "embun"
+                                }
+                            }
+                        ],
+                        "syllables": 6
+                    },
+                    {
+                        "line": "Atau gerimis sunyi",
+                        "words": [
+                            {
+                                "wf": "Atau",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "atau",
+                                    "pos": "p",
+                                    "form": "atau"
+                                }
+                            },
+                            {
+                                "wf": "gerimis",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "gerimis",
+                                    "pos": "n",
+                                    "form": "gerimis"
+                                }
+                            },
+                            {
+                                "wf": "sunyi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sunyi",
+                                    "pos": "a",
+                                    "form": "sunyi"
+                                }
+                            }
+                        ],
+                        "syllables": 6
+                    },
+                    {
+                        "line": "Atau desah syair sepi",
+                        "words": [
+                            {
+                                "wf": "Atau",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "atau",
+                                    "pos": "p",
+                                    "form": "atau"
+                                }
+                            },
+                            {
+                                "wf": "desah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "desah",
+                                    "pos": "n",
+                                    "form": "desah"
+                                }
+                            },
+                            {
+                                "wf": "syair",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "syair",
+                                    "pos": "n",
+                                    "form": "syair"
+                                }
+                            },
+                            {
+                                "wf": "sepi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sepi",
+                                    "pos": "a",
+                                    "form": "sepi"
+                                }
+                            }
+                        ],
+                        "syllables": 6
+                    }
+                ],
+                "num_lines": 5
+            },
+            {
+                "strof": "\r\n",
+                "lines": [
+                    {
+                        "line": "",
+                        "words": [],
+                        "syllables": 0
+                    }
+                ],
+                "num_lines": 1
+            },
+            {
+                "strof": "Pagi ini\r\nSeperti ada yang bergumam di bumi\r\nBarangkali suaramu\r\nAtau jerit luka\r\nAtau tusukan syairmu\r\nKe hulu hati",
+                "lines": [
+                    {
+                        "line": "Pagi ini",
+                        "words": [
+                            {
+                                "wf": "Pagi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pagi",
+                                    "pos": "n",
+                                    "form": "pagi"
+                                }
+                            },
+                            {
+                                "wf": "ini",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ini",
+                                    "pos": "pron",
+                                    "form": "ini"
+                                }
+                            }
+                        ],
+                        "syllables": 4
+                    },
+                    {
+                        "line": "Seperti ada yang bergumam di bumi",
+                        "words": [
+                            {
+                                "wf": "Seperti",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "seperti",
+                                    "pos": "p",
+                                    "form": "seperti"
+                                }
+                            },
+                            {
+                                "wf": "ada",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ada",
+                                    "pos": "v",
+                                    "form": "ada"
+                                }
+                            },
+                            {
+                                "wf": "yang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "yang",
+                                    "pos": "a|v|n",
+                                    "form": "yang"
+                                }
+                            },
+                            {
+                                "wf": "bergumam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "gumam",
+                                    "pos": "v",
+                                    "form": "ber-gumam"
+                                }
+                            },
+                            {
+                                "wf": "di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "bumi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bumi",
+                                    "pos": "n",
+                                    "form": "bumi"
+                                }
+                            }
+                        ],
+                        "syllables": 12
+                    },
+                    {
+                        "line": "Barangkali suaramu",
+                        "words": [
+                            {
+                                "wf": "Barangkali",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "barangkali",
+                                    "pos": "adv",
+                                    "form": "barangkali"
+                                }
+                            },
+                            {
+                                "wf": "suaramu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "suara",
+                                    "pos": "n",
+                                    "form": "suara-mu"
+                                }
+                            }
+                        ],
+                        "syllables": 8
+                    },
+                    {
+                        "line": "Atau jerit luka",
+                        "words": [
+                            {
+                                "wf": "Atau",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "atau",
+                                    "pos": "p",
+                                    "form": "atau"
+                                }
+                            },
+                            {
+                                "wf": "jerit",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jerit",
+                                    "pos": "n",
+                                    "form": "jerit"
+                                }
+                            },
+                            {
+                                "wf": "luka",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "luka",
+                                    "pos": "n|v",
+                                    "form": "luka"
+                                }
+                            }
+                        ],
+                        "syllables": 5
+                    },
+                    {
+                        "line": "Atau tusukan syairmu",
+                        "words": [
+                            {
+                                "wf": "Atau",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "atau",
+                                    "pos": "p",
+                                    "form": "atau"
+                                }
+                            },
+                            {
+                                "wf": "tusukan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tusukan",
+                                    "pos": "v",
+                                    "form": "tusukan"
+                                }
+                            },
+                            {
+                                "wf": "syairmu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "syair",
+                                    "pos": "n",
+                                    "form": "syair-mu"
+                                }
+                            }
+                        ],
+                        "syllables": 6
+                    },
+                    {
+                        "line": "Ke hulu hati",
+                        "words": [
+                            {
+                                "wf": "Ke",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ke",
+                                    "pos": "p",
+                                    "form": "ke"
+                                }
+                            },
+                            {
+                                "wf": "hulu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hulu",
+                                    "pos": "n",
+                                    "form": "hulu"
+                                }
+                            },
+                            {
+                                "wf": "hati",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hati",
+                                    "pos": "n",
+                                    "form": "hati"
+                                }
+                            }
+                        ],
+                        "syllables": 5
+                    }
+                ],
+                "num_lines": 6
+            },
+            {
+                "strof": "\r\n",
+                "lines": [
+                    {
+                        "line": "",
+                        "words": [],
+                        "syllables": 0
+                    }
+                ],
+                "num_lines": 1
+            },
+            {
+                "strof": "Pagi ini\r\nSeperti terdengar kersik angin\r\nAtau percik keringat bumi\r\nMengguratkan namamu\r\nDi pualam abadi",
+                "lines": [
+                    {
+                        "line": "Pagi ini",
+                        "words": [
+                            {
+                                "wf": "Pagi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pagi",
+                                    "pos": "n",
+                                    "form": "pagi"
+                                }
+                            },
+                            {
+                                "wf": "ini",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ini",
+                                    "pos": "pron",
+                                    "form": "ini"
+                                }
+                            }
+                        ],
+                        "syllables": 4
+                    },
+                    {
+                        "line": "Seperti terdengar kersik angin",
+                        "words": [
+                            {
+                                "wf": "Seperti",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "seperti",
+                                    "pos": "p",
+                                    "form": "seperti"
+                                }
+                            },
+                            {
+                                "wf": "terdengar",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dengar",
+                                    "pos": "v",
+                                    "form": "terdengar"
+                                }
+                            },
+                            {
+                                "wf": "kersik",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kersik",
+                                    "pos": "n",
+                                    "form": "kersik"
+                                }
+                            },
+                            {
+                                "wf": "angin",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "angin",
+                                    "pos": "n",
+                                    "form": "angin"
+                                }
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "Atau percik keringat bumi",
+                        "words": [
+                            {
+                                "wf": "Atau",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "atau",
+                                    "pos": "p",
+                                    "form": "atau"
+                                }
+                            },
+                            {
+                                "wf": "percik",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "percik",
+                                    "pos": "n",
+                                    "form": "percik"
+                                }
+                            },
+                            {
+                                "wf": "keringat",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "keringat",
+                                    "pos": "n",
+                                    "form": "keringat"
+                                }
+                            },
+                            {
+                                "wf": "bumi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bumi",
+                                    "pos": "n",
+                                    "form": "bumi"
+                                }
+                            }
+                        ],
+                        "syllables": 8
+                    },
+                    {
+                        "line": "Mengguratkan namamu",
+                        "words": [
+                            {
+                                "wf": "Mengguratkan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "mengguratkan",
+                                    "pos": "v",
+                                    "form": "mengguratkan"
+                                }
+                            },
+                            {
+                                "wf": "namamu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "namamu",
+                                    "pos": "a|n",
+                                    "form": "namamu"
+                                }
+                            }
+                        ],
+                        "syllables": 7
+                    },
+                    {
+                        "line": "Di pualam abadi",
+                        "words": [
+                            {
+                                "wf": "Di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "pualam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pualam",
+                                    "pos": "n",
+                                    "form": "pualam"
+                                }
+                            },
+                            {
+                                "wf": "abadi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "abadi",
+                                    "pos": "a",
+                                    "form": "abadi"
+                                }
+                            }
+                        ],
+                        "syllables": 7
+                    }
+                ],
+                "num_lines": 5
+            }
+        ]
+    }
+}

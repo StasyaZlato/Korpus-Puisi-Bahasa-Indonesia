@@ -1,0 +1,526 @@
+{
+    "meta": {
+        "file_name": "121.json",
+        "id_bd": 121,
+        "author": "Chairil Anwar",
+        "title": "Isa",
+        "genre": "стихотворение",
+        "year": "12.11.1943",
+        "num_lines": 16,
+        "rhyme": "Есть",
+        "syllables": [
+            9,
+            3,
+            5,
+            5,
+            2,
+            2,
+            9,
+            10,
+            9,
+            10,
+            10,
+            5,
+            5,
+            3,
+            5,
+            5
+        ],
+        "strofy": [
+            16
+        ]
+    },
+    "poem": {
+        "text": "kepada nasrani sejati\r\nItu Tubuh\r\nmengucur darah\r\nmengucur darah\r\nrubuh\r\npatah\r\nmendampar Tanya: aku salah?\r\nkulihat Tubuh mengucur darah\r\naku berkaca dalam darah\r\nterbayang terang di mata masa\r\nbertukar rupa ini segara\r\nmengatup luka\r\naku bersuka\r\nItu Tubuh\r\nmengucur darah\r\nmengucur darah",
+        "strof": [
+            {
+                "strof": "kepada nasrani sejati\r\nItu Tubuh\r\nmengucur darah\r\nmengucur darah\r\nrubuh\r\npatah\r\nmendampar Tanya: aku salah?\r\nkulihat Tubuh mengucur darah\r\naku berkaca dalam darah\r\nterbayang terang di mata masa\r\nbertukar rupa ini segara\r\nmengatup luka\r\naku bersuka\r\nItu Tubuh\r\nmengucur darah\r\nmengucur darah",
+                "lines": [
+                    {
+                        "line": "kepada nasrani sejati",
+                        "words": [
+                            {
+                                "wf": "kepada",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kepada",
+                                    "pos": "p",
+                                    "form": "kepada"
+                                }
+                            },
+                            {
+                                "wf": "nasrani",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "Nasrani",
+                                    "pos": "n",
+                                    "form": "nasrani"
+                                }
+                            },
+                            {
+                                "wf": "sejati",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sejati",
+                                    "pos": "a",
+                                    "form": "se-jati"
+                                }
+                            }
+                        ],
+                        "syllables": 9
+                    },
+                    {
+                        "line": "Itu Tubuh",
+                        "words": [
+                            {
+                                "wf": "Itu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "itu",
+                                    "pos": "pron|n",
+                                    "form": "itu"
+                                }
+                            },
+                            {
+                                "wf": "Tubuh",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tubuh",
+                                    "pos": "n",
+                                    "form": "tubuh"
+                                }
+                            }
+                        ],
+                        "syllables": 3
+                    },
+                    {
+                        "line": "mengucur darah",
+                        "words": [
+                            {
+                                "wf": "mengucur",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kucur",
+                                    "pos": "v",
+                                    "form": "meN-kucur"
+                                }
+                            },
+                            {
+                                "wf": "darah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "darah",
+                                    "pos": "n",
+                                    "form": "darah"
+                                }
+                            }
+                        ],
+                        "syllables": 5
+                    },
+                    {
+                        "line": "mengucur darah",
+                        "words": [
+                            {
+                                "wf": "mengucur",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kucur",
+                                    "pos": "v",
+                                    "form": "meN-kucur"
+                                }
+                            },
+                            {
+                                "wf": "darah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "darah",
+                                    "pos": "n",
+                                    "form": "darah"
+                                }
+                            }
+                        ],
+                        "syllables": 5
+                    },
+                    {
+                        "line": "rubuh",
+                        "words": [
+                            {
+                                "wf": "rubuh",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "rubuh",
+                                    "pos": "?",
+                                    "form": "rubuh"
+                                }
+                            }
+                        ],
+                        "syllables": 2
+                    },
+                    {
+                        "line": "patah",
+                        "words": [
+                            {
+                                "wf": "patah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "patah",
+                                    "pos": "a",
+                                    "form": "patah"
+                                }
+                            }
+                        ],
+                        "syllables": 2
+                    },
+                    {
+                        "line": "mendampar Tanya: aku salah?",
+                        "words": [
+                            {
+                                "wf": "mendampar",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dampar",
+                                    "pos": "v",
+                                    "form": "meN-dampar"
+                                }
+                            },
+                            {
+                                "wf": "Tanya",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tanya",
+                                    "pos": "n|v",
+                                    "form": "tanya"
+                                }
+                            },
+                            {
+                                "wf": ": ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "aku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "aku",
+                                    "pos": "pron",
+                                    "form": "aku"
+                                }
+                            },
+                            {
+                                "wf": "salah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "salah",
+                                    "pos": "a",
+                                    "form": "salah"
+                                }
+                            },
+                            {
+                                "wf": "?",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 9
+                    },
+                    {
+                        "line": "kulihat Tubuh mengucur darah",
+                        "words": [
+                            {
+                                "wf": "kulihat",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lihat",
+                                    "pos": "v",
+                                    "form": "ku-lihat"
+                                }
+                            },
+                            {
+                                "wf": "Tubuh",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tubuh",
+                                    "pos": "n",
+                                    "form": "tubuh"
+                                }
+                            },
+                            {
+                                "wf": "mengucur",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kucur",
+                                    "pos": "v",
+                                    "form": "meN-kucur"
+                                }
+                            },
+                            {
+                                "wf": "darah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "darah",
+                                    "pos": "n",
+                                    "form": "darah"
+                                }
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "aku berkaca dalam darah",
+                        "words": [
+                            {
+                                "wf": "aku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "aku",
+                                    "pos": "pron",
+                                    "form": "aku"
+                                }
+                            },
+                            {
+                                "wf": "berkaca",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kaca",
+                                    "pos": "v",
+                                    "form": "ber-kaca"
+                                }
+                            },
+                            {
+                                "wf": "dalam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dalam",
+                                    "pos": "a|n",
+                                    "form": "dalam"
+                                }
+                            },
+                            {
+                                "wf": "darah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "darah",
+                                    "pos": "n",
+                                    "form": "darah"
+                                }
+                            }
+                        ],
+                        "syllables": 9
+                    },
+                    {
+                        "line": "terbayang terang di mata masa",
+                        "words": [
+                            {
+                                "wf": "terbayang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bayang",
+                                    "pos": "v",
+                                    "form": "ter-bayang"
+                                }
+                            },
+                            {
+                                "wf": "terang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "terang",
+                                    "pos": "a",
+                                    "form": "terang"
+                                }
+                            },
+                            {
+                                "wf": "di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "mata",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "mata",
+                                    "pos": "n",
+                                    "form": "mata"
+                                }
+                            },
+                            {
+                                "wf": "masa",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "masa",
+                                    "pos": "n",
+                                    "form": "masa"
+                                }
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "bertukar rupa ini segara",
+                        "words": [
+                            {
+                                "wf": "bertukar",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tukar",
+                                    "pos": "v",
+                                    "form": "bertukar"
+                                }
+                            },
+                            {
+                                "wf": "rupa",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "rupa",
+                                    "pos": "n",
+                                    "form": "rupa"
+                                }
+                            },
+                            {
+                                "wf": "ini",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ini",
+                                    "pos": "pron",
+                                    "form": "ini"
+                                }
+                            },
+                            {
+                                "wf": "segara",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "segara",
+                                    "pos": "n",
+                                    "form": "segara"
+                                }
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "mengatup luka",
+                        "words": [
+                            {
+                                "wf": "mengatup",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "katup",
+                                    "pos": "v",
+                                    "form": "meN-katup"
+                                }
+                            },
+                            {
+                                "wf": "luka",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "luka",
+                                    "pos": "n|v",
+                                    "form": "luka"
+                                }
+                            }
+                        ],
+                        "syllables": 5
+                    },
+                    {
+                        "line": "aku bersuka",
+                        "words": [
+                            {
+                                "wf": "aku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "aku",
+                                    "pos": "pron",
+                                    "form": "aku"
+                                }
+                            },
+                            {
+                                "wf": "bersuka",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bersuka",
+                                    "pos": "v",
+                                    "form": "bersuka"
+                                }
+                            }
+                        ],
+                        "syllables": 5
+                    },
+                    {
+                        "line": "Itu Tubuh",
+                        "words": [
+                            {
+                                "wf": "Itu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "itu",
+                                    "pos": "pron|n",
+                                    "form": "itu"
+                                }
+                            },
+                            {
+                                "wf": "Tubuh",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tubuh",
+                                    "pos": "n",
+                                    "form": "tubuh"
+                                }
+                            }
+                        ],
+                        "syllables": 3
+                    },
+                    {
+                        "line": "mengucur darah",
+                        "words": [
+                            {
+                                "wf": "mengucur",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kucur",
+                                    "pos": "v",
+                                    "form": "meN-kucur"
+                                }
+                            },
+                            {
+                                "wf": "darah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "darah",
+                                    "pos": "n",
+                                    "form": "darah"
+                                }
+                            }
+                        ],
+                        "syllables": 5
+                    },
+                    {
+                        "line": "mengucur darah",
+                        "words": [
+                            {
+                                "wf": "mengucur",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kucur",
+                                    "pos": "v",
+                                    "form": "meN-kucur"
+                                }
+                            },
+                            {
+                                "wf": "darah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "darah",
+                                    "pos": "n",
+                                    "form": "darah"
+                                }
+                            }
+                        ],
+                        "syllables": 5
+                    }
+                ],
+                "num_lines": 16
+            }
+        ]
+    }
+}

@@ -1,0 +1,523 @@
+{
+    "meta": {
+        "file_name": "69.json",
+        "id_bd": 69,
+        "author": "Amir Hamzah",
+        "title": "Nyanyian farid",
+        "genre": "религиозная поэзия: церковная песнь",
+        "year": "---",
+        "num_lines": 14,
+        "rhyme": "Спорадическая",
+        "syllables": [
+            13,
+            7,
+            5,
+            2,
+            3,
+            4,
+            8,
+            10,
+            6,
+            10,
+            9,
+            3,
+            10,
+            9
+        ],
+        "strofy": [
+            14
+        ]
+    },
+    "poem": {
+        "text": "Farid, jika manusia memukul senda\r\nJangan memukul pula\r\nCium kakinya\r\nLalu …\r\nDan lupa …\r\nKeduanya …\r\nYang menjadikan terkandung\r\nDalam segala yang dijadikan\r\nDan yang dijadikan\r\nTersimpul dalam yang menjadikan\r\nBagaimana engkau berani\r\nYa Farid,\r\nMenyumpah sesuatu yang buruk?\r\nTiada ada melainkan Ia.",
+        "strof": [
+            {
+                "strof": "Farid, jika manusia memukul senda\r\nJangan memukul pula\r\nCium kakinya\r\nLalu …\r\nDan lupa …\r\nKeduanya …\r\nYang menjadikan terkandung\r\nDalam segala yang dijadikan\r\nDan yang dijadikan\r\nTersimpul dalam yang menjadikan\r\nBagaimana engkau berani\r\nYa Farid,\r\nMenyumpah sesuatu yang buruk?\r\nTiada ada melainkan Ia.",
+                "lines": [
+                    {
+                        "line": "Farid, jika manusia memukul senda",
+                        "words": [
+                            {
+                                "wf": "Farid",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "farid",
+                                    "pos": "?",
+                                    "form": "farid"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "jika",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jika",
+                                    "pos": "p",
+                                    "form": "jika"
+                                }
+                            },
+                            {
+                                "wf": "manusia",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "manusia",
+                                    "pos": "n",
+                                    "form": "manusia"
+                                }
+                            },
+                            {
+                                "wf": "memukul",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pukul",
+                                    "pos": "v",
+                                    "form": "meN-pukul"
+                                }
+                            },
+                            {
+                                "wf": "senda",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "senda",
+                                    "pos": "v",
+                                    "form": "senda"
+                                }
+                            }
+                        ],
+                        "syllables": 13
+                    },
+                    {
+                        "line": "Jangan memukul pula",
+                        "words": [
+                            {
+                                "wf": "Jangan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jangan",
+                                    "pos": "adv",
+                                    "form": "jangan"
+                                }
+                            },
+                            {
+                                "wf": "memukul",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pukul",
+                                    "pos": "v",
+                                    "form": "meN-pukul"
+                                }
+                            },
+                            {
+                                "wf": "pula",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pula",
+                                    "pos": "p",
+                                    "form": "pula"
+                                }
+                            }
+                        ],
+                        "syllables": 7
+                    },
+                    {
+                        "line": "Cium kakinya",
+                        "words": [
+                            {
+                                "wf": "Cium",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "cium",
+                                    "pos": "v",
+                                    "form": "cium"
+                                }
+                            },
+                            {
+                                "wf": "kakinya",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kakinya",
+                                    "pos": "n",
+                                    "form": "kakinya"
+                                }
+                            }
+                        ],
+                        "syllables": 5
+                    },
+                    {
+                        "line": "Lalu …",
+                        "words": [
+                            {
+                                "wf": "Lalu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lalu",
+                                    "pos": "adv",
+                                    "form": "lalu"
+                                }
+                            },
+                            {
+                                "wf": " …",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 2
+                    },
+                    {
+                        "line": "Dan lupa …",
+                        "words": [
+                            {
+                                "wf": "Dan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dan",
+                                    "pos": "p",
+                                    "form": "dan"
+                                }
+                            },
+                            {
+                                "wf": "lupa",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lupa",
+                                    "pos": "v|a",
+                                    "form": "lupa"
+                                }
+                            },
+                            {
+                                "wf": " …",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 3
+                    },
+                    {
+                        "line": "Keduanya …",
+                        "words": [
+                            {
+                                "wf": "Keduanya",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "keduanya",
+                                    "pos": "?",
+                                    "form": "keduanya"
+                                }
+                            },
+                            {
+                                "wf": " …",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 4
+                    },
+                    {
+                        "line": "Yang menjadikan terkandung",
+                        "words": [
+                            {
+                                "wf": "Yang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "yang",
+                                    "pos": "a|v|n",
+                                    "form": "yang"
+                                }
+                            },
+                            {
+                                "wf": "menjadikan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jadi",
+                                    "pos": "v",
+                                    "form": "meN-jadi-kan"
+                                }
+                            },
+                            {
+                                "wf": "terkandung",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kandung",
+                                    "pos": "v",
+                                    "form": "ter-kandung"
+                                }
+                            }
+                        ],
+                        "syllables": 8
+                    },
+                    {
+                        "line": "Dalam segala yang dijadikan",
+                        "words": [
+                            {
+                                "wf": "Dalam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dalam",
+                                    "pos": "a|n",
+                                    "form": "dalam"
+                                }
+                            },
+                            {
+                                "wf": "segala",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "segala",
+                                    "pos": "num",
+                                    "form": "segala"
+                                }
+                            },
+                            {
+                                "wf": "yang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "yang",
+                                    "pos": "a|v|n",
+                                    "form": "yang"
+                                }
+                            },
+                            {
+                                "wf": "dijadikan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "",
+                                    "pos": "v",
+                                    "form": "di-dijadikan"
+                                }
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "Dan yang dijadikan",
+                        "words": [
+                            {
+                                "wf": "Dan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dan",
+                                    "pos": "p",
+                                    "form": "dan"
+                                }
+                            },
+                            {
+                                "wf": "yang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "yang",
+                                    "pos": "a|v|n",
+                                    "form": "yang"
+                                }
+                            },
+                            {
+                                "wf": "dijadikan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "",
+                                    "pos": "v",
+                                    "form": "di-dijadikan"
+                                }
+                            }
+                        ],
+                        "syllables": 6
+                    },
+                    {
+                        "line": "Tersimpul dalam yang menjadikan",
+                        "words": [
+                            {
+                                "wf": "Tersimpul",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "simpul",
+                                    "pos": "v",
+                                    "form": "ter-simpul"
+                                }
+                            },
+                            {
+                                "wf": "dalam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dalam",
+                                    "pos": "a|n",
+                                    "form": "dalam"
+                                }
+                            },
+                            {
+                                "wf": "yang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "yang",
+                                    "pos": "a|v|n",
+                                    "form": "yang"
+                                }
+                            },
+                            {
+                                "wf": "menjadikan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jadi",
+                                    "pos": "v",
+                                    "form": "meN-jadi-kan"
+                                }
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "Bagaimana engkau berani",
+                        "words": [
+                            {
+                                "wf": "Bagaimana",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bagaimana",
+                                    "pos": "pron",
+                                    "form": "bagaimana"
+                                }
+                            },
+                            {
+                                "wf": "engkau",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "engkau",
+                                    "pos": "pron",
+                                    "form": "engkau"
+                                }
+                            },
+                            {
+                                "wf": "berani",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "berani",
+                                    "pos": "a",
+                                    "form": "berani"
+                                }
+                            }
+                        ],
+                        "syllables": 9
+                    },
+                    {
+                        "line": "Ya Farid,",
+                        "words": [
+                            {
+                                "wf": "Ya",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ya",
+                                    "pos": "adv",
+                                    "form": "ya"
+                                }
+                            },
+                            {
+                                "wf": "Farid",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "farid",
+                                    "pos": "?",
+                                    "form": "farid"
+                                }
+                            },
+                            {
+                                "wf": ",",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 3
+                    },
+                    {
+                        "line": "Menyumpah sesuatu yang buruk?",
+                        "words": [
+                            {
+                                "wf": "Menyumpah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sumpah",
+                                    "pos": "v",
+                                    "form": "meN-sumpah"
+                                }
+                            },
+                            {
+                                "wf": "sesuatu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "suatu",
+                                    "pos": "pron",
+                                    "form": "se-suatu"
+                                }
+                            },
+                            {
+                                "wf": "yang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "yang",
+                                    "pos": "a|v|n",
+                                    "form": "yang"
+                                }
+                            },
+                            {
+                                "wf": "buruk",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "buruk",
+                                    "pos": "a",
+                                    "form": "buruk"
+                                }
+                            },
+                            {
+                                "wf": "?",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "Tiada ada melainkan Ia.",
+                        "words": [
+                            {
+                                "wf": "Tiada",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tiada",
+                                    "pos": "v",
+                                    "form": "tiada"
+                                }
+                            },
+                            {
+                                "wf": "ada",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ada",
+                                    "pos": "v",
+                                    "form": "ada"
+                                }
+                            },
+                            {
+                                "wf": "melainkan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lain",
+                                    "pos": "v|p",
+                                    "form": "meN-lain-kan"
+                                }
+                            },
+                            {
+                                "wf": "Ia",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ia",
+                                    "pos": "n",
+                                    "form": "ia"
+                                }
+                            },
+                            {
+                                "wf": ".",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 9
+                    }
+                ],
+                "num_lines": 14
+            }
+        ]
+    }
+}

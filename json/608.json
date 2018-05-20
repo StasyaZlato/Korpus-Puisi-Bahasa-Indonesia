@@ -1,0 +1,613 @@
+{
+    "meta": {
+        "file_name": "608.json",
+        "id_bd": 608,
+        "author": "Umbu Landu Paranggi",
+        "title": "Sabana",
+        "genre": "стихотворение",
+        "year": "---",
+        "num_lines": 18,
+        "rhyme": "Есть",
+        "syllables": [
+            5,
+            9,
+            5,
+            8,
+            5,
+            6,
+            7,
+            9,
+            5,
+            5,
+            6,
+            9,
+            6,
+            7,
+            7,
+            7,
+            8,
+            11
+        ],
+        "strofy": [
+            18
+        ]
+    },
+    "poem": {
+        "text": "{memburu fajar\r\nyang mengusir bayang-bayangku\r\nmengahdang senja\r\nyang memanggil petualang\r\nsabana sunyi\r\ndi sini hidupku\r\nsebuah gitar tua\r\nseorang lelaki berkuda\r\nsabana tandus\r\nmainkan laguku\r\nharum nafas bunda\r\nseorang gembala berpacu\r\nlapar dan dahaga\r\nkemarau yang kurindu\r\ndibakar matahari\r\nhela jiwaku risau\r\nkerna kumau lebih cinta\r\nhujan aku ke gigir cakrawala}",
+        "strof": [
+            {
+                "strof": "memburu fajar\r\nyang mengusir bayang-bayangku\r\nmengahdang senja\r\nyang memanggil petualang\r\nsabana sunyi\r\ndi sini hidupku\r\nsebuah gitar tua\r\nseorang lelaki berkuda\r\nsabana tandus\r\nmainkan laguku\r\nharum nafas bunda\r\nseorang gembala berpacu\r\nlapar dan dahaga\r\nkemarau yang kurindu\r\ndibakar matahari\r\nhela jiwaku risau\r\nkerna kumau lebih cinta\r\nhujan aku ke gigir cakrawala",
+                "lines": [
+                    {
+                        "line": "memburu fajar",
+                        "words": [
+                            {
+                                "wf": "memburu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "buru",
+                                    "pos": "v",
+                                    "form": "meN-buru"
+                                }
+                            },
+                            {
+                                "wf": "fajar",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "fajar",
+                                    "pos": "n",
+                                    "form": "fajar"
+                                }
+                            }
+                        ],
+                        "syllables": 5
+                    },
+                    {
+                        "line": "yang mengusir bayang-bayangku",
+                        "words": [
+                            {
+                                "wf": "yang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "yang",
+                                    "pos": "a|v|n",
+                                    "form": "yang"
+                                }
+                            },
+                            {
+                                "wf": "mengusir",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "usir",
+                                    "pos": "v",
+                                    "form": "meN-usir"
+                                }
+                            },
+                            {
+                                "wf": "bayang-bayangku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bayang",
+                                    "pos": "n",
+                                    "form": "bayang-bayang-ku-ku"
+                                }
+                            }
+                        ],
+                        "syllables": 9
+                    },
+                    {
+                        "line": "mengahdang senja",
+                        "words": [
+                            {
+                                "wf": "mengahdang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "mengahdang",
+                                    "pos": "v",
+                                    "form": "mengahdang"
+                                }
+                            },
+                            {
+                                "wf": "senja",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "senja",
+                                    "pos": "n",
+                                    "form": "senja"
+                                }
+                            }
+                        ],
+                        "syllables": 5
+                    },
+                    {
+                        "line": "yang memanggil petualang",
+                        "words": [
+                            {
+                                "wf": "yang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "yang",
+                                    "pos": "a|v|n",
+                                    "form": "yang"
+                                }
+                            },
+                            {
+                                "wf": "memanggil",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "panggil",
+                                    "pos": "v",
+                                    "form": "meN-panggil"
+                                }
+                            },
+                            {
+                                "wf": "petualang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tualang",
+                                    "pos": "n",
+                                    "form": "pe-tualang"
+                                }
+                            }
+                        ],
+                        "syllables": 8
+                    },
+                    {
+                        "line": "sabana sunyi",
+                        "words": [
+                            {
+                                "wf": "sabana",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "savana",
+                                    "pos": "n",
+                                    "form": "sabana"
+                                }
+                            },
+                            {
+                                "wf": "sunyi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sunyi",
+                                    "pos": "a",
+                                    "form": "sunyi"
+                                }
+                            }
+                        ],
+                        "syllables": 5
+                    },
+                    {
+                        "line": "di sini hidupku",
+                        "words": [
+                            {
+                                "wf": "di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "sini",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sini",
+                                    "pos": "pron",
+                                    "form": "sini"
+                                }
+                            },
+                            {
+                                "wf": "hidupku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hidup",
+                                    "pos": "v",
+                                    "form": "hidup-ku"
+                                }
+                            }
+                        ],
+                        "syllables": 6
+                    },
+                    {
+                        "line": "sebuah gitar tua",
+                        "words": [
+                            {
+                                "wf": "sebuah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "buah",
+                                    "pos": "n",
+                                    "form": "se-buah"
+                                }
+                            },
+                            {
+                                "wf": "gitar",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "gitar",
+                                    "pos": "v",
+                                    "form": "gitar"
+                                }
+                            },
+                            {
+                                "wf": "tua",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tua",
+                                    "pos": "a",
+                                    "form": "tua"
+                                }
+                            }
+                        ],
+                        "syllables": 7
+                    },
+                    {
+                        "line": "seorang lelaki berkuda",
+                        "words": [
+                            {
+                                "wf": "seorang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "orang",
+                                    "pos": "n",
+                                    "form": "se-orang"
+                                }
+                            },
+                            {
+                                "wf": "lelaki",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lelaki",
+                                    "pos": "n",
+                                    "form": "lelaki"
+                                }
+                            },
+                            {
+                                "wf": "berkuda",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kuda",
+                                    "pos": "v",
+                                    "form": "ber-kuda"
+                                }
+                            }
+                        ],
+                        "syllables": 9
+                    },
+                    {
+                        "line": "sabana tandus",
+                        "words": [
+                            {
+                                "wf": "sabana",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "savana",
+                                    "pos": "n",
+                                    "form": "sabana"
+                                }
+                            },
+                            {
+                                "wf": "tandus",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tandus",
+                                    "pos": "a",
+                                    "form": "tandus"
+                                }
+                            }
+                        ],
+                        "syllables": 5
+                    },
+                    {
+                        "line": "mainkan laguku",
+                        "words": [
+                            {
+                                "wf": "mainkan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "main",
+                                    "pos": "v",
+                                    "form": "main-kan"
+                                }
+                            },
+                            {
+                                "wf": "laguku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lagu",
+                                    "pos": "n",
+                                    "form": "lagu-ku"
+                                }
+                            }
+                        ],
+                        "syllables": 5
+                    },
+                    {
+                        "line": "harum nafas bunda",
+                        "words": [
+                            {
+                                "wf": "harum",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "harum",
+                                    "pos": "a",
+                                    "form": "harum"
+                                }
+                            },
+                            {
+                                "wf": "nafas",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "nafas",
+                                    "pos": "?",
+                                    "form": "nafas"
+                                }
+                            },
+                            {
+                                "wf": "bunda",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bunda",
+                                    "pos": "n",
+                                    "form": "bunda"
+                                }
+                            }
+                        ],
+                        "syllables": 6
+                    },
+                    {
+                        "line": "seorang gembala berpacu",
+                        "words": [
+                            {
+                                "wf": "seorang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "orang",
+                                    "pos": "n",
+                                    "form": "se-orang"
+                                }
+                            },
+                            {
+                                "wf": "gembala",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "gembala",
+                                    "pos": "n",
+                                    "form": "gembala"
+                                }
+                            },
+                            {
+                                "wf": "berpacu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pacu",
+                                    "pos": "v",
+                                    "form": "ber-pacu"
+                                }
+                            }
+                        ],
+                        "syllables": 9
+                    },
+                    {
+                        "line": "lapar dan dahaga",
+                        "words": [
+                            {
+                                "wf": "lapar",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lapar",
+                                    "pos": "a",
+                                    "form": "lapar"
+                                }
+                            },
+                            {
+                                "wf": "dan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dan",
+                                    "pos": "p",
+                                    "form": "dan"
+                                }
+                            },
+                            {
+                                "wf": "dahaga",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dahaga",
+                                    "pos": "a",
+                                    "form": "dahaga"
+                                }
+                            }
+                        ],
+                        "syllables": 6
+                    },
+                    {
+                        "line": "kemarau yang kurindu",
+                        "words": [
+                            {
+                                "wf": "kemarau",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kemarau",
+                                    "pos": "a",
+                                    "form": "kemarau"
+                                }
+                            },
+                            {
+                                "wf": "yang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "yang",
+                                    "pos": "a|v|n",
+                                    "form": "yang"
+                                }
+                            },
+                            {
+                                "wf": "kurindu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "rindu",
+                                    "pos": "a",
+                                    "form": "ku-rindu"
+                                }
+                            }
+                        ],
+                        "syllables": 7
+                    },
+                    {
+                        "line": "dibakar matahari",
+                        "words": [
+                            {
+                                "wf": "dibakar",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bakar",
+                                    "pos": "v",
+                                    "form": "di-bakar"
+                                }
+                            },
+                            {
+                                "wf": "matahari",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "matahari",
+                                    "pos": "n",
+                                    "form": "matahari"
+                                }
+                            }
+                        ],
+                        "syllables": 7
+                    },
+                    {
+                        "line": "hela jiwaku risau",
+                        "words": [
+                            {
+                                "wf": "hela",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hela",
+                                    "pos": "n",
+                                    "form": "hela"
+                                }
+                            },
+                            {
+                                "wf": "jiwaku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jiwa",
+                                    "pos": "n",
+                                    "form": "jiwa-ku"
+                                }
+                            },
+                            {
+                                "wf": "risau",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "risau",
+                                    "pos": "a",
+                                    "form": "risau"
+                                }
+                            }
+                        ],
+                        "syllables": 7
+                    },
+                    {
+                        "line": "kerna kumau lebih cinta",
+                        "words": [
+                            {
+                                "wf": "kerna",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kerna",
+                                    "pos": "?",
+                                    "form": "kerna"
+                                }
+                            },
+                            {
+                                "wf": "kumau",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "mau",
+                                    "pos": "adv|n",
+                                    "form": "ku-mau"
+                                }
+                            },
+                            {
+                                "wf": "lebih",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lebih",
+                                    "pos": "a",
+                                    "form": "lebih"
+                                }
+                            },
+                            {
+                                "wf": "cinta",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "cinta",
+                                    "pos": "a",
+                                    "form": "cinta"
+                                }
+                            }
+                        ],
+                        "syllables": 8
+                    },
+                    {
+                        "line": "hujan aku ke gigir cakrawala",
+                        "words": [
+                            {
+                                "wf": "hujan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hujan",
+                                    "pos": "n",
+                                    "form": "hujan"
+                                }
+                            },
+                            {
+                                "wf": "aku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "aku",
+                                    "pos": "pron",
+                                    "form": "aku"
+                                }
+                            },
+                            {
+                                "wf": "ke",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ke",
+                                    "pos": "p",
+                                    "form": "ke"
+                                }
+                            },
+                            {
+                                "wf": "gigir",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "gigir",
+                                    "pos": "n",
+                                    "form": "gigir"
+                                }
+                            },
+                            {
+                                "wf": "cakrawala",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "cakrawala",
+                                    "pos": "n",
+                                    "form": "cakrawala"
+                                }
+                            }
+                        ],
+                        "syllables": 11
+                    }
+                ],
+                "num_lines": 18
+            }
+        ]
+    }
+}

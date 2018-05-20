@@ -1,0 +1,765 @@
+{
+    "meta": {
+        "file_name": "34.json",
+        "id_bd": 34,
+        "author": "Amir Hamzah",
+        "title": "Naik-naik",
+        "genre": "стихотворение",
+        "year": "---",
+        "num_lines": 16,
+        "rhyme": "Есть",
+        "syllables": [
+            12,
+            10,
+            10,
+            16,
+            10,
+            10,
+            10,
+            11,
+            9,
+            10,
+            9,
+            10,
+            10,
+            11,
+            12,
+            9
+        ],
+        "strofy": [
+            16
+        ]
+    },
+    "poem": {
+        "text": "Membubung badanku, melambung, mengawan\r\nnaik, naik, tipis-rampis, kudus halus\r\nmelayang-terbang, mengembang-kembang\r\nmenyerupa-rupa merona-warni langit-lazwardi.\r\nBertiup badai merentak topan\r\nlarikan daku hembuskan badan\r\ntepukkan daku ke puncak tinggi\r\nranggitkan daku kelengkung pelangi...\r\nTenang-tenang anginku sayang\r\ntinggalkan badan di lengkung benang\r\nreda-reda badaiku dalam\r\nulikkan sepoi sunyikan dendam.\r\nBiarkan daku tinggal di sini\r\nsentosa diriku di sunyi sepi\r\ntiada berharap tiada meminta\r\njauh dunia di sisi dewa.",
+        "strof": [
+            {
+                "strof": "Membubung badanku, melambung, mengawan\r\nnaik, naik, tipis-rampis, kudus halus\r\nmelayang-terbang, mengembang-kembang\r\nmenyerupa-rupa merona-warni langit-lazwardi.\r\nBertiup badai merentak topan\r\nlarikan daku hembuskan badan\r\ntepukkan daku ke puncak tinggi\r\nranggitkan daku kelengkung pelangi...\r\nTenang-tenang anginku sayang\r\ntinggalkan badan di lengkung benang\r\nreda-reda badaiku dalam\r\nulikkan sepoi sunyikan dendam.\r\nBiarkan daku tinggal di sini\r\nsentosa diriku di sunyi sepi\r\ntiada berharap tiada meminta\r\njauh dunia di sisi dewa.",
+                "lines": [
+                    {
+                        "line": "Membubung badanku, melambung, mengawan",
+                        "words": [
+                            {
+                                "wf": "Membubung",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "membubung",
+                                    "pos": "v",
+                                    "form": "membubung"
+                                }
+                            },
+                            {
+                                "wf": "badanku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "badan",
+                                    "pos": "n",
+                                    "form": "badan-ku"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "melambung",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lambung",
+                                    "pos": "v",
+                                    "form": "meN-lambung"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "mengawan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "mengawan",
+                                    "pos": "v",
+                                    "form": "mengawan"
+                                }
+                            }
+                        ],
+                        "syllables": 12
+                    },
+                    {
+                        "line": "naik, naik, tipis-rampis, kudus halus",
+                        "words": [
+                            {
+                                "wf": "naik",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "naik",
+                                    "pos": "v",
+                                    "form": "naik"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "naik",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "naik",
+                                    "pos": "v",
+                                    "form": "naik"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "tipis-rampis",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tipis",
+                                    "pos": "?",
+                                    "form": "tipis-rampis"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "kudus",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kudus",
+                                    "pos": "a",
+                                    "form": "kudus"
+                                }
+                            },
+                            {
+                                "wf": "halus",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "halus",
+                                    "pos": "a",
+                                    "form": "halus"
+                                }
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "melayang-terbang, mengembang-kembang",
+                        "words": [
+                            {
+                                "wf": "melayang-terbang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "layang",
+                                    "pos": "v",
+                                    "form": "melayang-terbang"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "mengembang-kembang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "",
+                                    "pos": "v",
+                                    "form": "mengembang-kembang"
+                                }
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "menyerupa-rupa merona-warni langit-lazwardi.",
+                        "words": [
+                            {
+                                "wf": "menyerupa-rupa",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "rupa",
+                                    "pos": "v",
+                                    "form": "menyerupa-rupa"
+                                }
+                            },
+                            {
+                                "wf": "merona-warni",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "warna-warni",
+                                    "pos": "v",
+                                    "form": "merona-warni"
+                                }
+                            },
+                            {
+                                "wf": "langit-lazwardi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "langit",
+                                    "pos": "?",
+                                    "form": "langit-lazwardi"
+                                }
+                            },
+                            {
+                                "wf": ".",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 16
+                    },
+                    {
+                        "line": "Bertiup badai merentak topan",
+                        "words": [
+                            {
+                                "wf": "Bertiup",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bertiup",
+                                    "pos": "?",
+                                    "form": "ber-tiup"
+                                }
+                            },
+                            {
+                                "wf": "badai",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "badai",
+                                    "pos": "n",
+                                    "form": "badai"
+                                }
+                            },
+                            {
+                                "wf": "merentak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "merentak",
+                                    "pos": "v",
+                                    "form": "merentak"
+                                }
+                            },
+                            {
+                                "wf": "topan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "topan",
+                                    "pos": "n",
+                                    "form": "topan"
+                                }
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "larikan daku hembuskan badan",
+                        "words": [
+                            {
+                                "wf": "larikan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "larik",
+                                    "pos": "v",
+                                    "form": "larik-an"
+                                }
+                            },
+                            {
+                                "wf": "daku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "daku",
+                                    "pos": "pron",
+                                    "form": "daku"
+                                }
+                            },
+                            {
+                                "wf": "hembuskan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hembuskan",
+                                    "pos": "v",
+                                    "form": "hembuskan"
+                                }
+                            },
+                            {
+                                "wf": "badan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "badan",
+                                    "pos": "n",
+                                    "form": "badan"
+                                }
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "tepukkan daku ke puncak tinggi",
+                        "words": [
+                            {
+                                "wf": "tepukkan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tepuk",
+                                    "pos": "v",
+                                    "form": "tepuk-kan"
+                                }
+                            },
+                            {
+                                "wf": "daku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "daku",
+                                    "pos": "pron",
+                                    "form": "daku"
+                                }
+                            },
+                            {
+                                "wf": "ke",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ke",
+                                    "pos": "p",
+                                    "form": "ke"
+                                }
+                            },
+                            {
+                                "wf": "puncak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "puncak",
+                                    "pos": "n",
+                                    "form": "puncak"
+                                }
+                            },
+                            {
+                                "wf": "tinggi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tinggi",
+                                    "pos": "a",
+                                    "form": "tinggi"
+                                }
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "ranggitkan daku kelengkung pelangi...",
+                        "words": [
+                            {
+                                "wf": "ranggitkan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ranggit",
+                                    "pos": "v",
+                                    "form": "ranggit-kan"
+                                }
+                            },
+                            {
+                                "wf": "daku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "daku",
+                                    "pos": "pron",
+                                    "form": "daku"
+                                }
+                            },
+                            {
+                                "wf": "kelengkung",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kelengkung",
+                                    "pos": "?",
+                                    "form": "kelengkung"
+                                }
+                            },
+                            {
+                                "wf": "pelangi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pelangi",
+                                    "pos": "n",
+                                    "form": "pelangi"
+                                }
+                            },
+                            {
+                                "wf": "...",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 11
+                    },
+                    {
+                        "line": "Tenang-tenang anginku sayang",
+                        "words": [
+                            {
+                                "wf": "Tenang-tenang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tenang",
+                                    "pos": "v",
+                                    "form": "tenang-tenang"
+                                }
+                            },
+                            {
+                                "wf": "anginku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "angin",
+                                    "pos": "n",
+                                    "form": "angin-ku"
+                                }
+                            },
+                            {
+                                "wf": "sayang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sayang",
+                                    "pos": "a|v|n",
+                                    "form": "sayang"
+                                }
+                            }
+                        ],
+                        "syllables": 9
+                    },
+                    {
+                        "line": "tinggalkan badan di lengkung benang",
+                        "words": [
+                            {
+                                "wf": "tinggalkan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tinggalkan",
+                                    "pos": "v",
+                                    "form": "tinggalkan"
+                                }
+                            },
+                            {
+                                "wf": "badan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "badan",
+                                    "pos": "n",
+                                    "form": "badan"
+                                }
+                            },
+                            {
+                                "wf": "di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "lengkung",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lengkung",
+                                    "pos": "a",
+                                    "form": "lengkung"
+                                }
+                            },
+                            {
+                                "wf": "benang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "benang",
+                                    "pos": "n",
+                                    "form": "benang"
+                                }
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "reda-reda badaiku dalam",
+                        "words": [
+                            {
+                                "wf": "reda-reda",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "reda",
+                                    "pos": "v",
+                                    "form": "reda-reda"
+                                }
+                            },
+                            {
+                                "wf": "badaiku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "badai",
+                                    "pos": "n",
+                                    "form": "badai-ku"
+                                }
+                            },
+                            {
+                                "wf": "dalam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dalam",
+                                    "pos": "a|n",
+                                    "form": "dalam"
+                                }
+                            }
+                        ],
+                        "syllables": 9
+                    },
+                    {
+                        "line": "ulikkan sepoi sunyikan dendam.",
+                        "words": [
+                            {
+                                "wf": "ulikkan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ulikkan",
+                                    "pos": "v",
+                                    "form": "ulikkan"
+                                }
+                            },
+                            {
+                                "wf": "sepoi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sepoi",
+                                    "pos": "a",
+                                    "form": "sepoi"
+                                }
+                            },
+                            {
+                                "wf": "sunyikan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sunyikan",
+                                    "pos": "v",
+                                    "form": "sunyikan"
+                                }
+                            },
+                            {
+                                "wf": "dendam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dendam",
+                                    "pos": "a",
+                                    "form": "dendam"
+                                }
+                            },
+                            {
+                                "wf": ".",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "Biarkan daku tinggal di sini",
+                        "words": [
+                            {
+                                "wf": "Biarkan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "Biarkan",
+                                    "pos": "v",
+                                    "form": "Biarkan"
+                                }
+                            },
+                            {
+                                "wf": "daku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "daku",
+                                    "pos": "pron",
+                                    "form": "daku"
+                                }
+                            },
+                            {
+                                "wf": "tinggal",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tinggal",
+                                    "pos": "v",
+                                    "form": "tinggal"
+                                }
+                            },
+                            {
+                                "wf": "di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "sini",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sini",
+                                    "pos": "pron",
+                                    "form": "sini"
+                                }
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "sentosa diriku di sunyi sepi",
+                        "words": [
+                            {
+                                "wf": "sentosa",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sentosa",
+                                    "pos": "a",
+                                    "form": "sentosa"
+                                }
+                            },
+                            {
+                                "wf": "diriku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "diriku",
+                                    "pos": "?",
+                                    "form": "diriku"
+                                }
+                            },
+                            {
+                                "wf": "di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "sunyi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sunyi",
+                                    "pos": "a",
+                                    "form": "sunyi"
+                                }
+                            },
+                            {
+                                "wf": "sepi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sepi",
+                                    "pos": "a",
+                                    "form": "sepi"
+                                }
+                            }
+                        ],
+                        "syllables": 11
+                    },
+                    {
+                        "line": "tiada berharap tiada meminta",
+                        "words": [
+                            {
+                                "wf": "tiada",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tiada",
+                                    "pos": "v",
+                                    "form": "tiada"
+                                }
+                            },
+                            {
+                                "wf": "berharap",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "harap",
+                                    "pos": "v",
+                                    "form": "ber-harap"
+                                }
+                            },
+                            {
+                                "wf": "tiada",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tiada",
+                                    "pos": "v",
+                                    "form": "tiada"
+                                }
+                            },
+                            {
+                                "wf": "meminta",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "minta",
+                                    "pos": "v",
+                                    "form": "meN-minta"
+                                }
+                            }
+                        ],
+                        "syllables": 12
+                    },
+                    {
+                        "line": "jauh dunia di sisi dewa.",
+                        "words": [
+                            {
+                                "wf": "jauh",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jauh",
+                                    "pos": "a",
+                                    "form": "jauh"
+                                }
+                            },
+                            {
+                                "wf": "dunia",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dunia",
+                                    "pos": "n",
+                                    "form": "dunia"
+                                }
+                            },
+                            {
+                                "wf": "di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "sisi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sisi",
+                                    "pos": "n",
+                                    "form": "sisi"
+                                }
+                            },
+                            {
+                                "wf": "dewa",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dewa",
+                                    "pos": "",
+                                    "form": "dewa"
+                                }
+                            },
+                            {
+                                "wf": ".",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 9
+                    }
+                ],
+                "num_lines": 16
+            }
+        ]
+    }
+}

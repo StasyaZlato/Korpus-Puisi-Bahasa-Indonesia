@@ -1,0 +1,707 @@
+{
+    "meta": {
+        "file_name": "21.json",
+        "id_bd": 21,
+        "author": "Amir Hamzah",
+        "title": "Doa poyangku",
+        "genre": "религиозная поэзия: молитва",
+        "year": "---",
+        "num_lines": 15,
+        "rhyme": "Спорадическая",
+        "syllables": [
+            10,
+            11,
+            12,
+            11,
+            11,
+            12,
+            10,
+            11,
+            10,
+            11,
+            12,
+            9,
+            13,
+            10,
+            10
+        ],
+        "strofy": [
+            15
+        ]
+    },
+    "poem": {
+        "text": "Poyangku rata meminta sama\r\nsemoga sekali aku diberi\r\nmemetik kecapi, kecapi firdausi\r\nmenampar rebana, rebana swarga\r\nPoyangku rata semua semata\r\npenabuh bunyian kerana suara\r\nsuara sunyi suling keramat\r\nkini rebana di celah jariku\r\ntari tamparku membangkit rindu\r\nkucuba serentak genta genderang\r\nmemuji kekasihku di mercu lagu\r\nAduh, kasihan hatiku sayang\r\nalahai hatiku tiada bahagia\r\njari menari doa semata\r\ntapi hatiku bercabang dua.",
+        "strof": [
+            {
+                "strof": "Poyangku rata meminta sama\r\nsemoga sekali aku diberi\r\nmemetik kecapi, kecapi firdausi\r\nmenampar rebana, rebana swarga\r\nPoyangku rata semua semata\r\npenabuh bunyian kerana suara\r\nsuara sunyi suling keramat\r\nkini rebana di celah jariku\r\ntari tamparku membangkit rindu\r\nkucuba serentak genta genderang\r\nmemuji kekasihku di mercu lagu\r\nAduh, kasihan hatiku sayang\r\nalahai hatiku tiada bahagia\r\njari menari doa semata\r\ntapi hatiku bercabang dua.",
+                "lines": [
+                    {
+                        "line": "Poyangku rata meminta sama",
+                        "words": [
+                            {
+                                "wf": "Poyangku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "poyang",
+                                    "pos": "n",
+                                    "form": "poyang-ku"
+                                }
+                            },
+                            {
+                                "wf": "rata",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "rata",
+                                    "pos": "a",
+                                    "form": "rata"
+                                }
+                            },
+                            {
+                                "wf": "meminta",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "minta",
+                                    "pos": "v",
+                                    "form": "meN-minta"
+                                }
+                            },
+                            {
+                                "wf": "sama",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sama",
+                                    "pos": "a",
+                                    "form": "sama"
+                                }
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "semoga sekali aku diberi",
+                        "words": [
+                            {
+                                "wf": "semoga",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "moga",
+                                    "pos": "adv",
+                                    "form": "se-moga"
+                                }
+                            },
+                            {
+                                "wf": "sekali",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kali",
+                                    "pos": "adv|num|n",
+                                    "form": "se-kali"
+                                }
+                            },
+                            {
+                                "wf": "aku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "aku",
+                                    "pos": "pron",
+                                    "form": "aku"
+                                }
+                            },
+                            {
+                                "wf": "diberi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "beri",
+                                    "pos": "v",
+                                    "form": "di-beri"
+                                }
+                            }
+                        ],
+                        "syllables": 11
+                    },
+                    {
+                        "line": "memetik kecapi, kecapi firdausi",
+                        "words": [
+                            {
+                                "wf": "memetik",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "petik",
+                                    "pos": "v",
+                                    "form": "meN-petik"
+                                }
+                            },
+                            {
+                                "wf": "kecapi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kecapi",
+                                    "pos": "n",
+                                    "form": "kecapi"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "kecapi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kecapi",
+                                    "pos": "n",
+                                    "form": "kecapi"
+                                }
+                            },
+                            {
+                                "wf": "firdausi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "firdausi",
+                                    "pos": "a",
+                                    "form": "firdausi"
+                                }
+                            }
+                        ],
+                        "syllables": 12
+                    },
+                    {
+                        "line": "menampar rebana, rebana swarga",
+                        "words": [
+                            {
+                                "wf": "menampar",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tampar",
+                                    "pos": "v",
+                                    "form": "meN-tampar"
+                                }
+                            },
+                            {
+                                "wf": "rebana",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "rebana",
+                                    "pos": "n",
+                                    "form": "rebana"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "rebana",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "rebana",
+                                    "pos": "n",
+                                    "form": "rebana"
+                                }
+                            },
+                            {
+                                "wf": "swarga",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "surga",
+                                    "pos": "?",
+                                    "form": "swarga"
+                                }
+                            }
+                        ],
+                        "syllables": 11
+                    },
+                    {
+                        "line": "Poyangku rata semua semata",
+                        "words": [
+                            {
+                                "wf": "Poyangku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "poyang",
+                                    "pos": "n",
+                                    "form": "poyang-ku"
+                                }
+                            },
+                            {
+                                "wf": "rata",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "rata",
+                                    "pos": "a",
+                                    "form": "rata"
+                                }
+                            },
+                            {
+                                "wf": "semua",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "semua",
+                                    "pos": "num",
+                                    "form": "semua"
+                                }
+                            },
+                            {
+                                "wf": "semata",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "mata",
+                                    "pos": "n",
+                                    "form": "se-mata"
+                                }
+                            }
+                        ],
+                        "syllables": 11
+                    },
+                    {
+                        "line": "penabuh bunyian kerana suara",
+                        "words": [
+                            {
+                                "wf": "penabuh",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "penabuh",
+                                    "pos": "?",
+                                    "form": "penabuh"
+                                }
+                            },
+                            {
+                                "wf": "bunyian",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bunyian",
+                                    "pos": "v",
+                                    "form": "bunyian"
+                                }
+                            },
+                            {
+                                "wf": "kerana",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kerana",
+                                    "pos": "?",
+                                    "form": "kerana"
+                                }
+                            },
+                            {
+                                "wf": "suara",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "suara",
+                                    "pos": "n",
+                                    "form": "suara"
+                                }
+                            }
+                        ],
+                        "syllables": 12
+                    },
+                    {
+                        "line": "suara sunyi suling keramat",
+                        "words": [
+                            {
+                                "wf": "suara",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "suara",
+                                    "pos": "n",
+                                    "form": "suara"
+                                }
+                            },
+                            {
+                                "wf": "sunyi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sunyi",
+                                    "pos": "a",
+                                    "form": "sunyi"
+                                }
+                            },
+                            {
+                                "wf": "suling",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "suling",
+                                    "pos": "n",
+                                    "form": "suling"
+                                }
+                            },
+                            {
+                                "wf": "keramat",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "keramat",
+                                    "pos": "a",
+                                    "form": "keramat"
+                                }
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "kini rebana di celah jariku",
+                        "words": [
+                            {
+                                "wf": "kini",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kini",
+                                    "pos": "n",
+                                    "form": "kini"
+                                }
+                            },
+                            {
+                                "wf": "rebana",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "rebana",
+                                    "pos": "n",
+                                    "form": "rebana"
+                                }
+                            },
+                            {
+                                "wf": "di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "celah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "celah",
+                                    "pos": "n",
+                                    "form": "celah"
+                                }
+                            },
+                            {
+                                "wf": "jariku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jari",
+                                    "pos": "n",
+                                    "form": "jari-ku"
+                                }
+                            }
+                        ],
+                        "syllables": 11
+                    },
+                    {
+                        "line": "tari tamparku membangkit rindu",
+                        "words": [
+                            {
+                                "wf": "tari",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tari",
+                                    "pos": "n",
+                                    "form": "tari"
+                                }
+                            },
+                            {
+                                "wf": "tamparku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tampar",
+                                    "pos": "v",
+                                    "form": "tampar-ku"
+                                }
+                            },
+                            {
+                                "wf": "membangkit",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bangkit",
+                                    "pos": "v",
+                                    "form": "meN-bangkit"
+                                }
+                            },
+                            {
+                                "wf": "rindu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "rindu",
+                                    "pos": "a",
+                                    "form": "rindu"
+                                }
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "kucuba serentak genta genderang",
+                        "words": [
+                            {
+                                "wf": "kucuba",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kucuba",
+                                    "pos": "?",
+                                    "form": "kucuba"
+                                }
+                            },
+                            {
+                                "wf": "serentak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "serentak",
+                                    "pos": "a",
+                                    "form": "serentak"
+                                }
+                            },
+                            {
+                                "wf": "genta",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "genta",
+                                    "pos": "n",
+                                    "form": "genta"
+                                }
+                            },
+                            {
+                                "wf": "genderang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "genderang",
+                                    "pos": "n",
+                                    "form": "genderang"
+                                }
+                            }
+                        ],
+                        "syllables": 11
+                    },
+                    {
+                        "line": "memuji kekasihku di mercu lagu",
+                        "words": [
+                            {
+                                "wf": "memuji",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "puji",
+                                    "pos": "v",
+                                    "form": "meN-puji"
+                                }
+                            },
+                            {
+                                "wf": "kekasihku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kasih",
+                                    "pos": "n",
+                                    "form": "ke-kasih-ku-ku"
+                                }
+                            },
+                            {
+                                "wf": "di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "mercu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "mercu",
+                                    "pos": "n",
+                                    "form": "mercu"
+                                }
+                            },
+                            {
+                                "wf": "lagu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lagu",
+                                    "pos": "n",
+                                    "form": "lagu"
+                                }
+                            }
+                        ],
+                        "syllables": 12
+                    },
+                    {
+                        "line": "Aduh, kasihan hatiku sayang",
+                        "words": [
+                            {
+                                "wf": "Aduh",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "aduh",
+                                    "pos": "a",
+                                    "form": "Aduh"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "kasihan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kasihan",
+                                    "pos": "v",
+                                    "form": "kasihan"
+                                }
+                            },
+                            {
+                                "wf": "hatiku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hati",
+                                    "pos": "n",
+                                    "form": "hati-ku"
+                                }
+                            },
+                            {
+                                "wf": "sayang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sayang",
+                                    "pos": "a|v|n",
+                                    "form": "sayang"
+                                }
+                            }
+                        ],
+                        "syllables": 9
+                    },
+                    {
+                        "line": "alahai hatiku tiada bahagia",
+                        "words": [
+                            {
+                                "wf": "alahai",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "alahai",
+                                    "pos": "?",
+                                    "form": "alahai"
+                                }
+                            },
+                            {
+                                "wf": "hatiku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hati",
+                                    "pos": "n",
+                                    "form": "hati-ku"
+                                }
+                            },
+                            {
+                                "wf": "tiada",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tiada",
+                                    "pos": "v",
+                                    "form": "tiada"
+                                }
+                            },
+                            {
+                                "wf": "bahagia",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bahagia",
+                                    "pos": "n|a",
+                                    "form": "bahagia"
+                                }
+                            }
+                        ],
+                        "syllables": 13
+                    },
+                    {
+                        "line": "jari menari doa semata",
+                        "words": [
+                            {
+                                "wf": "jari",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jari",
+                                    "pos": "n",
+                                    "form": "jari"
+                                }
+                            },
+                            {
+                                "wf": "menari",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tari",
+                                    "pos": "v",
+                                    "form": "meN-tari"
+                                }
+                            },
+                            {
+                                "wf": "doa",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "doa",
+                                    "pos": "n",
+                                    "form": "doa"
+                                }
+                            },
+                            {
+                                "wf": "semata",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "mata",
+                                    "pos": "n",
+                                    "form": "se-mata"
+                                }
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "tapi hatiku bercabang dua.",
+                        "words": [
+                            {
+                                "wf": "tapi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tapi",
+                                    "pos": "v",
+                                    "form": "tapi"
+                                }
+                            },
+                            {
+                                "wf": "hatiku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hati",
+                                    "pos": "n",
+                                    "form": "hati-ku"
+                                }
+                            },
+                            {
+                                "wf": "bercabang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "cabang",
+                                    "pos": "v",
+                                    "form": "ber-cabang"
+                                }
+                            },
+                            {
+                                "wf": "dua",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dua",
+                                    "pos": "num",
+                                    "form": "dua"
+                                }
+                            },
+                            {
+                                "wf": ".",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 10
+                    }
+                ],
+                "num_lines": 15
+            }
+        ]
+    }
+}

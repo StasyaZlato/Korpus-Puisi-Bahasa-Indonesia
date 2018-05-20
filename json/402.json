@@ -1,0 +1,352 @@
+{
+    "meta": {
+        "file_name": "402.json",
+        "id_bd": 402,
+        "author": "L.K. Ara",
+        "title": "Sinar",
+        "genre": "стихотворение",
+        "year": "9.08.1986",
+        "num_lines": 9,
+        "rhyme": "Есть",
+        "syllables": [
+            2,
+            7,
+            7,
+            7,
+            8,
+            7,
+            10,
+            5,
+            7
+        ],
+        "strofy": [
+            9
+        ]
+    },
+    "poem": {
+        "text": "{Tuhan\r\nAku perlu matahari\r\nSinar yang kau hamparkan\r\nBagi umat semesta\r\nTapi aku perlu juga\r\nSinar mata kekasih\r\nSinar mata yang menggorek dosa\r\nDan menggantinya\r\nDengan amal dan iman}",
+        "strof": [
+            {
+                "strof": "Tuhan\r\nAku perlu matahari\r\nSinar yang kau hamparkan\r\nBagi umat semesta\r\nTapi aku perlu juga\r\nSinar mata kekasih\r\nSinar mata yang menggorek dosa\r\nDan menggantinya\r\nDengan amal dan iman",
+                "lines": [
+                    {
+                        "line": "Tuhan",
+                        "words": [
+                            {
+                                "wf": "Tuhan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "Tuhan",
+                                    "pos": "n",
+                                    "form": "Tuhan"
+                                }
+                            }
+                        ],
+                        "syllables": 2
+                    },
+                    {
+                        "line": "Aku perlu matahari",
+                        "words": [
+                            {
+                                "wf": "Aku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "aku",
+                                    "pos": "pron",
+                                    "form": "aku"
+                                }
+                            },
+                            {
+                                "wf": "perlu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "perlu",
+                                    "pos": "adv|a|v|p",
+                                    "form": "perlu"
+                                }
+                            },
+                            {
+                                "wf": "matahari",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "matahari",
+                                    "pos": "n",
+                                    "form": "matahari"
+                                }
+                            }
+                        ],
+                        "syllables": 7
+                    },
+                    {
+                        "line": "Sinar yang kau hamparkan",
+                        "words": [
+                            {
+                                "wf": "Sinar",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "mu",
+                                    "pos": "n",
+                                    "form": "Sinar"
+                                }
+                            },
+                            {
+                                "wf": "yang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "yang",
+                                    "pos": "a|v|n",
+                                    "form": "yang"
+                                }
+                            },
+                            {
+                                "wf": "kau",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kau",
+                                    "pos": "pron",
+                                    "form": "kau"
+                                }
+                            },
+                            {
+                                "wf": "hamparkan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hampar",
+                                    "pos": "v",
+                                    "form": "hampar-kan"
+                                }
+                            }
+                        ],
+                        "syllables": 7
+                    },
+                    {
+                        "line": "Bagi umat semesta",
+                        "words": [
+                            {
+                                "wf": "Bagi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bagi",
+                                    "pos": "p",
+                                    "form": "bagi"
+                                }
+                            },
+                            {
+                                "wf": "umat",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "umat",
+                                    "pos": "n",
+                                    "form": "umat"
+                                }
+                            },
+                            {
+                                "wf": "semesta",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "semesta",
+                                    "pos": "num|a",
+                                    "form": "semesta"
+                                }
+                            }
+                        ],
+                        "syllables": 7
+                    },
+                    {
+                        "line": "Tapi aku perlu juga",
+                        "words": [
+                            {
+                                "wf": "Tapi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tapi",
+                                    "pos": "v",
+                                    "form": "tapi"
+                                }
+                            },
+                            {
+                                "wf": "aku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "aku",
+                                    "pos": "pron",
+                                    "form": "aku"
+                                }
+                            },
+                            {
+                                "wf": "perlu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "perlu",
+                                    "pos": "adv|a|v|p",
+                                    "form": "perlu"
+                                }
+                            },
+                            {
+                                "wf": "juga",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "juga",
+                                    "pos": "adv",
+                                    "form": "juga"
+                                }
+                            }
+                        ],
+                        "syllables": 8
+                    },
+                    {
+                        "line": "Sinar mata kekasih",
+                        "words": [
+                            {
+                                "wf": "Sinar",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "mu",
+                                    "pos": "n",
+                                    "form": "Sinar"
+                                }
+                            },
+                            {
+                                "wf": "mata",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "mata",
+                                    "pos": "n",
+                                    "form": "mata"
+                                }
+                            },
+                            {
+                                "wf": "kekasih",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kasih",
+                                    "pos": "n",
+                                    "form": "ke-kasih"
+                                }
+                            }
+                        ],
+                        "syllables": 7
+                    },
+                    {
+                        "line": "Sinar mata yang menggorek dosa",
+                        "words": [
+                            {
+                                "wf": "Sinar",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "mu",
+                                    "pos": "n",
+                                    "form": "Sinar"
+                                }
+                            },
+                            {
+                                "wf": "mata",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "mata",
+                                    "pos": "n",
+                                    "form": "mata"
+                                }
+                            },
+                            {
+                                "wf": "yang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "yang",
+                                    "pos": "a|v|n",
+                                    "form": "yang"
+                                }
+                            },
+                            {
+                                "wf": "menggorek",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "gorek",
+                                    "pos": "v",
+                                    "form": "meN-gorek"
+                                }
+                            },
+                            {
+                                "wf": "dosa",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dosa",
+                                    "pos": "n",
+                                    "form": "dosa"
+                                }
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "Dan menggantinya",
+                        "words": [
+                            {
+                                "wf": "Dan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dan",
+                                    "pos": "p",
+                                    "form": "dan"
+                                }
+                            },
+                            {
+                                "wf": "menggantinya",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ganti",
+                                    "pos": "v",
+                                    "form": "meN-ganti-nya-nya"
+                                }
+                            }
+                        ],
+                        "syllables": 5
+                    },
+                    {
+                        "line": "Dengan amal dan iman",
+                        "words": [
+                            {
+                                "wf": "Dengan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dengan",
+                                    "pos": "p",
+                                    "form": "dengan"
+                                }
+                            },
+                            {
+                                "wf": "amal",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "amal",
+                                    "pos": "n",
+                                    "form": "amal"
+                                }
+                            },
+                            {
+                                "wf": "dan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dan",
+                                    "pos": "p",
+                                    "form": "dan"
+                                }
+                            },
+                            {
+                                "wf": "iman",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "iman",
+                                    "pos": "v",
+                                    "form": "iman"
+                                }
+                            }
+                        ],
+                        "syllables": 7
+                    }
+                ],
+                "num_lines": 9
+            }
+        ]
+    }
+}

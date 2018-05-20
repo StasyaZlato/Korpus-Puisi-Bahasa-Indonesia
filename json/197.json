@@ -1,0 +1,885 @@
+{
+    "meta": {
+        "file_name": "197.json",
+        "id_bd": 197,
+        "author": "D. Zawawi Imron",
+        "title": "Zikir",
+        "genre": "стихотворение",
+        "year": 1983,
+        "num_lines": 17,
+        "rhyme": "Есть",
+        "syllables": [
+            6,
+            9,
+            12,
+            16,
+            16,
+            8,
+            9,
+            12,
+            12,
+            3,
+            13,
+            15,
+            16,
+            9,
+            6,
+            6,
+            7
+        ],
+        "strofy": [
+            17
+        ]
+    },
+    "poem": {
+        "text": "alif, alif, alif\r\nalifmu pedang di tanganku\r\nsusuk di dagingku, kompas di hatiku\r\nalifmu tegak jadi cagak, meliut jadi belut\r\nhilang jadi angan, tinggal bekas menetaskan terang\r\nhingga aku berkesiur\r\npada angin kecil akdir-mu\r\nhompimpah hidupku, hompimpah matiku,\r\nhompimpah nasibku, hompimpah, hompimpah,\r\nhompimpah!\r\nkugali hatiku dengan linggis alifmu\r\nhingga lahir mataair, jadi sumur, jadi sungai,\r\njadi laut, jadi samudra dengan sejuta gelombang\r\nmengerang menyebut alifmu\r\nalif, alif, alif!\r\nalifmu yang satu\r\ntegak di mana-mana",
+        "strof": [
+            {
+                "strof": "alif, alif, alif\r\nalifmu pedang di tanganku\r\nsusuk di dagingku, kompas di hatiku\r\nalifmu tegak jadi cagak, meliut jadi belut\r\nhilang jadi angan, tinggal bekas menetaskan terang\r\nhingga aku berkesiur\r\npada angin kecil akdir-mu\r\nhompimpah hidupku, hompimpah matiku,\r\nhompimpah nasibku, hompimpah, hompimpah,\r\nhompimpah!\r\nkugali hatiku dengan linggis alifmu\r\nhingga lahir mataair, jadi sumur, jadi sungai,\r\njadi laut, jadi samudra dengan sejuta gelombang\r\nmengerang menyebut alifmu\r\nalif, alif, alif!\r\nalifmu yang satu\r\ntegak di mana-mana",
+                "lines": [
+                    {
+                        "line": "alif, alif, alif",
+                        "words": [
+                            {
+                                "wf": "alif",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "alif",
+                                    "pos": "n",
+                                    "form": "alif"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "alif",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "alif",
+                                    "pos": "n",
+                                    "form": "alif"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "alif",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "alif",
+                                    "pos": "n",
+                                    "form": "alif"
+                                }
+                            }
+                        ],
+                        "syllables": 6
+                    },
+                    {
+                        "line": "alifmu pedang di tanganku",
+                        "words": [
+                            {
+                                "wf": "alifmu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "alif",
+                                    "pos": "n",
+                                    "form": "alif-mu"
+                                }
+                            },
+                            {
+                                "wf": "pedang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pedang",
+                                    "pos": "n",
+                                    "form": "pedang"
+                                }
+                            },
+                            {
+                                "wf": "di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "tanganku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tangan",
+                                    "pos": "v",
+                                    "form": "tangan-ku"
+                                }
+                            }
+                        ],
+                        "syllables": 9
+                    },
+                    {
+                        "line": "susuk di dagingku, kompas di hatiku",
+                        "words": [
+                            {
+                                "wf": "susuk",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "susuk",
+                                    "pos": "n",
+                                    "form": "susuk"
+                                }
+                            },
+                            {
+                                "wf": "di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "dagingku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "daging",
+                                    "pos": "n",
+                                    "form": "daging-ku"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "kompas",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kompas",
+                                    "pos": "n",
+                                    "form": "kompas"
+                                }
+                            },
+                            {
+                                "wf": "di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "hatiku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hati",
+                                    "pos": "n",
+                                    "form": "hati-ku"
+                                }
+                            }
+                        ],
+                        "syllables": 12
+                    },
+                    {
+                        "line": "alifmu tegak jadi cagak, meliut jadi belut",
+                        "words": [
+                            {
+                                "wf": "alifmu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "alif",
+                                    "pos": "n",
+                                    "form": "alif-mu"
+                                }
+                            },
+                            {
+                                "wf": "tegak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tegak",
+                                    "pos": "a",
+                                    "form": "tegak"
+                                }
+                            },
+                            {
+                                "wf": "jadi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jadi",
+                                    "pos": "v",
+                                    "form": "jadi"
+                                }
+                            },
+                            {
+                                "wf": "cagak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "cagak",
+                                    "pos": "n",
+                                    "form": "cagak"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "meliut",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "liut",
+                                    "pos": "v",
+                                    "form": "meN-liut"
+                                }
+                            },
+                            {
+                                "wf": "jadi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jadi",
+                                    "pos": "v",
+                                    "form": "jadi"
+                                }
+                            },
+                            {
+                                "wf": "belut",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "belut",
+                                    "pos": "n",
+                                    "form": "belut"
+                                }
+                            }
+                        ],
+                        "syllables": 16
+                    },
+                    {
+                        "line": "hilang jadi angan, tinggal bekas menetaskan terang",
+                        "words": [
+                            {
+                                "wf": "hilang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hilang",
+                                    "pos": "v",
+                                    "form": "hilang"
+                                }
+                            },
+                            {
+                                "wf": "jadi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jadi",
+                                    "pos": "v",
+                                    "form": "jadi"
+                                }
+                            },
+                            {
+                                "wf": "angan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "angan",
+                                    "pos": "n|a",
+                                    "form": "angan"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "tinggal",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tinggal",
+                                    "pos": "v",
+                                    "form": "tinggal"
+                                }
+                            },
+                            {
+                                "wf": "bekas",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bekas",
+                                    "pos": "n",
+                                    "form": "bekas"
+                                }
+                            },
+                            {
+                                "wf": "menetaskan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tetas",
+                                    "pos": "v",
+                                    "form": "meN-tetas-kan"
+                                }
+                            },
+                            {
+                                "wf": "terang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "terang",
+                                    "pos": "a",
+                                    "form": "terang"
+                                }
+                            }
+                        ],
+                        "syllables": 16
+                    },
+                    {
+                        "line": "hingga aku berkesiur",
+                        "words": [
+                            {
+                                "wf": "hingga",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hingga",
+                                    "pos": "n|p",
+                                    "form": "hingga"
+                                }
+                            },
+                            {
+                                "wf": "aku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "aku",
+                                    "pos": "pron",
+                                    "form": "aku"
+                                }
+                            },
+                            {
+                                "wf": "berkesiur",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kesiur",
+                                    "pos": "v",
+                                    "form": "berkesiur"
+                                }
+                            }
+                        ],
+                        "syllables": 8
+                    },
+                    {
+                        "line": "pada angin kecil akdir-mu",
+                        "words": [
+                            {
+                                "wf": "pada",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pada",
+                                    "pos": "p",
+                                    "form": "pada"
+                                }
+                            },
+                            {
+                                "wf": "angin",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "angin",
+                                    "pos": "n",
+                                    "form": "angin"
+                                }
+                            },
+                            {
+                                "wf": "kecil",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kecil",
+                                    "pos": "a",
+                                    "form": "kecil"
+                                }
+                            },
+                            {
+                                "wf": "akdir-mu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "akdir-mu",
+                                    "pos": "?",
+                                    "form": "akdir-mu"
+                                }
+                            }
+                        ],
+                        "syllables": 9
+                    },
+                    {
+                        "line": "hompimpah hidupku, hompimpah matiku,",
+                        "words": [
+                            {
+                                "wf": "hompimpah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hompimpah",
+                                    "pos": "?",
+                                    "form": "hompimpah"
+                                }
+                            },
+                            {
+                                "wf": "hidupku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hidup",
+                                    "pos": "v",
+                                    "form": "hidup-ku"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "hompimpah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hompimpah",
+                                    "pos": "?",
+                                    "form": "hompimpah"
+                                }
+                            },
+                            {
+                                "wf": "matiku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "mati",
+                                    "pos": "v",
+                                    "form": "mati-ku"
+                                }
+                            },
+                            {
+                                "wf": ",",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 12
+                    },
+                    {
+                        "line": "hompimpah nasibku, hompimpah, hompimpah,",
+                        "words": [
+                            {
+                                "wf": "hompimpah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hompimpah",
+                                    "pos": "?",
+                                    "form": "hompimpah"
+                                }
+                            },
+                            {
+                                "wf": "nasibku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "nasib",
+                                    "pos": "n",
+                                    "form": "nasib-ku"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "hompimpah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hompimpah",
+                                    "pos": "?",
+                                    "form": "hompimpah"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "hompimpah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hompimpah",
+                                    "pos": "?",
+                                    "form": "hompimpah"
+                                }
+                            },
+                            {
+                                "wf": ",",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 12
+                    },
+                    {
+                        "line": "hompimpah!",
+                        "words": [
+                            {
+                                "wf": "hompimpah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hompimpah",
+                                    "pos": "?",
+                                    "form": "hompimpah"
+                                }
+                            },
+                            {
+                                "wf": "!",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 3
+                    },
+                    {
+                        "line": "kugali hatiku dengan linggis alifmu",
+                        "words": [
+                            {
+                                "wf": "kugali",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "gali",
+                                    "pos": "v",
+                                    "form": "ku-gali"
+                                }
+                            },
+                            {
+                                "wf": "hatiku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hati",
+                                    "pos": "n",
+                                    "form": "hati-ku"
+                                }
+                            },
+                            {
+                                "wf": "dengan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dengan",
+                                    "pos": "p",
+                                    "form": "dengan"
+                                }
+                            },
+                            {
+                                "wf": "linggis",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "linggis",
+                                    "pos": "n",
+                                    "form": "linggis"
+                                }
+                            },
+                            {
+                                "wf": "alifmu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "alif",
+                                    "pos": "n",
+                                    "form": "alif-mu"
+                                }
+                            }
+                        ],
+                        "syllables": 13
+                    },
+                    {
+                        "line": "hingga lahir mataair, jadi sumur, jadi sungai,",
+                        "words": [
+                            {
+                                "wf": "hingga",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hingga",
+                                    "pos": "n|p",
+                                    "form": "hingga"
+                                }
+                            },
+                            {
+                                "wf": "lahir",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lahir",
+                                    "pos": "v|n",
+                                    "form": "lahir"
+                                }
+                            },
+                            {
+                                "wf": "mataair",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "mataair",
+                                    "pos": "?",
+                                    "form": "mataair"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "jadi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jadi",
+                                    "pos": "v",
+                                    "form": "jadi"
+                                }
+                            },
+                            {
+                                "wf": "sumur",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sumur",
+                                    "pos": "n",
+                                    "form": "sumur"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "jadi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jadi",
+                                    "pos": "v",
+                                    "form": "jadi"
+                                }
+                            },
+                            {
+                                "wf": "sungai",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sungai",
+                                    "pos": "n",
+                                    "form": "sungai"
+                                }
+                            },
+                            {
+                                "wf": ",",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 15
+                    },
+                    {
+                        "line": "jadi laut, jadi samudra dengan sejuta gelombang",
+                        "words": [
+                            {
+                                "wf": "jadi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jadi",
+                                    "pos": "v",
+                                    "form": "jadi"
+                                }
+                            },
+                            {
+                                "wf": "laut",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "laut",
+                                    "pos": "n",
+                                    "form": "laut"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "jadi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jadi",
+                                    "pos": "v",
+                                    "form": "jadi"
+                                }
+                            },
+                            {
+                                "wf": "samudra",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "samudra",
+                                    "pos": "n",
+                                    "form": "samudra"
+                                }
+                            },
+                            {
+                                "wf": "dengan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dengan",
+                                    "pos": "p",
+                                    "form": "dengan"
+                                }
+                            },
+                            {
+                                "wf": "sejuta",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "juta",
+                                    "pos": "num",
+                                    "form": "se-juta"
+                                }
+                            },
+                            {
+                                "wf": "gelombang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "gelombang",
+                                    "pos": "n",
+                                    "form": "gelombang"
+                                }
+                            }
+                        ],
+                        "syllables": 16
+                    },
+                    {
+                        "line": "mengerang menyebut alifmu",
+                        "words": [
+                            {
+                                "wf": "mengerang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "erang",
+                                    "pos": "v",
+                                    "form": "meN-erang"
+                                }
+                            },
+                            {
+                                "wf": "menyebut",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sebut",
+                                    "pos": "v",
+                                    "form": "meN-sebut"
+                                }
+                            },
+                            {
+                                "wf": "alifmu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "alif",
+                                    "pos": "n",
+                                    "form": "alif-mu"
+                                }
+                            }
+                        ],
+                        "syllables": 9
+                    },
+                    {
+                        "line": "alif, alif, alif!",
+                        "words": [
+                            {
+                                "wf": "alif",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "alif",
+                                    "pos": "n",
+                                    "form": "alif"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "alif",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "alif",
+                                    "pos": "n",
+                                    "form": "alif"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "alif",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "alif",
+                                    "pos": "n",
+                                    "form": "alif"
+                                }
+                            },
+                            {
+                                "wf": "!",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 6
+                    },
+                    {
+                        "line": "alifmu yang satu",
+                        "words": [
+                            {
+                                "wf": "alifmu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "alif",
+                                    "pos": "n",
+                                    "form": "alif-mu"
+                                }
+                            },
+                            {
+                                "wf": "yang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "yang",
+                                    "pos": "a|v|n",
+                                    "form": "yang"
+                                }
+                            },
+                            {
+                                "wf": "satu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "satu",
+                                    "pos": "num",
+                                    "form": "satu"
+                                }
+                            }
+                        ],
+                        "syllables": 6
+                    },
+                    {
+                        "line": "tegak di mana-mana",
+                        "words": [
+                            {
+                                "wf": "tegak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tegak",
+                                    "pos": "a",
+                                    "form": "tegak"
+                                }
+                            },
+                            {
+                                "wf": "di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "mana-mana",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "mana",
+                                    "pos": "pron",
+                                    "form": "mana-mana"
+                                }
+                            }
+                        ],
+                        "syllables": 7
+                    }
+                ],
+                "num_lines": 17
+            }
+        ]
+    }
+}

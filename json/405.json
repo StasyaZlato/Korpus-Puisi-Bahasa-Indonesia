@@ -1,0 +1,595 @@
+{
+    "meta": {
+        "file_name": "405.json",
+        "id_bd": 405,
+        "author": "L.K. Ara",
+        "title": "Bila kelak",
+        "genre": "стихотворение",
+        "year": 1986,
+        "num_lines": 14,
+        "rhyme": "Есть",
+        "syllables": [
+            2,
+            4,
+            4,
+            5,
+            4,
+            7,
+            8,
+            8,
+            9,
+            8,
+            13,
+            12,
+            3,
+            11
+        ],
+        "strofy": [
+            7,
+            1,
+            7
+        ]
+    },
+    "poem": {
+        "text": "{Wahai\r\nBila kelak\r\nKau berangkat\r\nMemetik bunga\r\nDan menari\r\nSepanjang jalan raya\r\nLemparkan aku di pasir}\r\n{Aku akan tinggal di pasir\r\nAku akan berumah di pasir\r\nAku akan tidur di pasir\r\nAku akan mengutip nyanyianmu di pasir\r\nAku akan meraba kasihmu di pasir\r\nDi pasir\r\nRindu kita akan tetap mengalir}",
+        "strof": [
+            {
+                "strof": "Wahai\r\nBila kelak\r\nKau berangkat\r\nMemetik bunga\r\nDan menari\r\nSepanjang jalan raya\r\nLemparkan aku di pasir",
+                "lines": [
+                    {
+                        "line": "Wahai",
+                        "words": [
+                            {
+                                "wf": "Wahai",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "wahai",
+                                    "pos": "p",
+                                    "form": "wahai"
+                                }
+                            }
+                        ],
+                        "syllables": 2
+                    },
+                    {
+                        "line": "Bila kelak",
+                        "words": [
+                            {
+                                "wf": "Bila",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bila",
+                                    "pos": "pron|p",
+                                    "form": "bila"
+                                }
+                            },
+                            {
+                                "wf": "kelak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kelak",
+                                    "pos": "n",
+                                    "form": "kelak"
+                                }
+                            }
+                        ],
+                        "syllables": 4
+                    },
+                    {
+                        "line": "Kau berangkat",
+                        "words": [
+                            {
+                                "wf": "Kau",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kau",
+                                    "pos": "pron",
+                                    "form": "kau"
+                                }
+                            },
+                            {
+                                "wf": "berangkat",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "berangkat",
+                                    "pos": "v",
+                                    "form": "berangkat"
+                                }
+                            }
+                        ],
+                        "syllables": 4
+                    },
+                    {
+                        "line": "Memetik bunga",
+                        "words": [
+                            {
+                                "wf": "Memetik",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "petik",
+                                    "pos": "v",
+                                    "form": "meN-petik"
+                                }
+                            },
+                            {
+                                "wf": "bunga",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bunga",
+                                    "pos": "n",
+                                    "form": "bunga"
+                                }
+                            }
+                        ],
+                        "syllables": 5
+                    },
+                    {
+                        "line": "Dan menari",
+                        "words": [
+                            {
+                                "wf": "Dan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dan",
+                                    "pos": "p",
+                                    "form": "dan"
+                                }
+                            },
+                            {
+                                "wf": "menari",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tari",
+                                    "pos": "v",
+                                    "form": "meN-tari"
+                                }
+                            }
+                        ],
+                        "syllables": 4
+                    },
+                    {
+                        "line": "Sepanjang jalan raya",
+                        "words": [
+                            {
+                                "wf": "Sepanjang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "panjang",
+                                    "pos": "n",
+                                    "form": "se-panjang"
+                                }
+                            },
+                            {
+                                "wf": "jalan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jalan",
+                                    "pos": "n|v|a",
+                                    "form": "jalan"
+                                }
+                            },
+                            {
+                                "wf": "raya",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "raya",
+                                    "pos": "a",
+                                    "form": "raya"
+                                }
+                            }
+                        ],
+                        "syllables": 7
+                    },
+                    {
+                        "line": "Lemparkan aku di pasir",
+                        "words": [
+                            {
+                                "wf": "Lemparkan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "Lemparkan",
+                                    "pos": "v",
+                                    "form": "Lemparkan"
+                                }
+                            },
+                            {
+                                "wf": "aku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "aku",
+                                    "pos": "pron",
+                                    "form": "aku"
+                                }
+                            },
+                            {
+                                "wf": "di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "pasir",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pasir",
+                                    "pos": "n|a",
+                                    "form": "pasir"
+                                }
+                            }
+                        ],
+                        "syllables": 8
+                    }
+                ],
+                "num_lines": 7
+            },
+            {
+                "strof": "\r\n",
+                "lines": [
+                    {
+                        "line": "",
+                        "words": [],
+                        "syllables": 0
+                    }
+                ],
+                "num_lines": 1
+            },
+            {
+                "strof": "Aku akan tinggal di pasir\r\nAku akan berumah di pasir\r\nAku akan tidur di pasir\r\nAku akan mengutip nyanyianmu di pasir\r\nAku akan meraba kasihmu di pasir\r\nDi pasir\r\nRindu kita akan tetap mengalir",
+                "lines": [
+                    {
+                        "line": "Aku akan tinggal di pasir",
+                        "words": [
+                            {
+                                "wf": "Aku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "aku",
+                                    "pos": "pron",
+                                    "form": "aku"
+                                }
+                            },
+                            {
+                                "wf": "akan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "akan",
+                                    "pos": "v",
+                                    "form": "akan"
+                                }
+                            },
+                            {
+                                "wf": "tinggal",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tinggal",
+                                    "pos": "v",
+                                    "form": "tinggal"
+                                }
+                            },
+                            {
+                                "wf": "di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "pasir",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pasir",
+                                    "pos": "n|a",
+                                    "form": "pasir"
+                                }
+                            }
+                        ],
+                        "syllables": 8
+                    },
+                    {
+                        "line": "Aku akan berumah di pasir",
+                        "words": [
+                            {
+                                "wf": "Aku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "aku",
+                                    "pos": "pron",
+                                    "form": "aku"
+                                }
+                            },
+                            {
+                                "wf": "akan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "akan",
+                                    "pos": "v",
+                                    "form": "akan"
+                                }
+                            },
+                            {
+                                "wf": "berumah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "rumah",
+                                    "pos": "v",
+                                    "form": "ber-rumah"
+                                }
+                            },
+                            {
+                                "wf": "di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "pasir",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pasir",
+                                    "pos": "n|a",
+                                    "form": "pasir"
+                                }
+                            }
+                        ],
+                        "syllables": 9
+                    },
+                    {
+                        "line": "Aku akan tidur di pasir",
+                        "words": [
+                            {
+                                "wf": "Aku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "aku",
+                                    "pos": "pron",
+                                    "form": "aku"
+                                }
+                            },
+                            {
+                                "wf": "akan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "akan",
+                                    "pos": "v",
+                                    "form": "akan"
+                                }
+                            },
+                            {
+                                "wf": "tidur",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tidur",
+                                    "pos": "v",
+                                    "form": "tidur"
+                                }
+                            },
+                            {
+                                "wf": "di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "pasir",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pasir",
+                                    "pos": "n|a",
+                                    "form": "pasir"
+                                }
+                            }
+                        ],
+                        "syllables": 8
+                    },
+                    {
+                        "line": "Aku akan mengutip nyanyianmu di pasir",
+                        "words": [
+                            {
+                                "wf": "Aku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "aku",
+                                    "pos": "pron",
+                                    "form": "aku"
+                                }
+                            },
+                            {
+                                "wf": "akan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "akan",
+                                    "pos": "v",
+                                    "form": "akan"
+                                }
+                            },
+                            {
+                                "wf": "mengutip",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kutip",
+                                    "pos": "v",
+                                    "form": "meN-kutip"
+                                }
+                            },
+                            {
+                                "wf": "nyanyianmu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "nyanyi",
+                                    "pos": "n",
+                                    "form": "nyanyi-an-mu-mu"
+                                }
+                            },
+                            {
+                                "wf": "di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "pasir",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pasir",
+                                    "pos": "n|a",
+                                    "form": "pasir"
+                                }
+                            }
+                        ],
+                        "syllables": 13
+                    },
+                    {
+                        "line": "Aku akan meraba kasihmu di pasir",
+                        "words": [
+                            {
+                                "wf": "Aku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "aku",
+                                    "pos": "pron",
+                                    "form": "aku"
+                                }
+                            },
+                            {
+                                "wf": "akan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "akan",
+                                    "pos": "v",
+                                    "form": "akan"
+                                }
+                            },
+                            {
+                                "wf": "meraba",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "raba",
+                                    "pos": "v",
+                                    "form": "meN-raba"
+                                }
+                            },
+                            {
+                                "wf": "kasihmu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kasihmu",
+                                    "pos": "n",
+                                    "form": "kasihmu"
+                                }
+                            },
+                            {
+                                "wf": "di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "pasir",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pasir",
+                                    "pos": "n|a",
+                                    "form": "pasir"
+                                }
+                            }
+                        ],
+                        "syllables": 12
+                    },
+                    {
+                        "line": "Di pasir",
+                        "words": [
+                            {
+                                "wf": "Di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "pasir",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pasir",
+                                    "pos": "n|a",
+                                    "form": "pasir"
+                                }
+                            }
+                        ],
+                        "syllables": 3
+                    },
+                    {
+                        "line": "Rindu kita akan tetap mengalir",
+                        "words": [
+                            {
+                                "wf": "Rindu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "rindu",
+                                    "pos": "a",
+                                    "form": "rindu"
+                                }
+                            },
+                            {
+                                "wf": "kita",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kita",
+                                    "pos": "pron",
+                                    "form": "kita"
+                                }
+                            },
+                            {
+                                "wf": "akan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "akan",
+                                    "pos": "v",
+                                    "form": "akan"
+                                }
+                            },
+                            {
+                                "wf": "tetap",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tetap",
+                                    "pos": "v|a|adv",
+                                    "form": "tetap"
+                                }
+                            },
+                            {
+                                "wf": "mengalir",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "alir",
+                                    "pos": "v",
+                                    "form": "meN-alir"
+                                }
+                            }
+                        ],
+                        "syllables": 11
+                    }
+                ],
+                "num_lines": 7
+            }
+        ]
+    }
+}

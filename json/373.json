@@ -1,0 +1,409 @@
+{
+    "meta": {
+        "file_name": "373.json",
+        "id_bd": 373,
+        "author": "Kuntowijoyo",
+        "title": "Danau",
+        "genre": "стихотворение",
+        "year": "---",
+        "num_lines": 12,
+        "rhyme": "Нет",
+        "syllables": [
+            8,
+            6,
+            6,
+            5,
+            5,
+            3,
+            6,
+            5,
+            4,
+            2,
+            11,
+            8
+        ],
+        "strofy": [
+            7,
+            1,
+            5
+        ]
+    },
+    "poem": {
+        "text": "{Kutemukan danau baru\r\npada musim kering\r\njerih dan mengaca\r\nmenjamu burung\r\nmasih terdengar\r\ntetes air\r\nyang jatuh kembali.}\r\n{Impian lama pun\r\nberdesakan\r\naduh\r\ntidak kuasa aku menahannya\r\nsudikah Engkah menolongku.}",
+        "strof": [
+            {
+                "strof": "Kutemukan danau baru\r\npada musim kering\r\njerih dan mengaca\r\nmenjamu burung\r\nmasih terdengar\r\ntetes air\r\nyang jatuh kembali.",
+                "lines": [
+                    {
+                        "line": "Kutemukan danau baru",
+                        "words": [
+                            {
+                                "wf": "Kutemukan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kutemukan",
+                                    "pos": "v",
+                                    "form": "kutemukan"
+                                }
+                            },
+                            {
+                                "wf": "danau",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "danau",
+                                    "pos": "n",
+                                    "form": "danau"
+                                }
+                            },
+                            {
+                                "wf": "baru",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "baru",
+                                    "pos": "a|adv",
+                                    "form": "baru"
+                                }
+                            }
+                        ],
+                        "syllables": 8
+                    },
+                    {
+                        "line": "pada musim kering",
+                        "words": [
+                            {
+                                "wf": "pada",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pada",
+                                    "pos": "p",
+                                    "form": "pada"
+                                }
+                            },
+                            {
+                                "wf": "musim",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "musim",
+                                    "pos": "n",
+                                    "form": "musim"
+                                }
+                            },
+                            {
+                                "wf": "kering",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kering",
+                                    "pos": "a",
+                                    "form": "kering"
+                                }
+                            }
+                        ],
+                        "syllables": 6
+                    },
+                    {
+                        "line": "jerih dan mengaca",
+                        "words": [
+                            {
+                                "wf": "jerih",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jerih",
+                                    "pos": "n",
+                                    "form": "jerih"
+                                }
+                            },
+                            {
+                                "wf": "dan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dan",
+                                    "pos": "p",
+                                    "form": "dan"
+                                }
+                            },
+                            {
+                                "wf": "mengaca",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kaca",
+                                    "pos": "v",
+                                    "form": "meN-kaca"
+                                }
+                            }
+                        ],
+                        "syllables": 6
+                    },
+                    {
+                        "line": "menjamu burung",
+                        "words": [
+                            {
+                                "wf": "menjamu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "",
+                                    "pos": "v",
+                                    "form": "menjamu-mu"
+                                }
+                            },
+                            {
+                                "wf": "burung",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "burung",
+                                    "pos": "n",
+                                    "form": "burung"
+                                }
+                            }
+                        ],
+                        "syllables": 5
+                    },
+                    {
+                        "line": "masih terdengar",
+                        "words": [
+                            {
+                                "wf": "masih",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "masih",
+                                    "pos": "n",
+                                    "form": "masih"
+                                }
+                            },
+                            {
+                                "wf": "terdengar",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dengar",
+                                    "pos": "v",
+                                    "form": "terdengar"
+                                }
+                            }
+                        ],
+                        "syllables": 5
+                    },
+                    {
+                        "line": "tetes air",
+                        "words": [
+                            {
+                                "wf": "tetes",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tetes",
+                                    "pos": "v",
+                                    "form": "tetes"
+                                }
+                            },
+                            {
+                                "wf": "air",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "air",
+                                    "pos": "n",
+                                    "form": "air"
+                                }
+                            }
+                        ],
+                        "syllables": 3
+                    },
+                    {
+                        "line": "yang jatuh kembali.",
+                        "words": [
+                            {
+                                "wf": "yang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "yang",
+                                    "pos": "a|v|n",
+                                    "form": "yang"
+                                }
+                            },
+                            {
+                                "wf": "jatuh",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jatuh",
+                                    "pos": "v",
+                                    "form": "jatuh"
+                                }
+                            },
+                            {
+                                "wf": "kembali",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kembali",
+                                    "pos": "v",
+                                    "form": "kembali"
+                                }
+                            },
+                            {
+                                "wf": ".",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 6
+                    }
+                ],
+                "num_lines": 7
+            },
+            {
+                "strof": "\r\n",
+                "lines": [
+                    {
+                        "line": "",
+                        "words": [],
+                        "syllables": 0
+                    }
+                ],
+                "num_lines": 1
+            },
+            {
+                "strof": "Impian lama pun\r\nberdesakan\r\naduh\r\ntidak kuasa aku menahannya\r\nsudikah Engkah menolongku.",
+                "lines": [
+                    {
+                        "line": "Impian lama pun",
+                        "words": [
+                            {
+                                "wf": "Impian",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "impian",
+                                    "pos": "n",
+                                    "form": "impian"
+                                }
+                            },
+                            {
+                                "wf": "lama",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lama",
+                                    "pos": "a",
+                                    "form": "lama"
+                                }
+                            },
+                            {
+                                "wf": "pun",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pun",
+                                    "pos": "p",
+                                    "form": "pun"
+                                }
+                            }
+                        ],
+                        "syllables": 5
+                    },
+                    {
+                        "line": "berdesakan",
+                        "words": [
+                            {
+                                "wf": "berdesakan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "berdesakan",
+                                    "pos": "v",
+                                    "form": "berdesakan"
+                                }
+                            }
+                        ],
+                        "syllables": 4
+                    },
+                    {
+                        "line": "aduh",
+                        "words": [
+                            {
+                                "wf": "aduh",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "aduh",
+                                    "pos": "a",
+                                    "form": "aduh"
+                                }
+                            }
+                        ],
+                        "syllables": 2
+                    },
+                    {
+                        "line": "tidak kuasa aku menahannya",
+                        "words": [
+                            {
+                                "wf": "tidak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tidak",
+                                    "pos": "adv",
+                                    "form": "tidak"
+                                }
+                            },
+                            {
+                                "wf": "kuasa",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kuasa",
+                                    "pos": "n|v",
+                                    "form": "kuasa"
+                                }
+                            },
+                            {
+                                "wf": "aku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "aku",
+                                    "pos": "pron",
+                                    "form": "aku"
+                                }
+                            },
+                            {
+                                "wf": "menahannya",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "",
+                                    "pos": "v",
+                                    "form": "menahannya-nya"
+                                }
+                            }
+                        ],
+                        "syllables": 11
+                    },
+                    {
+                        "line": "sudikah Engkah menolongku.",
+                        "words": [
+                            {
+                                "wf": "sudikah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sudi",
+                                    "pos": "v",
+                                    "form": "sudi-kah"
+                                }
+                            },
+                            {
+                                "wf": "Engkah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "engkah",
+                                    "pos": "n",
+                                    "form": "engkah"
+                                }
+                            },
+                            {
+                                "wf": "menolongku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tolong",
+                                    "pos": "v",
+                                    "form": "meN-tolong-ku-ku"
+                                }
+                            },
+                            {
+                                "wf": ".",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 8
+                    }
+                ],
+                "num_lines": 5
+            }
+        ]
+    }
+}

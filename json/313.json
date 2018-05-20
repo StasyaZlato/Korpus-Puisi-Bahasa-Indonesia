@@ -1,0 +1,530 @@
+{
+    "meta": {
+        "file_name": "313.json",
+        "id_bd": 313,
+        "author": "Korrie Layun Rampan",
+        "title": "Kita",
+        "genre": "стихотворение",
+        "year": 1973,
+        "num_lines": 16,
+        "rhyme": "Есть",
+        "syllables": [
+            4,
+            2,
+            6,
+            4,
+            4,
+            10,
+            6,
+            7,
+            4,
+            12,
+            6,
+            6,
+            4,
+            2,
+            6,
+            4
+        ],
+        "strofy": [
+            4,
+            1,
+            4,
+            1,
+            4,
+            1,
+            4
+        ]
+    },
+    "poem": {
+        "text": "{Manusia\r\nTanah\r\nBungkah-bungkah kata\r\nAdam dan Hawa}\r\n{Manusia\r\nTulang-tulang kapur tanah kubur\r\nRumput bunga layu\r\nTetes waktu berlalu}\r\n{Manusia\r\nDomba-domba di padang tanpa gembala\r\nTersesat sendiri\r\nKe ujung yang sunyi}\r\n{Manusia\r\nTanah\r\nBungkah-bungkah kata\r\nAdam dan Hawa}",
+        "strof": [
+            {
+                "strof": "Manusia\r\nTanah\r\nBungkah-bungkah kata\r\nAdam dan Hawa",
+                "lines": [
+                    {
+                        "line": "Manusia",
+                        "words": [
+                            {
+                                "wf": "Manusia",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "manusia",
+                                    "pos": "n",
+                                    "form": "manusia"
+                                }
+                            }
+                        ],
+                        "syllables": 4
+                    },
+                    {
+                        "line": "Tanah",
+                        "words": [
+                            {
+                                "wf": "Tanah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tanah",
+                                    "pos": "n",
+                                    "form": "tanah"
+                                }
+                            }
+                        ],
+                        "syllables": 2
+                    },
+                    {
+                        "line": "Bungkah-bungkah kata",
+                        "words": [
+                            {
+                                "wf": "Bungkah-bungkah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bungkah-bungkah",
+                                    "pos": "v",
+                                    "form": "bungkah-bungkah"
+                                }
+                            },
+                            {
+                                "wf": "kata",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "a",
+                                    "pos": "n",
+                                    "form": "kata"
+                                }
+                            }
+                        ],
+                        "syllables": 6
+                    },
+                    {
+                        "line": "Adam dan Hawa",
+                        "words": [
+                            {
+                                "wf": "Adam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "adam",
+                                    "pos": "a",
+                                    "form": "adam"
+                                }
+                            },
+                            {
+                                "wf": "dan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dan",
+                                    "pos": "p",
+                                    "form": "dan"
+                                }
+                            },
+                            {
+                                "wf": "Hawa",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hawa",
+                                    "pos": "n",
+                                    "form": "hawa"
+                                }
+                            }
+                        ],
+                        "syllables": 4
+                    }
+                ],
+                "num_lines": 4
+            },
+            {
+                "strof": "\r\n",
+                "lines": [
+                    {
+                        "line": "",
+                        "words": [],
+                        "syllables": 0
+                    }
+                ],
+                "num_lines": 1
+            },
+            {
+                "strof": "Manusia\r\nTulang-tulang kapur tanah kubur\r\nRumput bunga layu\r\nTetes waktu berlalu",
+                "lines": [
+                    {
+                        "line": "Manusia",
+                        "words": [
+                            {
+                                "wf": "Manusia",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "manusia",
+                                    "pos": "n",
+                                    "form": "manusia"
+                                }
+                            }
+                        ],
+                        "syllables": 4
+                    },
+                    {
+                        "line": "Tulang-tulang kapur tanah kubur",
+                        "words": [
+                            {
+                                "wf": "Tulang-tulang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tulang",
+                                    "pos": "n",
+                                    "form": "tulang-tulang"
+                                }
+                            },
+                            {
+                                "wf": "kapur",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kapur",
+                                    "pos": "n",
+                                    "form": "kapur"
+                                }
+                            },
+                            {
+                                "wf": "tanah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tanah",
+                                    "pos": "n",
+                                    "form": "tanah"
+                                }
+                            },
+                            {
+                                "wf": "kubur",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kubur",
+                                    "pos": "n",
+                                    "form": "kubur"
+                                }
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "Rumput bunga layu",
+                        "words": [
+                            {
+                                "wf": "Rumput",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "rumput",
+                                    "pos": "n",
+                                    "form": "rumput"
+                                }
+                            },
+                            {
+                                "wf": "bunga",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bunga",
+                                    "pos": "n",
+                                    "form": "bunga"
+                                }
+                            },
+                            {
+                                "wf": "layu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "layu",
+                                    "pos": "n",
+                                    "form": "layu"
+                                }
+                            }
+                        ],
+                        "syllables": 6
+                    },
+                    {
+                        "line": "Tetes waktu berlalu",
+                        "words": [
+                            {
+                                "wf": "Tetes",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tetes",
+                                    "pos": "v",
+                                    "form": "tetes"
+                                }
+                            },
+                            {
+                                "wf": "waktu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "waktu",
+                                    "pos": "n|p",
+                                    "form": "waktu"
+                                }
+                            },
+                            {
+                                "wf": "berlalu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lalu",
+                                    "pos": "v",
+                                    "form": "ber-lalu"
+                                }
+                            }
+                        ],
+                        "syllables": 7
+                    }
+                ],
+                "num_lines": 4
+            },
+            {
+                "strof": "\r\n",
+                "lines": [
+                    {
+                        "line": "",
+                        "words": [],
+                        "syllables": 0
+                    }
+                ],
+                "num_lines": 1
+            },
+            {
+                "strof": "Manusia\r\nDomba-domba di padang tanpa gembala\r\nTersesat sendiri\r\nKe ujung yang sunyi",
+                "lines": [
+                    {
+                        "line": "Manusia",
+                        "words": [
+                            {
+                                "wf": "Manusia",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "manusia",
+                                    "pos": "n",
+                                    "form": "manusia"
+                                }
+                            }
+                        ],
+                        "syllables": 4
+                    },
+                    {
+                        "line": "Domba-domba di padang tanpa gembala",
+                        "words": [
+                            {
+                                "wf": "Domba-domba",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "domba",
+                                    "pos": "n",
+                                    "form": "domba-domba"
+                                }
+                            },
+                            {
+                                "wf": "di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "padang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "padang",
+                                    "pos": "n",
+                                    "form": "padang"
+                                }
+                            },
+                            {
+                                "wf": "tanpa",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tanpa",
+                                    "pos": "adv",
+                                    "form": "tanpa"
+                                }
+                            },
+                            {
+                                "wf": "gembala",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "gembala",
+                                    "pos": "n",
+                                    "form": "gembala"
+                                }
+                            }
+                        ],
+                        "syllables": 12
+                    },
+                    {
+                        "line": "Tersesat sendiri",
+                        "words": [
+                            {
+                                "wf": "Tersesat",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sesat",
+                                    "pos": "v",
+                                    "form": "ter-sesat"
+                                }
+                            },
+                            {
+                                "wf": "sendiri",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sendiri",
+                                    "pos": "adv|a|n",
+                                    "form": "sendiri"
+                                }
+                            }
+                        ],
+                        "syllables": 6
+                    },
+                    {
+                        "line": "Ke ujung yang sunyi",
+                        "words": [
+                            {
+                                "wf": "Ke",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ke",
+                                    "pos": "p",
+                                    "form": "ke"
+                                }
+                            },
+                            {
+                                "wf": "ujung",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ujung",
+                                    "pos": "n",
+                                    "form": "ujung"
+                                }
+                            },
+                            {
+                                "wf": "yang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "yang",
+                                    "pos": "a|v|n",
+                                    "form": "yang"
+                                }
+                            },
+                            {
+                                "wf": "sunyi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sunyi",
+                                    "pos": "a",
+                                    "form": "sunyi"
+                                }
+                            }
+                        ],
+                        "syllables": 6
+                    }
+                ],
+                "num_lines": 4
+            },
+            {
+                "strof": "\r\n",
+                "lines": [
+                    {
+                        "line": "",
+                        "words": [],
+                        "syllables": 0
+                    }
+                ],
+                "num_lines": 1
+            },
+            {
+                "strof": "Manusia\r\nTanah\r\nBungkah-bungkah kata\r\nAdam dan Hawa",
+                "lines": [
+                    {
+                        "line": "Manusia",
+                        "words": [
+                            {
+                                "wf": "Manusia",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "manusia",
+                                    "pos": "n",
+                                    "form": "manusia"
+                                }
+                            }
+                        ],
+                        "syllables": 4
+                    },
+                    {
+                        "line": "Tanah",
+                        "words": [
+                            {
+                                "wf": "Tanah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tanah",
+                                    "pos": "n",
+                                    "form": "tanah"
+                                }
+                            }
+                        ],
+                        "syllables": 2
+                    },
+                    {
+                        "line": "Bungkah-bungkah kata",
+                        "words": [
+                            {
+                                "wf": "Bungkah-bungkah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bungkah-bungkah",
+                                    "pos": "v",
+                                    "form": "bungkah-bungkah"
+                                }
+                            },
+                            {
+                                "wf": "kata",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "a",
+                                    "pos": "n",
+                                    "form": "kata"
+                                }
+                            }
+                        ],
+                        "syllables": 6
+                    },
+                    {
+                        "line": "Adam dan Hawa",
+                        "words": [
+                            {
+                                "wf": "Adam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "adam",
+                                    "pos": "a",
+                                    "form": "adam"
+                                }
+                            },
+                            {
+                                "wf": "dan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dan",
+                                    "pos": "p",
+                                    "form": "dan"
+                                }
+                            },
+                            {
+                                "wf": "Hawa",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hawa",
+                                    "pos": "n",
+                                    "form": "hawa"
+                                }
+                            }
+                        ],
+                        "syllables": 4
+                    }
+                ],
+                "num_lines": 4
+            }
+        ]
+    }
+}

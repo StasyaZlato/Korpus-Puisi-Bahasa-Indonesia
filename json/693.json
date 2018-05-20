@@ -1,0 +1,571 @@
+{
+    "meta": {
+        "file_name": "693.json",
+        "id_bd": 693,
+        "author": "W.S. Rendra",
+        "title": "Hai, kamu !",
+        "genre": "стихотворение",
+        "year": "29.02.1978",
+        "num_lines": 10,
+        "rhyme": "Есть",
+        "syllables": [
+            10,
+            13,
+            14,
+            13,
+            13,
+            10,
+            11,
+            11,
+            12,
+            15
+        ],
+        "strofy": [
+            5,
+            1,
+            5
+        ]
+    },
+    "poem": {
+        "text": "{Luka-luka di dalam lembaga,\r\nintaian keangkuhan kekerdilan jiwa,\r\nnoda di dalam pergaulan antar manusia,\r\nduduk di dalam kemacetan angan-angan.\r\nAku berontak dengan memandang cakrawala.}\r\n{Jari-jari waktu menggamitku.\r\nAku menyimak kepada arus kali.\r\nLagu margasatwa agak mereda.\r\nIndahnya ketenangan turun ke hatiku.\r\nLepas sudah himpitan-himpitan yang mengekangku.}",
+        "strof": [
+            {
+                "strof": "Luka-luka di dalam lembaga,\r\nintaian keangkuhan kekerdilan jiwa,\r\nnoda di dalam pergaulan antar manusia,\r\nduduk di dalam kemacetan angan-angan.\r\nAku berontak dengan memandang cakrawala.",
+                "lines": [
+                    {
+                        "line": "Luka-luka di dalam lembaga,",
+                        "words": [
+                            {
+                                "wf": "Luka-luka",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "luka",
+                                    "pos": "n|v",
+                                    "form": "luka-luka"
+                                }
+                            },
+                            {
+                                "wf": "di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "dalam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dalam",
+                                    "pos": "a|n",
+                                    "form": "dalam"
+                                }
+                            },
+                            {
+                                "wf": "lembaga",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lembaga",
+                                    "pos": "n",
+                                    "form": "lembaga"
+                                }
+                            },
+                            {
+                                "wf": ",",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "intaian keangkuhan kekerdilan jiwa,",
+                        "words": [
+                            {
+                                "wf": "intaian",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "intaian",
+                                    "pos": "n",
+                                    "form": "intaian"
+                                }
+                            },
+                            {
+                                "wf": "keangkuhan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "angkuh",
+                                    "pos": "n",
+                                    "form": "ke-angkuh-an"
+                                }
+                            },
+                            {
+                                "wf": "kekerdilan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kerdil",
+                                    "pos": "n",
+                                    "form": "ke-kerdil-an"
+                                }
+                            },
+                            {
+                                "wf": "jiwa",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jiwa",
+                                    "pos": "n",
+                                    "form": "jiwa"
+                                }
+                            },
+                            {
+                                "wf": ",",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 13
+                    },
+                    {
+                        "line": "noda di dalam pergaulan antar manusia,",
+                        "words": [
+                            {
+                                "wf": "noda",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "noda",
+                                    "pos": "n",
+                                    "form": "noda"
+                                }
+                            },
+                            {
+                                "wf": "di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "dalam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dalam",
+                                    "pos": "a|n",
+                                    "form": "dalam"
+                                }
+                            },
+                            {
+                                "wf": "pergaulan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "gaul",
+                                    "pos": "n",
+                                    "form": "per-gaul-an"
+                                }
+                            },
+                            {
+                                "wf": "antar",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "antar",
+                                    "pos": "v",
+                                    "form": "antar"
+                                }
+                            },
+                            {
+                                "wf": "manusia",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "manusia",
+                                    "pos": "n",
+                                    "form": "manusia"
+                                }
+                            },
+                            {
+                                "wf": ",",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 14
+                    },
+                    {
+                        "line": "duduk di dalam kemacetan angan-angan.",
+                        "words": [
+                            {
+                                "wf": "duduk",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "duduk",
+                                    "pos": "v",
+                                    "form": "duduk"
+                                }
+                            },
+                            {
+                                "wf": "di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "dalam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dalam",
+                                    "pos": "a|n",
+                                    "form": "dalam"
+                                }
+                            },
+                            {
+                                "wf": "kemacetan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "macet",
+                                    "pos": "n",
+                                    "form": "ke-macet-an"
+                                }
+                            },
+                            {
+                                "wf": "angan-angan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "angan",
+                                    "pos": "n",
+                                    "form": "angan-angan"
+                                }
+                            },
+                            {
+                                "wf": ".",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 13
+                    },
+                    {
+                        "line": "Aku berontak dengan memandang cakrawala.",
+                        "words": [
+                            {
+                                "wf": "Aku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "aku",
+                                    "pos": "pron",
+                                    "form": "aku"
+                                }
+                            },
+                            {
+                                "wf": "berontak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "berontak",
+                                    "pos": "v",
+                                    "form": "berontak"
+                                }
+                            },
+                            {
+                                "wf": "dengan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dengan",
+                                    "pos": "p",
+                                    "form": "dengan"
+                                }
+                            },
+                            {
+                                "wf": "memandang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pandang",
+                                    "pos": "v",
+                                    "form": "meN-pandang"
+                                }
+                            },
+                            {
+                                "wf": "cakrawala",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "cakrawala",
+                                    "pos": "n",
+                                    "form": "cakrawala"
+                                }
+                            },
+                            {
+                                "wf": ".",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 13
+                    }
+                ],
+                "num_lines": 5
+            },
+            {
+                "strof": "\r\n",
+                "lines": [
+                    {
+                        "line": "",
+                        "words": [],
+                        "syllables": 0
+                    }
+                ],
+                "num_lines": 1
+            },
+            {
+                "strof": "Jari-jari waktu menggamitku.\r\nAku menyimak kepada arus kali.\r\nLagu margasatwa agak mereda.\r\nIndahnya ketenangan turun ke hatiku.\r\nLepas sudah himpitan-himpitan yang mengekangku.",
+                "lines": [
+                    {
+                        "line": "Jari-jari waktu menggamitku.",
+                        "words": [
+                            {
+                                "wf": "Jari-jari",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jari-jari",
+                                    "pos": "v|n",
+                                    "form": "jari-jari"
+                                }
+                            },
+                            {
+                                "wf": "waktu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "waktu",
+                                    "pos": "n|p",
+                                    "form": "waktu"
+                                }
+                            },
+                            {
+                                "wf": "menggamitku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "gamit",
+                                    "pos": "v",
+                                    "form": "meN-gamit-ku-ku"
+                                }
+                            },
+                            {
+                                "wf": ".",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "Aku menyimak kepada arus kali.",
+                        "words": [
+                            {
+                                "wf": "Aku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "aku",
+                                    "pos": "pron",
+                                    "form": "aku"
+                                }
+                            },
+                            {
+                                "wf": "menyimak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "simak",
+                                    "pos": "v",
+                                    "form": "meN-simak"
+                                }
+                            },
+                            {
+                                "wf": "kepada",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kepada",
+                                    "pos": "p",
+                                    "form": "kepada"
+                                }
+                            },
+                            {
+                                "wf": "arus",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "arus",
+                                    "pos": "n",
+                                    "form": "arus"
+                                }
+                            },
+                            {
+                                "wf": "kali",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kali",
+                                    "pos": "v",
+                                    "form": "kali"
+                                }
+                            },
+                            {
+                                "wf": ".",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 11
+                    },
+                    {
+                        "line": "Lagu margasatwa agak mereda.",
+                        "words": [
+                            {
+                                "wf": "Lagu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lagu",
+                                    "pos": "n",
+                                    "form": "lagu"
+                                }
+                            },
+                            {
+                                "wf": "margasatwa",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "margasatwa",
+                                    "pos": "n",
+                                    "form": "margasatwa"
+                                }
+                            },
+                            {
+                                "wf": "agak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "agak",
+                                    "pos": "n|adv",
+                                    "form": "agak"
+                                }
+                            },
+                            {
+                                "wf": "mereda",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "reda",
+                                    "pos": "v",
+                                    "form": "meN-reda"
+                                }
+                            },
+                            {
+                                "wf": ".",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 11
+                    },
+                    {
+                        "line": "Indahnya ketenangan turun ke hatiku.",
+                        "words": [
+                            {
+                                "wf": "Indahnya",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "indah",
+                                    "pos": "a",
+                                    "form": "indah-nya"
+                                }
+                            },
+                            {
+                                "wf": "ketenangan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tenang",
+                                    "pos": "n",
+                                    "form": "ke-tenang-an"
+                                }
+                            },
+                            {
+                                "wf": "turun",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "turun",
+                                    "pos": "v",
+                                    "form": "turun"
+                                }
+                            },
+                            {
+                                "wf": "ke",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ke",
+                                    "pos": "p",
+                                    "form": "ke"
+                                }
+                            },
+                            {
+                                "wf": "hatiku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hati",
+                                    "pos": "n",
+                                    "form": "hati-ku"
+                                }
+                            },
+                            {
+                                "wf": ".",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 12
+                    },
+                    {
+                        "line": "Lepas sudah himpitan-himpitan yang mengekangku.",
+                        "words": [
+                            {
+                                "wf": "Lepas",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lepas",
+                                    "pos": "a",
+                                    "form": "lepas"
+                                }
+                            },
+                            {
+                                "wf": "sudah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sudah",
+                                    "pos": "adv",
+                                    "form": "sudah"
+                                }
+                            },
+                            {
+                                "wf": "himpitan-himpitan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "himpitan-himpitan",
+                                    "pos": "?",
+                                    "form": "himpitan-himpitan"
+                                }
+                            },
+                            {
+                                "wf": "yang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "yang",
+                                    "pos": "a|v|n",
+                                    "form": "yang"
+                                }
+                            },
+                            {
+                                "wf": "mengekangku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kekang",
+                                    "pos": "v",
+                                    "form": "meN-kekang-ku-ku"
+                                }
+                            },
+                            {
+                                "wf": ".",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 15
+                    }
+                ],
+                "num_lines": 5
+            }
+        ]
+    }
+}

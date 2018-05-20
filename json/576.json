@@ -1,0 +1,627 @@
+{
+    "meta": {
+        "file_name": "576.json",
+        "id_bd": 576,
+        "author": "Taufiq Ismail",
+        "title": "Tentang sersan nurcholis",
+        "genre": "стихотворение",
+        "year": 1958,
+        "num_lines": 18,
+        "rhyme": "Нет",
+        "syllables": [
+            5,
+            5,
+            8,
+            5,
+            6,
+            6,
+            5,
+            5,
+            6,
+            8,
+            5,
+            5,
+            5,
+            5,
+            7,
+            5,
+            6,
+            7
+        ],
+        "strofy": [
+            3,
+            1,
+            3,
+            1,
+            3,
+            1,
+            3,
+            1,
+            3,
+            1,
+            3
+        ]
+    },
+    "poem": {
+        "text": "{Seorang Sersan\r\nKakinya hilang\r\nSepuluh tahun yang lalu}\r\n{Setiap siang\r\nTerdengan siulnya\r\nDi bengkel arloji}\r\n{Sekali datang\r\nTeman-temannya\r\nSudah orang resmi}\r\n{Dengan senyum ditolaknya\r\nKartu anggota\r\nBekas pejuang}\r\n{Sersan Nurcholis\r\nKakinya hilang\r\nDi jaman Revolusi}\r\n{Setiap siang\r\nTerdengan siulnya\r\nDi bengkel aroloji}",
+        "strof": [
+            {
+                "strof": "Seorang Sersan\r\nKakinya hilang\r\nSepuluh tahun yang lalu",
+                "lines": [
+                    {
+                        "line": "Seorang Sersan",
+                        "words": [
+                            {
+                                "wf": "Seorang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "orang",
+                                    "pos": "n",
+                                    "form": "se-orang"
+                                }
+                            },
+                            {
+                                "wf": "Sersan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sersan",
+                                    "pos": "?",
+                                    "form": "sersan"
+                                }
+                            }
+                        ],
+                        "syllables": 5
+                    },
+                    {
+                        "line": "Kakinya hilang",
+                        "words": [
+                            {
+                                "wf": "Kakinya",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kakinya",
+                                    "pos": "n",
+                                    "form": "kakinya"
+                                }
+                            },
+                            {
+                                "wf": "hilang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hilang",
+                                    "pos": "v",
+                                    "form": "hilang"
+                                }
+                            }
+                        ],
+                        "syllables": 5
+                    },
+                    {
+                        "line": "Sepuluh tahun yang lalu",
+                        "words": [
+                            {
+                                "wf": "Sepuluh",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "puluh",
+                                    "pos": "num",
+                                    "form": "se-puluh"
+                                }
+                            },
+                            {
+                                "wf": "tahun",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tahun",
+                                    "pos": "n",
+                                    "form": "tahun"
+                                }
+                            },
+                            {
+                                "wf": "yang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "yang",
+                                    "pos": "a|v|n",
+                                    "form": "yang"
+                                }
+                            },
+                            {
+                                "wf": "lalu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lalu",
+                                    "pos": "adv",
+                                    "form": "lalu"
+                                }
+                            }
+                        ],
+                        "syllables": 8
+                    }
+                ],
+                "num_lines": 3
+            },
+            {
+                "strof": "\r\n",
+                "lines": [
+                    {
+                        "line": "",
+                        "words": [],
+                        "syllables": 0
+                    }
+                ],
+                "num_lines": 1
+            },
+            {
+                "strof": "Setiap siang\r\nTerdengan siulnya\r\nDi bengkel arloji",
+                "lines": [
+                    {
+                        "line": "Setiap siang",
+                        "words": [
+                            {
+                                "wf": "Setiap",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tiap",
+                                    "pos": "num",
+                                    "form": "se-tiap"
+                                }
+                            },
+                            {
+                                "wf": "siang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "siang",
+                                    "pos": "n",
+                                    "form": "siang"
+                                }
+                            }
+                        ],
+                        "syllables": 5
+                    },
+                    {
+                        "line": "Terdengan siulnya",
+                        "words": [
+                            {
+                                "wf": "Terdengan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "Terdengan",
+                                    "pos": "p",
+                                    "form": "Terdengan"
+                                }
+                            },
+                            {
+                                "wf": "siulnya",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "siul",
+                                    "pos": "n",
+                                    "form": "siul-nya"
+                                }
+                            }
+                        ],
+                        "syllables": 6
+                    },
+                    {
+                        "line": "Di bengkel arloji",
+                        "words": [
+                            {
+                                "wf": "Di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "bengkel",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bengkel",
+                                    "pos": "",
+                                    "form": "bengkel"
+                                }
+                            },
+                            {
+                                "wf": "arloji",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "arloji",
+                                    "pos": "n",
+                                    "form": "arloji"
+                                }
+                            }
+                        ],
+                        "syllables": 6
+                    }
+                ],
+                "num_lines": 3
+            },
+            {
+                "strof": "\r\n",
+                "lines": [
+                    {
+                        "line": "",
+                        "words": [],
+                        "syllables": 0
+                    }
+                ],
+                "num_lines": 1
+            },
+            {
+                "strof": "Sekali datang\r\nTeman-temannya\r\nSudah orang resmi",
+                "lines": [
+                    {
+                        "line": "Sekali datang",
+                        "words": [
+                            {
+                                "wf": "Sekali",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kali",
+                                    "pos": "adv|num|n",
+                                    "form": "se-kali"
+                                }
+                            },
+                            {
+                                "wf": "datang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "datang",
+                                    "pos": "v|n",
+                                    "form": "datang"
+                                }
+                            }
+                        ],
+                        "syllables": 5
+                    },
+                    {
+                        "line": "Teman-temannya",
+                        "words": [
+                            {
+                                "wf": "Teman-temannya",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "",
+                                    "pos": "n",
+                                    "form": "Teman-temannya-nya"
+                                }
+                            }
+                        ],
+                        "syllables": 5
+                    },
+                    {
+                        "line": "Sudah orang resmi",
+                        "words": [
+                            {
+                                "wf": "Sudah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sudah",
+                                    "pos": "adv",
+                                    "form": "sudah"
+                                }
+                            },
+                            {
+                                "wf": "orang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "orang",
+                                    "pos": "n",
+                                    "form": "orang"
+                                }
+                            },
+                            {
+                                "wf": "resmi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "resmi",
+                                    "pos": "a",
+                                    "form": "resmi"
+                                }
+                            }
+                        ],
+                        "syllables": 6
+                    }
+                ],
+                "num_lines": 3
+            },
+            {
+                "strof": "\r\n",
+                "lines": [
+                    {
+                        "line": "",
+                        "words": [],
+                        "syllables": 0
+                    }
+                ],
+                "num_lines": 1
+            },
+            {
+                "strof": "Dengan senyum ditolaknya\r\nKartu anggota\r\nBekas pejuang",
+                "lines": [
+                    {
+                        "line": "Dengan senyum ditolaknya",
+                        "words": [
+                            {
+                                "wf": "Dengan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dengan",
+                                    "pos": "p",
+                                    "form": "dengan"
+                                }
+                            },
+                            {
+                                "wf": "senyum",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "senyum",
+                                    "pos": "n",
+                                    "form": "senyum"
+                                }
+                            },
+                            {
+                                "wf": "ditolaknya",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ditolaknya",
+                                    "pos": "?",
+                                    "form": "ditolaknya"
+                                }
+                            }
+                        ],
+                        "syllables": 8
+                    },
+                    {
+                        "line": "Kartu anggota",
+                        "words": [
+                            {
+                                "wf": "Kartu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kartu",
+                                    "pos": "n",
+                                    "form": "kartu"
+                                }
+                            },
+                            {
+                                "wf": "anggota",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "anggota",
+                                    "pos": "n",
+                                    "form": "anggota"
+                                }
+                            }
+                        ],
+                        "syllables": 5
+                    },
+                    {
+                        "line": "Bekas pejuang",
+                        "words": [
+                            {
+                                "wf": "Bekas",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bekas",
+                                    "pos": "n",
+                                    "form": "bekas"
+                                }
+                            },
+                            {
+                                "wf": "pejuang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "juang",
+                                    "pos": "n",
+                                    "form": "pe-juang"
+                                }
+                            }
+                        ],
+                        "syllables": 5
+                    }
+                ],
+                "num_lines": 3
+            },
+            {
+                "strof": "\r\n",
+                "lines": [
+                    {
+                        "line": "",
+                        "words": [],
+                        "syllables": 0
+                    }
+                ],
+                "num_lines": 1
+            },
+            {
+                "strof": "Sersan Nurcholis\r\nKakinya hilang\r\nDi jaman Revolusi",
+                "lines": [
+                    {
+                        "line": "Sersan Nurcholis",
+                        "words": [
+                            {
+                                "wf": "Sersan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sersan",
+                                    "pos": "?",
+                                    "form": "sersan"
+                                }
+                            },
+                            {
+                                "wf": "Nurcholis",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "nurcholis",
+                                    "pos": "?",
+                                    "form": "nurcholis"
+                                }
+                            }
+                        ],
+                        "syllables": 5
+                    },
+                    {
+                        "line": "Kakinya hilang",
+                        "words": [
+                            {
+                                "wf": "Kakinya",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kakinya",
+                                    "pos": "n",
+                                    "form": "kakinya"
+                                }
+                            },
+                            {
+                                "wf": "hilang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hilang",
+                                    "pos": "v",
+                                    "form": "hilang"
+                                }
+                            }
+                        ],
+                        "syllables": 5
+                    },
+                    {
+                        "line": "Di jaman Revolusi",
+                        "words": [
+                            {
+                                "wf": "Di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "jaman",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jaman",
+                                    "pos": "n",
+                                    "form": "jaman"
+                                }
+                            },
+                            {
+                                "wf": "Revolusi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "revolusi",
+                                    "pos": "v",
+                                    "form": "revolusi"
+                                }
+                            }
+                        ],
+                        "syllables": 7
+                    }
+                ],
+                "num_lines": 3
+            },
+            {
+                "strof": "\r\n",
+                "lines": [
+                    {
+                        "line": "",
+                        "words": [],
+                        "syllables": 0
+                    }
+                ],
+                "num_lines": 1
+            },
+            {
+                "strof": "Setiap siang\r\nTerdengan siulnya\r\nDi bengkel aroloji",
+                "lines": [
+                    {
+                        "line": "Setiap siang",
+                        "words": [
+                            {
+                                "wf": "Setiap",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tiap",
+                                    "pos": "num",
+                                    "form": "se-tiap"
+                                }
+                            },
+                            {
+                                "wf": "siang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "siang",
+                                    "pos": "n",
+                                    "form": "siang"
+                                }
+                            }
+                        ],
+                        "syllables": 5
+                    },
+                    {
+                        "line": "Terdengan siulnya",
+                        "words": [
+                            {
+                                "wf": "Terdengan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "Terdengan",
+                                    "pos": "p",
+                                    "form": "Terdengan"
+                                }
+                            },
+                            {
+                                "wf": "siulnya",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "siul",
+                                    "pos": "n",
+                                    "form": "siul-nya"
+                                }
+                            }
+                        ],
+                        "syllables": 6
+                    },
+                    {
+                        "line": "Di bengkel aroloji",
+                        "words": [
+                            {
+                                "wf": "Di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "bengkel",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bengkel",
+                                    "pos": "",
+                                    "form": "bengkel"
+                                }
+                            },
+                            {
+                                "wf": "aroloji",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "aroloji",
+                                    "pos": "?",
+                                    "form": "aroloji"
+                                }
+                            }
+                        ],
+                        "syllables": 7
+                    }
+                ],
+                "num_lines": 3
+            }
+        ]
+    }
+}

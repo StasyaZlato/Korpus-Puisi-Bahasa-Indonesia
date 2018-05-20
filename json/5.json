@@ -1,0 +1,737 @@
+{
+    "meta": {
+        "file_name": "5.json",
+        "id_bd": 6,
+        "author": "Ajip Rosidi",
+        "title": "Kepada kawan 12",
+        "genre": "сонет",
+        "year": 1938,
+        "num_lines": 14,
+        "rhyme": "Есть",
+        "syllables": [
+            7,
+            11,
+            10,
+            7,
+            7,
+            12,
+            7,
+            10,
+            11,
+            8,
+            13,
+            12,
+            14,
+            10
+        ],
+        "strofy": [
+            14
+        ]
+    },
+    "poem": {
+        "text": "Apa sih yang mau kau capai\nMaka kau terjang segala penghalang\nDan kau abaikan segala nilai\nAsal kau sendiri menang?\nApa sih yang mau kau dapat\nMaka kau tinggalkan semua sahabat\nDan di sekelilingmu\nKau anyam rapat pagar curiga\nKau kira di mana kau akan tiba\nKalau hari sudah senja?\nTernyata tidak ada tarian gemulai\nAtau suara gamelan mengalun permai\nKemenangan-kemenanganmu selama ini\nMelontarkanmu ke langit hampa",
+        "strof": [
+            {
+                "strof": "Apa sih yang mau kau capai\nMaka kau terjang segala penghalang\nDan kau abaikan segala nilai\nAsal kau sendiri menang?\nApa sih yang mau kau dapat\nMaka kau tinggalkan semua sahabat\nDan di sekelilingmu\nKau anyam rapat pagar curiga\nKau kira di mana kau akan tiba\nKalau hari sudah senja?\nTernyata tidak ada tarian gemulai\nAtau suara gamelan mengalun permai\nKemenangan-kemenanganmu selama ini\nMelontarkanmu ke langit hampa",
+                "lines": [
+                    {
+                        "line": "Apa sih yang mau kau capai",
+                        "words": [
+                            {
+                                "wf": "Apa",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "apa",
+                                    "pos": "pron|p",
+                                    "form": "apa"
+                                }
+                            },
+                            {
+                                "wf": "sih",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sih",
+                                    "pos": "n",
+                                    "form": "sih"
+                                }
+                            },
+                            {
+                                "wf": "yang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "yang",
+                                    "pos": "a|v|n",
+                                    "form": "yang"
+                                }
+                            },
+                            {
+                                "wf": "mau",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "mau",
+                                    "pos": "adv|n",
+                                    "form": "mau"
+                                }
+                            },
+                            {
+                                "wf": "kau",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kau",
+                                    "pos": "pron",
+                                    "form": "kau"
+                                }
+                            },
+                            {
+                                "wf": "capai",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "capai",
+                                    "pos": "v",
+                                    "form": "capai"
+                                }
+                            }
+                        ],
+                        "syllables": 7
+                    },
+                    {
+                        "line": "Maka kau terjang segala penghalang",
+                        "words": [
+                            {
+                                "wf": "Maka",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "maka",
+                                    "pos": "p",
+                                    "form": "maka"
+                                }
+                            },
+                            {
+                                "wf": "kau",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kau",
+                                    "pos": "pron",
+                                    "form": "kau"
+                                }
+                            },
+                            {
+                                "wf": "terjang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "terjang",
+                                    "pos": "v",
+                                    "form": "terjang"
+                                }
+                            },
+                            {
+                                "wf": "segala",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "segala",
+                                    "pos": "num",
+                                    "form": "segala"
+                                }
+                            },
+                            {
+                                "wf": "penghalang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "halang",
+                                    "pos": "n",
+                                    "form": "peN-halang"
+                                }
+                            }
+                        ],
+                        "syllables": 11
+                    },
+                    {
+                        "line": "Dan kau abaikan segala nilai",
+                        "words": [
+                            {
+                                "wf": "Dan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dan",
+                                    "pos": "p",
+                                    "form": "dan"
+                                }
+                            },
+                            {
+                                "wf": "kau",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kau",
+                                    "pos": "pron",
+                                    "form": "kau"
+                                }
+                            },
+                            {
+                                "wf": "abaikan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "abai",
+                                    "pos": "v",
+                                    "form": "abai-kan"
+                                }
+                            },
+                            {
+                                "wf": "segala",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "segala",
+                                    "pos": "num",
+                                    "form": "segala"
+                                }
+                            },
+                            {
+                                "wf": "nilai",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "nilai",
+                                    "pos": "n",
+                                    "form": "nilai"
+                                }
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "Asal kau sendiri menang?",
+                        "words": [
+                            {
+                                "wf": "Asal",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "asal",
+                                    "pos": "n|a",
+                                    "form": "asal"
+                                }
+                            },
+                            {
+                                "wf": "kau",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kau",
+                                    "pos": "pron",
+                                    "form": "kau"
+                                }
+                            },
+                            {
+                                "wf": "sendiri",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sendiri",
+                                    "pos": "adv|a|n",
+                                    "form": "sendiri"
+                                }
+                            },
+                            {
+                                "wf": "menang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "menang",
+                                    "pos": "v",
+                                    "form": "menang"
+                                }
+                            },
+                            {
+                                "wf": "?",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 7
+                    },
+                    {
+                        "line": "Apa sih yang mau kau dapat",
+                        "words": [
+                            {
+                                "wf": "Apa",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "apa",
+                                    "pos": "pron|p",
+                                    "form": "apa"
+                                }
+                            },
+                            {
+                                "wf": "sih",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sih",
+                                    "pos": "n",
+                                    "form": "sih"
+                                }
+                            },
+                            {
+                                "wf": "yang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "yang",
+                                    "pos": "a|v|n",
+                                    "form": "yang"
+                                }
+                            },
+                            {
+                                "wf": "mau",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "mau",
+                                    "pos": "adv|n",
+                                    "form": "mau"
+                                }
+                            },
+                            {
+                                "wf": "kau",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kau",
+                                    "pos": "pron",
+                                    "form": "kau"
+                                }
+                            },
+                            {
+                                "wf": "dapat",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dapat",
+                                    "pos": "adv|v",
+                                    "form": "dapat"
+                                }
+                            }
+                        ],
+                        "syllables": 7
+                    },
+                    {
+                        "line": "Maka kau tinggalkan semua sahabat",
+                        "words": [
+                            {
+                                "wf": "Maka",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "maka",
+                                    "pos": "p",
+                                    "form": "maka"
+                                }
+                            },
+                            {
+                                "wf": "kau",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kau",
+                                    "pos": "pron",
+                                    "form": "kau"
+                                }
+                            },
+                            {
+                                "wf": "tinggalkan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tinggalkan",
+                                    "pos": "v",
+                                    "form": "tinggalkan"
+                                }
+                            },
+                            {
+                                "wf": "semua",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "semua",
+                                    "pos": "num",
+                                    "form": "semua"
+                                }
+                            },
+                            {
+                                "wf": "sahabat",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sahabat",
+                                    "pos": "n",
+                                    "form": "sahabat"
+                                }
+                            }
+                        ],
+                        "syllables": 12
+                    },
+                    {
+                        "line": "Dan di sekelilingmu",
+                        "words": [
+                            {
+                                "wf": "Dan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dan",
+                                    "pos": "p",
+                                    "form": "dan"
+                                }
+                            },
+                            {
+                                "wf": "di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "sekelilingmu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sekelilingmu",
+                                    "pos": "?",
+                                    "form": "sekelilingmu"
+                                }
+                            }
+                        ],
+                        "syllables": 7
+                    },
+                    {
+                        "line": "Kau anyam rapat pagar curiga",
+                        "words": [
+                            {
+                                "wf": "Kau",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kau",
+                                    "pos": "pron",
+                                    "form": "kau"
+                                }
+                            },
+                            {
+                                "wf": "anyam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "anyam",
+                                    "pos": "v",
+                                    "form": "anyam"
+                                }
+                            },
+                            {
+                                "wf": "rapat",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "rapat",
+                                    "pos": "a",
+                                    "form": "rapat"
+                                }
+                            },
+                            {
+                                "wf": "pagar",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pagar",
+                                    "pos": "n",
+                                    "form": "pagar"
+                                }
+                            },
+                            {
+                                "wf": "curiga",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "curiga",
+                                    "pos": "n",
+                                    "form": "curiga"
+                                }
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "Kau kira di mana kau akan tiba",
+                        "words": [
+                            {
+                                "wf": "Kau",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kau",
+                                    "pos": "pron",
+                                    "form": "kau"
+                                }
+                            },
+                            {
+                                "wf": "kira",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kira",
+                                    "pos": "n",
+                                    "form": "kira"
+                                }
+                            },
+                            {
+                                "wf": "di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "mana",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "mana",
+                                    "pos": "pron",
+                                    "form": "mana"
+                                }
+                            },
+                            {
+                                "wf": "kau",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kau",
+                                    "pos": "pron",
+                                    "form": "kau"
+                                }
+                            },
+                            {
+                                "wf": "akan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "akan",
+                                    "pos": "v",
+                                    "form": "akan"
+                                }
+                            },
+                            {
+                                "wf": "tiba",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tiba",
+                                    "pos": "v",
+                                    "form": "tiba"
+                                }
+                            }
+                        ],
+                        "syllables": 11
+                    },
+                    {
+                        "line": "Kalau hari sudah senja?",
+                        "words": [
+                            {
+                                "wf": "Kalau",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kalau",
+                                    "pos": "p",
+                                    "form": "kalau"
+                                }
+                            },
+                            {
+                                "wf": "hari",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hari",
+                                    "pos": "n",
+                                    "form": "hari"
+                                }
+                            },
+                            {
+                                "wf": "sudah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sudah",
+                                    "pos": "adv",
+                                    "form": "sudah"
+                                }
+                            },
+                            {
+                                "wf": "senja",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "senja",
+                                    "pos": "n",
+                                    "form": "senja"
+                                }
+                            },
+                            {
+                                "wf": "?",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 8
+                    },
+                    {
+                        "line": "Ternyata tidak ada tarian gemulai",
+                        "words": [
+                            {
+                                "wf": "Ternyata",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "nyata",
+                                    "pos": "v",
+                                    "form": "ter-nyata"
+                                }
+                            },
+                            {
+                                "wf": "tidak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tidak",
+                                    "pos": "adv",
+                                    "form": "tidak"
+                                }
+                            },
+                            {
+                                "wf": "ada",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ada",
+                                    "pos": "v",
+                                    "form": "ada"
+                                }
+                            },
+                            {
+                                "wf": "tarian",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tari",
+                                    "pos": "n",
+                                    "form": "tari-an"
+                                }
+                            },
+                            {
+                                "wf": "gemulai",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "gemulai",
+                                    "pos": "a",
+                                    "form": "gemulai"
+                                }
+                            }
+                        ],
+                        "syllables": 13
+                    },
+                    {
+                        "line": "Atau suara gamelan mengalun permai",
+                        "words": [
+                            {
+                                "wf": "Atau",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "atau",
+                                    "pos": "p",
+                                    "form": "atau"
+                                }
+                            },
+                            {
+                                "wf": "suara",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "suara",
+                                    "pos": "n",
+                                    "form": "suara"
+                                }
+                            },
+                            {
+                                "wf": "gamelan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "gamelan",
+                                    "pos": "n",
+                                    "form": "gamelan"
+                                }
+                            },
+                            {
+                                "wf": "mengalun",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "alun",
+                                    "pos": "v",
+                                    "form": "meN-alun"
+                                }
+                            },
+                            {
+                                "wf": "permai",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "permai",
+                                    "pos": "a",
+                                    "form": "permai"
+                                }
+                            }
+                        ],
+                        "syllables": 12
+                    },
+                    {
+                        "line": "Kemenangan-kemenanganmu selama ini",
+                        "words": [
+                            {
+                                "wf": "Kemenangan-kemenanganmu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "",
+                                    "pos": "n",
+                                    "form": "Kemenangan-kemenanganmu-mu"
+                                }
+                            },
+                            {
+                                "wf": "selama",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lama",
+                                    "pos": "n",
+                                    "form": "se-lama"
+                                }
+                            },
+                            {
+                                "wf": "ini",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ini",
+                                    "pos": "pron",
+                                    "form": "ini"
+                                }
+                            }
+                        ],
+                        "syllables": 14
+                    },
+                    {
+                        "line": "Melontarkanmu ke langit hampa",
+                        "words": [
+                            {
+                                "wf": "Melontarkanmu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lontar",
+                                    "pos": "v",
+                                    "form": "meN-lontar-kan-mu"
+                                }
+                            },
+                            {
+                                "wf": "ke",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ke",
+                                    "pos": "p",
+                                    "form": "ke"
+                                }
+                            },
+                            {
+                                "wf": "langit",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "langit",
+                                    "pos": "n",
+                                    "form": "langit"
+                                }
+                            },
+                            {
+                                "wf": "hampa",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hampa",
+                                    "pos": "a",
+                                    "form": "hampa"
+                                }
+                            }
+                        ],
+                        "syllables": 10
+                    }
+                ],
+                "num_lines": 14
+            }
+        ]
+    }
+}

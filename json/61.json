@@ -1,0 +1,798 @@
+{
+    "meta": {
+        "file_name": "61.json",
+        "id_bd": 61,
+        "author": "Amir Hamzah",
+        "title": "Panji di hadapanku",
+        "genre": "стихотворение",
+        "year": "---",
+        "num_lines": 14,
+        "rhyme": "Нет",
+        "syllables": [
+            11,
+            15,
+            13,
+            10,
+            13,
+            14,
+            15,
+            10,
+            14,
+            15,
+            10,
+            19,
+            11,
+            9
+        ],
+        "strofy": [
+            14
+        ]
+    },
+    "poem": {
+        "text": "Kau kibarkan panji di hadapanku.\r\nHijau jernih di ampu tongkat mutu-mutiara.\r\nDi kananku berjalan, mengiring perlahan,\r\nRidlamu rata, dua sebaya,\r\nPutih-putih, penuh melimpah, kasih persih.\r\nGelap-gelap kami berempat, menunggu-nunggu,\r\nMendengar-dengar, suara sayang, panggilan-panjang,\r\nJatuh terjatuh, melayang-layang,\r\nGelap-gelap kami berempat, meminta-minta,\r\nMemohon-mohon, moga terbuka selimut kabut,\r\nPembungkus halus, nokta utama,\r\nJika nokta terbuka-raya, jika kabut tersingkap semua\r\nCahaya ridla mengilau kedalam\r\nNur rindu memancar keluar.",
+        "strof": [
+            {
+                "strof": "Kau kibarkan panji di hadapanku.\r\nHijau jernih di ampu tongkat mutu-mutiara.\r\nDi kananku berjalan, mengiring perlahan,\r\nRidlamu rata, dua sebaya,\r\nPutih-putih, penuh melimpah, kasih persih.\r\nGelap-gelap kami berempat, menunggu-nunggu,\r\nMendengar-dengar, suara sayang, panggilan-panjang,\r\nJatuh terjatuh, melayang-layang,\r\nGelap-gelap kami berempat, meminta-minta,\r\nMemohon-mohon, moga terbuka selimut kabut,\r\nPembungkus halus, nokta utama,\r\nJika nokta terbuka-raya, jika kabut tersingkap semua\r\nCahaya ridla mengilau kedalam\r\nNur rindu memancar keluar.",
+                "lines": [
+                    {
+                        "line": "Kau kibarkan panji di hadapanku.",
+                        "words": [
+                            {
+                                "wf": "Kau",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kau",
+                                    "pos": "pron",
+                                    "form": "kau"
+                                }
+                            },
+                            {
+                                "wf": "kibarkan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kibarkan",
+                                    "pos": "v",
+                                    "form": "kibarkan"
+                                }
+                            },
+                            {
+                                "wf": "panji",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "panji",
+                                    "pos": "n",
+                                    "form": "panji"
+                                }
+                            },
+                            {
+                                "wf": "di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "hadapanku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hadap",
+                                    "pos": "v",
+                                    "form": "hadap-an-ku-ku"
+                                }
+                            },
+                            {
+                                "wf": ".",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 11
+                    },
+                    {
+                        "line": "Hijau jernih di ampu tongkat mutu-mutiara.",
+                        "words": [
+                            {
+                                "wf": "Hijau",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hijau",
+                                    "pos": "n|a",
+                                    "form": "hijau"
+                                }
+                            },
+                            {
+                                "wf": "jernih",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jernih",
+                                    "pos": "a",
+                                    "form": "jernih"
+                                }
+                            },
+                            {
+                                "wf": "di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "ampu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ampu",
+                                    "pos": "n",
+                                    "form": "ampu"
+                                }
+                            },
+                            {
+                                "wf": "tongkat",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tongkat",
+                                    "pos": "n",
+                                    "form": "tongkat"
+                                }
+                            },
+                            {
+                                "wf": "mutu-mutiara",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "mutu",
+                                    "pos": "?",
+                                    "form": "mutu-mutiara"
+                                }
+                            },
+                            {
+                                "wf": ".",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 15
+                    },
+                    {
+                        "line": "Di kananku berjalan, mengiring perlahan,",
+                        "words": [
+                            {
+                                "wf": "Di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "kananku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "",
+                                    "pos": "n",
+                                    "form": "kananku-ku"
+                                }
+                            },
+                            {
+                                "wf": "berjalan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jalan",
+                                    "pos": "v",
+                                    "form": "ber-jalan"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "mengiring",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "iring",
+                                    "pos": "v",
+                                    "form": "meN-iring"
+                                }
+                            },
+                            {
+                                "wf": "perlahan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "perlahan",
+                                    "pos": "a",
+                                    "form": "perlahan"
+                                }
+                            },
+                            {
+                                "wf": ",",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 13
+                    },
+                    {
+                        "line": "Ridlamu rata, dua sebaya,",
+                        "words": [
+                            {
+                                "wf": "Ridlamu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ridlamu",
+                                    "pos": "?",
+                                    "form": "ridlamu"
+                                }
+                            },
+                            {
+                                "wf": "rata",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "rata",
+                                    "pos": "a",
+                                    "form": "rata"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "dua",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dua",
+                                    "pos": "num",
+                                    "form": "dua"
+                                }
+                            },
+                            {
+                                "wf": "sebaya",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "baya",
+                                    "pos": "n",
+                                    "form": "se-baya"
+                                }
+                            },
+                            {
+                                "wf": ",",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "Putih-putih, penuh melimpah, kasih persih.",
+                        "words": [
+                            {
+                                "wf": "Putih-putih",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "putih",
+                                    "pos": "n|a",
+                                    "form": "putih-putih"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "penuh",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "penuh",
+                                    "pos": "a",
+                                    "form": "penuh"
+                                }
+                            },
+                            {
+                                "wf": "melimpah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "limpah",
+                                    "pos": "a",
+                                    "form": "meN-limpah"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "kasih",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kasih",
+                                    "pos": "n",
+                                    "form": "kasih"
+                                }
+                            },
+                            {
+                                "wf": "persih",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "persih",
+                                    "pos": "a",
+                                    "form": "persih"
+                                }
+                            },
+                            {
+                                "wf": ".",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 13
+                    },
+                    {
+                        "line": "Gelap-gelap kami berempat, menunggu-nunggu,",
+                        "words": [
+                            {
+                                "wf": "Gelap-gelap",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "gelap",
+                                    "pos": "v",
+                                    "form": "gelap-gelap"
+                                }
+                            },
+                            {
+                                "wf": "kami",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kami",
+                                    "pos": "pron",
+                                    "form": "kami"
+                                }
+                            },
+                            {
+                                "wf": "berempat",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "empat",
+                                    "pos": "num",
+                                    "form": "ber-empat"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "menunggu-nunggu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tunggu",
+                                    "pos": "v",
+                                    "form": "menunggu-nunggu"
+                                }
+                            },
+                            {
+                                "wf": ",",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 14
+                    },
+                    {
+                        "line": "Mendengar-dengar, suara sayang, panggilan-panjang,",
+                        "words": [
+                            {
+                                "wf": "Mendengar-dengar",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dengar",
+                                    "pos": "v",
+                                    "form": "meN-dengar-dengar"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "suara",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "suara",
+                                    "pos": "n",
+                                    "form": "suara"
+                                }
+                            },
+                            {
+                                "wf": "sayang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sayang",
+                                    "pos": "a|v|n",
+                                    "form": "sayang"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "panggilan-panjang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "panggil",
+                                    "pos": "?",
+                                    "form": "panggilan-panjang"
+                                }
+                            },
+                            {
+                                "wf": ",",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 15
+                    },
+                    {
+                        "line": "Jatuh terjatuh, melayang-layang,",
+                        "words": [
+                            {
+                                "wf": "Jatuh",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jatuh",
+                                    "pos": "v",
+                                    "form": "jatuh"
+                                }
+                            },
+                            {
+                                "wf": "terjatuh",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "terjatuh",
+                                    "pos": "v",
+                                    "form": "terjatuh"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "melayang-layang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "layang",
+                                    "pos": "v",
+                                    "form": "meN-layang-layang"
+                                }
+                            },
+                            {
+                                "wf": ",",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "Gelap-gelap kami berempat, meminta-minta,",
+                        "words": [
+                            {
+                                "wf": "Gelap-gelap",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "gelap",
+                                    "pos": "v",
+                                    "form": "gelap-gelap"
+                                }
+                            },
+                            {
+                                "wf": "kami",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kami",
+                                    "pos": "pron",
+                                    "form": "kami"
+                                }
+                            },
+                            {
+                                "wf": "berempat",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "empat",
+                                    "pos": "num",
+                                    "form": "ber-empat"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "meminta-minta",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "minta",
+                                    "pos": "v",
+                                    "form": "meN-minta-minta"
+                                }
+                            },
+                            {
+                                "wf": ",",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 14
+                    },
+                    {
+                        "line": "Memohon-mohon, moga terbuka selimut kabut,",
+                        "words": [
+                            {
+                                "wf": "Memohon-mohon",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "mohon",
+                                    "pos": "v",
+                                    "form": "Memohon-mohon"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "moga",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "moga",
+                                    "pos": "adv",
+                                    "form": "moga"
+                                }
+                            },
+                            {
+                                "wf": "terbuka",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "buka",
+                                    "pos": "v",
+                                    "form": "ter-buka"
+                                }
+                            },
+                            {
+                                "wf": "selimut",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "selimut",
+                                    "pos": "n",
+                                    "form": "selimut"
+                                }
+                            },
+                            {
+                                "wf": "kabut",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kabut",
+                                    "pos": "a|n",
+                                    "form": "kabut"
+                                }
+                            },
+                            {
+                                "wf": ",",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 15
+                    },
+                    {
+                        "line": "Pembungkus halus, nokta utama,",
+                        "words": [
+                            {
+                                "wf": "Pembungkus",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bungkus",
+                                    "pos": "n",
+                                    "form": "peN-bungkus"
+                                }
+                            },
+                            {
+                                "wf": "halus",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "halus",
+                                    "pos": "a",
+                                    "form": "halus"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "nokta",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "nokta",
+                                    "pos": "?",
+                                    "form": "nokta"
+                                }
+                            },
+                            {
+                                "wf": "utama",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "utama",
+                                    "pos": "a",
+                                    "form": "utama"
+                                }
+                            },
+                            {
+                                "wf": ",",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "Jika nokta terbuka-raya, jika kabut tersingkap semua",
+                        "words": [
+                            {
+                                "wf": "Jika",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jika",
+                                    "pos": "p",
+                                    "form": "jika"
+                                }
+                            },
+                            {
+                                "wf": "nokta",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "nokta",
+                                    "pos": "?",
+                                    "form": "nokta"
+                                }
+                            },
+                            {
+                                "wf": "terbuka-raya",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "buka",
+                                    "pos": "?",
+                                    "form": "terbuka-raya"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "jika",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jika",
+                                    "pos": "p",
+                                    "form": "jika"
+                                }
+                            },
+                            {
+                                "wf": "kabut",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kabut",
+                                    "pos": "a|n",
+                                    "form": "kabut"
+                                }
+                            },
+                            {
+                                "wf": "tersingkap",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "singkap",
+                                    "pos": "v",
+                                    "form": "ter-singkap"
+                                }
+                            },
+                            {
+                                "wf": "semua",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "semua",
+                                    "pos": "num",
+                                    "form": "semua"
+                                }
+                            }
+                        ],
+                        "syllables": 19
+                    },
+                    {
+                        "line": "Cahaya ridla mengilau kedalam",
+                        "words": [
+                            {
+                                "wf": "Cahaya",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "caya",
+                                    "pos": "n",
+                                    "form": "cahaya"
+                                }
+                            },
+                            {
+                                "wf": "ridla",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ridla",
+                                    "pos": "?",
+                                    "form": "ridla"
+                                }
+                            },
+                            {
+                                "wf": "mengilau",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kilau",
+                                    "pos": "v",
+                                    "form": "meN-kilau"
+                                }
+                            },
+                            {
+                                "wf": "kedalam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kedalam",
+                                    "pos": "?",
+                                    "form": "kedalam"
+                                }
+                            }
+                        ],
+                        "syllables": 11
+                    },
+                    {
+                        "line": "Nur rindu memancar keluar.",
+                        "words": [
+                            {
+                                "wf": "Nur",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "nur",
+                                    "pos": "n",
+                                    "form": "nur"
+                                }
+                            },
+                            {
+                                "wf": "rindu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "rindu",
+                                    "pos": "a",
+                                    "form": "rindu"
+                                }
+                            },
+                            {
+                                "wf": "memancar",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pancar",
+                                    "pos": "v",
+                                    "form": "meN-pancar"
+                                }
+                            },
+                            {
+                                "wf": "keluar",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "keluar",
+                                    "pos": "v",
+                                    "form": "keluar"
+                                }
+                            },
+                            {
+                                "wf": ".",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 9
+                    }
+                ],
+                "num_lines": 14
+            }
+        ]
+    }
+}

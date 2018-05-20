@@ -1,0 +1,593 @@
+{
+    "meta": {
+        "file_name": "404.json",
+        "id_bd": 404,
+        "author": "L.K. Ara",
+        "title": "Mencari jejak",
+        "genre": "стихотворение",
+        "year": "08.08.1986",
+        "num_lines": 16,
+        "rhyme": "Есть",
+        "syllables": [
+            4,
+            1,
+            6,
+            4,
+            11,
+            11,
+            6,
+            8,
+            7,
+            7,
+            7,
+            5,
+            8,
+            5,
+            6,
+            6
+        ],
+        "strofy": [
+            4,
+            1,
+            4,
+            1,
+            4,
+            1,
+            4
+        ]
+    },
+    "poem": {
+        "text": "{Malam itu\r\nAku\r\nSeperti terlempar\r\nDi kotamu}\r\n{Aku memang tidak punya apa-apa\r\nDan tak mencari siapa-siapa\r\nJendela dan pintu\r\nTelah tertutup untuk ku}\r\n{Angin dengan leluasa\r\nMerubuhkan tubuhku\r\nDi emper-emper toko\r\nDan got jalanan}\r\n{Tapi mimpiku mengalir\r\nBersama sunyi\r\nMencari jejakmu\r\nSampai dini hari}",
+        "strof": [
+            {
+                "strof": "Malam itu\r\nAku\r\nSeperti terlempar\r\nDi kotamu",
+                "lines": [
+                    {
+                        "line": "Malam itu",
+                        "words": [
+                            {
+                                "wf": "Malam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "malam",
+                                    "pos": "n",
+                                    "form": "malam"
+                                }
+                            },
+                            {
+                                "wf": "itu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "itu",
+                                    "pos": "pron|n",
+                                    "form": "itu"
+                                }
+                            }
+                        ],
+                        "syllables": 4
+                    },
+                    {
+                        "line": "Aku",
+                        "words": [
+                            {
+                                "wf": "Aku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "aku",
+                                    "pos": "pron",
+                                    "form": "aku"
+                                }
+                            }
+                        ],
+                        "syllables": 1
+                    },
+                    {
+                        "line": "Seperti terlempar",
+                        "words": [
+                            {
+                                "wf": "Seperti",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "seperti",
+                                    "pos": "p",
+                                    "form": "seperti"
+                                }
+                            },
+                            {
+                                "wf": "terlempar",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "terlempar",
+                                    "pos": "",
+                                    "form": "terlempar"
+                                }
+                            }
+                        ],
+                        "syllables": 6
+                    },
+                    {
+                        "line": "Di kotamu",
+                        "words": [
+                            {
+                                "wf": "Di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "kotamu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kota",
+                                    "pos": "n",
+                                    "form": "kota-mu"
+                                }
+                            }
+                        ],
+                        "syllables": 4
+                    }
+                ],
+                "num_lines": 4
+            },
+            {
+                "strof": "\r\n",
+                "lines": [
+                    {
+                        "line": "",
+                        "words": [],
+                        "syllables": 0
+                    }
+                ],
+                "num_lines": 1
+            },
+            {
+                "strof": "Aku memang tidak punya apa-apa\r\nDan tak mencari siapa-siapa\r\nJendela dan pintu\r\nTelah tertutup untuk ku",
+                "lines": [
+                    {
+                        "line": "Aku memang tidak punya apa-apa",
+                        "words": [
+                            {
+                                "wf": "Aku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "aku",
+                                    "pos": "pron",
+                                    "form": "aku"
+                                }
+                            },
+                            {
+                                "wf": "memang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "memang",
+                                    "pos": "adv",
+                                    "form": "memang"
+                                }
+                            },
+                            {
+                                "wf": "tidak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tidak",
+                                    "pos": "adv",
+                                    "form": "tidak"
+                                }
+                            },
+                            {
+                                "wf": "punya",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "punya",
+                                    "pos": "v|n",
+                                    "form": "punya"
+                                }
+                            },
+                            {
+                                "wf": "apa-apa",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "apa",
+                                    "pos": "n",
+                                    "form": "apa-apa"
+                                }
+                            }
+                        ],
+                        "syllables": 11
+                    },
+                    {
+                        "line": "Dan tak mencari siapa-siapa",
+                        "words": [
+                            {
+                                "wf": "Dan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dan",
+                                    "pos": "p",
+                                    "form": "dan"
+                                }
+                            },
+                            {
+                                "wf": "tak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tak",
+                                    "pos": "adv",
+                                    "form": "tak"
+                                }
+                            },
+                            {
+                                "wf": "mencari",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "cari",
+                                    "pos": "v",
+                                    "form": "meN-cari"
+                                }
+                            },
+                            {
+                                "wf": "siapa-siapa",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "siapa",
+                                    "pos": "n",
+                                    "form": "siapa-siapa"
+                                }
+                            }
+                        ],
+                        "syllables": 11
+                    },
+                    {
+                        "line": "Jendela dan pintu",
+                        "words": [
+                            {
+                                "wf": "Jendela",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jendela",
+                                    "pos": "?",
+                                    "form": "jendela"
+                                }
+                            },
+                            {
+                                "wf": "dan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dan",
+                                    "pos": "p",
+                                    "form": "dan"
+                                }
+                            },
+                            {
+                                "wf": "pintu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pintu",
+                                    "pos": "n",
+                                    "form": "pintu"
+                                }
+                            }
+                        ],
+                        "syllables": 6
+                    },
+                    {
+                        "line": "Telah tertutup untuk ku",
+                        "words": [
+                            {
+                                "wf": "Telah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "telah",
+                                    "pos": "adv",
+                                    "form": "telah"
+                                }
+                            },
+                            {
+                                "wf": "tertutup",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tutup",
+                                    "pos": "v",
+                                    "form": "ter-tutup"
+                                }
+                            },
+                            {
+                                "wf": "untuk",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "untuk",
+                                    "pos": "p",
+                                    "form": "untuk"
+                                }
+                            },
+                            {
+                                "wf": "ku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ku",
+                                    "pos": "v",
+                                    "form": "ku"
+                                }
+                            }
+                        ],
+                        "syllables": 8
+                    }
+                ],
+                "num_lines": 4
+            },
+            {
+                "strof": "\r\n",
+                "lines": [
+                    {
+                        "line": "",
+                        "words": [],
+                        "syllables": 0
+                    }
+                ],
+                "num_lines": 1
+            },
+            {
+                "strof": "Angin dengan leluasa\r\nMerubuhkan tubuhku\r\nDi emper-emper toko\r\nDan got jalanan",
+                "lines": [
+                    {
+                        "line": "Angin dengan leluasa",
+                        "words": [
+                            {
+                                "wf": "Angin",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "angin",
+                                    "pos": "n",
+                                    "form": "angin"
+                                }
+                            },
+                            {
+                                "wf": "dengan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dengan",
+                                    "pos": "p",
+                                    "form": "dengan"
+                                }
+                            },
+                            {
+                                "wf": "leluasa",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "leluasa",
+                                    "pos": "a",
+                                    "form": "leluasa"
+                                }
+                            }
+                        ],
+                        "syllables": 7
+                    },
+                    {
+                        "line": "Merubuhkan tubuhku",
+                        "words": [
+                            {
+                                "wf": "Merubuhkan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "merubuhkan",
+                                    "pos": "v",
+                                    "form": "merubuhkan"
+                                }
+                            },
+                            {
+                                "wf": "tubuhku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tubuh",
+                                    "pos": "n",
+                                    "form": "tubuh-ku"
+                                }
+                            }
+                        ],
+                        "syllables": 7
+                    },
+                    {
+                        "line": "Di emper-emper toko",
+                        "words": [
+                            {
+                                "wf": "Di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "emper-emper",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "emper",
+                                    "pos": "n",
+                                    "form": "emper-emper"
+                                }
+                            },
+                            {
+                                "wf": "toko",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "toko",
+                                    "pos": "n",
+                                    "form": "toko"
+                                }
+                            }
+                        ],
+                        "syllables": 7
+                    },
+                    {
+                        "line": "Dan got jalanan",
+                        "words": [
+                            {
+                                "wf": "Dan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dan",
+                                    "pos": "p",
+                                    "form": "dan"
+                                }
+                            },
+                            {
+                                "wf": "got",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "got",
+                                    "pos": "n",
+                                    "form": "got"
+                                }
+                            },
+                            {
+                                "wf": "jalanan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jalan",
+                                    "pos": "n|a",
+                                    "form": "jalan-an"
+                                }
+                            }
+                        ],
+                        "syllables": 5
+                    }
+                ],
+                "num_lines": 4
+            },
+            {
+                "strof": "\r\n",
+                "lines": [
+                    {
+                        "line": "",
+                        "words": [],
+                        "syllables": 0
+                    }
+                ],
+                "num_lines": 1
+            },
+            {
+                "strof": "Tapi mimpiku mengalir\r\nBersama sunyi\r\nMencari jejakmu\r\nSampai dini hari",
+                "lines": [
+                    {
+                        "line": "Tapi mimpiku mengalir",
+                        "words": [
+                            {
+                                "wf": "Tapi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tapi",
+                                    "pos": "v",
+                                    "form": "tapi"
+                                }
+                            },
+                            {
+                                "wf": "mimpiku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "mimpi",
+                                    "pos": "n",
+                                    "form": "mimpi-ku"
+                                }
+                            },
+                            {
+                                "wf": "mengalir",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "alir",
+                                    "pos": "v",
+                                    "form": "meN-alir"
+                                }
+                            }
+                        ],
+                        "syllables": 8
+                    },
+                    {
+                        "line": "Bersama sunyi",
+                        "words": [
+                            {
+                                "wf": "Bersama",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sama",
+                                    "pos": "v",
+                                    "form": "ber-sama"
+                                }
+                            },
+                            {
+                                "wf": "sunyi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sunyi",
+                                    "pos": "a",
+                                    "form": "sunyi"
+                                }
+                            }
+                        ],
+                        "syllables": 5
+                    },
+                    {
+                        "line": "Mencari jejakmu",
+                        "words": [
+                            {
+                                "wf": "Mencari",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "cari",
+                                    "pos": "v",
+                                    "form": "meN-cari"
+                                }
+                            },
+                            {
+                                "wf": "jejakmu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jejak",
+                                    "pos": "n",
+                                    "form": "jejak-mu"
+                                }
+                            }
+                        ],
+                        "syllables": 6
+                    },
+                    {
+                        "line": "Sampai dini hari",
+                        "words": [
+                            {
+                                "wf": "Sampai",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sampai",
+                                    "pos": "v",
+                                    "form": "sampai"
+                                }
+                            },
+                            {
+                                "wf": "dini",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dini",
+                                    "pos": "a",
+                                    "form": "dini"
+                                }
+                            },
+                            {
+                                "wf": "hari",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hari",
+                                    "pos": "n",
+                                    "form": "hari"
+                                }
+                            }
+                        ],
+                        "syllables": 6
+                    }
+                ],
+                "num_lines": 4
+            }
+        ]
+    }
+}

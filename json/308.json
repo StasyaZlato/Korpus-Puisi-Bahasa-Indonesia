@@ -1,0 +1,688 @@
+{
+    "meta": {
+        "file_name": "308.json",
+        "id_bd": 308,
+        "author": "Korrie Layun Rampan",
+        "title": "Bunga-bunga daun luruh",
+        "genre": "стихотворение",
+        "year": 1974,
+        "num_lines": 13,
+        "rhyme": "Есть",
+        "syllables": [
+            7,
+            8,
+            10,
+            6,
+            11,
+            11,
+            9,
+            14,
+            7,
+            12,
+            11,
+            17,
+            14
+        ],
+        "strofy": [
+            4,
+            1,
+            4,
+            1,
+            5
+        ]
+    },
+    "poem": {
+        "text": "{Bunga-bunga daun luruh\r\nHalaman ditinggal adzan\r\njalanan senyap lubuk terpendam\r\nKe ujung tangisan}\r\n{Suara menyapa dalam luruhan\r\nBeranda sunyi menatap halaman\r\nApakah engkau apakah bosan\r\nYang setia berdiri di sisi kesepian}\r\n{Bunga-bunga daun luruh\r\nHalaman itu sunyi ditinggal diam\r\nPelangi mencium lubuk dan kolam\r\nKita pun di sini ngungun dalam gerimis duka jatuh\r\nMenghitung-hitung sukma hari-had dekat dan jauh}",
+        "strof": [
+            {
+                "strof": "Bunga-bunga daun luruh\r\nHalaman ditinggal adzan\r\njalanan senyap lubuk terpendam\r\nKe ujung tangisan",
+                "lines": [
+                    {
+                        "line": "Bunga-bunga daun luruh",
+                        "words": [
+                            {
+                                "wf": "Bunga-bunga",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bunga",
+                                    "pos": "v",
+                                    "form": "bunga-bunga"
+                                }
+                            },
+                            {
+                                "wf": "daun",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "daun",
+                                    "pos": "n",
+                                    "form": "daun"
+                                }
+                            },
+                            {
+                                "wf": "luruh",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "luruh",
+                                    "pos": "num",
+                                    "form": "luruh"
+                                }
+                            }
+                        ],
+                        "syllables": 7
+                    },
+                    {
+                        "line": "Halaman ditinggal adzan",
+                        "words": [
+                            {
+                                "wf": "Halaman",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "halaman",
+                                    "pos": "n",
+                                    "form": "halaman"
+                                }
+                            },
+                            {
+                                "wf": "ditinggal",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tinggal",
+                                    "pos": "v",
+                                    "form": "di-tinggal"
+                                }
+                            },
+                            {
+                                "wf": "adzan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "adzan",
+                                    "pos": "?",
+                                    "form": "adzan"
+                                }
+                            }
+                        ],
+                        "syllables": 8
+                    },
+                    {
+                        "line": "jalanan senyap lubuk terpendam",
+                        "words": [
+                            {
+                                "wf": "jalanan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jalan",
+                                    "pos": "n|a",
+                                    "form": "jalan-an"
+                                }
+                            },
+                            {
+                                "wf": "senyap",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "senyap",
+                                    "pos": "a",
+                                    "form": "senyap"
+                                }
+                            },
+                            {
+                                "wf": "lubuk",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lubuk",
+                                    "pos": "n|a",
+                                    "form": "lubuk"
+                                }
+                            },
+                            {
+                                "wf": "terpendam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pendam",
+                                    "pos": "v",
+                                    "form": "ter-pendam"
+                                }
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "Ke ujung tangisan",
+                        "words": [
+                            {
+                                "wf": "Ke",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ke",
+                                    "pos": "p",
+                                    "form": "ke"
+                                }
+                            },
+                            {
+                                "wf": "ujung",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ujung",
+                                    "pos": "n",
+                                    "form": "ujung"
+                                }
+                            },
+                            {
+                                "wf": "tangisan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tangis",
+                                    "pos": "v",
+                                    "form": "tangis-an"
+                                }
+                            }
+                        ],
+                        "syllables": 6
+                    }
+                ],
+                "num_lines": 4
+            },
+            {
+                "strof": "\r\n",
+                "lines": [
+                    {
+                        "line": "",
+                        "words": [],
+                        "syllables": 0
+                    }
+                ],
+                "num_lines": 1
+            },
+            {
+                "strof": "Suara menyapa dalam luruhan\r\nBeranda sunyi menatap halaman\r\nApakah engkau apakah bosan\r\nYang setia berdiri di sisi kesepian",
+                "lines": [
+                    {
+                        "line": "Suara menyapa dalam luruhan",
+                        "words": [
+                            {
+                                "wf": "Suara",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "suara",
+                                    "pos": "n",
+                                    "form": "suara"
+                                }
+                            },
+                            {
+                                "wf": "menyapa",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sapa",
+                                    "pos": "v",
+                                    "form": "meN-sapa"
+                                }
+                            },
+                            {
+                                "wf": "dalam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dalam",
+                                    "pos": "a|n",
+                                    "form": "dalam"
+                                }
+                            },
+                            {
+                                "wf": "luruhan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "luruhan",
+                                    "pos": "n",
+                                    "form": "luruhan"
+                                }
+                            }
+                        ],
+                        "syllables": 11
+                    },
+                    {
+                        "line": "Beranda sunyi menatap halaman",
+                        "words": [
+                            {
+                                "wf": "Beranda",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "beranda",
+                                    "pos": "n",
+                                    "form": "beranda"
+                                }
+                            },
+                            {
+                                "wf": "sunyi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sunyi",
+                                    "pos": "a",
+                                    "form": "sunyi"
+                                }
+                            },
+                            {
+                                "wf": "menatap",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tatap",
+                                    "pos": "v",
+                                    "form": "meN-tatap"
+                                }
+                            },
+                            {
+                                "wf": "halaman",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "halaman",
+                                    "pos": "n",
+                                    "form": "halaman"
+                                }
+                            }
+                        ],
+                        "syllables": 11
+                    },
+                    {
+                        "line": "Apakah engkau apakah bosan",
+                        "words": [
+                            {
+                                "wf": "Apakah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "apakah",
+                                    "pos": "pron",
+                                    "form": "apakah"
+                                }
+                            },
+                            {
+                                "wf": "engkau",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "engkau",
+                                    "pos": "pron",
+                                    "form": "engkau"
+                                }
+                            },
+                            {
+                                "wf": "apakah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "apakah",
+                                    "pos": "pron",
+                                    "form": "apakah"
+                                }
+                            },
+                            {
+                                "wf": "bosan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bosan",
+                                    "pos": "n",
+                                    "form": "bosan"
+                                }
+                            }
+                        ],
+                        "syllables": 9
+                    },
+                    {
+                        "line": "Yang setia berdiri di sisi kesepian",
+                        "words": [
+                            {
+                                "wf": "Yang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "yang",
+                                    "pos": "a|v|n",
+                                    "form": "yang"
+                                }
+                            },
+                            {
+                                "wf": "setia",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "setia",
+                                    "pos": "a",
+                                    "form": "setia"
+                                }
+                            },
+                            {
+                                "wf": "berdiri",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "berdiri",
+                                    "pos": "v",
+                                    "form": "berdiri"
+                                }
+                            },
+                            {
+                                "wf": "di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "sisi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sisi",
+                                    "pos": "n",
+                                    "form": "sisi"
+                                }
+                            },
+                            {
+                                "wf": "kesepian",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sepi",
+                                    "pos": "n",
+                                    "form": "ke-sepi-an"
+                                }
+                            }
+                        ],
+                        "syllables": 14
+                    }
+                ],
+                "num_lines": 4
+            },
+            {
+                "strof": "\r\n",
+                "lines": [
+                    {
+                        "line": "",
+                        "words": [],
+                        "syllables": 0
+                    }
+                ],
+                "num_lines": 1
+            },
+            {
+                "strof": "Bunga-bunga daun luruh\r\nHalaman itu sunyi ditinggal diam\r\nPelangi mencium lubuk dan kolam\r\nKita pun di sini ngungun dalam gerimis duka jatuh\r\nMenghitung-hitung sukma hari-had dekat dan jauh",
+                "lines": [
+                    {
+                        "line": "Bunga-bunga daun luruh",
+                        "words": [
+                            {
+                                "wf": "Bunga-bunga",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bunga",
+                                    "pos": "v",
+                                    "form": "bunga-bunga"
+                                }
+                            },
+                            {
+                                "wf": "daun",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "daun",
+                                    "pos": "n",
+                                    "form": "daun"
+                                }
+                            },
+                            {
+                                "wf": "luruh",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "luruh",
+                                    "pos": "num",
+                                    "form": "luruh"
+                                }
+                            }
+                        ],
+                        "syllables": 7
+                    },
+                    {
+                        "line": "Halaman itu sunyi ditinggal diam",
+                        "words": [
+                            {
+                                "wf": "Halaman",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "halaman",
+                                    "pos": "n",
+                                    "form": "halaman"
+                                }
+                            },
+                            {
+                                "wf": "itu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "itu",
+                                    "pos": "pron|n",
+                                    "form": "itu"
+                                }
+                            },
+                            {
+                                "wf": "sunyi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sunyi",
+                                    "pos": "a",
+                                    "form": "sunyi"
+                                }
+                            },
+                            {
+                                "wf": "ditinggal",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tinggal",
+                                    "pos": "v",
+                                    "form": "di-tinggal"
+                                }
+                            },
+                            {
+                                "wf": "diam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "diam",
+                                    "pos": "v",
+                                    "form": "diam"
+                                }
+                            }
+                        ],
+                        "syllables": 12
+                    },
+                    {
+                        "line": "Pelangi mencium lubuk dan kolam",
+                        "words": [
+                            {
+                                "wf": "Pelangi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pelangi",
+                                    "pos": "n",
+                                    "form": "pelangi"
+                                }
+                            },
+                            {
+                                "wf": "mencium",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "cium",
+                                    "pos": "v",
+                                    "form": "meN-cium"
+                                }
+                            },
+                            {
+                                "wf": "lubuk",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lubuk",
+                                    "pos": "n|a",
+                                    "form": "lubuk"
+                                }
+                            },
+                            {
+                                "wf": "dan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dan",
+                                    "pos": "p",
+                                    "form": "dan"
+                                }
+                            },
+                            {
+                                "wf": "kolam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kolam",
+                                    "pos": "n",
+                                    "form": "kolam"
+                                }
+                            }
+                        ],
+                        "syllables": 11
+                    },
+                    {
+                        "line": "Kita pun di sini ngungun dalam gerimis duka jatuh",
+                        "words": [
+                            {
+                                "wf": "Kita",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kita",
+                                    "pos": "pron",
+                                    "form": "kita"
+                                }
+                            },
+                            {
+                                "wf": "pun",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pun",
+                                    "pos": "p",
+                                    "form": "pun"
+                                }
+                            },
+                            {
+                                "wf": "di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "sini",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sini",
+                                    "pos": "pron",
+                                    "form": "sini"
+                                }
+                            },
+                            {
+                                "wf": "ngungun",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ngungun",
+                                    "pos": "?",
+                                    "form": "ngungun"
+                                }
+                            },
+                            {
+                                "wf": "dalam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dalam",
+                                    "pos": "a|n",
+                                    "form": "dalam"
+                                }
+                            },
+                            {
+                                "wf": "gerimis",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "gerimis",
+                                    "pos": "n",
+                                    "form": "gerimis"
+                                }
+                            },
+                            {
+                                "wf": "duka",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "duka",
+                                    "pos": "a",
+                                    "form": "duka"
+                                }
+                            },
+                            {
+                                "wf": "jatuh",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jatuh",
+                                    "pos": "v",
+                                    "form": "jatuh"
+                                }
+                            }
+                        ],
+                        "syllables": 17
+                    },
+                    {
+                        "line": "Menghitung-hitung sukma hari-had dekat dan jauh",
+                        "words": [
+                            {
+                                "wf": "Menghitung-hitung",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hitung",
+                                    "pos": "v",
+                                    "form": "meN-hitung-hitung"
+                                }
+                            },
+                            {
+                                "wf": "sukma",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sukma",
+                                    "pos": "n",
+                                    "form": "sukma"
+                                }
+                            },
+                            {
+                                "wf": "hari-had",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hari",
+                                    "pos": "?",
+                                    "form": "hari-had"
+                                }
+                            },
+                            {
+                                "wf": "dekat",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dekat",
+                                    "pos": "a",
+                                    "form": "dekat"
+                                }
+                            },
+                            {
+                                "wf": "dan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dan",
+                                    "pos": "p",
+                                    "form": "dan"
+                                }
+                            },
+                            {
+                                "wf": "jauh",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jauh",
+                                    "pos": "a",
+                                    "form": "jauh"
+                                }
+                            }
+                        ],
+                        "syllables": 14
+                    }
+                ],
+                "num_lines": 5
+            }
+        ]
+    }
+}

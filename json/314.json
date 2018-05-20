@@ -1,0 +1,510 @@
+{
+    "meta": {
+        "file_name": "314.json",
+        "id_bd": 314,
+        "author": "Korrie Layun Rampan",
+        "title": "Dari a ke z",
+        "genre": "стихотворение",
+        "year": 1973,
+        "num_lines": 12,
+        "rhyme": "Есть",
+        "syllables": [
+            7,
+            6,
+            7,
+            9,
+            5,
+            10,
+            7,
+            12,
+            11,
+            11,
+            7,
+            7
+        ],
+        "strofy": [
+            4,
+            1,
+            4,
+            1,
+            4
+        ]
+    },
+    "poem": {
+        "text": "{Lengan-lengan yang capai\r\nSuara gaib itu\r\nPohon-pohon kadasai\r\nBerjajar membisiki waktu}\r\n{Ujung cakrawala\r\nDaun violet sayap rama-rama\r\nSepotong bulan sabit\r\nMengintip celah-celah luka berdarah}\r\n{Riap lalang dan kaki-kaki kerbau\r\nLumpur rawa dan suara serangga\r\nGigir bukit yang sunyi\r\nMenanti teka-teki}",
+        "strof": [
+            {
+                "strof": "Lengan-lengan yang capai\r\nSuara gaib itu\r\nPohon-pohon kadasai\r\nBerjajar membisiki waktu",
+                "lines": [
+                    {
+                        "line": "Lengan-lengan yang capai",
+                        "words": [
+                            {
+                                "wf": "Lengan-lengan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lengan",
+                                    "pos": "n",
+                                    "form": "lengan-lengan"
+                                }
+                            },
+                            {
+                                "wf": "yang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "yang",
+                                    "pos": "a|v|n",
+                                    "form": "yang"
+                                }
+                            },
+                            {
+                                "wf": "capai",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "capai",
+                                    "pos": "v",
+                                    "form": "capai"
+                                }
+                            }
+                        ],
+                        "syllables": 7
+                    },
+                    {
+                        "line": "Suara gaib itu",
+                        "words": [
+                            {
+                                "wf": "Suara",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "suara",
+                                    "pos": "n",
+                                    "form": "suara"
+                                }
+                            },
+                            {
+                                "wf": "gaib",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "gaib",
+                                    "pos": "v",
+                                    "form": "gaib"
+                                }
+                            },
+                            {
+                                "wf": "itu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "itu",
+                                    "pos": "pron|n",
+                                    "form": "itu"
+                                }
+                            }
+                        ],
+                        "syllables": 6
+                    },
+                    {
+                        "line": "Pohon-pohon kadasai",
+                        "words": [
+                            {
+                                "wf": "Pohon-pohon",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pohon",
+                                    "pos": "n",
+                                    "form": "pohon-pohon"
+                                }
+                            },
+                            {
+                                "wf": "kadasai",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kadasai",
+                                    "pos": "?",
+                                    "form": "kadasai"
+                                }
+                            }
+                        ],
+                        "syllables": 7
+                    },
+                    {
+                        "line": "Berjajar membisiki waktu",
+                        "words": [
+                            {
+                                "wf": "Berjajar",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jajar",
+                                    "pos": "v",
+                                    "form": "Berjajar"
+                                }
+                            },
+                            {
+                                "wf": "membisiki",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bisik",
+                                    "pos": "v",
+                                    "form": "meN-bisik-i"
+                                }
+                            },
+                            {
+                                "wf": "waktu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "waktu",
+                                    "pos": "n|p",
+                                    "form": "waktu"
+                                }
+                            }
+                        ],
+                        "syllables": 9
+                    }
+                ],
+                "num_lines": 4
+            },
+            {
+                "strof": "\r\n",
+                "lines": [
+                    {
+                        "line": "",
+                        "words": [],
+                        "syllables": 0
+                    }
+                ],
+                "num_lines": 1
+            },
+            {
+                "strof": "Ujung cakrawala\r\nDaun violet sayap rama-rama\r\nSepotong bulan sabit\r\nMengintip celah-celah luka berdarah",
+                "lines": [
+                    {
+                        "line": "Ujung cakrawala",
+                        "words": [
+                            {
+                                "wf": "Ujung",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ujung",
+                                    "pos": "n",
+                                    "form": "ujung"
+                                }
+                            },
+                            {
+                                "wf": "cakrawala",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "cakrawala",
+                                    "pos": "n",
+                                    "form": "cakrawala"
+                                }
+                            }
+                        ],
+                        "syllables": 5
+                    },
+                    {
+                        "line": "Daun violet sayap rama-rama",
+                        "words": [
+                            {
+                                "wf": "Daun",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "daun",
+                                    "pos": "n",
+                                    "form": "daun"
+                                }
+                            },
+                            {
+                                "wf": "violet",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "violet",
+                                    "pos": "?",
+                                    "form": "violet"
+                                }
+                            },
+                            {
+                                "wf": "sayap",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sayap",
+                                    "pos": "n",
+                                    "form": "sayap"
+                                }
+                            },
+                            {
+                                "wf": "rama-rama",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "rama-rama",
+                                    "pos": "n",
+                                    "form": "rama-rama"
+                                }
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "Sepotong bulan sabit",
+                        "words": [
+                            {
+                                "wf": "Sepotong",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "Sepotong",
+                                    "pos": "n|v",
+                                    "form": "Sepotong"
+                                }
+                            },
+                            {
+                                "wf": "bulan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bulan",
+                                    "pos": "n",
+                                    "form": "bulan"
+                                }
+                            },
+                            {
+                                "wf": "sabit",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sabit",
+                                    "pos": "n",
+                                    "form": "sabit"
+                                }
+                            }
+                        ],
+                        "syllables": 7
+                    },
+                    {
+                        "line": "Mengintip celah-celah luka berdarah",
+                        "words": [
+                            {
+                                "wf": "Mengintip",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "intip",
+                                    "pos": "v",
+                                    "form": "meN-intip"
+                                }
+                            },
+                            {
+                                "wf": "celah-celah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "",
+                                    "pos": "n",
+                                    "form": "celah-celah-lah"
+                                }
+                            },
+                            {
+                                "wf": "luka",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "luka",
+                                    "pos": "n|v",
+                                    "form": "luka"
+                                }
+                            },
+                            {
+                                "wf": "berdarah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "darah",
+                                    "pos": "v",
+                                    "form": "ber-darah"
+                                }
+                            }
+                        ],
+                        "syllables": 12
+                    }
+                ],
+                "num_lines": 4
+            },
+            {
+                "strof": "\r\n",
+                "lines": [
+                    {
+                        "line": "",
+                        "words": [],
+                        "syllables": 0
+                    }
+                ],
+                "num_lines": 1
+            },
+            {
+                "strof": "Riap lalang dan kaki-kaki kerbau\r\nLumpur rawa dan suara serangga\r\nGigir bukit yang sunyi\r\nMenanti teka-teki",
+                "lines": [
+                    {
+                        "line": "Riap lalang dan kaki-kaki kerbau",
+                        "words": [
+                            {
+                                "wf": "Riap",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "riap",
+                                    "pos": "n",
+                                    "form": "riap"
+                                }
+                            },
+                            {
+                                "wf": "lalang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lalang",
+                                    "pos": "n",
+                                    "form": "lalang"
+                                }
+                            },
+                            {
+                                "wf": "dan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dan",
+                                    "pos": "p",
+                                    "form": "dan"
+                                }
+                            },
+                            {
+                                "wf": "kaki-kaki",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kaki",
+                                    "pos": "n",
+                                    "form": "kaki-kaki"
+                                }
+                            },
+                            {
+                                "wf": "kerbau",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kerbau",
+                                    "pos": "n",
+                                    "form": "kerbau"
+                                }
+                            }
+                        ],
+                        "syllables": 11
+                    },
+                    {
+                        "line": "Lumpur rawa dan suara serangga",
+                        "words": [
+                            {
+                                "wf": "Lumpur",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lumpur",
+                                    "pos": "n",
+                                    "form": "lumpur"
+                                }
+                            },
+                            {
+                                "wf": "rawa",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "rawa",
+                                    "pos": "n",
+                                    "form": "rawa"
+                                }
+                            },
+                            {
+                                "wf": "dan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dan",
+                                    "pos": "p",
+                                    "form": "dan"
+                                }
+                            },
+                            {
+                                "wf": "suara",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "suara",
+                                    "pos": "n",
+                                    "form": "suara"
+                                }
+                            },
+                            {
+                                "wf": "serangga",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "serangga",
+                                    "pos": "n",
+                                    "form": "serangga"
+                                }
+                            }
+                        ],
+                        "syllables": 11
+                    },
+                    {
+                        "line": "Gigir bukit yang sunyi",
+                        "words": [
+                            {
+                                "wf": "Gigir",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "gigir",
+                                    "pos": "n",
+                                    "form": "gigir"
+                                }
+                            },
+                            {
+                                "wf": "bukit",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bukit",
+                                    "pos": "n",
+                                    "form": "bukit"
+                                }
+                            },
+                            {
+                                "wf": "yang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "yang",
+                                    "pos": "a|v|n",
+                                    "form": "yang"
+                                }
+                            },
+                            {
+                                "wf": "sunyi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sunyi",
+                                    "pos": "a",
+                                    "form": "sunyi"
+                                }
+                            }
+                        ],
+                        "syllables": 7
+                    },
+                    {
+                        "line": "Menanti teka-teki",
+                        "words": [
+                            {
+                                "wf": "Menanti",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "Menanti",
+                                    "pos": "v",
+                                    "form": "Menanti"
+                                }
+                            },
+                            {
+                                "wf": "teka-teki",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "teka-teki",
+                                    "pos": "v|n",
+                                    "form": "teka-teki"
+                                }
+                            }
+                        ],
+                        "syllables": 7
+                    }
+                ],
+                "num_lines": 4
+            }
+        ]
+    }
+}

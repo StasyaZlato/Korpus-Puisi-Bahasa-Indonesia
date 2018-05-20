@@ -1,0 +1,899 @@
+{
+    "meta": {
+        "file_name": "593.json",
+        "id_bd": 593,
+        "author": "Toto ST Radik",
+        "title": "Di tengah ladang jagung",
+        "genre": "стихотворение",
+        "year": 1998,
+        "num_lines": 16,
+        "rhyme": "Есть",
+        "syllables": [
+            7,
+            12,
+            8,
+            5,
+            7,
+            14,
+            7,
+            10,
+            7,
+            13,
+            17,
+            16,
+            7,
+            13,
+            15,
+            9
+        ],
+        "strofy": [
+            4,
+            1,
+            1,
+            1,
+            3,
+            1,
+            4,
+            1,
+            4
+        ]
+    },
+    "poem": {
+        "text": "{di tengah ladang jagung\r\nkuterjemahkan ayatayat cintamu\r\ndi antara gerak daundaun\r\ndan dzikir embun}\r\n{di tengah ladang jagung}\r\n{aku lelaki dengan tubuh legam berkilau\r\ndibakar matahari\r\ndalam gairah cinta menggelegak}\r\n{di tengah ladang jagung\r\naku penari yang khusyuk mengurai doa\r\nmenjadi beribu gerak di antara riak kenangan\r\nkenyataan hari ini, dan impian masa depan}\r\n{di tengah ladang jagung\r\ndi bukit yang jauh dari tahuntahun gaduh\r\ndan usia kemarau, aku tengadah ke langit\r\nmenyerap seluruh cahaya}",
+        "strof": [
+            {
+                "strof": "di tengah ladang jagung\r\nkuterjemahkan ayatayat cintamu\r\ndi antara gerak daundaun\r\ndan dzikir embun",
+                "lines": [
+                    {
+                        "line": "di tengah ladang jagung",
+                        "words": [
+                            {
+                                "wf": "di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "tengah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tengah",
+                                    "pos": "n",
+                                    "form": "tengah"
+                                }
+                            },
+                            {
+                                "wf": "ladang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ladang",
+                                    "pos": "n",
+                                    "form": "ladang"
+                                }
+                            },
+                            {
+                                "wf": "jagung",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jagung",
+                                    "pos": "n",
+                                    "form": "jagung"
+                                }
+                            }
+                        ],
+                        "syllables": 7
+                    },
+                    {
+                        "line": "kuterjemahkan ayatayat cintamu",
+                        "words": [
+                            {
+                                "wf": "kuterjemahkan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kuterjemahkan",
+                                    "pos": "v",
+                                    "form": "kuterjemahkan"
+                                }
+                            },
+                            {
+                                "wf": "ayatayat",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ayatayat",
+                                    "pos": "?",
+                                    "form": "ayatayat"
+                                }
+                            },
+                            {
+                                "wf": "cintamu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "cinta",
+                                    "pos": "a",
+                                    "form": "cinta-mu"
+                                }
+                            }
+                        ],
+                        "syllables": 12
+                    },
+                    {
+                        "line": "di antara gerak daundaun",
+                        "words": [
+                            {
+                                "wf": "di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "antara",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "antara",
+                                    "pos": "n|p|a",
+                                    "form": "antara"
+                                }
+                            },
+                            {
+                                "wf": "gerak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "gerak",
+                                    "pos": "n",
+                                    "form": "gerak"
+                                }
+                            },
+                            {
+                                "wf": "daundaun",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "daundaun",
+                                    "pos": "?",
+                                    "form": "daundaun"
+                                }
+                            }
+                        ],
+                        "syllables": 8
+                    },
+                    {
+                        "line": "dan dzikir embun",
+                        "words": [
+                            {
+                                "wf": "dan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dan",
+                                    "pos": "p",
+                                    "form": "dan"
+                                }
+                            },
+                            {
+                                "wf": "dzikir",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dzikir",
+                                    "pos": "?",
+                                    "form": "dzikir"
+                                }
+                            },
+                            {
+                                "wf": "embun",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "embun",
+                                    "pos": "n",
+                                    "form": "embun"
+                                }
+                            }
+                        ],
+                        "syllables": 5
+                    }
+                ],
+                "num_lines": 4
+            },
+            {
+                "strof": "\r\n",
+                "lines": [
+                    {
+                        "line": "",
+                        "words": [],
+                        "syllables": 0
+                    }
+                ],
+                "num_lines": 1
+            },
+            {
+                "strof": "di tengah ladang jagung",
+                "lines": [
+                    {
+                        "line": "di tengah ladang jagung",
+                        "words": [
+                            {
+                                "wf": "di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "tengah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tengah",
+                                    "pos": "n",
+                                    "form": "tengah"
+                                }
+                            },
+                            {
+                                "wf": "ladang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ladang",
+                                    "pos": "n",
+                                    "form": "ladang"
+                                }
+                            },
+                            {
+                                "wf": "jagung",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jagung",
+                                    "pos": "n",
+                                    "form": "jagung"
+                                }
+                            }
+                        ],
+                        "syllables": 7
+                    }
+                ],
+                "num_lines": 1
+            },
+            {
+                "strof": "\r\n",
+                "lines": [
+                    {
+                        "line": "",
+                        "words": [],
+                        "syllables": 0
+                    }
+                ],
+                "num_lines": 1
+            },
+            {
+                "strof": "aku lelaki dengan tubuh legam berkilau\r\ndibakar matahari\r\ndalam gairah cinta menggelegak",
+                "lines": [
+                    {
+                        "line": "aku lelaki dengan tubuh legam berkilau",
+                        "words": [
+                            {
+                                "wf": "aku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "aku",
+                                    "pos": "pron",
+                                    "form": "aku"
+                                }
+                            },
+                            {
+                                "wf": "lelaki",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lelaki",
+                                    "pos": "n",
+                                    "form": "lelaki"
+                                }
+                            },
+                            {
+                                "wf": "dengan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dengan",
+                                    "pos": "p",
+                                    "form": "dengan"
+                                }
+                            },
+                            {
+                                "wf": "tubuh",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tubuh",
+                                    "pos": "n",
+                                    "form": "tubuh"
+                                }
+                            },
+                            {
+                                "wf": "legam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "legam",
+                                    "pos": "?",
+                                    "form": "legam"
+                                }
+                            },
+                            {
+                                "wf": "berkilau",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kilau",
+                                    "pos": "v",
+                                    "form": "ber-kilau"
+                                }
+                            }
+                        ],
+                        "syllables": 14
+                    },
+                    {
+                        "line": "dibakar matahari",
+                        "words": [
+                            {
+                                "wf": "dibakar",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bakar",
+                                    "pos": "v",
+                                    "form": "di-bakar"
+                                }
+                            },
+                            {
+                                "wf": "matahari",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "matahari",
+                                    "pos": "n",
+                                    "form": "matahari"
+                                }
+                            }
+                        ],
+                        "syllables": 7
+                    },
+                    {
+                        "line": "dalam gairah cinta menggelegak",
+                        "words": [
+                            {
+                                "wf": "dalam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dalam",
+                                    "pos": "a|n",
+                                    "form": "dalam"
+                                }
+                            },
+                            {
+                                "wf": "gairah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "gairah",
+                                    "pos": "n",
+                                    "form": "gairah"
+                                }
+                            },
+                            {
+                                "wf": "cinta",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "cinta",
+                                    "pos": "a",
+                                    "form": "cinta"
+                                }
+                            },
+                            {
+                                "wf": "menggelegak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "gelegak",
+                                    "pos": "v",
+                                    "form": "meN-gelegak"
+                                }
+                            }
+                        ],
+                        "syllables": 10
+                    }
+                ],
+                "num_lines": 3
+            },
+            {
+                "strof": "\r\n",
+                "lines": [
+                    {
+                        "line": "",
+                        "words": [],
+                        "syllables": 0
+                    }
+                ],
+                "num_lines": 1
+            },
+            {
+                "strof": "di tengah ladang jagung\r\naku penari yang khusyuk mengurai doa\r\nmenjadi beribu gerak di antara riak kenangan\r\nkenyataan hari ini, dan impian masa depan",
+                "lines": [
+                    {
+                        "line": "di tengah ladang jagung",
+                        "words": [
+                            {
+                                "wf": "di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "tengah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tengah",
+                                    "pos": "n",
+                                    "form": "tengah"
+                                }
+                            },
+                            {
+                                "wf": "ladang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ladang",
+                                    "pos": "n",
+                                    "form": "ladang"
+                                }
+                            },
+                            {
+                                "wf": "jagung",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jagung",
+                                    "pos": "n",
+                                    "form": "jagung"
+                                }
+                            }
+                        ],
+                        "syllables": 7
+                    },
+                    {
+                        "line": "aku penari yang khusyuk mengurai doa",
+                        "words": [
+                            {
+                                "wf": "aku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "aku",
+                                    "pos": "pron",
+                                    "form": "aku"
+                                }
+                            },
+                            {
+                                "wf": "penari",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tari",
+                                    "pos": "n",
+                                    "form": "peN-tari"
+                                }
+                            },
+                            {
+                                "wf": "yang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "yang",
+                                    "pos": "a|v|n",
+                                    "form": "yang"
+                                }
+                            },
+                            {
+                                "wf": "khusyuk",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "khusyuk",
+                                    "pos": "a",
+                                    "form": "khusyuk"
+                                }
+                            },
+                            {
+                                "wf": "mengurai",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "urai",
+                                    "pos": "v",
+                                    "form": "meN-urai"
+                                }
+                            },
+                            {
+                                "wf": "doa",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "doa",
+                                    "pos": "n",
+                                    "form": "doa"
+                                }
+                            }
+                        ],
+                        "syllables": 13
+                    },
+                    {
+                        "line": "menjadi beribu gerak di antara riak kenangan",
+                        "words": [
+                            {
+                                "wf": "menjadi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jadi",
+                                    "pos": "v",
+                                    "form": "meN-jadi"
+                                }
+                            },
+                            {
+                                "wf": "beribu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ibu",
+                                    "pos": "v",
+                                    "form": "ber-ibu"
+                                }
+                            },
+                            {
+                                "wf": "gerak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "gerak",
+                                    "pos": "n",
+                                    "form": "gerak"
+                                }
+                            },
+                            {
+                                "wf": "di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "antara",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "antara",
+                                    "pos": "n|p|a",
+                                    "form": "antara"
+                                }
+                            },
+                            {
+                                "wf": "riak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "riak",
+                                    "pos": "n",
+                                    "form": "riak"
+                                }
+                            },
+                            {
+                                "wf": "kenangan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kenang",
+                                    "pos": "n",
+                                    "form": "kenang-an"
+                                }
+                            }
+                        ],
+                        "syllables": 17
+                    },
+                    {
+                        "line": "kenyataan hari ini, dan impian masa depan",
+                        "words": [
+                            {
+                                "wf": "kenyataan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "nyata",
+                                    "pos": "n",
+                                    "form": "ke-nyata-an"
+                                }
+                            },
+                            {
+                                "wf": "hari",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hari",
+                                    "pos": "n",
+                                    "form": "hari"
+                                }
+                            },
+                            {
+                                "wf": "ini",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ini",
+                                    "pos": "pron",
+                                    "form": "ini"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "dan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dan",
+                                    "pos": "p",
+                                    "form": "dan"
+                                }
+                            },
+                            {
+                                "wf": "impian",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "impian",
+                                    "pos": "n",
+                                    "form": "impian"
+                                }
+                            },
+                            {
+                                "wf": "masa",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "masa",
+                                    "pos": "n",
+                                    "form": "masa"
+                                }
+                            },
+                            {
+                                "wf": "depan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "depan",
+                                    "pos": "n",
+                                    "form": "depan"
+                                }
+                            }
+                        ],
+                        "syllables": 16
+                    }
+                ],
+                "num_lines": 4
+            },
+            {
+                "strof": "\r\n",
+                "lines": [
+                    {
+                        "line": "",
+                        "words": [],
+                        "syllables": 0
+                    }
+                ],
+                "num_lines": 1
+            },
+            {
+                "strof": "di tengah ladang jagung\r\ndi bukit yang jauh dari tahuntahun gaduh\r\ndan usia kemarau, aku tengadah ke langit\r\nmenyerap seluruh cahaya",
+                "lines": [
+                    {
+                        "line": "di tengah ladang jagung",
+                        "words": [
+                            {
+                                "wf": "di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "tengah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tengah",
+                                    "pos": "n",
+                                    "form": "tengah"
+                                }
+                            },
+                            {
+                                "wf": "ladang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ladang",
+                                    "pos": "n",
+                                    "form": "ladang"
+                                }
+                            },
+                            {
+                                "wf": "jagung",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jagung",
+                                    "pos": "n",
+                                    "form": "jagung"
+                                }
+                            }
+                        ],
+                        "syllables": 7
+                    },
+                    {
+                        "line": "di bukit yang jauh dari tahuntahun gaduh",
+                        "words": [
+                            {
+                                "wf": "di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "bukit",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bukit",
+                                    "pos": "n",
+                                    "form": "bukit"
+                                }
+                            },
+                            {
+                                "wf": "yang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "yang",
+                                    "pos": "a|v|n",
+                                    "form": "yang"
+                                }
+                            },
+                            {
+                                "wf": "jauh",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jauh",
+                                    "pos": "a",
+                                    "form": "jauh"
+                                }
+                            },
+                            {
+                                "wf": "dari",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dari",
+                                    "pos": "p",
+                                    "form": "dari"
+                                }
+                            },
+                            {
+                                "wf": "tahuntahun",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tahuntahun",
+                                    "pos": "?",
+                                    "form": "tahuntahun"
+                                }
+                            },
+                            {
+                                "wf": "gaduh",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "gaduh",
+                                    "pos": "a",
+                                    "form": "gaduh"
+                                }
+                            }
+                        ],
+                        "syllables": 13
+                    },
+                    {
+                        "line": "dan usia kemarau, aku tengadah ke langit",
+                        "words": [
+                            {
+                                "wf": "dan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dan",
+                                    "pos": "p",
+                                    "form": "dan"
+                                }
+                            },
+                            {
+                                "wf": "usia",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "usia",
+                                    "pos": "n",
+                                    "form": "usia"
+                                }
+                            },
+                            {
+                                "wf": "kemarau",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kemarau",
+                                    "pos": "a",
+                                    "form": "kemarau"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "aku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "aku",
+                                    "pos": "pron",
+                                    "form": "aku"
+                                }
+                            },
+                            {
+                                "wf": "tengadah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tengadah",
+                                    "pos": "v",
+                                    "form": "tengadah"
+                                }
+                            },
+                            {
+                                "wf": "ke",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ke",
+                                    "pos": "p",
+                                    "form": "ke"
+                                }
+                            },
+                            {
+                                "wf": "langit",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "langit",
+                                    "pos": "n",
+                                    "form": "langit"
+                                }
+                            }
+                        ],
+                        "syllables": 15
+                    },
+                    {
+                        "line": "menyerap seluruh cahaya",
+                        "words": [
+                            {
+                                "wf": "menyerap",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "serap",
+                                    "pos": "v",
+                                    "form": "meN-serap"
+                                }
+                            },
+                            {
+                                "wf": "seluruh",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "seluruh",
+                                    "pos": "num",
+                                    "form": "seluruh"
+                                }
+                            },
+                            {
+                                "wf": "cahaya",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "caya",
+                                    "pos": "n",
+                                    "form": "cahaya"
+                                }
+                            }
+                        ],
+                        "syllables": 9
+                    }
+                ],
+                "num_lines": 4
+            }
+        ]
+    }
+}

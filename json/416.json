@@ -1,0 +1,511 @@
+{
+    "meta": {
+        "file_name": "416.json",
+        "id_bd": 416,
+        "author": "Linus Suryadi AG",
+        "title": "Instrumentalia",
+        "genre": "стихотворение",
+        "year": "---",
+        "num_lines": 12,
+        "rhyme": "Есть",
+        "syllables": [
+            10,
+            9,
+            10,
+            9,
+            10,
+            9,
+            9,
+            8,
+            9,
+            8,
+            8,
+            8
+        ],
+        "strofy": [
+            12
+        ]
+    },
+    "poem": {
+        "text": "{Ibarat piano, biola dan drum\r\nDisentuh oleh pemain alam\r\nItukan suara dalam hatimu ?\r\nMendadak menjadikan bayang\r\nInstrumen melahirkan Ave Veoum\r\nMembujuk-bujuk kemauanku\r\nMenimbulkan gagasan baru\r\ndalam gairah hidup kekal\r\nkehangatan terus mengalir\r\nmencairkan darah yang beku\r\nItukah nestapa yang lingsir ?\r\nTerlepas dari belenggu}",
+        "strof": [
+            {
+                "strof": "Ibarat piano, biola dan drum\r\nDisentuh oleh pemain alam\r\nItukan suara dalam hatimu ?\r\nMendadak menjadikan bayang\r\nInstrumen melahirkan Ave Veoum\r\nMembujuk-bujuk kemauanku\r\nMenimbulkan gagasan baru\r\ndalam gairah hidup kekal\r\nkehangatan terus mengalir\r\nmencairkan darah yang beku\r\nItukah nestapa yang lingsir ?\r\nTerlepas dari belenggu",
+                "lines": [
+                    {
+                        "line": "Ibarat piano, biola dan drum",
+                        "words": [
+                            {
+                                "wf": "Ibarat",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ibarat",
+                                    "pos": "n|p",
+                                    "form": "ibarat"
+                                }
+                            },
+                            {
+                                "wf": "piano",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "piano",
+                                    "pos": "n",
+                                    "form": "piano"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "biola",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "biola",
+                                    "pos": "n",
+                                    "form": "biola"
+                                }
+                            },
+                            {
+                                "wf": "dan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dan",
+                                    "pos": "p",
+                                    "form": "dan"
+                                }
+                            },
+                            {
+                                "wf": "drum",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "drum",
+                                    "pos": "n",
+                                    "form": "drum"
+                                }
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "Disentuh oleh pemain alam",
+                        "words": [
+                            {
+                                "wf": "Disentuh",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "Disentuh",
+                                    "pos": "v",
+                                    "form": "Disentuh"
+                                }
+                            },
+                            {
+                                "wf": "oleh",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "oleh",
+                                    "pos": "",
+                                    "form": "oleh"
+                                }
+                            },
+                            {
+                                "wf": "pemain",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "main",
+                                    "pos": "n",
+                                    "form": "peN-main"
+                                }
+                            },
+                            {
+                                "wf": "alam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "alam",
+                                    "pos": "a|n",
+                                    "form": "alam"
+                                }
+                            }
+                        ],
+                        "syllables": 9
+                    },
+                    {
+                        "line": "Itukan suara dalam hatimu ?",
+                        "words": [
+                            {
+                                "wf": "Itukan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "Itukan",
+                                    "pos": "v",
+                                    "form": "Itukan"
+                                }
+                            },
+                            {
+                                "wf": "suara",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "suara",
+                                    "pos": "n",
+                                    "form": "suara"
+                                }
+                            },
+                            {
+                                "wf": "dalam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dalam",
+                                    "pos": "a|n",
+                                    "form": "dalam"
+                                }
+                            },
+                            {
+                                "wf": "hatimu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hati",
+                                    "pos": "n",
+                                    "form": "hati-mu"
+                                }
+                            },
+                            {
+                                "wf": " ?",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "Mendadak menjadikan bayang",
+                        "words": [
+                            {
+                                "wf": "Mendadak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dadakan",
+                                    "pos": "adv",
+                                    "form": "Mendadak"
+                                }
+                            },
+                            {
+                                "wf": "menjadikan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jadi",
+                                    "pos": "v",
+                                    "form": "meN-jadi-kan"
+                                }
+                            },
+                            {
+                                "wf": "bayang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bayang",
+                                    "pos": "n",
+                                    "form": "bayang"
+                                }
+                            }
+                        ],
+                        "syllables": 9
+                    },
+                    {
+                        "line": "Instrumen melahirkan Ave Veoum",
+                        "words": [
+                            {
+                                "wf": "Instrumen",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "instrumen",
+                                    "pos": "",
+                                    "form": "instrumen"
+                                }
+                            },
+                            {
+                                "wf": "melahirkan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lahir",
+                                    "pos": "v",
+                                    "form": "meN-lahir-kan"
+                                }
+                            },
+                            {
+                                "wf": "Ave",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ave",
+                                    "pos": "?",
+                                    "form": "ave"
+                                }
+                            },
+                            {
+                                "wf": "Veoum",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "veoum",
+                                    "pos": "?",
+                                    "form": "veoum"
+                                }
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "Membujuk-bujuk kemauanku",
+                        "words": [
+                            {
+                                "wf": "Membujuk-bujuk",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bujuk",
+                                    "pos": "v",
+                                    "form": "Membujuk-bujuk"
+                                }
+                            },
+                            {
+                                "wf": "kemauanku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "mau",
+                                    "pos": "n",
+                                    "form": "ke-mau-an-ku-ku"
+                                }
+                            }
+                        ],
+                        "syllables": 9
+                    },
+                    {
+                        "line": "Menimbulkan gagasan baru",
+                        "words": [
+                            {
+                                "wf": "Menimbulkan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "timbul",
+                                    "pos": "v",
+                                    "form": "meN-timbul-kan"
+                                }
+                            },
+                            {
+                                "wf": "gagasan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "gagas",
+                                    "pos": "n",
+                                    "form": "gagas-an"
+                                }
+                            },
+                            {
+                                "wf": "baru",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "baru",
+                                    "pos": "a|adv",
+                                    "form": "baru"
+                                }
+                            }
+                        ],
+                        "syllables": 9
+                    },
+                    {
+                        "line": "dalam gairah hidup kekal",
+                        "words": [
+                            {
+                                "wf": "dalam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dalam",
+                                    "pos": "a|n",
+                                    "form": "dalam"
+                                }
+                            },
+                            {
+                                "wf": "gairah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "gairah",
+                                    "pos": "n",
+                                    "form": "gairah"
+                                }
+                            },
+                            {
+                                "wf": "hidup",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hidup",
+                                    "pos": "v",
+                                    "form": "hidup"
+                                }
+                            },
+                            {
+                                "wf": "kekal",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kekal",
+                                    "pos": "a",
+                                    "form": "kekal"
+                                }
+                            }
+                        ],
+                        "syllables": 8
+                    },
+                    {
+                        "line": "kehangatan terus mengalir",
+                        "words": [
+                            {
+                                "wf": "kehangatan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hangat",
+                                    "pos": "n",
+                                    "form": "ke-hangat-an"
+                                }
+                            },
+                            {
+                                "wf": "terus",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "terus",
+                                    "pos": "v",
+                                    "form": "terus"
+                                }
+                            },
+                            {
+                                "wf": "mengalir",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "alir",
+                                    "pos": "v",
+                                    "form": "meN-alir"
+                                }
+                            }
+                        ],
+                        "syllables": 9
+                    },
+                    {
+                        "line": "mencairkan darah yang beku",
+                        "words": [
+                            {
+                                "wf": "mencairkan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "cair",
+                                    "pos": "v",
+                                    "form": "meN-cair-kan"
+                                }
+                            },
+                            {
+                                "wf": "darah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "darah",
+                                    "pos": "n",
+                                    "form": "darah"
+                                }
+                            },
+                            {
+                                "wf": "yang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "yang",
+                                    "pos": "a|v|n",
+                                    "form": "yang"
+                                }
+                            },
+                            {
+                                "wf": "beku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "beku",
+                                    "pos": "a",
+                                    "form": "beku"
+                                }
+                            }
+                        ],
+                        "syllables": 8
+                    },
+                    {
+                        "line": "Itukah nestapa yang lingsir ?",
+                        "words": [
+                            {
+                                "wf": "Itukah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "itu",
+                                    "pos": "pron|n",
+                                    "form": "itu-kah"
+                                }
+                            },
+                            {
+                                "wf": "nestapa",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "nestapa",
+                                    "pos": "a",
+                                    "form": "nestapa"
+                                }
+                            },
+                            {
+                                "wf": "yang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "yang",
+                                    "pos": "a|v|n",
+                                    "form": "yang"
+                                }
+                            },
+                            {
+                                "wf": "lingsir",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lingsir",
+                                    "pos": "v",
+                                    "form": "lingsir"
+                                }
+                            },
+                            {
+                                "wf": " ?",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 8
+                    },
+                    {
+                        "line": "Terlepas dari belenggu",
+                        "words": [
+                            {
+                                "wf": "Terlepas",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lepas",
+                                    "pos": "v",
+                                    "form": "ter-lepas"
+                                }
+                            },
+                            {
+                                "wf": "dari",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dari",
+                                    "pos": "p",
+                                    "form": "dari"
+                                }
+                            },
+                            {
+                                "wf": "belenggu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "belenggu",
+                                    "pos": "n",
+                                    "form": "belenggu"
+                                }
+                            }
+                        ],
+                        "syllables": 8
+                    }
+                ],
+                "num_lines": 12
+            }
+        ]
+    }
+}

@@ -1,0 +1,999 @@
+{
+    "meta": {
+        "file_name": "347.json",
+        "id_bd": 347,
+        "author": "Kuntowijoyo",
+        "title": "Sang utusan",
+        "genre": "стихотворение",
+        "year": "---",
+        "num_lines": 26,
+        "rhyme": "Есть",
+        "syllables": [
+            4,
+            11,
+            7,
+            9,
+            6,
+            12,
+            6,
+            4,
+            9,
+            4,
+            5,
+            3,
+            2,
+            12,
+            10,
+            12,
+            8,
+            8,
+            8,
+            9,
+            6,
+            6,
+            7,
+            6,
+            5,
+            4
+        ],
+        "strofy": [
+            5,
+            1,
+            7,
+            1,
+            4,
+            1,
+            5,
+            1,
+            5
+        ]
+    },
+    "poem": {
+        "text": "{Dikabarkan\r\npada tanggal satu bulan Muharam\r\nakan tiba Sang Utusan\r\ndalam perjalanan kembali\r\nmenjenguk warganya}\r\n{Mereka keluar dari rumah-rumah\r\nberdiri di taman\r\nmenantikan\r\nBunga-bunga mawar di tangan\r\nnyanyi kudus\r\ndan detak-detak\r\nharapan}\r\n{Tidak.\r\nla tidak mengikuti angin utara\r\nia lewat menurut ilhamnya.\r\nPulang, ia akan mengetuk pintumu.}\r\n{Mereka saling memandang\r\nbarangkali itu benar\r\nlalu kembali ke rumah\r\nmenaburkan mawar di ambang\r\nmenyimpan nyanyian}\r\n{Malam tidak tidur\r\nuntuk di pagi hari\r\nmereka temukan\r\njejak Sang Utusan\r\ndi halaman.}",
+        "strof": [
+            {
+                "strof": "Dikabarkan\r\npada tanggal satu bulan Muharam\r\nakan tiba Sang Utusan\r\ndalam perjalanan kembali\r\nmenjenguk warganya",
+                "lines": [
+                    {
+                        "line": "Dikabarkan",
+                        "words": [
+                            {
+                                "wf": "Dikabarkan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dikabarkan",
+                                    "pos": "v",
+                                    "form": "dikabarkan"
+                                }
+                            }
+                        ],
+                        "syllables": 4
+                    },
+                    {
+                        "line": "pada tanggal satu bulan Muharam",
+                        "words": [
+                            {
+                                "wf": "pada",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pada",
+                                    "pos": "p",
+                                    "form": "pada"
+                                }
+                            },
+                            {
+                                "wf": "tanggal",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tanggal",
+                                    "pos": "v",
+                                    "form": "tanggal"
+                                }
+                            },
+                            {
+                                "wf": "satu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "satu",
+                                    "pos": "num",
+                                    "form": "satu"
+                                }
+                            },
+                            {
+                                "wf": "bulan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bulan",
+                                    "pos": "n",
+                                    "form": "bulan"
+                                }
+                            },
+                            {
+                                "wf": "Muharam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "Muharam",
+                                    "pos": "n",
+                                    "form": "Muharam"
+                                }
+                            }
+                        ],
+                        "syllables": 11
+                    },
+                    {
+                        "line": "akan tiba Sang Utusan",
+                        "words": [
+                            {
+                                "wf": "akan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "akan",
+                                    "pos": "v",
+                                    "form": "akan"
+                                }
+                            },
+                            {
+                                "wf": "tiba",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tiba",
+                                    "pos": "v",
+                                    "form": "tiba"
+                                }
+                            },
+                            {
+                                "wf": "Sang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sang",
+                                    "pos": "n",
+                                    "form": "sang"
+                                }
+                            },
+                            {
+                                "wf": "Utusan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "utus",
+                                    "pos": "adv",
+                                    "form": "utus-an"
+                                }
+                            }
+                        ],
+                        "syllables": 7
+                    },
+                    {
+                        "line": "dalam perjalanan kembali",
+                        "words": [
+                            {
+                                "wf": "dalam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dalam",
+                                    "pos": "a|n",
+                                    "form": "dalam"
+                                }
+                            },
+                            {
+                                "wf": "perjalanan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jalan",
+                                    "pos": "n",
+                                    "form": "per-jalan-an"
+                                }
+                            },
+                            {
+                                "wf": "kembali",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kembali",
+                                    "pos": "v",
+                                    "form": "kembali"
+                                }
+                            }
+                        ],
+                        "syllables": 9
+                    },
+                    {
+                        "line": "menjenguk warganya",
+                        "words": [
+                            {
+                                "wf": "menjenguk",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jenguk",
+                                    "pos": "v",
+                                    "form": "meN-jenguk"
+                                }
+                            },
+                            {
+                                "wf": "warganya",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "warga",
+                                    "pos": "n",
+                                    "form": "warga-nya"
+                                }
+                            }
+                        ],
+                        "syllables": 6
+                    }
+                ],
+                "num_lines": 5
+            },
+            {
+                "strof": "\r\n",
+                "lines": [
+                    {
+                        "line": "",
+                        "words": [],
+                        "syllables": 0
+                    }
+                ],
+                "num_lines": 1
+            },
+            {
+                "strof": "Mereka keluar dari rumah-rumah\r\nberdiri di taman\r\nmenantikan\r\nBunga-bunga mawar di tangan\r\nnyanyi kudus\r\ndan detak-detak\r\nharapan",
+                "lines": [
+                    {
+                        "line": "Mereka keluar dari rumah-rumah",
+                        "words": [
+                            {
+                                "wf": "Mereka",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "reka",
+                                    "pos": "v",
+                                    "form": "mereka"
+                                }
+                            },
+                            {
+                                "wf": "keluar",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "keluar",
+                                    "pos": "v",
+                                    "form": "keluar"
+                                }
+                            },
+                            {
+                                "wf": "dari",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dari",
+                                    "pos": "p",
+                                    "form": "dari"
+                                }
+                            },
+                            {
+                                "wf": "rumah-rumah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "rumah",
+                                    "pos": "n",
+                                    "form": "rumah-rumah"
+                                }
+                            }
+                        ],
+                        "syllables": 12
+                    },
+                    {
+                        "line": "berdiri di taman",
+                        "words": [
+                            {
+                                "wf": "berdiri",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "berdiri",
+                                    "pos": "v",
+                                    "form": "berdiri"
+                                }
+                            },
+                            {
+                                "wf": "di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "taman",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "taman",
+                                    "pos": "n",
+                                    "form": "taman"
+                                }
+                            }
+                        ],
+                        "syllables": 6
+                    },
+                    {
+                        "line": "menantikan",
+                        "words": [
+                            {
+                                "wf": "menantikan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "menantikan",
+                                    "pos": "v",
+                                    "form": "menantikan"
+                                }
+                            }
+                        ],
+                        "syllables": 4
+                    },
+                    {
+                        "line": "Bunga-bunga mawar di tangan",
+                        "words": [
+                            {
+                                "wf": "Bunga-bunga",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bunga",
+                                    "pos": "v",
+                                    "form": "bunga-bunga"
+                                }
+                            },
+                            {
+                                "wf": "mawar",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "mawar",
+                                    "pos": "n",
+                                    "form": "mawar"
+                                }
+                            },
+                            {
+                                "wf": "di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "tangan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tangan",
+                                    "pos": "v",
+                                    "form": "tangan"
+                                }
+                            }
+                        ],
+                        "syllables": 9
+                    },
+                    {
+                        "line": "nyanyi kudus",
+                        "words": [
+                            {
+                                "wf": "nyanyi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "nyanyi",
+                                    "pos": "v",
+                                    "form": "nyanyi"
+                                }
+                            },
+                            {
+                                "wf": "kudus",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kudus",
+                                    "pos": "a",
+                                    "form": "kudus"
+                                }
+                            }
+                        ],
+                        "syllables": 4
+                    },
+                    {
+                        "line": "dan detak-detak",
+                        "words": [
+                            {
+                                "wf": "dan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dan",
+                                    "pos": "p",
+                                    "form": "dan"
+                                }
+                            },
+                            {
+                                "wf": "detak-detak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "detak",
+                                    "pos": "n",
+                                    "form": "detak-detak"
+                                }
+                            }
+                        ],
+                        "syllables": 5
+                    },
+                    {
+                        "line": "harapan",
+                        "words": [
+                            {
+                                "wf": "harapan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "harap",
+                                    "pos": "v",
+                                    "form": "harap-an"
+                                }
+                            }
+                        ],
+                        "syllables": 3
+                    }
+                ],
+                "num_lines": 7
+            },
+            {
+                "strof": "\r\n",
+                "lines": [
+                    {
+                        "line": "",
+                        "words": [],
+                        "syllables": 0
+                    }
+                ],
+                "num_lines": 1
+            },
+            {
+                "strof": "Tidak.\r\nla tidak mengikuti angin utara\r\nia lewat menurut ilhamnya.\r\nPulang, ia akan mengetuk pintumu.",
+                "lines": [
+                    {
+                        "line": "Tidak.",
+                        "words": [
+                            {
+                                "wf": "Tidak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tidak",
+                                    "pos": "adv",
+                                    "form": "tidak"
+                                }
+                            },
+                            {
+                                "wf": ".",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 2
+                    },
+                    {
+                        "line": "la tidak mengikuti angin utara",
+                        "words": [
+                            {
+                                "wf": "la",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "la",
+                                    "pos": "n",
+                                    "form": "la"
+                                }
+                            },
+                            {
+                                "wf": "tidak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tidak",
+                                    "pos": "adv",
+                                    "form": "tidak"
+                                }
+                            },
+                            {
+                                "wf": "mengikuti",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ikut",
+                                    "pos": "v",
+                                    "form": "meN-ikut-i"
+                                }
+                            },
+                            {
+                                "wf": "angin",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "angin",
+                                    "pos": "n",
+                                    "form": "angin"
+                                }
+                            },
+                            {
+                                "wf": "utara",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "utara",
+                                    "pos": "n",
+                                    "form": "utara"
+                                }
+                            }
+                        ],
+                        "syllables": 12
+                    },
+                    {
+                        "line": "ia lewat menurut ilhamnya.",
+                        "words": [
+                            {
+                                "wf": "ia",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ia",
+                                    "pos": "n",
+                                    "form": "ia"
+                                }
+                            },
+                            {
+                                "wf": "lewat",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lewat",
+                                    "pos": "v|adv|a|p",
+                                    "form": "lewat"
+                                }
+                            },
+                            {
+                                "wf": "menurut",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "turut",
+                                    "pos": "v|p",
+                                    "form": "meN-turut"
+                                }
+                            },
+                            {
+                                "wf": "ilhamnya",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ilham",
+                                    "pos": "n",
+                                    "form": "ilham-nya"
+                                }
+                            },
+                            {
+                                "wf": ".",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "Pulang, ia akan mengetuk pintumu.",
+                        "words": [
+                            {
+                                "wf": "Pulang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pulang",
+                                    "pos": "v",
+                                    "form": "pulang"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "ia",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ia",
+                                    "pos": "n",
+                                    "form": "ia"
+                                }
+                            },
+                            {
+                                "wf": "akan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "akan",
+                                    "pos": "v",
+                                    "form": "akan"
+                                }
+                            },
+                            {
+                                "wf": "mengetuk",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ketuk",
+                                    "pos": "v",
+                                    "form": "meN-ketuk"
+                                }
+                            },
+                            {
+                                "wf": "pintumu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pintumu",
+                                    "pos": "n",
+                                    "form": "pintumu"
+                                }
+                            },
+                            {
+                                "wf": ".",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 12
+                    }
+                ],
+                "num_lines": 4
+            },
+            {
+                "strof": "\r\n",
+                "lines": [
+                    {
+                        "line": "",
+                        "words": [],
+                        "syllables": 0
+                    }
+                ],
+                "num_lines": 1
+            },
+            {
+                "strof": "Mereka saling memandang\r\nbarangkali itu benar\r\nlalu kembali ke rumah\r\nmenaburkan mawar di ambang\r\nmenyimpan nyanyian",
+                "lines": [
+                    {
+                        "line": "Mereka saling memandang",
+                        "words": [
+                            {
+                                "wf": "Mereka",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "reka",
+                                    "pos": "v",
+                                    "form": "mereka"
+                                }
+                            },
+                            {
+                                "wf": "saling",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "saling",
+                                    "pos": "adv",
+                                    "form": "saling"
+                                }
+                            },
+                            {
+                                "wf": "memandang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pandang",
+                                    "pos": "v",
+                                    "form": "meN-pandang"
+                                }
+                            }
+                        ],
+                        "syllables": 8
+                    },
+                    {
+                        "line": "barangkali itu benar",
+                        "words": [
+                            {
+                                "wf": "barangkali",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "barangkali",
+                                    "pos": "adv",
+                                    "form": "barangkali"
+                                }
+                            },
+                            {
+                                "wf": "itu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "itu",
+                                    "pos": "pron|n",
+                                    "form": "itu"
+                                }
+                            },
+                            {
+                                "wf": "benar",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "benar",
+                                    "pos": "a",
+                                    "form": "benar"
+                                }
+                            }
+                        ],
+                        "syllables": 8
+                    },
+                    {
+                        "line": "lalu kembali ke rumah",
+                        "words": [
+                            {
+                                "wf": "lalu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lalu",
+                                    "pos": "adv",
+                                    "form": "lalu"
+                                }
+                            },
+                            {
+                                "wf": "kembali",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kembali",
+                                    "pos": "v",
+                                    "form": "kembali"
+                                }
+                            },
+                            {
+                                "wf": "ke",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ke",
+                                    "pos": "p",
+                                    "form": "ke"
+                                }
+                            },
+                            {
+                                "wf": "rumah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "rumah",
+                                    "pos": "n",
+                                    "form": "rumah"
+                                }
+                            }
+                        ],
+                        "syllables": 8
+                    },
+                    {
+                        "line": "menaburkan mawar di ambang",
+                        "words": [
+                            {
+                                "wf": "menaburkan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tabur",
+                                    "pos": "v",
+                                    "form": "meN-tabur-kan"
+                                }
+                            },
+                            {
+                                "wf": "mawar",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "mawar",
+                                    "pos": "n",
+                                    "form": "mawar"
+                                }
+                            },
+                            {
+                                "wf": "di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "ambang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ambang",
+                                    "pos": "n",
+                                    "form": "ambang"
+                                }
+                            }
+                        ],
+                        "syllables": 9
+                    },
+                    {
+                        "line": "menyimpan nyanyian",
+                        "words": [
+                            {
+                                "wf": "menyimpan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "menyimpan",
+                                    "pos": "v",
+                                    "form": "menyimpan"
+                                }
+                            },
+                            {
+                                "wf": "nyanyian",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "nyanyi",
+                                    "pos": "n",
+                                    "form": "nyanyi-an"
+                                }
+                            }
+                        ],
+                        "syllables": 6
+                    }
+                ],
+                "num_lines": 5
+            },
+            {
+                "strof": "\r\n",
+                "lines": [
+                    {
+                        "line": "",
+                        "words": [],
+                        "syllables": 0
+                    }
+                ],
+                "num_lines": 1
+            },
+            {
+                "strof": "Malam tidak tidur\r\nuntuk di pagi hari\r\nmereka temukan\r\njejak Sang Utusan\r\ndi halaman.",
+                "lines": [
+                    {
+                        "line": "Malam tidak tidur",
+                        "words": [
+                            {
+                                "wf": "Malam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "malam",
+                                    "pos": "n",
+                                    "form": "malam"
+                                }
+                            },
+                            {
+                                "wf": "tidak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tidak",
+                                    "pos": "adv",
+                                    "form": "tidak"
+                                }
+                            },
+                            {
+                                "wf": "tidur",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tidur",
+                                    "pos": "v",
+                                    "form": "tidur"
+                                }
+                            }
+                        ],
+                        "syllables": 6
+                    },
+                    {
+                        "line": "untuk di pagi hari",
+                        "words": [
+                            {
+                                "wf": "untuk",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "untuk",
+                                    "pos": "p",
+                                    "form": "untuk"
+                                }
+                            },
+                            {
+                                "wf": "di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "pagi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pagi",
+                                    "pos": "n",
+                                    "form": "pagi"
+                                }
+                            },
+                            {
+                                "wf": "hari",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hari",
+                                    "pos": "n",
+                                    "form": "hari"
+                                }
+                            }
+                        ],
+                        "syllables": 7
+                    },
+                    {
+                        "line": "mereka temukan",
+                        "words": [
+                            {
+                                "wf": "mereka",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "reka",
+                                    "pos": "v",
+                                    "form": "mereka"
+                                }
+                            },
+                            {
+                                "wf": "temukan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "temukan",
+                                    "pos": "v",
+                                    "form": "temukan"
+                                }
+                            }
+                        ],
+                        "syllables": 6
+                    },
+                    {
+                        "line": "jejak Sang Utusan",
+                        "words": [
+                            {
+                                "wf": "jejak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jejak",
+                                    "pos": "n",
+                                    "form": "jejak"
+                                }
+                            },
+                            {
+                                "wf": "Sang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sang",
+                                    "pos": "n",
+                                    "form": "sang"
+                                }
+                            },
+                            {
+                                "wf": "Utusan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "utus",
+                                    "pos": "adv",
+                                    "form": "utus-an"
+                                }
+                            }
+                        ],
+                        "syllables": 5
+                    },
+                    {
+                        "line": "di halaman.",
+                        "words": [
+                            {
+                                "wf": "di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "halaman",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "halaman",
+                                    "pos": "n",
+                                    "form": "halaman"
+                                }
+                            },
+                            {
+                                "wf": ".",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 4
+                    }
+                ],
+                "num_lines": 5
+            }
+        ]
+    }
+}

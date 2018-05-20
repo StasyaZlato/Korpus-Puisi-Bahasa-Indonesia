@@ -1,0 +1,450 @@
+{
+    "meta": {
+        "file_name": "505.json",
+        "id_bd": 505,
+        "author": "Sapardi Djoko Damono",
+        "title": "Sudah kutebak",
+        "genre": "стихотворение",
+        "year": "---",
+        "num_lines": 7,
+        "rhyme": "Есть",
+        "syllables": [
+            17,
+            27,
+            13,
+            14,
+            13,
+            20,
+            4
+        ],
+        "strofy": [
+            7
+        ]
+    },
+    "poem": {
+        "text": "{Sudah kutebak kedatanganmu.  Seperti biasanya,\r\nkau berkias tentang sepasang ikan yang menyambar-nyambar umpan sedikit demi sedikit,\r\nmenggosok-gosokkan tubuh di karang-karang,\r\nmenyambar, berputar-putar membuat lingkaran,\r\nmenyambar, mabok membentur batu-batuan.\r\nKutebak si pengail masih terkantuk-kantukdi tepi sungai itu.\r\nSendirian.}",
+        "strof": [
+            {
+                "strof": "Sudah kutebak kedatanganmu.  Seperti biasanya,\r\nkau berkias tentang sepasang ikan yang menyambar-nyambar umpan sedikit demi sedikit,\r\nmenggosok-gosokkan tubuh di karang-karang,\r\nmenyambar, berputar-putar membuat lingkaran,\r\nmenyambar, mabok membentur batu-batuan.\r\nKutebak si pengail masih terkantuk-kantukdi tepi sungai itu.\r\nSendirian.",
+                "lines": [
+                    {
+                        "line": "Sudah kutebak kedatanganmu.  Seperti biasanya,",
+                        "words": [
+                            {
+                                "wf": "Sudah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sudah",
+                                    "pos": "adv",
+                                    "form": "sudah"
+                                }
+                            },
+                            {
+                                "wf": "kutebak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tebak",
+                                    "pos": "v",
+                                    "form": "ku-tebak"
+                                }
+                            },
+                            {
+                                "wf": "kedatanganmu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "datang",
+                                    "pos": "n",
+                                    "form": "ke-datang-an-mu-mu"
+                                }
+                            },
+                            {
+                                "wf": ".  ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "Seperti",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "seperti",
+                                    "pos": "p",
+                                    "form": "seperti"
+                                }
+                            },
+                            {
+                                "wf": "biasanya",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "biasa",
+                                    "pos": "adv",
+                                    "form": "biasa-nya"
+                                }
+                            },
+                            {
+                                "wf": ",",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 17
+                    },
+                    {
+                        "line": "kau berkias tentang sepasang ikan yang menyambar-nyambar umpan sedikit demi sedikit,",
+                        "words": [
+                            {
+                                "wf": "kau",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kau",
+                                    "pos": "pron",
+                                    "form": "kau"
+                                }
+                            },
+                            {
+                                "wf": "berkias",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kias",
+                                    "pos": "v",
+                                    "form": "ber-kias"
+                                }
+                            },
+                            {
+                                "wf": "tentang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tentang",
+                                    "pos": "p",
+                                    "form": "tentang"
+                                }
+                            },
+                            {
+                                "wf": "sepasang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pasang",
+                                    "pos": "n|a",
+                                    "form": "se-pasang"
+                                }
+                            },
+                            {
+                                "wf": "ikan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ikan",
+                                    "pos": "v",
+                                    "form": "ikan"
+                                }
+                            },
+                            {
+                                "wf": "yang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "yang",
+                                    "pos": "a|v|n",
+                                    "form": "yang"
+                                }
+                            },
+                            {
+                                "wf": "menyambar-nyambar",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sambar",
+                                    "pos": "v",
+                                    "form": "meN-sambar-N-sambar"
+                                }
+                            },
+                            {
+                                "wf": "umpan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "umpan",
+                                    "pos": "n",
+                                    "form": "umpan"
+                                }
+                            },
+                            {
+                                "wf": "sedikit",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sedikit",
+                                    "pos": "a",
+                                    "form": "sedikit"
+                                }
+                            },
+                            {
+                                "wf": "demi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "demi",
+                                    "pos": "p",
+                                    "form": "demi"
+                                }
+                            },
+                            {
+                                "wf": "sedikit",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sedikit",
+                                    "pos": "a",
+                                    "form": "sedikit"
+                                }
+                            },
+                            {
+                                "wf": ",",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 27
+                    },
+                    {
+                        "line": "menggosok-gosokkan tubuh di karang-karang,",
+                        "words": [
+                            {
+                                "wf": "menggosok-gosokkan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "menggosok-gosokkan",
+                                    "pos": "v",
+                                    "form": "menggosok-gosokkan"
+                                }
+                            },
+                            {
+                                "wf": "tubuh",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tubuh",
+                                    "pos": "n",
+                                    "form": "tubuh"
+                                }
+                            },
+                            {
+                                "wf": "di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "karang-karang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "karang",
+                                    "pos": "n",
+                                    "form": "karang-karang"
+                                }
+                            },
+                            {
+                                "wf": ",",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 13
+                    },
+                    {
+                        "line": "menyambar, berputar-putar membuat lingkaran,",
+                        "words": [
+                            {
+                                "wf": "menyambar",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sambar",
+                                    "pos": "v",
+                                    "form": "meN-sambar"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "berputar-putar",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "putar",
+                                    "pos": "v",
+                                    "form": "berputar-putar"
+                                }
+                            },
+                            {
+                                "wf": "membuat",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "membuat",
+                                    "pos": "v",
+                                    "form": "membuat"
+                                }
+                            },
+                            {
+                                "wf": "lingkaran",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lingkar",
+                                    "pos": "n",
+                                    "form": "lingkar-an"
+                                }
+                            },
+                            {
+                                "wf": ",",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 14
+                    },
+                    {
+                        "line": "menyambar, mabok membentur batu-batuan.",
+                        "words": [
+                            {
+                                "wf": "menyambar",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sambar",
+                                    "pos": "v",
+                                    "form": "meN-sambar"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "mabok",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "mabok",
+                                    "pos": "?",
+                                    "form": "mabok"
+                                }
+                            },
+                            {
+                                "wf": "membentur",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bentur",
+                                    "pos": "v",
+                                    "form": "meN-bentur"
+                                }
+                            },
+                            {
+                                "wf": "batu-batuan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "batu",
+                                    "pos": "n",
+                                    "form": "batu-batu-an"
+                                }
+                            },
+                            {
+                                "wf": ".",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 13
+                    },
+                    {
+                        "line": "Kutebak si pengail masih terkantuk-kantukdi tepi sungai itu.",
+                        "words": [
+                            {
+                                "wf": "Kutebak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "Kutebak",
+                                    "pos": "v",
+                                    "form": "Kutebak"
+                                }
+                            },
+                            {
+                                "wf": "si",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "si",
+                                    "pos": "v",
+                                    "form": "si"
+                                }
+                            },
+                            {
+                                "wf": "pengail",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kail",
+                                    "pos": "n",
+                                    "form": "peN-kail"
+                                }
+                            },
+                            {
+                                "wf": "masih",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "masih",
+                                    "pos": "n",
+                                    "form": "masih"
+                                }
+                            },
+                            {
+                                "wf": "terkantuk-kantukdi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kantuk",
+                                    "pos": "?",
+                                    "form": "terkantuk-kantukdi"
+                                }
+                            },
+                            {
+                                "wf": "tepi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tepi",
+                                    "pos": "n",
+                                    "form": "tepi"
+                                }
+                            },
+                            {
+                                "wf": "sungai",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sungai",
+                                    "pos": "n",
+                                    "form": "sungai"
+                                }
+                            },
+                            {
+                                "wf": "itu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "itu",
+                                    "pos": "pron|n",
+                                    "form": "itu"
+                                }
+                            },
+                            {
+                                "wf": ".",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 20
+                    },
+                    {
+                        "line": "Sendirian.",
+                        "words": [
+                            {
+                                "wf": "Sendirian",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sendiri",
+                                    "pos": "pron",
+                                    "form": "sendiri-an"
+                                }
+                            },
+                            {
+                                "wf": ".",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 4
+                    }
+                ],
+                "num_lines": 7
+            }
+        ]
+    }
+}

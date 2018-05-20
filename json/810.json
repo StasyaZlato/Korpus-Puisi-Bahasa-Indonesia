@@ -1,0 +1,611 @@
+{
+    "meta": {
+        "file_name": "810.json",
+        "id_bd": 810,
+        "author": "Abdul Hadi WM",
+        "title": "Bahkan",
+        "genre": "стихотворение",
+        "year": 1976,
+        "num_lines": 10,
+        "rhyme": "Есть",
+        "syllables": [
+            11,
+            14,
+            16,
+            10,
+            16,
+            7,
+            15,
+            12,
+            6,
+            14
+        ],
+        "strofy": [
+            5,
+            1,
+            5
+        ]
+    },
+    "poem": {
+        "text": "{Bahkan jarum jam pun hanya mengulang\r\nandai detiknya bukan kejemuan, kau tangkap\r\nkeluh bumi seperti anak yang tak habis berharap\r\ndan mata kecilnya yang gelisah\r\nmemandang laut hanya dunia garam dan ikan-ikan}\r\n{Bayang-bayangmu juga\r\nyang susut karena lampu di pelupukmu padam\r\nLebih menjemukan dari rembang petang\r\nTapi berangkatlah!\r\nDi seberang gelombang mungkin udara terang}",
+        "strof": [
+            {
+                "strof": "Bahkan jarum jam pun hanya mengulang\r\nandai detiknya bukan kejemuan, kau tangkap\r\nkeluh bumi seperti anak yang tak habis berharap\r\ndan mata kecilnya yang gelisah\r\nmemandang laut hanya dunia garam dan ikan-ikan",
+                "lines": [
+                    {
+                        "line": "Bahkan jarum jam pun hanya mengulang",
+                        "words": [
+                            {
+                                "wf": "Bahkan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bahkan",
+                                    "pos": "v",
+                                    "form": "bahkan"
+                                }
+                            },
+                            {
+                                "wf": "jarum",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jarum",
+                                    "pos": "n",
+                                    "form": "jarum"
+                                }
+                            },
+                            {
+                                "wf": "jam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jam",
+                                    "pos": "a",
+                                    "form": "jam"
+                                }
+                            },
+                            {
+                                "wf": "pun",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pun",
+                                    "pos": "p",
+                                    "form": "pun"
+                                }
+                            },
+                            {
+                                "wf": "hanya",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hanya",
+                                    "pos": "adv",
+                                    "form": "hanya"
+                                }
+                            },
+                            {
+                                "wf": "mengulang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ulang",
+                                    "pos": "v",
+                                    "form": "meN-ulang"
+                                }
+                            }
+                        ],
+                        "syllables": 11
+                    },
+                    {
+                        "line": "andai detiknya bukan kejemuan, kau tangkap",
+                        "words": [
+                            {
+                                "wf": "andai",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "andai",
+                                    "pos": "n",
+                                    "form": "andai"
+                                }
+                            },
+                            {
+                                "wf": "detiknya",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "detik",
+                                    "pos": "n",
+                                    "form": "detik-nya"
+                                }
+                            },
+                            {
+                                "wf": "bukan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bukan",
+                                    "pos": "n",
+                                    "form": "bukan"
+                                }
+                            },
+                            {
+                                "wf": "kejemuan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jemu",
+                                    "pos": "n",
+                                    "form": "ke-jemu-an"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "kau",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kau",
+                                    "pos": "pron",
+                                    "form": "kau"
+                                }
+                            },
+                            {
+                                "wf": "tangkap",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tangkap",
+                                    "pos": "v",
+                                    "form": "tangkap"
+                                }
+                            }
+                        ],
+                        "syllables": 14
+                    },
+                    {
+                        "line": "keluh bumi seperti anak yang tak habis berharap",
+                        "words": [
+                            {
+                                "wf": "keluh",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "keluh",
+                                    "pos": "n",
+                                    "form": "keluh"
+                                }
+                            },
+                            {
+                                "wf": "bumi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bumi",
+                                    "pos": "n",
+                                    "form": "bumi"
+                                }
+                            },
+                            {
+                                "wf": "seperti",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "seperti",
+                                    "pos": "p",
+                                    "form": "seperti"
+                                }
+                            },
+                            {
+                                "wf": "anak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "anak",
+                                    "pos": "n",
+                                    "form": "anak"
+                                }
+                            },
+                            {
+                                "wf": "yang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "yang",
+                                    "pos": "a|v|n",
+                                    "form": "yang"
+                                }
+                            },
+                            {
+                                "wf": "tak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tak",
+                                    "pos": "adv",
+                                    "form": "tak"
+                                }
+                            },
+                            {
+                                "wf": "habis",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "habis",
+                                    "pos": "v|p|adv|n",
+                                    "form": "habis"
+                                }
+                            },
+                            {
+                                "wf": "berharap",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "harap",
+                                    "pos": "v",
+                                    "form": "ber-harap"
+                                }
+                            }
+                        ],
+                        "syllables": 16
+                    },
+                    {
+                        "line": "dan mata kecilnya yang gelisah",
+                        "words": [
+                            {
+                                "wf": "dan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dan",
+                                    "pos": "p",
+                                    "form": "dan"
+                                }
+                            },
+                            {
+                                "wf": "mata",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "mata",
+                                    "pos": "n",
+                                    "form": "mata"
+                                }
+                            },
+                            {
+                                "wf": "kecilnya",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kecil",
+                                    "pos": "a",
+                                    "form": "kecil-nya"
+                                }
+                            },
+                            {
+                                "wf": "yang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "yang",
+                                    "pos": "a|v|n",
+                                    "form": "yang"
+                                }
+                            },
+                            {
+                                "wf": "gelisah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "gelisah",
+                                    "pos": "a",
+                                    "form": "gelisah"
+                                }
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "memandang laut hanya dunia garam dan ikan-ikan",
+                        "words": [
+                            {
+                                "wf": "memandang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pandang",
+                                    "pos": "v",
+                                    "form": "meN-pandang"
+                                }
+                            },
+                            {
+                                "wf": "laut",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "laut",
+                                    "pos": "n",
+                                    "form": "laut"
+                                }
+                            },
+                            {
+                                "wf": "hanya",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hanya",
+                                    "pos": "adv",
+                                    "form": "hanya"
+                                }
+                            },
+                            {
+                                "wf": "dunia",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dunia",
+                                    "pos": "n",
+                                    "form": "dunia"
+                                }
+                            },
+                            {
+                                "wf": "garam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "garam",
+                                    "pos": "v",
+                                    "form": "garam"
+                                }
+                            },
+                            {
+                                "wf": "dan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dan",
+                                    "pos": "p",
+                                    "form": "dan"
+                                }
+                            },
+                            {
+                                "wf": "ikan-ikan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ikan-ikan",
+                                    "pos": "n",
+                                    "form": "ikan-ikan"
+                                }
+                            }
+                        ],
+                        "syllables": 16
+                    }
+                ],
+                "num_lines": 5
+            },
+            {
+                "strof": "\r\n",
+                "lines": [
+                    {
+                        "line": "",
+                        "words": [],
+                        "syllables": 0
+                    }
+                ],
+                "num_lines": 1
+            },
+            {
+                "strof": "Bayang-bayangmu juga\r\nyang susut karena lampu di pelupukmu padam\r\nLebih menjemukan dari rembang petang\r\nTapi berangkatlah!\r\nDi seberang gelombang mungkin udara terang",
+                "lines": [
+                    {
+                        "line": "Bayang-bayangmu juga",
+                        "words": [
+                            {
+                                "wf": "Bayang-bayangmu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bayang",
+                                    "pos": "n",
+                                    "form": "bayang-bayang-mu-mu"
+                                }
+                            },
+                            {
+                                "wf": "juga",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "juga",
+                                    "pos": "adv",
+                                    "form": "juga"
+                                }
+                            }
+                        ],
+                        "syllables": 7
+                    },
+                    {
+                        "line": "yang susut karena lampu di pelupukmu padam",
+                        "words": [
+                            {
+                                "wf": "yang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "yang",
+                                    "pos": "a|v|n",
+                                    "form": "yang"
+                                }
+                            },
+                            {
+                                "wf": "susut",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "susut",
+                                    "pos": "a",
+                                    "form": "susut"
+                                }
+                            },
+                            {
+                                "wf": "karena",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "karena",
+                                    "pos": "p",
+                                    "form": "karena"
+                                }
+                            },
+                            {
+                                "wf": "lampu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lampu",
+                                    "pos": "n",
+                                    "form": "lampu"
+                                }
+                            },
+                            {
+                                "wf": "di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "pelupukmu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pelupuk",
+                                    "pos": "n",
+                                    "form": "pelupuk-mu"
+                                }
+                            },
+                            {
+                                "wf": "padam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "padam",
+                                    "pos": "a",
+                                    "form": "padam"
+                                }
+                            }
+                        ],
+                        "syllables": 15
+                    },
+                    {
+                        "line": "Lebih menjemukan dari rembang petang",
+                        "words": [
+                            {
+                                "wf": "Lebih",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lebih",
+                                    "pos": "a",
+                                    "form": "lebih"
+                                }
+                            },
+                            {
+                                "wf": "menjemukan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jemu",
+                                    "pos": "v",
+                                    "form": "meN-jemu-kan"
+                                }
+                            },
+                            {
+                                "wf": "dari",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dari",
+                                    "pos": "p",
+                                    "form": "dari"
+                                }
+                            },
+                            {
+                                "wf": "rembang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "rembang",
+                                    "pos": "a",
+                                    "form": "rembang"
+                                }
+                            },
+                            {
+                                "wf": "petang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "petang",
+                                    "pos": "n",
+                                    "form": "petang"
+                                }
+                            }
+                        ],
+                        "syllables": 12
+                    },
+                    {
+                        "line": "Tapi berangkatlah!",
+                        "words": [
+                            {
+                                "wf": "Tapi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tapi",
+                                    "pos": "v",
+                                    "form": "tapi"
+                                }
+                            },
+                            {
+                                "wf": "berangkatlah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "berangkat",
+                                    "pos": "v",
+                                    "form": "berangkat-lah"
+                                }
+                            },
+                            {
+                                "wf": "!",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 6
+                    },
+                    {
+                        "line": "Di seberang gelombang mungkin udara terang",
+                        "words": [
+                            {
+                                "wf": "Di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "seberang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "seberang",
+                                    "pos": "n",
+                                    "form": "seberang"
+                                }
+                            },
+                            {
+                                "wf": "gelombang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "gelombang",
+                                    "pos": "n",
+                                    "form": "gelombang"
+                                }
+                            },
+                            {
+                                "wf": "mungkin",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "mungkin",
+                                    "pos": "adv",
+                                    "form": "mungkin"
+                                }
+                            },
+                            {
+                                "wf": "udara",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "udara",
+                                    "pos": "n",
+                                    "form": "udara"
+                                }
+                            },
+                            {
+                                "wf": "terang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "terang",
+                                    "pos": "a",
+                                    "form": "terang"
+                                }
+                            }
+                        ],
+                        "syllables": 14
+                    }
+                ],
+                "num_lines": 5
+            }
+        ]
+    }
+}

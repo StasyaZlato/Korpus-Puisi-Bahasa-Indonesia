@@ -1,0 +1,372 @@
+{
+    "meta": {
+        "file_name": "321.json",
+        "id_bd": 321,
+        "author": "Korrie Layun Rampan",
+        "title": "Pintu",
+        "genre": "стихотворение",
+        "year": 1973,
+        "num_lines": 6,
+        "rhyme": "Есть",
+        "syllables": [
+            11,
+            11,
+            10,
+            16,
+            11,
+            11
+        ],
+        "strofy": [
+            3,
+            1,
+            3
+        ]
+    },
+    "poem": {
+        "text": "{Pintu biru diketuk dari luar\r\nSiapakah yang berdiri di situ\r\nDengan suara yang lirih samar}\r\n{Kujenguk dari jendela bersama angin gemetar\r\nHanya sebuah kenangan yang luka\r\nBernyanyi, bernyanyi ke ujung apar}",
+        "strof": [
+            {
+                "strof": "Pintu biru diketuk dari luar\r\nSiapakah yang berdiri di situ\r\nDengan suara yang lirih samar",
+                "lines": [
+                    {
+                        "line": "Pintu biru diketuk dari luar",
+                        "words": [
+                            {
+                                "wf": "Pintu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pintu",
+                                    "pos": "n",
+                                    "form": "pintu"
+                                }
+                            },
+                            {
+                                "wf": "biru",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "biru",
+                                    "pos": "n|a",
+                                    "form": "biru"
+                                }
+                            },
+                            {
+                                "wf": "diketuk",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ketuk",
+                                    "pos": "n",
+                                    "form": "di-ketuk"
+                                }
+                            },
+                            {
+                                "wf": "dari",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dari",
+                                    "pos": "p",
+                                    "form": "dari"
+                                }
+                            },
+                            {
+                                "wf": "luar",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "luar",
+                                    "pos": "v",
+                                    "form": "luar"
+                                }
+                            }
+                        ],
+                        "syllables": 11
+                    },
+                    {
+                        "line": "Siapakah yang berdiri di situ",
+                        "words": [
+                            {
+                                "wf": "Siapakah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "siapa",
+                                    "pos": "pron",
+                                    "form": "siapa-kah"
+                                }
+                            },
+                            {
+                                "wf": "yang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "yang",
+                                    "pos": "a|v|n",
+                                    "form": "yang"
+                                }
+                            },
+                            {
+                                "wf": "berdiri",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "berdiri",
+                                    "pos": "v",
+                                    "form": "berdiri"
+                                }
+                            },
+                            {
+                                "wf": "di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "situ",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "situ",
+                                    "pos": "pron|n",
+                                    "form": "situ"
+                                }
+                            }
+                        ],
+                        "syllables": 11
+                    },
+                    {
+                        "line": "Dengan suara yang lirih samar",
+                        "words": [
+                            {
+                                "wf": "Dengan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dengan",
+                                    "pos": "p",
+                                    "form": "dengan"
+                                }
+                            },
+                            {
+                                "wf": "suara",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "suara",
+                                    "pos": "n",
+                                    "form": "suara"
+                                }
+                            },
+                            {
+                                "wf": "yang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "yang",
+                                    "pos": "a|v|n",
+                                    "form": "yang"
+                                }
+                            },
+                            {
+                                "wf": "lirih",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lirih",
+                                    "pos": "a",
+                                    "form": "lirih"
+                                }
+                            },
+                            {
+                                "wf": "samar",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "samar",
+                                    "pos": "a",
+                                    "form": "samar"
+                                }
+                            }
+                        ],
+                        "syllables": 10
+                    }
+                ],
+                "num_lines": 3
+            },
+            {
+                "strof": "\r\n",
+                "lines": [
+                    {
+                        "line": "",
+                        "words": [],
+                        "syllables": 0
+                    }
+                ],
+                "num_lines": 1
+            },
+            {
+                "strof": "Kujenguk dari jendela bersama angin gemetar\r\nHanya sebuah kenangan yang luka\r\nBernyanyi, bernyanyi ke ujung apar",
+                "lines": [
+                    {
+                        "line": "Kujenguk dari jendela bersama angin gemetar",
+                        "words": [
+                            {
+                                "wf": "Kujenguk",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "Kujenguk",
+                                    "pos": "v",
+                                    "form": "Kujenguk"
+                                }
+                            },
+                            {
+                                "wf": "dari",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dari",
+                                    "pos": "p",
+                                    "form": "dari"
+                                }
+                            },
+                            {
+                                "wf": "jendela",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jendela",
+                                    "pos": "?",
+                                    "form": "jendela"
+                                }
+                            },
+                            {
+                                "wf": "bersama",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sama",
+                                    "pos": "v",
+                                    "form": "ber-sama"
+                                }
+                            },
+                            {
+                                "wf": "angin",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "angin",
+                                    "pos": "n",
+                                    "form": "angin"
+                                }
+                            },
+                            {
+                                "wf": "gemetar",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "gemetar",
+                                    "pos": "a",
+                                    "form": "gemetar"
+                                }
+                            }
+                        ],
+                        "syllables": 16
+                    },
+                    {
+                        "line": "Hanya sebuah kenangan yang luka",
+                        "words": [
+                            {
+                                "wf": "Hanya",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hanya",
+                                    "pos": "adv",
+                                    "form": "hanya"
+                                }
+                            },
+                            {
+                                "wf": "sebuah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "buah",
+                                    "pos": "n",
+                                    "form": "se-buah"
+                                }
+                            },
+                            {
+                                "wf": "kenangan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kenang",
+                                    "pos": "n",
+                                    "form": "kenang-an"
+                                }
+                            },
+                            {
+                                "wf": "yang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "yang",
+                                    "pos": "a|v|n",
+                                    "form": "yang"
+                                }
+                            },
+                            {
+                                "wf": "luka",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "luka",
+                                    "pos": "n|v",
+                                    "form": "luka"
+                                }
+                            }
+                        ],
+                        "syllables": 11
+                    },
+                    {
+                        "line": "Bernyanyi, bernyanyi ke ujung apar",
+                        "words": [
+                            {
+                                "wf": "Bernyanyi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "nyanyi",
+                                    "pos": "v",
+                                    "form": "ber-nyanyi"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "bernyanyi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "nyanyi",
+                                    "pos": "v",
+                                    "form": "ber-nyanyi"
+                                }
+                            },
+                            {
+                                "wf": "ke",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ke",
+                                    "pos": "p",
+                                    "form": "ke"
+                                }
+                            },
+                            {
+                                "wf": "ujung",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ujung",
+                                    "pos": "n",
+                                    "form": "ujung"
+                                }
+                            },
+                            {
+                                "wf": "apar",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "apar",
+                                    "pos": "a",
+                                    "form": "apar"
+                                }
+                            }
+                        ],
+                        "syllables": 11
+                    }
+                ],
+                "num_lines": 3
+            }
+        ]
+    }
+}

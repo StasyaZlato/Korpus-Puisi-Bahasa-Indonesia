@@ -1,0 +1,712 @@
+{
+    "meta": {
+        "file_name": "78.json",
+        "id_bd": 78,
+        "author": "Asmara Hadi",
+        "title": "Selamat tinggal, periangan",
+        "genre": "стихотворение",
+        "year": "---",
+        "num_lines": 14,
+        "rhyme": "Есть",
+        "syllables": [
+            10,
+            10,
+            10,
+            10,
+            9,
+            9,
+            10,
+            9,
+            11,
+            10,
+            9,
+            10,
+            10,
+            10
+        ],
+        "strofy": [
+            14
+        ]
+    },
+    "poem": {
+        "text": "Taman sari, tanah Periangan,\r\nSekarang ini berpisah kita,\r\nKereta api hampir berjalan,\r\nSelamat tinggal alam jelita,\r\nNegeri lain datang meminta,\r\nEngkau kan hanya tinggal kenangan,\r\nTempat, di mana mendapat cinta\r\nAkan selalu terangan-angan.\r\nPeluit berbunyi, tinggallah engkau,\r\nBukit dan gunung hijau berkilau,\r\nAlam rupawan menawan hati\r\nTinggallah kota, tinggallah dusun,\r\nTinggallah sawah turun bersusun,\r\nKamu kucinta sampaikan mati.",
+        "strof": [
+            {
+                "strof": "Taman sari, tanah Periangan,\r\nSekarang ini berpisah kita,\r\nKereta api hampir berjalan,\r\nSelamat tinggal alam jelita,\r\nNegeri lain datang meminta,\r\nEngkau kan hanya tinggal kenangan,\r\nTempat, di mana mendapat cinta\r\nAkan selalu terangan-angan.\r\nPeluit berbunyi, tinggallah engkau,\r\nBukit dan gunung hijau berkilau,\r\nAlam rupawan menawan hati\r\nTinggallah kota, tinggallah dusun,\r\nTinggallah sawah turun bersusun,\r\nKamu kucinta sampaikan mati.",
+                "lines": [
+                    {
+                        "line": "Taman sari, tanah Periangan,",
+                        "words": [
+                            {
+                                "wf": "Taman",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "taman",
+                                    "pos": "n",
+                                    "form": "taman"
+                                }
+                            },
+                            {
+                                "wf": "sari",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sari",
+                                    "pos": "n",
+                                    "form": "sari"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "tanah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tanah",
+                                    "pos": "n",
+                                    "form": "tanah"
+                                }
+                            },
+                            {
+                                "wf": "Periangan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "periang",
+                                    "pos": "n",
+                                    "form": "periang-an"
+                                }
+                            },
+                            {
+                                "wf": ",",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "Sekarang ini berpisah kita,",
+                        "words": [
+                            {
+                                "wf": "Sekarang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sekarang",
+                                    "pos": "n",
+                                    "form": "sekarang"
+                                }
+                            },
+                            {
+                                "wf": "ini",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ini",
+                                    "pos": "pron",
+                                    "form": "ini"
+                                }
+                            },
+                            {
+                                "wf": "berpisah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pisah",
+                                    "pos": "v",
+                                    "form": "ber-pisah"
+                                }
+                            },
+                            {
+                                "wf": "kita",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kita",
+                                    "pos": "pron",
+                                    "form": "kita"
+                                }
+                            },
+                            {
+                                "wf": ",",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "Kereta api hampir berjalan,",
+                        "words": [
+                            {
+                                "wf": "Kereta",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kereta",
+                                    "pos": "v",
+                                    "form": "kereta"
+                                }
+                            },
+                            {
+                                "wf": "api",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "api",
+                                    "pos": "n",
+                                    "form": "api"
+                                }
+                            },
+                            {
+                                "wf": "hampir",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hampir",
+                                    "pos": "adv",
+                                    "form": "hampir"
+                                }
+                            },
+                            {
+                                "wf": "berjalan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jalan",
+                                    "pos": "v",
+                                    "form": "ber-jalan"
+                                }
+                            },
+                            {
+                                "wf": ",",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "Selamat tinggal alam jelita,",
+                        "words": [
+                            {
+                                "wf": "Selamat",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "selamat",
+                                    "pos": "a|n",
+                                    "form": "selamat"
+                                }
+                            },
+                            {
+                                "wf": "tinggal",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tinggal",
+                                    "pos": "v",
+                                    "form": "tinggal"
+                                }
+                            },
+                            {
+                                "wf": "alam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "alam",
+                                    "pos": "a|n",
+                                    "form": "alam"
+                                }
+                            },
+                            {
+                                "wf": "jelita",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jelita",
+                                    "pos": "a",
+                                    "form": "jelita"
+                                }
+                            },
+                            {
+                                "wf": ",",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "Negeri lain datang meminta,",
+                        "words": [
+                            {
+                                "wf": "Negeri",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "negeri",
+                                    "pos": "n",
+                                    "form": "negeri"
+                                }
+                            },
+                            {
+                                "wf": "lain",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lain",
+                                    "pos": "a",
+                                    "form": "lain"
+                                }
+                            },
+                            {
+                                "wf": "datang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "datang",
+                                    "pos": "v|n",
+                                    "form": "datang"
+                                }
+                            },
+                            {
+                                "wf": "meminta",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "minta",
+                                    "pos": "v",
+                                    "form": "meN-minta"
+                                }
+                            },
+                            {
+                                "wf": ",",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 9
+                    },
+                    {
+                        "line": "Engkau kan hanya tinggal kenangan,",
+                        "words": [
+                            {
+                                "wf": "Engkau",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "engkau",
+                                    "pos": "pron",
+                                    "form": "engkau"
+                                }
+                            },
+                            {
+                                "wf": "kan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kan",
+                                    "pos": "v",
+                                    "form": "kan"
+                                }
+                            },
+                            {
+                                "wf": "hanya",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hanya",
+                                    "pos": "adv",
+                                    "form": "hanya"
+                                }
+                            },
+                            {
+                                "wf": "tinggal",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tinggal",
+                                    "pos": "v",
+                                    "form": "tinggal"
+                                }
+                            },
+                            {
+                                "wf": "kenangan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kenang",
+                                    "pos": "n",
+                                    "form": "kenang-an"
+                                }
+                            },
+                            {
+                                "wf": ",",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 9
+                    },
+                    {
+                        "line": "Tempat, di mana mendapat cinta",
+                        "words": [
+                            {
+                                "wf": "Tempat",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tempat",
+                                    "pos": "n",
+                                    "form": "tempat"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "mana",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "mana",
+                                    "pos": "pron",
+                                    "form": "mana"
+                                }
+                            },
+                            {
+                                "wf": "mendapat",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dapat",
+                                    "pos": "v",
+                                    "form": "meN-dapat"
+                                }
+                            },
+                            {
+                                "wf": "cinta",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "cinta",
+                                    "pos": "a",
+                                    "form": "cinta"
+                                }
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "Akan selalu terangan-angan.",
+                        "words": [
+                            {
+                                "wf": "Akan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "akan",
+                                    "pos": "v",
+                                    "form": "akan"
+                                }
+                            },
+                            {
+                                "wf": "selalu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "selalu",
+                                    "pos": "adv",
+                                    "form": "selalu"
+                                }
+                            },
+                            {
+                                "wf": "terangan-angan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "angan",
+                                    "pos": "v",
+                                    "form": "ter-angan-angan"
+                                }
+                            },
+                            {
+                                "wf": ".",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 9
+                    },
+                    {
+                        "line": "Peluit berbunyi, tinggallah engkau,",
+                        "words": [
+                            {
+                                "wf": "Peluit",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "peluit",
+                                    "pos": "n",
+                                    "form": "peluit"
+                                }
+                            },
+                            {
+                                "wf": "berbunyi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bunyi",
+                                    "pos": "v",
+                                    "form": "ber-bunyi"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "tinggallah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tinggal",
+                                    "pos": "v",
+                                    "form": "tinggal-lah"
+                                }
+                            },
+                            {
+                                "wf": "engkau",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "engkau",
+                                    "pos": "pron",
+                                    "form": "engkau"
+                                }
+                            },
+                            {
+                                "wf": ",",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 11
+                    },
+                    {
+                        "line": "Bukit dan gunung hijau berkilau,",
+                        "words": [
+                            {
+                                "wf": "Bukit",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bukit",
+                                    "pos": "n",
+                                    "form": "bukit"
+                                }
+                            },
+                            {
+                                "wf": "dan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dan",
+                                    "pos": "p",
+                                    "form": "dan"
+                                }
+                            },
+                            {
+                                "wf": "gunung",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "gunung",
+                                    "pos": "n",
+                                    "form": "gunung"
+                                }
+                            },
+                            {
+                                "wf": "hijau",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hijau",
+                                    "pos": "n|a",
+                                    "form": "hijau"
+                                }
+                            },
+                            {
+                                "wf": "berkilau",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kilau",
+                                    "pos": "v",
+                                    "form": "ber-kilau"
+                                }
+                            },
+                            {
+                                "wf": ",",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "Alam rupawan menawan hati",
+                        "words": [
+                            {
+                                "wf": "Alam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "alam",
+                                    "pos": "a|n",
+                                    "form": "alam"
+                                }
+                            },
+                            {
+                                "wf": "rupawan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "rupawan",
+                                    "pos": "a",
+                                    "form": "rupawan"
+                                }
+                            },
+                            {
+                                "wf": "menawan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tawan",
+                                    "pos": "v",
+                                    "form": "meN-tawan"
+                                }
+                            },
+                            {
+                                "wf": "hati",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hati",
+                                    "pos": "n",
+                                    "form": "hati"
+                                }
+                            }
+                        ],
+                        "syllables": 9
+                    },
+                    {
+                        "line": "Tinggallah kota, tinggallah dusun,",
+                        "words": [
+                            {
+                                "wf": "Tinggallah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tinggal",
+                                    "pos": "v",
+                                    "form": "tinggal-lah"
+                                }
+                            },
+                            {
+                                "wf": "kota",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kota",
+                                    "pos": "n",
+                                    "form": "kota"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "tinggallah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tinggal",
+                                    "pos": "v",
+                                    "form": "tinggal-lah"
+                                }
+                            },
+                            {
+                                "wf": "dusun",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dusun",
+                                    "pos": "n",
+                                    "form": "dusun"
+                                }
+                            },
+                            {
+                                "wf": ",",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "Tinggallah sawah turun bersusun,",
+                        "words": [
+                            {
+                                "wf": "Tinggallah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tinggal",
+                                    "pos": "v",
+                                    "form": "tinggal-lah"
+                                }
+                            },
+                            {
+                                "wf": "sawah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sawah",
+                                    "pos": "n",
+                                    "form": "sawah"
+                                }
+                            },
+                            {
+                                "wf": "turun",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "turun",
+                                    "pos": "v",
+                                    "form": "turun"
+                                }
+                            },
+                            {
+                                "wf": "bersusun",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "susun",
+                                    "pos": "v",
+                                    "form": "ber-susun"
+                                }
+                            },
+                            {
+                                "wf": ",",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "Kamu kucinta sampaikan mati.",
+                        "words": [
+                            {
+                                "wf": "Kamu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kamu",
+                                    "pos": "pron",
+                                    "form": "Kamu"
+                                }
+                            },
+                            {
+                                "wf": "kucinta",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "cinta",
+                                    "pos": "a",
+                                    "form": "ku-cinta"
+                                }
+                            },
+                            {
+                                "wf": "sampaikan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sampaikan",
+                                    "pos": "v",
+                                    "form": "sampaikan"
+                                }
+                            },
+                            {
+                                "wf": "mati",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "mati",
+                                    "pos": "v",
+                                    "form": "mati"
+                                }
+                            },
+                            {
+                                "wf": ".",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 10
+                    }
+                ],
+                "num_lines": 14
+            }
+        ]
+    }
+}

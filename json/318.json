@@ -1,0 +1,617 @@
+{
+    "meta": {
+        "file_name": "318.json",
+        "id_bd": 318,
+        "author": "Ajip Rosidi",
+        "title": "Aku",
+        "genre": "стихотворение",
+        "year": 1963,
+        "num_lines": 11,
+        "rhyme": "Есть",
+        "syllables": [
+            11,
+            14,
+            10,
+            9,
+            7,
+            8,
+            14,
+            12,
+            9,
+            8,
+            10
+        ],
+        "strofy": [
+            4,
+            1,
+            2,
+            1,
+            5
+        ]
+    },
+    "poem": {
+        "text": "{Tinju menghantam. Belati menikam.\r\nSeluruh dunia bareng menyerang, menerkam.\r\nAku bertahan. Karena diriku\r\nDalam badai, gunung membatu.}\r\n{Lengang sebatang pinang\r\nDi padang pusaran topan.}\r\n{Segala arah menyerang. Dari luar, dalam.\r\nTikaman tiada henti. Siang, malam.\r\nAku bertahan. Karena hidup\r\nMuatan duka nestapa\r\nYang kuterima ganda ketawa}",
+        "strof": [
+            {
+                "strof": "Tinju menghantam. Belati menikam.\r\nSeluruh dunia bareng menyerang, menerkam.\r\nAku bertahan. Karena diriku\r\nDalam badai, gunung membatu.",
+                "lines": [
+                    {
+                        "line": "Tinju menghantam. Belati menikam.",
+                        "words": [
+                            {
+                                "wf": "Tinju",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tinju",
+                                    "pos": "n",
+                                    "form": "tinju"
+                                }
+                            },
+                            {
+                                "wf": "menghantam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hantam",
+                                    "pos": "v",
+                                    "form": "meN-hantam"
+                                }
+                            },
+                            {
+                                "wf": ". ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "Belati",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "belati",
+                                    "pos": "n",
+                                    "form": "belati"
+                                }
+                            },
+                            {
+                                "wf": "menikam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tikam",
+                                    "pos": "v",
+                                    "form": "meN-tikam"
+                                }
+                            },
+                            {
+                                "wf": ".",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 11
+                    },
+                    {
+                        "line": "Seluruh dunia bareng menyerang, menerkam.",
+                        "words": [
+                            {
+                                "wf": "Seluruh",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "seluruh",
+                                    "pos": "num",
+                                    "form": "seluruh"
+                                }
+                            },
+                            {
+                                "wf": "dunia",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dunia",
+                                    "pos": "n",
+                                    "form": "dunia"
+                                }
+                            },
+                            {
+                                "wf": "bareng",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bareng",
+                                    "pos": "adv",
+                                    "form": "bareng"
+                                }
+                            },
+                            {
+                                "wf": "menyerang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "serang",
+                                    "pos": "v",
+                                    "form": "meN-serang"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "menerkam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "menerkam",
+                                    "pos": "v",
+                                    "form": "meN-terkam"
+                                }
+                            },
+                            {
+                                "wf": ".",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 14
+                    },
+                    {
+                        "line": "Aku bertahan. Karena diriku",
+                        "words": [
+                            {
+                                "wf": "Aku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "aku",
+                                    "pos": "pron",
+                                    "form": "aku"
+                                }
+                            },
+                            {
+                                "wf": "bertahan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tahan",
+                                    "pos": "v",
+                                    "form": "ber-tahan"
+                                }
+                            },
+                            {
+                                "wf": ". ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "Karena",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "karena",
+                                    "pos": "p",
+                                    "form": "karena"
+                                }
+                            },
+                            {
+                                "wf": "diriku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "diriku",
+                                    "pos": "?",
+                                    "form": "diriku"
+                                }
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "Dalam badai, gunung membatu.",
+                        "words": [
+                            {
+                                "wf": "Dalam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dalam",
+                                    "pos": "a|n",
+                                    "form": "dalam"
+                                }
+                            },
+                            {
+                                "wf": "badai",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "badai",
+                                    "pos": "n",
+                                    "form": "badai"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "gunung",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "gunung",
+                                    "pos": "n",
+                                    "form": "gunung"
+                                }
+                            },
+                            {
+                                "wf": "membatu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "batu",
+                                    "pos": "v",
+                                    "form": "meN-batu"
+                                }
+                            },
+                            {
+                                "wf": ".",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 9
+                    }
+                ],
+                "num_lines": 4
+            },
+            {
+                "strof": "\r\n",
+                "lines": [
+                    {
+                        "line": "",
+                        "words": [],
+                        "syllables": 0
+                    }
+                ],
+                "num_lines": 1
+            },
+            {
+                "strof": "Lengang sebatang pinang\r\nDi padang pusaran topan.",
+                "lines": [
+                    {
+                        "line": "Lengang sebatang pinang",
+                        "words": [
+                            {
+                                "wf": "Lengang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lengang",
+                                    "pos": "a",
+                                    "form": "lengang"
+                                }
+                            },
+                            {
+                                "wf": "sebatang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "batang",
+                                    "pos": "num",
+                                    "form": "se-batang"
+                                }
+                            },
+                            {
+                                "wf": "pinang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pinang",
+                                    "pos": "n",
+                                    "form": "pinang"
+                                }
+                            }
+                        ],
+                        "syllables": 7
+                    },
+                    {
+                        "line": "Di padang pusaran topan.",
+                        "words": [
+                            {
+                                "wf": "Di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "padang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "padang",
+                                    "pos": "n",
+                                    "form": "padang"
+                                }
+                            },
+                            {
+                                "wf": "pusaran",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pusar",
+                                    "pos": "n",
+                                    "form": "pusar-an"
+                                }
+                            },
+                            {
+                                "wf": "topan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "topan",
+                                    "pos": "n",
+                                    "form": "topan"
+                                }
+                            },
+                            {
+                                "wf": ".",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 8
+                    }
+                ],
+                "num_lines": 2
+            },
+            {
+                "strof": "\r\n",
+                "lines": [
+                    {
+                        "line": "",
+                        "words": [],
+                        "syllables": 0
+                    }
+                ],
+                "num_lines": 1
+            },
+            {
+                "strof": "Segala arah menyerang. Dari luar, dalam.\r\nTikaman tiada henti. Siang, malam.\r\nAku bertahan. Karena hidup\r\nMuatan duka nestapa\r\nYang kuterima ganda ketawa",
+                "lines": [
+                    {
+                        "line": "Segala arah menyerang. Dari luar, dalam.",
+                        "words": [
+                            {
+                                "wf": "Segala",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "segala",
+                                    "pos": "num",
+                                    "form": "segala"
+                                }
+                            },
+                            {
+                                "wf": "arah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "arah",
+                                    "pos": "n",
+                                    "form": "arah"
+                                }
+                            },
+                            {
+                                "wf": "menyerang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "serang",
+                                    "pos": "v",
+                                    "form": "meN-serang"
+                                }
+                            },
+                            {
+                                "wf": ". ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "Dari",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dari",
+                                    "pos": "p",
+                                    "form": "dari"
+                                }
+                            },
+                            {
+                                "wf": "luar",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "luar",
+                                    "pos": "v",
+                                    "form": "luar"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "dalam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dalam",
+                                    "pos": "a|n",
+                                    "form": "dalam"
+                                }
+                            },
+                            {
+                                "wf": ".",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 14
+                    },
+                    {
+                        "line": "Tikaman tiada henti. Siang, malam.",
+                        "words": [
+                            {
+                                "wf": "Tikaman",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tikam",
+                                    "pos": "v",
+                                    "form": "tikam-an"
+                                }
+                            },
+                            {
+                                "wf": "tiada",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tiada",
+                                    "pos": "v",
+                                    "form": "tiada"
+                                }
+                            },
+                            {
+                                "wf": "henti",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "henti",
+                                    "pos": "n",
+                                    "form": "henti"
+                                }
+                            },
+                            {
+                                "wf": ". ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "Siang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "siang",
+                                    "pos": "n",
+                                    "form": "siang"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "malam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "malam",
+                                    "pos": "n",
+                                    "form": "malam"
+                                }
+                            },
+                            {
+                                "wf": ".",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 12
+                    },
+                    {
+                        "line": "Aku bertahan. Karena hidup",
+                        "words": [
+                            {
+                                "wf": "Aku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "aku",
+                                    "pos": "pron",
+                                    "form": "aku"
+                                }
+                            },
+                            {
+                                "wf": "bertahan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tahan",
+                                    "pos": "v",
+                                    "form": "ber-tahan"
+                                }
+                            },
+                            {
+                                "wf": ". ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "Karena",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "karena",
+                                    "pos": "p",
+                                    "form": "karena"
+                                }
+                            },
+                            {
+                                "wf": "hidup",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hidup",
+                                    "pos": "v",
+                                    "form": "hidup"
+                                }
+                            }
+                        ],
+                        "syllables": 9
+                    },
+                    {
+                        "line": "Muatan duka nestapa",
+                        "words": [
+                            {
+                                "wf": "Muatan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "muat",
+                                    "pos": "v",
+                                    "form": "muat-an"
+                                }
+                            },
+                            {
+                                "wf": "duka",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "duka",
+                                    "pos": "a",
+                                    "form": "duka"
+                                }
+                            },
+                            {
+                                "wf": "nestapa",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "nestapa",
+                                    "pos": "a",
+                                    "form": "nestapa"
+                                }
+                            }
+                        ],
+                        "syllables": 8
+                    },
+                    {
+                        "line": "Yang kuterima ganda ketawa",
+                        "words": [
+                            {
+                                "wf": "Yang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "yang",
+                                    "pos": "a|v|n",
+                                    "form": "yang"
+                                }
+                            },
+                            {
+                                "wf": "kuterima",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "terima",
+                                    "pos": "v",
+                                    "form": "ku-terima"
+                                }
+                            },
+                            {
+                                "wf": "ganda",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ganda",
+                                    "pos": "n",
+                                    "form": "ganda"
+                                }
+                            },
+                            {
+                                "wf": "ketawa",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tawa",
+                                    "pos": "v",
+                                    "form": "ke-tawa"
+                                }
+                            }
+                        ],
+                        "syllables": 10
+                    }
+                ],
+                "num_lines": 5
+            }
+        ]
+    }
+}

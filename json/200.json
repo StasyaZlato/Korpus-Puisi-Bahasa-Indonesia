@@ -1,0 +1,936 @@
+{
+    "meta": {
+        "file_name": "200.json",
+        "id_bd": 200,
+        "author": "D. Zawawi Imron",
+        "title": "Perjalanan laut",
+        "genre": "стихотворение",
+        "year": 1978,
+        "num_lines": 13,
+        "rhyme": "Нет",
+        "syllables": [
+            19,
+            21,
+            3,
+            19,
+            8,
+            22,
+            22,
+            10,
+            23,
+            8,
+            19,
+            17,
+            7
+        ],
+        "strofy": [
+            13
+        ]
+    },
+    "poem": {
+        "text": "dalam begini, meski bisa kutebak kabut yang besok akan\r\nmeledak, renyai musim labuh akan menunggu kuncup bersujud dalam\r\nkelopak.\r\nhai, camar-camar yang nakal, kenalkah kalian pada merpati\r\nuutih milik pertapa?\r\nbisik-bisik berangkat ke dalam gua, tapi gua itu sepi, ular-\r\nular pada bernyanyi menuju laut karena wangsit ternyata boneka\r\ncantik yang berisikan bom waktu.\r\nketika kutulis sajak ini aku tersenyum sendiri karena gagal\r\nmeniru teriak gagak.\r\nlampu-lampu memainkan laut, malam memainkan api, jiwaku yang\r\nberpancang bulan sabit kadang mengambang atas pasang dan\r\ntenggelam dalam surut.",
+        "strof": [
+            {
+                "strof": "dalam begini, meski bisa kutebak kabut yang besok akan\r\nmeledak, renyai musim labuh akan menunggu kuncup bersujud dalam\r\nkelopak.\r\nhai, camar-camar yang nakal, kenalkah kalian pada merpati\r\nuutih milik pertapa?\r\nbisik-bisik berangkat ke dalam gua, tapi gua itu sepi, ular-\r\nular pada bernyanyi menuju laut karena wangsit ternyata boneka\r\ncantik yang berisikan bom waktu.\r\nketika kutulis sajak ini aku tersenyum sendiri karena gagal\r\nmeniru teriak gagak.\r\nlampu-lampu memainkan laut, malam memainkan api, jiwaku yang\r\nberpancang bulan sabit kadang mengambang atas pasang dan\r\ntenggelam dalam surut.",
+                "lines": [
+                    {
+                        "line": "dalam begini, meski bisa kutebak kabut yang besok akan",
+                        "words": [
+                            {
+                                "wf": "dalam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dalam",
+                                    "pos": "a|n",
+                                    "form": "dalam"
+                                }
+                            },
+                            {
+                                "wf": "begini",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "begini",
+                                    "pos": "pron",
+                                    "form": "begini"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "meski",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "meski",
+                                    "pos": "p",
+                                    "form": "meski"
+                                }
+                            },
+                            {
+                                "wf": "bisa",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bisa",
+                                    "pos": "v",
+                                    "form": "bisa"
+                                }
+                            },
+                            {
+                                "wf": "kutebak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tebak",
+                                    "pos": "v",
+                                    "form": "ku-tebak"
+                                }
+                            },
+                            {
+                                "wf": "kabut",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kabut",
+                                    "pos": "a|n",
+                                    "form": "kabut"
+                                }
+                            },
+                            {
+                                "wf": "yang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "yang",
+                                    "pos": "a|v|n",
+                                    "form": "yang"
+                                }
+                            },
+                            {
+                                "wf": "besok",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "besok",
+                                    "pos": "?",
+                                    "form": "besok"
+                                }
+                            },
+                            {
+                                "wf": "akan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "akan",
+                                    "pos": "v",
+                                    "form": "akan"
+                                }
+                            }
+                        ],
+                        "syllables": 19
+                    },
+                    {
+                        "line": "meledak, renyai musim labuh akan menunggu kuncup bersujud dalam",
+                        "words": [
+                            {
+                                "wf": "meledak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "meledak",
+                                    "pos": "v",
+                                    "form": "meledak"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "renyai",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "renyai",
+                                    "pos": "?",
+                                    "form": "renyai"
+                                }
+                            },
+                            {
+                                "wf": "musim",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "musim",
+                                    "pos": "n",
+                                    "form": "musim"
+                                }
+                            },
+                            {
+                                "wf": "labuh",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "labuh",
+                                    "pos": "a",
+                                    "form": "labuh"
+                                }
+                            },
+                            {
+                                "wf": "akan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "akan",
+                                    "pos": "v",
+                                    "form": "akan"
+                                }
+                            },
+                            {
+                                "wf": "menunggu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tunggu",
+                                    "pos": "v",
+                                    "form": "meN-tunggu"
+                                }
+                            },
+                            {
+                                "wf": "kuncup",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kuncup",
+                                    "pos": "v",
+                                    "form": "kuncup"
+                                }
+                            },
+                            {
+                                "wf": "bersujud",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sujud",
+                                    "pos": "v",
+                                    "form": "ber-sujud"
+                                }
+                            },
+                            {
+                                "wf": "dalam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dalam",
+                                    "pos": "a|n",
+                                    "form": "dalam"
+                                }
+                            }
+                        ],
+                        "syllables": 21
+                    },
+                    {
+                        "line": "kelopak.",
+                        "words": [
+                            {
+                                "wf": "kelopak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kelopak",
+                                    "pos": "n",
+                                    "form": "kelopak"
+                                }
+                            },
+                            {
+                                "wf": ".",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 3
+                    },
+                    {
+                        "line": "hai, camar-camar yang nakal, kenalkah kalian pada merpati",
+                        "words": [
+                            {
+                                "wf": "hai",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hai",
+                                    "pos": "p|a",
+                                    "form": "hai"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "camar-camar",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "camar",
+                                    "pos": "n",
+                                    "form": "camar-camar"
+                                }
+                            },
+                            {
+                                "wf": "yang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "yang",
+                                    "pos": "a|v|n",
+                                    "form": "yang"
+                                }
+                            },
+                            {
+                                "wf": "nakal",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "nakal",
+                                    "pos": "a",
+                                    "form": "nakal"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "kenalkah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kenal",
+                                    "pos": "v",
+                                    "form": "kenal-kah"
+                                }
+                            },
+                            {
+                                "wf": "kalian",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kalian",
+                                    "pos": "pron",
+                                    "form": "kalian"
+                                }
+                            },
+                            {
+                                "wf": "pada",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pada",
+                                    "pos": "p",
+                                    "form": "pada"
+                                }
+                            },
+                            {
+                                "wf": "merpati",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "merpati",
+                                    "pos": "n",
+                                    "form": "merpati"
+                                }
+                            }
+                        ],
+                        "syllables": 19
+                    },
+                    {
+                        "line": "uutih milik pertapa?",
+                        "words": [
+                            {
+                                "wf": "uutih",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "uutih",
+                                    "pos": "?",
+                                    "form": "uutih"
+                                }
+                            },
+                            {
+                                "wf": "milik",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "milik",
+                                    "pos": "n",
+                                    "form": "milik"
+                                }
+                            },
+                            {
+                                "wf": "pertapa",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tapa",
+                                    "pos": "n",
+                                    "form": "per-tapa"
+                                }
+                            },
+                            {
+                                "wf": "?",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 8
+                    },
+                    {
+                        "line": "bisik-bisik berangkat ke dalam gua, tapi gua itu sepi, ular-",
+                        "words": [
+                            {
+                                "wf": "bisik-bisik",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bisik",
+                                    "pos": "v",
+                                    "form": "bisik-bisik"
+                                }
+                            },
+                            {
+                                "wf": "berangkat",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "berangkat",
+                                    "pos": "v",
+                                    "form": "berangkat"
+                                }
+                            },
+                            {
+                                "wf": "ke",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ke",
+                                    "pos": "p",
+                                    "form": "ke"
+                                }
+                            },
+                            {
+                                "wf": "dalam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dalam",
+                                    "pos": "a|n",
+                                    "form": "dalam"
+                                }
+                            },
+                            {
+                                "wf": "gua",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "gua",
+                                    "pos": "n",
+                                    "form": "gua"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "tapi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tapi",
+                                    "pos": "v",
+                                    "form": "tapi"
+                                }
+                            },
+                            {
+                                "wf": "gua",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "gua",
+                                    "pos": "n",
+                                    "form": "gua"
+                                }
+                            },
+                            {
+                                "wf": "itu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "itu",
+                                    "pos": "pron|n",
+                                    "form": "itu"
+                                }
+                            },
+                            {
+                                "wf": "sepi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sepi",
+                                    "pos": "a",
+                                    "form": "sepi"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "ular-",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ular",
+                                    "pos": "n",
+                                    "form": "ular-"
+                                }
+                            }
+                        ],
+                        "syllables": 22
+                    },
+                    {
+                        "line": "ular pada bernyanyi menuju laut karena wangsit ternyata boneka",
+                        "words": [
+                            {
+                                "wf": "ular",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ular",
+                                    "pos": "n",
+                                    "form": "ular"
+                                }
+                            },
+                            {
+                                "wf": "pada",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pada",
+                                    "pos": "p",
+                                    "form": "pada"
+                                }
+                            },
+                            {
+                                "wf": "bernyanyi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "nyanyi",
+                                    "pos": "v",
+                                    "form": "ber-nyanyi"
+                                }
+                            },
+                            {
+                                "wf": "menuju",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tuju",
+                                    "pos": "v",
+                                    "form": "meN-tuju"
+                                }
+                            },
+                            {
+                                "wf": "laut",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "laut",
+                                    "pos": "n",
+                                    "form": "laut"
+                                }
+                            },
+                            {
+                                "wf": "karena",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "karena",
+                                    "pos": "p",
+                                    "form": "karena"
+                                }
+                            },
+                            {
+                                "wf": "wangsit",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "wangsit",
+                                    "pos": "n",
+                                    "form": "wangsit"
+                                }
+                            },
+                            {
+                                "wf": "ternyata",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "nyata",
+                                    "pos": "v",
+                                    "form": "ter-nyata"
+                                }
+                            },
+                            {
+                                "wf": "boneka",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "boneka",
+                                    "pos": "",
+                                    "form": "boneka"
+                                }
+                            }
+                        ],
+                        "syllables": 22
+                    },
+                    {
+                        "line": "cantik yang berisikan bom waktu.",
+                        "words": [
+                            {
+                                "wf": "cantik",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "cantik",
+                                    "pos": "a",
+                                    "form": "cantik"
+                                }
+                            },
+                            {
+                                "wf": "yang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "yang",
+                                    "pos": "a|v|n",
+                                    "form": "yang"
+                                }
+                            },
+                            {
+                                "wf": "berisikan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "berisikan",
+                                    "pos": "v",
+                                    "form": "berisikan"
+                                }
+                            },
+                            {
+                                "wf": "bom",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bom",
+                                    "pos": "n",
+                                    "form": "bom"
+                                }
+                            },
+                            {
+                                "wf": "waktu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "waktu",
+                                    "pos": "n|p",
+                                    "form": "waktu"
+                                }
+                            },
+                            {
+                                "wf": ".",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "ketika kutulis sajak ini aku tersenyum sendiri karena gagal",
+                        "words": [
+                            {
+                                "wf": "ketika",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ketika",
+                                    "pos": "n|p",
+                                    "form": "ketika"
+                                }
+                            },
+                            {
+                                "wf": "kutulis",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kutulis",
+                                    "pos": "v",
+                                    "form": "kutulis"
+                                }
+                            },
+                            {
+                                "wf": "sajak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sajak",
+                                    "pos": "n",
+                                    "form": "sajak"
+                                }
+                            },
+                            {
+                                "wf": "ini",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ini",
+                                    "pos": "pron",
+                                    "form": "ini"
+                                }
+                            },
+                            {
+                                "wf": "aku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "aku",
+                                    "pos": "pron",
+                                    "form": "aku"
+                                }
+                            },
+                            {
+                                "wf": "tersenyum",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "senyum",
+                                    "pos": "v",
+                                    "form": "ter-senyum"
+                                }
+                            },
+                            {
+                                "wf": "sendiri",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sendiri",
+                                    "pos": "adv|a|n",
+                                    "form": "sendiri"
+                                }
+                            },
+                            {
+                                "wf": "karena",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "karena",
+                                    "pos": "p",
+                                    "form": "karena"
+                                }
+                            },
+                            {
+                                "wf": "gagal",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "gagal",
+                                    "pos": "v",
+                                    "form": "gagal"
+                                }
+                            }
+                        ],
+                        "syllables": 23
+                    },
+                    {
+                        "line": "meniru teriak gagak.",
+                        "words": [
+                            {
+                                "wf": "meniru",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tiru",
+                                    "pos": "v",
+                                    "form": "meN-tiru"
+                                }
+                            },
+                            {
+                                "wf": "teriak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "teriak",
+                                    "pos": "n",
+                                    "form": "teriak"
+                                }
+                            },
+                            {
+                                "wf": "gagak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "gagak",
+                                    "pos": "n",
+                                    "form": "gagak"
+                                }
+                            },
+                            {
+                                "wf": ".",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 8
+                    },
+                    {
+                        "line": "lampu-lampu memainkan laut, malam memainkan api, jiwaku yang",
+                        "words": [
+                            {
+                                "wf": "lampu-lampu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lampu",
+                                    "pos": "n",
+                                    "form": "lampu-lampu"
+                                }
+                            },
+                            {
+                                "wf": "memainkan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "main",
+                                    "pos": "v",
+                                    "form": "meN-main-kan"
+                                }
+                            },
+                            {
+                                "wf": "laut",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "laut",
+                                    "pos": "n",
+                                    "form": "laut"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "malam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "malam",
+                                    "pos": "n",
+                                    "form": "malam"
+                                }
+                            },
+                            {
+                                "wf": "memainkan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "main",
+                                    "pos": "v",
+                                    "form": "meN-main-kan"
+                                }
+                            },
+                            {
+                                "wf": "api",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "api",
+                                    "pos": "n",
+                                    "form": "api"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "jiwaku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jiwa",
+                                    "pos": "n",
+                                    "form": "jiwa-ku"
+                                }
+                            },
+                            {
+                                "wf": "yang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "yang",
+                                    "pos": "a|v|n",
+                                    "form": "yang"
+                                }
+                            }
+                        ],
+                        "syllables": 19
+                    },
+                    {
+                        "line": "berpancang bulan sabit kadang mengambang atas pasang dan",
+                        "words": [
+                            {
+                                "wf": "berpancang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pancang",
+                                    "pos": "v",
+                                    "form": "ber-pancang"
+                                }
+                            },
+                            {
+                                "wf": "bulan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bulan",
+                                    "pos": "n",
+                                    "form": "bulan"
+                                }
+                            },
+                            {
+                                "wf": "sabit",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sabit",
+                                    "pos": "n",
+                                    "form": "sabit"
+                                }
+                            },
+                            {
+                                "wf": "kadang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kadang",
+                                    "pos": "adv",
+                                    "form": "kadang"
+                                }
+                            },
+                            {
+                                "wf": "mengambang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ambang",
+                                    "pos": "v",
+                                    "form": "meN-ambang"
+                                }
+                            },
+                            {
+                                "wf": "atas",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "atas",
+                                    "pos": "n",
+                                    "form": "atas"
+                                }
+                            },
+                            {
+                                "wf": "pasang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pasang",
+                                    "pos": "n",
+                                    "form": "pasang"
+                                }
+                            },
+                            {
+                                "wf": "dan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dan",
+                                    "pos": "p",
+                                    "form": "dan"
+                                }
+                            }
+                        ],
+                        "syllables": 17
+                    },
+                    {
+                        "line": "tenggelam dalam surut.",
+                        "words": [
+                            {
+                                "wf": "tenggelam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tenggelam",
+                                    "pos": "v",
+                                    "form": "tenggelam"
+                                }
+                            },
+                            {
+                                "wf": "dalam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dalam",
+                                    "pos": "a|n",
+                                    "form": "dalam"
+                                }
+                            },
+                            {
+                                "wf": "surut",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "surut",
+                                    "pos": "a",
+                                    "form": "surut"
+                                }
+                            },
+                            {
+                                "wf": ".",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 7
+                    }
+                ],
+                "num_lines": 13
+            }
+        ]
+    }
+}

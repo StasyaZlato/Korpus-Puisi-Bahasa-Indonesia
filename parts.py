@@ -256,4 +256,4 @@ def main(text):
 # with open('sth1.json', 'w', encoding='utf-8') as f:
 #     json.dump(LIST_JSON, f, ensure_ascii=False, indent=4)
 if __name__ == "__main__":
-    main('panjang')
+    main('diajar')

@@ -1,0 +1,602 @@
+{
+    "meta": {
+        "file_name": "202.json",
+        "id_bd": 202,
+        "author": "D. Zawawi Imron",
+        "title": "Tembang dahaga",
+        "genre": "стихотворение",
+        "year": "---",
+        "num_lines": 12,
+        "rhyme": "Есть",
+        "syllables": [
+            12,
+            9,
+            15,
+            8,
+            10,
+            15,
+            10,
+            11,
+            10,
+            11,
+            11,
+            10
+        ],
+        "strofy": [
+            12
+        ]
+    },
+    "poem": {
+        "text": "airmata langit yang menetes perlahan\r\nmenghindar dari mulut bunga\r\ndengan setia dijatuhinya sebongkah batu\r\nhingga tertulis prasasti\r\nsejak kapan dimulai gelisah\r\nlantaran apa bunga mengidap rasa dahaga\r\nsedang cuaca tak pemah dusta?\r\nbunga meludah dan terus meludah\r\nsampai langit sempurna merahnya\r\nbulan terlentang kematian warna\r\ntak kuat lagi memukul dahaga\r\nia menolak tetek cucunya",
+        "strof": [
+            {
+                "strof": "airmata langit yang menetes perlahan\r\nmenghindar dari mulut bunga\r\ndengan setia dijatuhinya sebongkah batu\r\nhingga tertulis prasasti\r\nsejak kapan dimulai gelisah\r\nlantaran apa bunga mengidap rasa dahaga\r\nsedang cuaca tak pemah dusta?\r\nbunga meludah dan terus meludah\r\nsampai langit sempurna merahnya\r\nbulan terlentang kematian warna\r\ntak kuat lagi memukul dahaga\r\nia menolak tetek cucunya",
+                "lines": [
+                    {
+                        "line": "airmata langit yang menetes perlahan",
+                        "words": [
+                            {
+                                "wf": "airmata",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "air",
+                                    "pos": "?",
+                                    "form": "airmata"
+                                }
+                            },
+                            {
+                                "wf": "langit",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "langit",
+                                    "pos": "n",
+                                    "form": "langit"
+                                }
+                            },
+                            {
+                                "wf": "yang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "yang",
+                                    "pos": "a|v|n",
+                                    "form": "yang"
+                                }
+                            },
+                            {
+                                "wf": "menetes",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tetes",
+                                    "pos": "v",
+                                    "form": "meN-tetes"
+                                }
+                            },
+                            {
+                                "wf": "perlahan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "perlahan",
+                                    "pos": "a",
+                                    "form": "perlahan"
+                                }
+                            }
+                        ],
+                        "syllables": 12
+                    },
+                    {
+                        "line": "menghindar dari mulut bunga",
+                        "words": [
+                            {
+                                "wf": "menghindar",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hindar",
+                                    "pos": "v",
+                                    "form": "meN-hindar"
+                                }
+                            },
+                            {
+                                "wf": "dari",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dari",
+                                    "pos": "p",
+                                    "form": "dari"
+                                }
+                            },
+                            {
+                                "wf": "mulut",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "mulut",
+                                    "pos": "n",
+                                    "form": "mulut"
+                                }
+                            },
+                            {
+                                "wf": "bunga",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bunga",
+                                    "pos": "n",
+                                    "form": "bunga"
+                                }
+                            }
+                        ],
+                        "syllables": 9
+                    },
+                    {
+                        "line": "dengan setia dijatuhinya sebongkah batu",
+                        "words": [
+                            {
+                                "wf": "dengan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dengan",
+                                    "pos": "p",
+                                    "form": "dengan"
+                                }
+                            },
+                            {
+                                "wf": "setia",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "setia",
+                                    "pos": "a",
+                                    "form": "setia"
+                                }
+                            },
+                            {
+                                "wf": "dijatuhinya",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dijatuhinya",
+                                    "pos": "?",
+                                    "form": "dijatuhinya"
+                                }
+                            },
+                            {
+                                "wf": "sebongkah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sebongkah",
+                                    "pos": "?",
+                                    "form": "sebongkah"
+                                }
+                            },
+                            {
+                                "wf": "batu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "batu",
+                                    "pos": "n",
+                                    "form": "batu"
+                                }
+                            }
+                        ],
+                        "syllables": 15
+                    },
+                    {
+                        "line": "hingga tertulis prasasti",
+                        "words": [
+                            {
+                                "wf": "hingga",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hingga",
+                                    "pos": "n|p",
+                                    "form": "hingga"
+                                }
+                            },
+                            {
+                                "wf": "tertulis",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tulis",
+                                    "pos": "v",
+                                    "form": "ter-tulis"
+                                }
+                            },
+                            {
+                                "wf": "prasasti",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "prasasti",
+                                    "pos": "n",
+                                    "form": "prasasti"
+                                }
+                            }
+                        ],
+                        "syllables": 8
+                    },
+                    {
+                        "line": "sejak kapan dimulai gelisah",
+                        "words": [
+                            {
+                                "wf": "sejak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sejak",
+                                    "pos": "p",
+                                    "form": "sejak"
+                                }
+                            },
+                            {
+                                "wf": "kapan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kapan",
+                                    "pos": "v",
+                                    "form": "kapan"
+                                }
+                            },
+                            {
+                                "wf": "dimulai",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "mulai",
+                                    "pos": "a",
+                                    "form": "di-mulai"
+                                }
+                            },
+                            {
+                                "wf": "gelisah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "gelisah",
+                                    "pos": "a",
+                                    "form": "gelisah"
+                                }
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "lantaran apa bunga mengidap rasa dahaga",
+                        "words": [
+                            {
+                                "wf": "lantaran",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lantaran",
+                                    "pos": "n|p",
+                                    "form": "lantaran"
+                                }
+                            },
+                            {
+                                "wf": "apa",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "apa",
+                                    "pos": "pron|p",
+                                    "form": "apa"
+                                }
+                            },
+                            {
+                                "wf": "bunga",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bunga",
+                                    "pos": "n",
+                                    "form": "bunga"
+                                }
+                            },
+                            {
+                                "wf": "mengidap",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "idapan",
+                                    "pos": "v",
+                                    "form": "mengidap"
+                                }
+                            },
+                            {
+                                "wf": "rasa",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "rasa",
+                                    "pos": "n",
+                                    "form": "rasa"
+                                }
+                            },
+                            {
+                                "wf": "dahaga",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dahaga",
+                                    "pos": "a",
+                                    "form": "dahaga"
+                                }
+                            }
+                        ],
+                        "syllables": 15
+                    },
+                    {
+                        "line": "sedang cuaca tak pemah dusta?",
+                        "words": [
+                            {
+                                "wf": "sedang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sedang",
+                                    "pos": "adv",
+                                    "form": "sedang"
+                                }
+                            },
+                            {
+                                "wf": "cuaca",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "cuaca",
+                                    "pos": "n",
+                                    "form": "cuaca"
+                                }
+                            },
+                            {
+                                "wf": "tak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tak",
+                                    "pos": "adv",
+                                    "form": "tak"
+                                }
+                            },
+                            {
+                                "wf": "pemah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pemah",
+                                    "pos": "?",
+                                    "form": "pemah"
+                                }
+                            },
+                            {
+                                "wf": "dusta",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dusta",
+                                    "pos": "a",
+                                    "form": "dusta"
+                                }
+                            },
+                            {
+                                "wf": "?",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "bunga meludah dan terus meludah",
+                        "words": [
+                            {
+                                "wf": "bunga",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bunga",
+                                    "pos": "n",
+                                    "form": "bunga"
+                                }
+                            },
+                            {
+                                "wf": "meludah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ludah",
+                                    "pos": "v",
+                                    "form": "meN-ludah"
+                                }
+                            },
+                            {
+                                "wf": "dan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dan",
+                                    "pos": "p",
+                                    "form": "dan"
+                                }
+                            },
+                            {
+                                "wf": "terus",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "terus",
+                                    "pos": "v",
+                                    "form": "terus"
+                                }
+                            },
+                            {
+                                "wf": "meludah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ludah",
+                                    "pos": "v",
+                                    "form": "meN-ludah"
+                                }
+                            }
+                        ],
+                        "syllables": 11
+                    },
+                    {
+                        "line": "sampai langit sempurna merahnya",
+                        "words": [
+                            {
+                                "wf": "sampai",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sampai",
+                                    "pos": "v",
+                                    "form": "sampai"
+                                }
+                            },
+                            {
+                                "wf": "langit",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "langit",
+                                    "pos": "n",
+                                    "form": "langit"
+                                }
+                            },
+                            {
+                                "wf": "sempurna",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sempurna",
+                                    "pos": "a",
+                                    "form": "sempurna"
+                                }
+                            },
+                            {
+                                "wf": "merahnya",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "merah",
+                                    "pos": "v",
+                                    "form": "merah-nya"
+                                }
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "bulan terlentang kematian warna",
+                        "words": [
+                            {
+                                "wf": "bulan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bulan",
+                                    "pos": "n",
+                                    "form": "bulan"
+                                }
+                            },
+                            {
+                                "wf": "terlentang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lentang",
+                                    "pos": "v",
+                                    "form": "ter-lentang"
+                                }
+                            },
+                            {
+                                "wf": "kematian",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "mati",
+                                    "pos": "n|v",
+                                    "form": "ke-mati-an"
+                                }
+                            },
+                            {
+                                "wf": "warna",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "warna",
+                                    "pos": "n",
+                                    "form": "warna"
+                                }
+                            }
+                        ],
+                        "syllables": 11
+                    },
+                    {
+                        "line": "tak kuat lagi memukul dahaga",
+                        "words": [
+                            {
+                                "wf": "tak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tak",
+                                    "pos": "adv",
+                                    "form": "tak"
+                                }
+                            },
+                            {
+                                "wf": "kuat",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kuat",
+                                    "pos": "a",
+                                    "form": "kuat"
+                                }
+                            },
+                            {
+                                "wf": "lagi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lagi",
+                                    "pos": "adv|p",
+                                    "form": "lagi"
+                                }
+                            },
+                            {
+                                "wf": "memukul",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pukul",
+                                    "pos": "v",
+                                    "form": "meN-pukul"
+                                }
+                            },
+                            {
+                                "wf": "dahaga",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dahaga",
+                                    "pos": "a",
+                                    "form": "dahaga"
+                                }
+                            }
+                        ],
+                        "syllables": 11
+                    },
+                    {
+                        "line": "ia menolak tetek cucunya",
+                        "words": [
+                            {
+                                "wf": "ia",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ia",
+                                    "pos": "n",
+                                    "form": "ia"
+                                }
+                            },
+                            {
+                                "wf": "menolak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tolak",
+                                    "pos": "v",
+                                    "form": "meN-tolak"
+                                }
+                            },
+                            {
+                                "wf": "tetek",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tetek",
+                                    "pos": "v",
+                                    "form": "tetek"
+                                }
+                            },
+                            {
+                                "wf": "cucunya",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "cucu",
+                                    "pos": "n",
+                                    "form": "cucu-nya"
+                                }
+                            }
+                        ],
+                        "syllables": 10
+                    }
+                ],
+                "num_lines": 12
+            }
+        ]
+    }
+}

@@ -1,0 +1,581 @@
+{
+    "meta": {
+        "file_name": "311.json",
+        "id_bd": 311,
+        "author": "Korrie Layun Rampan",
+        "title": "Senja di parangtritis",
+        "genre": "стихотворение",
+        "year": 1973,
+        "num_lines": 9,
+        "rhyme": "Есть",
+        "syllables": [
+            11,
+            7,
+            9,
+            13,
+            17,
+            11,
+            15,
+            16,
+            10
+        ],
+        "strofy": [
+            3,
+            1,
+            3,
+            1,
+            3
+        ]
+    },
+    "poem": {
+        "text": "{Sayap-sayap camar, gaung-Mu berkabar\r\nSerpotong awan luka\r\nmenyingkap wajah-Mu bercadar}\r\n{Bias larut. Legam laut dan senja tertawa\r\nAda yang luruh di dada. Busuran ujung langit terbakar\r\nSuratan-Mu mistery beribu khabar}\r\n{Riap sunyi bayang-bayang. Menyusup bendul luka\r\nDi pantai Nyai Roro Kidul. Menanti kekasih pawang\r\nDengan sekepal jampi mantera}",
+        "strof": [
+            {
+                "strof": "Sayap-sayap camar, gaung-Mu berkabar\r\nSerpotong awan luka\r\nmenyingkap wajah-Mu bercadar",
+                "lines": [
+                    {
+                        "line": "Sayap-sayap camar, gaung-Mu berkabar",
+                        "words": [
+                            {
+                                "wf": "Sayap-sayap",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sayap",
+                                    "pos": "n",
+                                    "form": "sayap-sayap"
+                                }
+                            },
+                            {
+                                "wf": "camar",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "camar",
+                                    "pos": "n",
+                                    "form": "camar"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "gaung-Mu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "gaung",
+                                    "pos": "?",
+                                    "form": "gaung-Mu"
+                                }
+                            },
+                            {
+                                "wf": "berkabar",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "berkabar",
+                                    "pos": "v",
+                                    "form": "berkabar"
+                                }
+                            }
+                        ],
+                        "syllables": 11
+                    },
+                    {
+                        "line": "Serpotong awan luka",
+                        "words": [
+                            {
+                                "wf": "Serpotong",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "serpotong",
+                                    "pos": "v",
+                                    "form": "serpotong"
+                                }
+                            },
+                            {
+                                "wf": "awan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "awan",
+                                    "pos": "n",
+                                    "form": "awan"
+                                }
+                            },
+                            {
+                                "wf": "luka",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "luka",
+                                    "pos": "n|v",
+                                    "form": "luka"
+                                }
+                            }
+                        ],
+                        "syllables": 7
+                    },
+                    {
+                        "line": "menyingkap wajah-Mu bercadar",
+                        "words": [
+                            {
+                                "wf": "menyingkap",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "singkap",
+                                    "pos": "v",
+                                    "form": "meN-singkap"
+                                }
+                            },
+                            {
+                                "wf": "wajah-Mu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "wajah",
+                                    "pos": "?",
+                                    "form": "wajah-Mu"
+                                }
+                            },
+                            {
+                                "wf": "bercadar",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "cadar",
+                                    "pos": "v",
+                                    "form": "bercadar"
+                                }
+                            }
+                        ],
+                        "syllables": 9
+                    }
+                ],
+                "num_lines": 3
+            },
+            {
+                "strof": "\r\n",
+                "lines": [
+                    {
+                        "line": "",
+                        "words": [],
+                        "syllables": 0
+                    }
+                ],
+                "num_lines": 1
+            },
+            {
+                "strof": "Bias larut. Legam laut dan senja tertawa\r\nAda yang luruh di dada. Busuran ujung langit terbakar\r\nSuratan-Mu mistery beribu khabar",
+                "lines": [
+                    {
+                        "line": "Bias larut. Legam laut dan senja tertawa",
+                        "words": [
+                            {
+                                "wf": "Bias",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bias",
+                                    "pos": "n",
+                                    "form": "bias"
+                                }
+                            },
+                            {
+                                "wf": "larut",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "larut",
+                                    "pos": "a",
+                                    "form": "larut"
+                                }
+                            },
+                            {
+                                "wf": ". ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "Legam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "Legam",
+                                    "pos": "?",
+                                    "form": "Legam"
+                                }
+                            },
+                            {
+                                "wf": "laut",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "laut",
+                                    "pos": "n",
+                                    "form": "laut"
+                                }
+                            },
+                            {
+                                "wf": "dan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dan",
+                                    "pos": "p",
+                                    "form": "dan"
+                                }
+                            },
+                            {
+                                "wf": "senja",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "senja",
+                                    "pos": "n",
+                                    "form": "senja"
+                                }
+                            },
+                            {
+                                "wf": "tertawa",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tawa",
+                                    "pos": "v",
+                                    "form": "ter-tawa"
+                                }
+                            }
+                        ],
+                        "syllables": 13
+                    },
+                    {
+                        "line": "Ada yang luruh di dada. Busuran ujung langit terbakar",
+                        "words": [
+                            {
+                                "wf": "Ada",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ada",
+                                    "pos": "v",
+                                    "form": "ada"
+                                }
+                            },
+                            {
+                                "wf": "yang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "yang",
+                                    "pos": "a|v|n",
+                                    "form": "yang"
+                                }
+                            },
+                            {
+                                "wf": "luruh",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "luruh",
+                                    "pos": "num",
+                                    "form": "luruh"
+                                }
+                            },
+                            {
+                                "wf": "di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "dada",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dada",
+                                    "pos": "n",
+                                    "form": "dada"
+                                }
+                            },
+                            {
+                                "wf": ". ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "Busuran",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "Busuran",
+                                    "pos": "n",
+                                    "form": "Busuran"
+                                }
+                            },
+                            {
+                                "wf": "ujung",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ujung",
+                                    "pos": "n",
+                                    "form": "ujung"
+                                }
+                            },
+                            {
+                                "wf": "langit",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "langit",
+                                    "pos": "n",
+                                    "form": "langit"
+                                }
+                            },
+                            {
+                                "wf": "terbakar",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bakar",
+                                    "pos": "v",
+                                    "form": "terbakar"
+                                }
+                            }
+                        ],
+                        "syllables": 17
+                    },
+                    {
+                        "line": "Suratan-Mu mistery beribu khabar",
+                        "words": [
+                            {
+                                "wf": "Suratan-Mu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "surat",
+                                    "pos": "?",
+                                    "form": "Suratan-Mu"
+                                }
+                            },
+                            {
+                                "wf": "mistery",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "mistery",
+                                    "pos": "?",
+                                    "form": "mistery"
+                                }
+                            },
+                            {
+                                "wf": "beribu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ibu",
+                                    "pos": "v",
+                                    "form": "ber-ibu"
+                                }
+                            },
+                            {
+                                "wf": "khabar",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "khabar",
+                                    "pos": "?",
+                                    "form": "khabar"
+                                }
+                            }
+                        ],
+                        "syllables": 11
+                    }
+                ],
+                "num_lines": 3
+            },
+            {
+                "strof": "\r\n",
+                "lines": [
+                    {
+                        "line": "",
+                        "words": [],
+                        "syllables": 0
+                    }
+                ],
+                "num_lines": 1
+            },
+            {
+                "strof": "Riap sunyi bayang-bayang. Menyusup bendul luka\r\nDi pantai Nyai Roro Kidul. Menanti kekasih pawang\r\nDengan sekepal jampi mantera",
+                "lines": [
+                    {
+                        "line": "Riap sunyi bayang-bayang. Menyusup bendul luka",
+                        "words": [
+                            {
+                                "wf": "Riap",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "riap",
+                                    "pos": "n",
+                                    "form": "riap"
+                                }
+                            },
+                            {
+                                "wf": "sunyi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sunyi",
+                                    "pos": "a",
+                                    "form": "sunyi"
+                                }
+                            },
+                            {
+                                "wf": "bayang-bayang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bayang",
+                                    "pos": "v",
+                                    "form": "bayang-bayang"
+                                }
+                            },
+                            {
+                                "wf": ". ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "Menyusup",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "su",
+                                    "pos": "v",
+                                    "form": "Menyusup"
+                                }
+                            },
+                            {
+                                "wf": "bendul",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bendul",
+                                    "pos": "n",
+                                    "form": "bendul"
+                                }
+                            },
+                            {
+                                "wf": "luka",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "luka",
+                                    "pos": "n|v",
+                                    "form": "luka"
+                                }
+                            }
+                        ],
+                        "syllables": 15
+                    },
+                    {
+                        "line": "Di pantai Nyai Roro Kidul. Menanti kekasih pawang",
+                        "words": [
+                            {
+                                "wf": "Di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "pantai",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pantai",
+                                    "pos": "n|a",
+                                    "form": "pantai"
+                                }
+                            },
+                            {
+                                "wf": "Nyai",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "nyai",
+                                    "pos": "v",
+                                    "form": "nyai"
+                                }
+                            },
+                            {
+                                "wf": "Roro",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "roro",
+                                    "pos": "?",
+                                    "form": "roro"
+                                }
+                            },
+                            {
+                                "wf": "Kidul",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kidul",
+                                    "pos": "n",
+                                    "form": "kidul"
+                                }
+                            },
+                            {
+                                "wf": ". ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "Menanti",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "Menanti",
+                                    "pos": "v",
+                                    "form": "Menanti"
+                                }
+                            },
+                            {
+                                "wf": "kekasih",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kasih",
+                                    "pos": "n",
+                                    "form": "ke-kasih"
+                                }
+                            },
+                            {
+                                "wf": "pawang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pawang",
+                                    "pos": "n",
+                                    "form": "pawang"
+                                }
+                            }
+                        ],
+                        "syllables": 16
+                    },
+                    {
+                        "line": "Dengan sekepal jampi mantera",
+                        "words": [
+                            {
+                                "wf": "Dengan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dengan",
+                                    "pos": "p",
+                                    "form": "dengan"
+                                }
+                            },
+                            {
+                                "wf": "sekepal",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sekepal",
+                                    "pos": "n|a",
+                                    "form": "sekepal"
+                                }
+                            },
+                            {
+                                "wf": "jampi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jampi",
+                                    "pos": "n",
+                                    "form": "jampi"
+                                }
+                            },
+                            {
+                                "wf": "mantera",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "mantra",
+                                    "pos": "?",
+                                    "form": "mantera"
+                                }
+                            }
+                        ],
+                        "syllables": 10
+                    }
+                ],
+                "num_lines": 3
+            }
+        ]
+    }
+}

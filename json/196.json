@@ -1,0 +1,154 @@
+{
+    "meta": {
+        "file_name": "196.json",
+        "id_bd": 196,
+        "author": "Ajip Rosidi",
+        "title": "Wayang",
+        "genre": "стихотворение",
+        "year": "---",
+        "num_lines": 2,
+        "rhyme": "Есть",
+        "syllables": [
+            12,
+            15
+        ],
+        "strofy": [
+            2
+        ]
+    },
+    "poem": {
+        "text": "Bayang-bayang yang digerakkan sang dalang\r\ndatang dan hilang, hanya jejaknya tinggal terkenang",
+        "strof": [
+            {
+                "strof": "Bayang-bayang yang digerakkan sang dalang\r\ndatang dan hilang, hanya jejaknya tinggal terkenang",
+                "lines": [
+                    {
+                        "line": "Bayang-bayang yang digerakkan sang dalang",
+                        "words": [
+                            {
+                                "wf": "Bayang-bayang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bayang",
+                                    "pos": "v",
+                                    "form": "bayang-bayang"
+                                }
+                            },
+                            {
+                                "wf": "yang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "yang",
+                                    "pos": "a|v|n",
+                                    "form": "yang"
+                                }
+                            },
+                            {
+                                "wf": "digerakkan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "",
+                                    "pos": "v",
+                                    "form": "di-digerakkan"
+                                }
+                            },
+                            {
+                                "wf": "sang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sang",
+                                    "pos": "n",
+                                    "form": "sang"
+                                }
+                            },
+                            {
+                                "wf": "dalang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dalang",
+                                    "pos": "n",
+                                    "form": "dalang"
+                                }
+                            }
+                        ],
+                        "syllables": 12
+                    },
+                    {
+                        "line": "datang dan hilang, hanya jejaknya tinggal terkenang",
+                        "words": [
+                            {
+                                "wf": "datang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "datang",
+                                    "pos": "v|n",
+                                    "form": "datang"
+                                }
+                            },
+                            {
+                                "wf": "dan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dan",
+                                    "pos": "p",
+                                    "form": "dan"
+                                }
+                            },
+                            {
+                                "wf": "hilang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hilang",
+                                    "pos": "v",
+                                    "form": "hilang"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "hanya",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hanya",
+                                    "pos": "adv",
+                                    "form": "hanya"
+                                }
+                            },
+                            {
+                                "wf": "jejaknya",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jejak",
+                                    "pos": "n",
+                                    "form": "jejak-nya"
+                                }
+                            },
+                            {
+                                "wf": "tinggal",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tinggal",
+                                    "pos": "v",
+                                    "form": "tinggal"
+                                }
+                            },
+                            {
+                                "wf": "terkenang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kenang",
+                                    "pos": "v",
+                                    "form": "ter-kenang"
+                                }
+                            }
+                        ],
+                        "syllables": 15
+                    }
+                ],
+                "num_lines": 2
+            }
+        ]
+    }
+}

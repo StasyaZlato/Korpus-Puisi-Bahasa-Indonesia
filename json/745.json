@@ -1,0 +1,666 @@
+{
+    "meta": {
+        "file_name": "745.json",
+        "id_bd": 745,
+        "author": "Wing Kardjo Wangsaatmadja",
+        "title": "Nyanyian",
+        "genre": "стихотворение",
+        "year": "---",
+        "num_lines": 14,
+        "rhyme": "Есть",
+        "syllables": [
+            6,
+            9,
+            12,
+            6,
+            9,
+            8,
+            8,
+            11,
+            11,
+            6,
+            7,
+            6,
+            9,
+            8
+        ],
+        "strofy": [
+            14
+        ]
+    },
+    "poem": {
+        "text": "{Junjungan. Aku tahu\r\nApa yang mesti kucintai, Hidup\r\nTetapi udara yang mesti kuhirup\r\nGemetar dan lapar\r\nTak sampai ikut membusuk. Arti\r\nCumbuan kuntum dan duri\r\nNyanyian surgawi, pedih\r\nDunia terancam dan pergi. Letih\r\nHanya hatiku. Jalan sampai badai\r\nNyanyi, walau tahu\r\nTinggal sunyi melambai\r\nJunjungan. Aku tahu\r\nApa yang mesti kucintai. Hidup\r\nBiar titik makin sayup}",
+        "strof": [
+            {
+                "strof": "Junjungan. Aku tahu\r\nApa yang mesti kucintai, Hidup\r\nTetapi udara yang mesti kuhirup\r\nGemetar dan lapar\r\nTak sampai ikut membusuk. Arti\r\nCumbuan kuntum dan duri\r\nNyanyian surgawi, pedih\r\nDunia terancam dan pergi. Letih\r\nHanya hatiku. Jalan sampai badai\r\nNyanyi, walau tahu\r\nTinggal sunyi melambai\r\nJunjungan. Aku tahu\r\nApa yang mesti kucintai. Hidup\r\nBiar titik makin sayup",
+                "lines": [
+                    {
+                        "line": "Junjungan. Aku tahu",
+                        "words": [
+                            {
+                                "wf": "Junjungan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "junjung",
+                                    "pos": "v",
+                                    "form": "junjung-an"
+                                }
+                            },
+                            {
+                                "wf": ". ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "Aku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "aku",
+                                    "pos": "pron",
+                                    "form": "aku"
+                                }
+                            },
+                            {
+                                "wf": "tahu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tahu",
+                                    "pos": "v",
+                                    "form": "tahu"
+                                }
+                            }
+                        ],
+                        "syllables": 6
+                    },
+                    {
+                        "line": "Apa yang mesti kucintai, Hidup",
+                        "words": [
+                            {
+                                "wf": "Apa",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "apa",
+                                    "pos": "pron|p",
+                                    "form": "apa"
+                                }
+                            },
+                            {
+                                "wf": "yang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "yang",
+                                    "pos": "a|v|n",
+                                    "form": "yang"
+                                }
+                            },
+                            {
+                                "wf": "mesti",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "mesti",
+                                    "pos": "adv",
+                                    "form": "mesti"
+                                }
+                            },
+                            {
+                                "wf": "kucintai",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kucintai",
+                                    "pos": "v",
+                                    "form": "kucintai"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "Hidup",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hidup",
+                                    "pos": "v",
+                                    "form": "hidup"
+                                }
+                            }
+                        ],
+                        "syllables": 9
+                    },
+                    {
+                        "line": "Tetapi udara yang mesti kuhirup",
+                        "words": [
+                            {
+                                "wf": "Tetapi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tapi",
+                                    "pos": "p",
+                                    "form": "Tetapi"
+                                }
+                            },
+                            {
+                                "wf": "udara",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "udara",
+                                    "pos": "n",
+                                    "form": "udara"
+                                }
+                            },
+                            {
+                                "wf": "yang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "yang",
+                                    "pos": "a|v|n",
+                                    "form": "yang"
+                                }
+                            },
+                            {
+                                "wf": "mesti",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "mesti",
+                                    "pos": "adv",
+                                    "form": "mesti"
+                                }
+                            },
+                            {
+                                "wf": "kuhirup",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hirup",
+                                    "pos": "v",
+                                    "form": "ku-hirup"
+                                }
+                            }
+                        ],
+                        "syllables": 12
+                    },
+                    {
+                        "line": "Gemetar dan lapar",
+                        "words": [
+                            {
+                                "wf": "Gemetar",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "gemetar",
+                                    "pos": "a",
+                                    "form": "gemetar"
+                                }
+                            },
+                            {
+                                "wf": "dan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dan",
+                                    "pos": "p",
+                                    "form": "dan"
+                                }
+                            },
+                            {
+                                "wf": "lapar",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lapar",
+                                    "pos": "a",
+                                    "form": "lapar"
+                                }
+                            }
+                        ],
+                        "syllables": 6
+                    },
+                    {
+                        "line": "Tak sampai ikut membusuk. Arti",
+                        "words": [
+                            {
+                                "wf": "Tak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tak",
+                                    "pos": "adv",
+                                    "form": "tak"
+                                }
+                            },
+                            {
+                                "wf": "sampai",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sampai",
+                                    "pos": "v",
+                                    "form": "sampai"
+                                }
+                            },
+                            {
+                                "wf": "ikut",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ikut",
+                                    "pos": "v",
+                                    "form": "ikut"
+                                }
+                            },
+                            {
+                                "wf": "membusuk",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "busuk",
+                                    "pos": "v",
+                                    "form": "meN-busuk"
+                                }
+                            },
+                            {
+                                "wf": ". ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "Arti",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "arti",
+                                    "pos": "n",
+                                    "form": "arti"
+                                }
+                            }
+                        ],
+                        "syllables": 9
+                    },
+                    {
+                        "line": "Cumbuan kuntum dan duri",
+                        "words": [
+                            {
+                                "wf": "Cumbuan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "cumbu",
+                                    "pos": "v",
+                                    "form": "cumbu-an"
+                                }
+                            },
+                            {
+                                "wf": "kuntum",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kuntum",
+                                    "pos": "n",
+                                    "form": "kuntum"
+                                }
+                            },
+                            {
+                                "wf": "dan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dan",
+                                    "pos": "p",
+                                    "form": "dan"
+                                }
+                            },
+                            {
+                                "wf": "duri",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "duri",
+                                    "pos": "n",
+                                    "form": "duri"
+                                }
+                            }
+                        ],
+                        "syllables": 8
+                    },
+                    {
+                        "line": "Nyanyian surgawi, pedih",
+                        "words": [
+                            {
+                                "wf": "Nyanyian",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "nyanyi",
+                                    "pos": "n",
+                                    "form": "nyanyi-an"
+                                }
+                            },
+                            {
+                                "wf": "surgawi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "surgawi",
+                                    "pos": "a",
+                                    "form": "surgawi"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "pedih",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pedih",
+                                    "pos": "a",
+                                    "form": "pedih"
+                                }
+                            }
+                        ],
+                        "syllables": 8
+                    },
+                    {
+                        "line": "Dunia terancam dan pergi. Letih",
+                        "words": [
+                            {
+                                "wf": "Dunia",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dunia",
+                                    "pos": "n",
+                                    "form": "dunia"
+                                }
+                            },
+                            {
+                                "wf": "terancam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ancam",
+                                    "pos": "v",
+                                    "form": "ter-ancam"
+                                }
+                            },
+                            {
+                                "wf": "dan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dan",
+                                    "pos": "p",
+                                    "form": "dan"
+                                }
+                            },
+                            {
+                                "wf": "pergi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pergi",
+                                    "pos": "v",
+                                    "form": "pergi"
+                                }
+                            },
+                            {
+                                "wf": ". ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "Letih",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "letih",
+                                    "pos": "a",
+                                    "form": "letih"
+                                }
+                            }
+                        ],
+                        "syllables": 11
+                    },
+                    {
+                        "line": "Hanya hatiku. Jalan sampai badai",
+                        "words": [
+                            {
+                                "wf": "Hanya",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hanya",
+                                    "pos": "adv",
+                                    "form": "hanya"
+                                }
+                            },
+                            {
+                                "wf": "hatiku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hati",
+                                    "pos": "n",
+                                    "form": "hati-ku"
+                                }
+                            },
+                            {
+                                "wf": ". ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "Jalan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jalan",
+                                    "pos": "n|v|a",
+                                    "form": "jalan"
+                                }
+                            },
+                            {
+                                "wf": "sampai",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sampai",
+                                    "pos": "v",
+                                    "form": "sampai"
+                                }
+                            },
+                            {
+                                "wf": "badai",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "badai",
+                                    "pos": "n",
+                                    "form": "badai"
+                                }
+                            }
+                        ],
+                        "syllables": 11
+                    },
+                    {
+                        "line": "Nyanyi, walau tahu",
+                        "words": [
+                            {
+                                "wf": "Nyanyi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "nyanyi",
+                                    "pos": "v",
+                                    "form": "nyanyi"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "walau",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "walau",
+                                    "pos": "p",
+                                    "form": "walau"
+                                }
+                            },
+                            {
+                                "wf": "tahu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tahu",
+                                    "pos": "v",
+                                    "form": "tahu"
+                                }
+                            }
+                        ],
+                        "syllables": 6
+                    },
+                    {
+                        "line": "Tinggal sunyi melambai",
+                        "words": [
+                            {
+                                "wf": "Tinggal",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tinggal",
+                                    "pos": "v",
+                                    "form": "tinggal"
+                                }
+                            },
+                            {
+                                "wf": "sunyi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sunyi",
+                                    "pos": "a",
+                                    "form": "sunyi"
+                                }
+                            },
+                            {
+                                "wf": "melambai",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lambai",
+                                    "pos": "v",
+                                    "form": "meN-lambai"
+                                }
+                            }
+                        ],
+                        "syllables": 7
+                    },
+                    {
+                        "line": "Junjungan. Aku tahu",
+                        "words": [
+                            {
+                                "wf": "Junjungan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "junjung",
+                                    "pos": "v",
+                                    "form": "junjung-an"
+                                }
+                            },
+                            {
+                                "wf": ". ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "Aku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "aku",
+                                    "pos": "pron",
+                                    "form": "aku"
+                                }
+                            },
+                            {
+                                "wf": "tahu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tahu",
+                                    "pos": "v",
+                                    "form": "tahu"
+                                }
+                            }
+                        ],
+                        "syllables": 6
+                    },
+                    {
+                        "line": "Apa yang mesti kucintai. Hidup",
+                        "words": [
+                            {
+                                "wf": "Apa",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "apa",
+                                    "pos": "pron|p",
+                                    "form": "apa"
+                                }
+                            },
+                            {
+                                "wf": "yang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "yang",
+                                    "pos": "a|v|n",
+                                    "form": "yang"
+                                }
+                            },
+                            {
+                                "wf": "mesti",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "mesti",
+                                    "pos": "adv",
+                                    "form": "mesti"
+                                }
+                            },
+                            {
+                                "wf": "kucintai",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kucintai",
+                                    "pos": "v",
+                                    "form": "kucintai"
+                                }
+                            },
+                            {
+                                "wf": ". ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "Hidup",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hidup",
+                                    "pos": "v",
+                                    "form": "hidup"
+                                }
+                            }
+                        ],
+                        "syllables": 9
+                    },
+                    {
+                        "line": "Biar titik makin sayup",
+                        "words": [
+                            {
+                                "wf": "Biar",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "biar",
+                                    "pos": "p",
+                                    "form": "biar"
+                                }
+                            },
+                            {
+                                "wf": "titik",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "titik",
+                                    "pos": "n",
+                                    "form": "titik"
+                                }
+                            },
+                            {
+                                "wf": "makin",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "makin",
+                                    "pos": "adv|p",
+                                    "form": "makin"
+                                }
+                            },
+                            {
+                                "wf": "sayup",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sayup",
+                                    "pos": "a",
+                                    "form": "sayup"
+                                }
+                            }
+                        ],
+                        "syllables": 8
+                    }
+                ],
+                "num_lines": 14
+            }
+        ]
+    }
+}

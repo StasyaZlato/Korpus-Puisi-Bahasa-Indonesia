@@ -1,0 +1,746 @@
+{
+    "meta": {
+        "file_name": "65.json",
+        "id_bd": 65,
+        "author": "Amir Hamzah",
+        "title": "Nyanyian mira - bai",
+        "genre": "религиозная поэзия: церковная песнь",
+        "year": "---",
+        "num_lines": 14,
+        "rhyme": "Спорадическая",
+        "syllables": [
+            17,
+            7,
+            8,
+            6,
+            11,
+            7,
+            14,
+            7,
+            17,
+            12,
+            12,
+            13,
+            11,
+            9
+        ],
+        "strofy": [
+            14
+        ]
+    },
+    "poem": {
+        "text": "Pada kala aku mengambil air dari sungai Yamuna,\r\nDipandang Krishna senda\r\nDengan mataNya yang raya\r\nTertawa bertanya\r\nKendiku telungkup aku pun lalu\r\nPenuh heran dan ragu\r\nSemenjak itu semayam Ia dalam kalbuku\r\nKrishna berambut ikal.\r\nHentikan segala mantera, jauhkan penawar semua\r\nLepaskan aku dari akar dan jamu!\r\nBawakan daku Krishna berambut hitam\r\nBawakan daku Krishna bermata cuaca!\r\nAlisnya, busurnya – Pandangnya, panahnya\r\nDibidiknya – lepaskan – tepat!",
+        "strof": [
+            {
+                "strof": "Pada kala aku mengambil air dari sungai Yamuna,\r\nDipandang Krishna senda\r\nDengan mataNya yang raya\r\nTertawa bertanya\r\nKendiku telungkup aku pun lalu\r\nPenuh heran dan ragu\r\nSemenjak itu semayam Ia dalam kalbuku\r\nKrishna berambut ikal.\r\nHentikan segala mantera, jauhkan penawar semua\r\nLepaskan aku dari akar dan jamu!\r\nBawakan daku Krishna berambut hitam\r\nBawakan daku Krishna bermata cuaca!\r\nAlisnya, busurnya – Pandangnya, panahnya\r\nDibidiknya – lepaskan – tepat!",
+                "lines": [
+                    {
+                        "line": "Pada kala aku mengambil air dari sungai Yamuna,",
+                        "words": [
+                            {
+                                "wf": "Pada",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pada",
+                                    "pos": "p",
+                                    "form": "pada"
+                                }
+                            },
+                            {
+                                "wf": "kala",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kala",
+                                    "pos": "p",
+                                    "form": "kala"
+                                }
+                            },
+                            {
+                                "wf": "aku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "aku",
+                                    "pos": "pron",
+                                    "form": "aku"
+                                }
+                            },
+                            {
+                                "wf": "mengambil",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ambil",
+                                    "pos": "v",
+                                    "form": "meN-ambil"
+                                }
+                            },
+                            {
+                                "wf": "air",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "air",
+                                    "pos": "n",
+                                    "form": "air"
+                                }
+                            },
+                            {
+                                "wf": "dari",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dari",
+                                    "pos": "p",
+                                    "form": "dari"
+                                }
+                            },
+                            {
+                                "wf": "sungai",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sungai",
+                                    "pos": "n",
+                                    "form": "sungai"
+                                }
+                            },
+                            {
+                                "wf": "Yamuna",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "yamuna",
+                                    "pos": "?",
+                                    "form": "yamuna"
+                                }
+                            },
+                            {
+                                "wf": ",",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 17
+                    },
+                    {
+                        "line": "Dipandang Krishna senda",
+                        "words": [
+                            {
+                                "wf": "Dipandang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "Dipandang",
+                                    "pos": "n",
+                                    "form": "Dipandang"
+                                }
+                            },
+                            {
+                                "wf": "Krishna",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "krishna",
+                                    "pos": "?",
+                                    "form": "krishna"
+                                }
+                            },
+                            {
+                                "wf": "senda",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "senda",
+                                    "pos": "v",
+                                    "form": "senda"
+                                }
+                            }
+                        ],
+                        "syllables": 7
+                    },
+                    {
+                        "line": "Dengan mataNya yang raya",
+                        "words": [
+                            {
+                                "wf": "Dengan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dengan",
+                                    "pos": "p",
+                                    "form": "dengan"
+                                }
+                            },
+                            {
+                                "wf": "mataNya",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "matanya",
+                                    "pos": "?",
+                                    "form": "matanya"
+                                }
+                            },
+                            {
+                                "wf": "yang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "yang",
+                                    "pos": "a|v|n",
+                                    "form": "yang"
+                                }
+                            },
+                            {
+                                "wf": "raya",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "raya",
+                                    "pos": "a",
+                                    "form": "raya"
+                                }
+                            }
+                        ],
+                        "syllables": 8
+                    },
+                    {
+                        "line": "Tertawa bertanya",
+                        "words": [
+                            {
+                                "wf": "Tertawa",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ringis",
+                                    "pos": "v",
+                                    "form": "ter-tawa"
+                                }
+                            },
+                            {
+                                "wf": "bertanya",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tanya",
+                                    "pos": "v|a",
+                                    "form": "ber-tanya"
+                                }
+                            }
+                        ],
+                        "syllables": 6
+                    },
+                    {
+                        "line": "Kendiku telungkup aku pun lalu",
+                        "words": [
+                            {
+                                "wf": "Kendiku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kendi",
+                                    "pos": "n",
+                                    "form": "kendi-ku"
+                                }
+                            },
+                            {
+                                "wf": "telungkup",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "telungkup",
+                                    "pos": "v",
+                                    "form": "telungkup"
+                                }
+                            },
+                            {
+                                "wf": "aku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "aku",
+                                    "pos": "pron",
+                                    "form": "aku"
+                                }
+                            },
+                            {
+                                "wf": "pun",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pun",
+                                    "pos": "p",
+                                    "form": "pun"
+                                }
+                            },
+                            {
+                                "wf": "lalu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lalu",
+                                    "pos": "adv",
+                                    "form": "lalu"
+                                }
+                            }
+                        ],
+                        "syllables": 11
+                    },
+                    {
+                        "line": "Penuh heran dan ragu",
+                        "words": [
+                            {
+                                "wf": "Penuh",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "penuh",
+                                    "pos": "a",
+                                    "form": "penuh"
+                                }
+                            },
+                            {
+                                "wf": "heran",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "heran",
+                                    "pos": "a",
+                                    "form": "heran"
+                                }
+                            },
+                            {
+                                "wf": "dan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dan",
+                                    "pos": "p",
+                                    "form": "dan"
+                                }
+                            },
+                            {
+                                "wf": "ragu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ragu",
+                                    "pos": "a",
+                                    "form": "ragu"
+                                }
+                            }
+                        ],
+                        "syllables": 7
+                    },
+                    {
+                        "line": "Semenjak itu semayam Ia dalam kalbuku",
+                        "words": [
+                            {
+                                "wf": "Semenjak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "semenjak",
+                                    "pos": "p",
+                                    "form": "semenjak"
+                                }
+                            },
+                            {
+                                "wf": "itu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "itu",
+                                    "pos": "pron|n",
+                                    "form": "itu"
+                                }
+                            },
+                            {
+                                "wf": "semayam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "semayam",
+                                    "pos": "v",
+                                    "form": "semayam"
+                                }
+                            },
+                            {
+                                "wf": "Ia",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ia",
+                                    "pos": "n",
+                                    "form": "ia"
+                                }
+                            },
+                            {
+                                "wf": "dalam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dalam",
+                                    "pos": "a|n",
+                                    "form": "dalam"
+                                }
+                            },
+                            {
+                                "wf": "kalbuku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kalbu",
+                                    "pos": "n",
+                                    "form": "kalbu-ku"
+                                }
+                            }
+                        ],
+                        "syllables": 14
+                    },
+                    {
+                        "line": "Krishna berambut ikal.",
+                        "words": [
+                            {
+                                "wf": "Krishna",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "krishna",
+                                    "pos": "?",
+                                    "form": "krishna"
+                                }
+                            },
+                            {
+                                "wf": "berambut",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "rambut",
+                                    "pos": "v",
+                                    "form": "ber-rambut"
+                                }
+                            },
+                            {
+                                "wf": "ikal",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ikal",
+                                    "pos": "a",
+                                    "form": "ikal"
+                                }
+                            },
+                            {
+                                "wf": ".",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 7
+                    },
+                    {
+                        "line": "Hentikan segala mantera, jauhkan penawar semua",
+                        "words": [
+                            {
+                                "wf": "Hentikan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "Hentikan",
+                                    "pos": "v",
+                                    "form": "Hentikan"
+                                }
+                            },
+                            {
+                                "wf": "segala",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "segala",
+                                    "pos": "num",
+                                    "form": "segala"
+                                }
+                            },
+                            {
+                                "wf": "mantera",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "mantra",
+                                    "pos": "?",
+                                    "form": "mantera"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "jauhkan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jauhkan",
+                                    "pos": "v",
+                                    "form": "jauhkan"
+                                }
+                            },
+                            {
+                                "wf": "penawar",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tawar",
+                                    "pos": "n",
+                                    "form": "peN-tawar"
+                                }
+                            },
+                            {
+                                "wf": "semua",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "semua",
+                                    "pos": "num",
+                                    "form": "semua"
+                                }
+                            }
+                        ],
+                        "syllables": 17
+                    },
+                    {
+                        "line": "Lepaskan aku dari akar dan jamu!",
+                        "words": [
+                            {
+                                "wf": "Lepaskan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "Lepaskan",
+                                    "pos": "v",
+                                    "form": "Lepaskan"
+                                }
+                            },
+                            {
+                                "wf": "aku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "aku",
+                                    "pos": "pron",
+                                    "form": "aku"
+                                }
+                            },
+                            {
+                                "wf": "dari",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dari",
+                                    "pos": "p",
+                                    "form": "dari"
+                                }
+                            },
+                            {
+                                "wf": "akar",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "akar",
+                                    "pos": "v",
+                                    "form": "akar"
+                                }
+                            },
+                            {
+                                "wf": "dan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dan",
+                                    "pos": "p",
+                                    "form": "dan"
+                                }
+                            },
+                            {
+                                "wf": "jamu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jamu",
+                                    "pos": "n",
+                                    "form": "jamu"
+                                }
+                            },
+                            {
+                                "wf": "!",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 12
+                    },
+                    {
+                        "line": "Bawakan daku Krishna berambut hitam",
+                        "words": [
+                            {
+                                "wf": "Bawakan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "Bawakan",
+                                    "pos": "v",
+                                    "form": "Bawakan"
+                                }
+                            },
+                            {
+                                "wf": "daku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "daku",
+                                    "pos": "pron",
+                                    "form": "daku"
+                                }
+                            },
+                            {
+                                "wf": "Krishna",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "krishna",
+                                    "pos": "?",
+                                    "form": "krishna"
+                                }
+                            },
+                            {
+                                "wf": "berambut",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "rambut",
+                                    "pos": "v",
+                                    "form": "ber-rambut"
+                                }
+                            },
+                            {
+                                "wf": "hitam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hitam",
+                                    "pos": "n|a",
+                                    "form": "hitam"
+                                }
+                            }
+                        ],
+                        "syllables": 12
+                    },
+                    {
+                        "line": "Bawakan daku Krishna bermata cuaca!",
+                        "words": [
+                            {
+                                "wf": "Bawakan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "Bawakan",
+                                    "pos": "v",
+                                    "form": "Bawakan"
+                                }
+                            },
+                            {
+                                "wf": "daku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "daku",
+                                    "pos": "pron",
+                                    "form": "daku"
+                                }
+                            },
+                            {
+                                "wf": "Krishna",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "krishna",
+                                    "pos": "?",
+                                    "form": "krishna"
+                                }
+                            },
+                            {
+                                "wf": "bermata",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "mata",
+                                    "pos": "v",
+                                    "form": "ber-mata"
+                                }
+                            },
+                            {
+                                "wf": "cuaca",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "cuaca",
+                                    "pos": "n",
+                                    "form": "cuaca"
+                                }
+                            },
+                            {
+                                "wf": "!",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 13
+                    },
+                    {
+                        "line": "Alisnya, busurnya – Pandangnya, panahnya",
+                        "words": [
+                            {
+                                "wf": "Alisnya",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "alis",
+                                    "pos": "n",
+                                    "form": "alis-nya"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "busurnya",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "busur",
+                                    "pos": "n",
+                                    "form": "busur-nya"
+                                }
+                            },
+                            {
+                                "wf": " – ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "Pandangnya",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pandang",
+                                    "pos": "n",
+                                    "form": "pandang-nya"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "panahnya",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "panah",
+                                    "pos": "n",
+                                    "form": "panah-nya"
+                                }
+                            }
+                        ],
+                        "syllables": 11
+                    },
+                    {
+                        "line": "Dibidiknya – lepaskan – tepat!",
+                        "words": [
+                            {
+                                "wf": "Dibidiknya",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dibidiknya",
+                                    "pos": "?",
+                                    "form": "dibidiknya"
+                                }
+                            },
+                            {
+                                "wf": " – ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "lepaskan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lepaskan",
+                                    "pos": "v",
+                                    "form": "lepaskan"
+                                }
+                            },
+                            {
+                                "wf": " – ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "tepat",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tepat",
+                                    "pos": "a",
+                                    "form": "tepat"
+                                }
+                            },
+                            {
+                                "wf": "!",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 9
+                    }
+                ],
+                "num_lines": 14
+            }
+        ]
+    }
+}

@@ -1,0 +1,956 @@
+{
+    "meta": {
+        "file_name": "57.json",
+        "id_bd": 57,
+        "author": "Abrar Yusra",
+        "title": "1970-an",
+        "genre": "стихотворение",
+        "year": "---",
+        "num_lines": 24,
+        "rhyme": "Спорадическая",
+        "syllables": [
+            18,
+            10,
+            19,
+            10,
+            5,
+            12,
+            7,
+            5,
+            5,
+            4,
+            5,
+            5,
+            4,
+            6,
+            4,
+            5,
+            8,
+            6,
+            4,
+            6,
+            4,
+            8,
+            9,
+            7
+        ],
+        "strofy": [
+            24
+        ]
+    },
+    "poem": {
+        "text": "Lapar aku, aku lapar.  Kumakan buah segala buah\r\nSegala padi segala ubi\r\nKumakan sayur segala sayur.  Segala daun segala rumput\r\nKumakan ikan., Ketam.  Udang.  Kerang\r\nKumakan kuda\r\nAyam.  Sapi.  Kambing.  Babi.  Tikus.  Bekicot\r\nAku lapar.  Lapar lagi !\r\nKumakan angin\r\nKumakan mimpi\r\nKumakan pil\r\nKumakan kuman\r\nKumakan tanah\r\nKumakan laut\r\nKumakan mesiu\r\nKumakan bom\r\nKumakan bulan\r\nDan bintang dan matahari !\r\nkumakan mimpimu\r\nRencanamu\r\nTangamnu.  Kakimu\r\nKepalamu\r\nAstaga.  Kumakan tanganku\r\nDan kakiku.  Dan kepalaku\r\nDan hah, kumakan kamu!",
+        "strof": [
+            {
+                "strof": "Lapar aku, aku lapar.  Kumakan buah segala buah\r\nSegala padi segala ubi\r\nKumakan sayur segala sayur.  Segala daun segala rumput\r\nKumakan ikan., Ketam.  Udang.  Kerang\r\nKumakan kuda\r\nAyam.  Sapi.  Kambing.  Babi.  Tikus.  Bekicot\r\nAku lapar.  Lapar lagi !\r\nKumakan angin\r\nKumakan mimpi\r\nKumakan pil\r\nKumakan kuman\r\nKumakan tanah\r\nKumakan laut\r\nKumakan mesiu\r\nKumakan bom\r\nKumakan bulan\r\nDan bintang dan matahari !\r\nkumakan mimpimu\r\nRencanamu\r\nTangamnu.  Kakimu\r\nKepalamu\r\nAstaga.  Kumakan tanganku\r\nDan kakiku.  Dan kepalaku\r\nDan hah, kumakan kamu!",
+                "lines": [
+                    {
+                        "line": "Lapar aku, aku lapar.  Kumakan buah segala buah",
+                        "words": [
+                            {
+                                "wf": "Lapar",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lapar",
+                                    "pos": "a",
+                                    "form": "lapar"
+                                }
+                            },
+                            {
+                                "wf": "aku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "aku",
+                                    "pos": "pron",
+                                    "form": "aku"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "aku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "aku",
+                                    "pos": "pron",
+                                    "form": "aku"
+                                }
+                            },
+                            {
+                                "wf": "lapar",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lapar",
+                                    "pos": "a",
+                                    "form": "lapar"
+                                }
+                            },
+                            {
+                                "wf": ".  ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "Kumakan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "makan",
+                                    "pos": "v",
+                                    "form": "ku-makan"
+                                }
+                            },
+                            {
+                                "wf": "buah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "buah",
+                                    "pos": "n",
+                                    "form": "buah"
+                                }
+                            },
+                            {
+                                "wf": "segala",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "segala",
+                                    "pos": "num",
+                                    "form": "segala"
+                                }
+                            },
+                            {
+                                "wf": "buah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "buah",
+                                    "pos": "n",
+                                    "form": "buah"
+                                }
+                            }
+                        ],
+                        "syllables": 18
+                    },
+                    {
+                        "line": "Segala padi segala ubi",
+                        "words": [
+                            {
+                                "wf": "Segala",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "segala",
+                                    "pos": "num",
+                                    "form": "segala"
+                                }
+                            },
+                            {
+                                "wf": "padi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "padi",
+                                    "pos": "n",
+                                    "form": "padi"
+                                }
+                            },
+                            {
+                                "wf": "segala",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "segala",
+                                    "pos": "num",
+                                    "form": "segala"
+                                }
+                            },
+                            {
+                                "wf": "ubi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ubi",
+                                    "pos": "n",
+                                    "form": "ubi"
+                                }
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "Kumakan sayur segala sayur.  Segala daun segala rumput",
+                        "words": [
+                            {
+                                "wf": "Kumakan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "makan",
+                                    "pos": "v",
+                                    "form": "ku-makan"
+                                }
+                            },
+                            {
+                                "wf": "sayur",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sayur",
+                                    "pos": "n",
+                                    "form": "sayur"
+                                }
+                            },
+                            {
+                                "wf": "segala",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "segala",
+                                    "pos": "num",
+                                    "form": "segala"
+                                }
+                            },
+                            {
+                                "wf": "sayur",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sayur",
+                                    "pos": "n",
+                                    "form": "sayur"
+                                }
+                            },
+                            {
+                                "wf": ".  ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "Segala",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "segala",
+                                    "pos": "num",
+                                    "form": "segala"
+                                }
+                            },
+                            {
+                                "wf": "daun",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "daun",
+                                    "pos": "n",
+                                    "form": "daun"
+                                }
+                            },
+                            {
+                                "wf": "segala",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "segala",
+                                    "pos": "num",
+                                    "form": "segala"
+                                }
+                            },
+                            {
+                                "wf": "rumput",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "rumput",
+                                    "pos": "n",
+                                    "form": "rumput"
+                                }
+                            }
+                        ],
+                        "syllables": 19
+                    },
+                    {
+                        "line": "Kumakan ikan., Ketam.  Udang.  Kerang",
+                        "words": [
+                            {
+                                "wf": "Kumakan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "makan",
+                                    "pos": "v",
+                                    "form": "ku-makan"
+                                }
+                            },
+                            {
+                                "wf": "ikan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ikan",
+                                    "pos": "v",
+                                    "form": "ikan"
+                                }
+                            },
+                            {
+                                "wf": "., ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "Ketam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ketam",
+                                    "pos": "a",
+                                    "form": "ketam"
+                                }
+                            },
+                            {
+                                "wf": ".  ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "Udang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "udang",
+                                    "pos": "n",
+                                    "form": "udang"
+                                }
+                            },
+                            {
+                                "wf": ".  ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "Kerang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kerang",
+                                    "pos": "a",
+                                    "form": "kerang"
+                                }
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "Kumakan kuda",
+                        "words": [
+                            {
+                                "wf": "Kumakan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "makan",
+                                    "pos": "v",
+                                    "form": "ku-makan"
+                                }
+                            },
+                            {
+                                "wf": "kuda",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kuda",
+                                    "pos": "n",
+                                    "form": "kuda"
+                                }
+                            }
+                        ],
+                        "syllables": 5
+                    },
+                    {
+                        "line": "Ayam.  Sapi.  Kambing.  Babi.  Tikus.  Bekicot",
+                        "words": [
+                            {
+                                "wf": "Ayam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ayam",
+                                    "pos": "n",
+                                    "form": "ayam"
+                                }
+                            },
+                            {
+                                "wf": ".  ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "Sapi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sapi",
+                                    "pos": "v",
+                                    "form": "sapi"
+                                }
+                            },
+                            {
+                                "wf": ".  ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "Kambing",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kambing",
+                                    "pos": "n",
+                                    "form": "kambing"
+                                }
+                            },
+                            {
+                                "wf": ".  ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "Babi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "babi",
+                                    "pos": "n",
+                                    "form": "babi"
+                                }
+                            },
+                            {
+                                "wf": ".  ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "Tikus",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tikus",
+                                    "pos": "n",
+                                    "form": "tikus"
+                                }
+                            },
+                            {
+                                "wf": ".  ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "Bekicot",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bekicot",
+                                    "pos": "n",
+                                    "form": "bekicot"
+                                }
+                            }
+                        ],
+                        "syllables": 12
+                    },
+                    {
+                        "line": "Aku lapar.  Lapar lagi !",
+                        "words": [
+                            {
+                                "wf": "Aku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "aku",
+                                    "pos": "pron",
+                                    "form": "aku"
+                                }
+                            },
+                            {
+                                "wf": "lapar",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lapar",
+                                    "pos": "a",
+                                    "form": "lapar"
+                                }
+                            },
+                            {
+                                "wf": ".  ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "Lapar",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lapar",
+                                    "pos": "a",
+                                    "form": "lapar"
+                                }
+                            },
+                            {
+                                "wf": "lagi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lagi",
+                                    "pos": "adv|p",
+                                    "form": "lagi"
+                                }
+                            },
+                            {
+                                "wf": " !",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 7
+                    },
+                    {
+                        "line": "Kumakan angin",
+                        "words": [
+                            {
+                                "wf": "Kumakan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "makan",
+                                    "pos": "v",
+                                    "form": "ku-makan"
+                                }
+                            },
+                            {
+                                "wf": "angin",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "angin",
+                                    "pos": "n",
+                                    "form": "angin"
+                                }
+                            }
+                        ],
+                        "syllables": 5
+                    },
+                    {
+                        "line": "Kumakan mimpi",
+                        "words": [
+                            {
+                                "wf": "Kumakan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "makan",
+                                    "pos": "v",
+                                    "form": "ku-makan"
+                                }
+                            },
+                            {
+                                "wf": "mimpi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "mimpi",
+                                    "pos": "n",
+                                    "form": "mimpi"
+                                }
+                            }
+                        ],
+                        "syllables": 5
+                    },
+                    {
+                        "line": "Kumakan pil",
+                        "words": [
+                            {
+                                "wf": "Kumakan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "makan",
+                                    "pos": "v",
+                                    "form": "ku-makan"
+                                }
+                            },
+                            {
+                                "wf": "pil",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pil",
+                                    "pos": "n",
+                                    "form": "pil"
+                                }
+                            }
+                        ],
+                        "syllables": 4
+                    },
+                    {
+                        "line": "Kumakan kuman",
+                        "words": [
+                            {
+                                "wf": "Kumakan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "makan",
+                                    "pos": "v",
+                                    "form": "ku-makan"
+                                }
+                            },
+                            {
+                                "wf": "kuman",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kuman",
+                                    "pos": "n",
+                                    "form": "kuman"
+                                }
+                            }
+                        ],
+                        "syllables": 5
+                    },
+                    {
+                        "line": "Kumakan tanah",
+                        "words": [
+                            {
+                                "wf": "Kumakan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "makan",
+                                    "pos": "v",
+                                    "form": "ku-makan"
+                                }
+                            },
+                            {
+                                "wf": "tanah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tanah",
+                                    "pos": "n",
+                                    "form": "tanah"
+                                }
+                            }
+                        ],
+                        "syllables": 5
+                    },
+                    {
+                        "line": "Kumakan laut",
+                        "words": [
+                            {
+                                "wf": "Kumakan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "makan",
+                                    "pos": "v",
+                                    "form": "ku-makan"
+                                }
+                            },
+                            {
+                                "wf": "laut",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "laut",
+                                    "pos": "n",
+                                    "form": "laut"
+                                }
+                            }
+                        ],
+                        "syllables": 4
+                    },
+                    {
+                        "line": "Kumakan mesiu",
+                        "words": [
+                            {
+                                "wf": "Kumakan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "makan",
+                                    "pos": "v",
+                                    "form": "ku-makan"
+                                }
+                            },
+                            {
+                                "wf": "mesiu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "mesiu",
+                                    "pos": "n",
+                                    "form": "mesiu"
+                                }
+                            }
+                        ],
+                        "syllables": 6
+                    },
+                    {
+                        "line": "Kumakan bom",
+                        "words": [
+                            {
+                                "wf": "Kumakan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "makan",
+                                    "pos": "v",
+                                    "form": "ku-makan"
+                                }
+                            },
+                            {
+                                "wf": "bom",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bom",
+                                    "pos": "n",
+                                    "form": "bom"
+                                }
+                            }
+                        ],
+                        "syllables": 4
+                    },
+                    {
+                        "line": "Kumakan bulan",
+                        "words": [
+                            {
+                                "wf": "Kumakan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "makan",
+                                    "pos": "v",
+                                    "form": "ku-makan"
+                                }
+                            },
+                            {
+                                "wf": "bulan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bulan",
+                                    "pos": "n",
+                                    "form": "bulan"
+                                }
+                            }
+                        ],
+                        "syllables": 5
+                    },
+                    {
+                        "line": "Dan bintang dan matahari !",
+                        "words": [
+                            {
+                                "wf": "Dan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dan",
+                                    "pos": "p",
+                                    "form": "dan"
+                                }
+                            },
+                            {
+                                "wf": "bintang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bintang",
+                                    "pos": "n",
+                                    "form": "bintang"
+                                }
+                            },
+                            {
+                                "wf": "dan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dan",
+                                    "pos": "p",
+                                    "form": "dan"
+                                }
+                            },
+                            {
+                                "wf": "matahari",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "matahari",
+                                    "pos": "n",
+                                    "form": "matahari"
+                                }
+                            },
+                            {
+                                "wf": " !",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 8
+                    },
+                    {
+                        "line": "kumakan mimpimu",
+                        "words": [
+                            {
+                                "wf": "kumakan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "makan",
+                                    "pos": "v",
+                                    "form": "ku-makan"
+                                }
+                            },
+                            {
+                                "wf": "mimpimu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "mimpi",
+                                    "pos": "n",
+                                    "form": "mimpi-mu"
+                                }
+                            }
+                        ],
+                        "syllables": 6
+                    },
+                    {
+                        "line": "Rencanamu",
+                        "words": [
+                            {
+                                "wf": "Rencanamu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "rencana",
+                                    "pos": "n",
+                                    "form": "rencana-mu"
+                                }
+                            }
+                        ],
+                        "syllables": 4
+                    },
+                    {
+                        "line": "Tangamnu.  Kakimu",
+                        "words": [
+                            {
+                                "wf": "Tangamnu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tangamnu",
+                                    "pos": "?",
+                                    "form": "tangamnu"
+                                }
+                            },
+                            {
+                                "wf": ".  ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "Kakimu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kaki",
+                                    "pos": "n",
+                                    "form": "kaki-mu"
+                                }
+                            }
+                        ],
+                        "syllables": 6
+                    },
+                    {
+                        "line": "Kepalamu",
+                        "words": [
+                            {
+                                "wf": "Kepalamu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kepala",
+                                    "pos": "n",
+                                    "form": "kepala-mu"
+                                }
+                            }
+                        ],
+                        "syllables": 4
+                    },
+                    {
+                        "line": "Astaga.  Kumakan tanganku",
+                        "words": [
+                            {
+                                "wf": "Astaga",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "astaga",
+                                    "pos": "p",
+                                    "form": "astaga"
+                                }
+                            },
+                            {
+                                "wf": ".  ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "Kumakan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "makan",
+                                    "pos": "v",
+                                    "form": "ku-makan"
+                                }
+                            },
+                            {
+                                "wf": "tanganku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tangan",
+                                    "pos": "v",
+                                    "form": "tangan-ku"
+                                }
+                            }
+                        ],
+                        "syllables": 8
+                    },
+                    {
+                        "line": "Dan kakiku.  Dan kepalaku",
+                        "words": [
+                            {
+                                "wf": "Dan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dan",
+                                    "pos": "p",
+                                    "form": "dan"
+                                }
+                            },
+                            {
+                                "wf": "kakiku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kaki",
+                                    "pos": "n",
+                                    "form": "kaki-ku"
+                                }
+                            },
+                            {
+                                "wf": ".  ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "Dan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dan",
+                                    "pos": "p",
+                                    "form": "dan"
+                                }
+                            },
+                            {
+                                "wf": "kepalaku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kepala",
+                                    "pos": "n",
+                                    "form": "kepala-ku"
+                                }
+                            }
+                        ],
+                        "syllables": 9
+                    },
+                    {
+                        "line": "Dan hah, kumakan kamu!",
+                        "words": [
+                            {
+                                "wf": "Dan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dan",
+                                    "pos": "p",
+                                    "form": "dan"
+                                }
+                            },
+                            {
+                                "wf": "hah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hah",
+                                    "pos": "n",
+                                    "form": "hah"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "kumakan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "makan",
+                                    "pos": "v",
+                                    "form": "ku-makan"
+                                }
+                            },
+                            {
+                                "wf": "kamu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kamu",
+                                    "pos": "pron",
+                                    "form": "kamu"
+                                }
+                            },
+                            {
+                                "wf": "!",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 7
+                    }
+                ],
+                "num_lines": 24
+            }
+        ]
+    }
+}

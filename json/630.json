@@ -1,0 +1,537 @@
+{
+    "meta": {
+        "file_name": "630.json",
+        "id_bd": 630,
+        "author": "W.S. Rendra",
+        "title": "Rumpun alang-alang",
+        "genre": "стихотворение",
+        "year": "---",
+        "num_lines": 8,
+        "rhyme": "Есть",
+        "syllables": [
+            19,
+            22,
+            20,
+            14,
+            8,
+            9,
+            6,
+            11
+        ],
+        "strofy": [
+            8
+        ]
+    },
+    "poem": {
+        "text": "{Engkaulah perempuan terkasih, yang sejenak kulupakan, sayang\r\nKerna dalam sepi yang jahat tumbuh alang-alang di hatiku yang malang\r\nDi hatiku alang-alang menancapkan akar-akarnya yang gatal\r\nSerumpun alang-alang gelap, lembut dan nakal\r\nGelap dan bergoyang ia\r\ndan ia pun berbunga dosa\r\nEngkau tetap yang punya\r\ntapi alang-alang tumbuh di dada}",
+        "strof": [
+            {
+                "strof": "Engkaulah perempuan terkasih, yang sejenak kulupakan, sayang\r\nKerna dalam sepi yang jahat tumbuh alang-alang di hatiku yang malang\r\nDi hatiku alang-alang menancapkan akar-akarnya yang gatal\r\nSerumpun alang-alang gelap, lembut dan nakal\r\nGelap dan bergoyang ia\r\ndan ia pun berbunga dosa\r\nEngkau tetap yang punya\r\ntapi alang-alang tumbuh di dada",
+                "lines": [
+                    {
+                        "line": "Engkaulah perempuan terkasih, yang sejenak kulupakan, sayang",
+                        "words": [
+                            {
+                                "wf": "Engkaulah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "engkau",
+                                    "pos": "pron",
+                                    "form": "engkau-lah"
+                                }
+                            },
+                            {
+                                "wf": "perempuan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "perempuan",
+                                    "pos": "n",
+                                    "form": "perempuan"
+                                }
+                            },
+                            {
+                                "wf": "terkasih",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "terkasih",
+                                    "pos": "n",
+                                    "form": "terkasih"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "yang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "yang",
+                                    "pos": "a|v|n",
+                                    "form": "yang"
+                                }
+                            },
+                            {
+                                "wf": "sejenak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sejenak",
+                                    "pos": "n",
+                                    "form": "sejenak"
+                                }
+                            },
+                            {
+                                "wf": "kulupakan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kulupakan",
+                                    "pos": "v",
+                                    "form": "kulupakan"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "sayang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sayang",
+                                    "pos": "a|v|n",
+                                    "form": "sayang"
+                                }
+                            }
+                        ],
+                        "syllables": 19
+                    },
+                    {
+                        "line": "Kerna dalam sepi yang jahat tumbuh alang-alang di hatiku yang malang",
+                        "words": [
+                            {
+                                "wf": "Kerna",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kerna",
+                                    "pos": "?",
+                                    "form": "kerna"
+                                }
+                            },
+                            {
+                                "wf": "dalam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dalam",
+                                    "pos": "a|n",
+                                    "form": "dalam"
+                                }
+                            },
+                            {
+                                "wf": "sepi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sepi",
+                                    "pos": "a",
+                                    "form": "sepi"
+                                }
+                            },
+                            {
+                                "wf": "yang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "yang",
+                                    "pos": "a|v|n",
+                                    "form": "yang"
+                                }
+                            },
+                            {
+                                "wf": "jahat",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jahat",
+                                    "pos": "a",
+                                    "form": "jahat"
+                                }
+                            },
+                            {
+                                "wf": "tumbuh",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tumbuh",
+                                    "pos": "v",
+                                    "form": "tumbuh"
+                                }
+                            },
+                            {
+                                "wf": "alang-alang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "alang-alang",
+                                    "pos": "v",
+                                    "form": "alang-alang"
+                                }
+                            },
+                            {
+                                "wf": "di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "hatiku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hati",
+                                    "pos": "n",
+                                    "form": "hati-ku"
+                                }
+                            },
+                            {
+                                "wf": "yang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "yang",
+                                    "pos": "a|v|n",
+                                    "form": "yang"
+                                }
+                            },
+                            {
+                                "wf": "malang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "malang",
+                                    "pos": "a",
+                                    "form": "malang"
+                                }
+                            }
+                        ],
+                        "syllables": 22
+                    },
+                    {
+                        "line": "Di hatiku alang-alang menancapkan akar-akarnya yang gatal",
+                        "words": [
+                            {
+                                "wf": "Di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "hatiku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hati",
+                                    "pos": "n",
+                                    "form": "hati-ku"
+                                }
+                            },
+                            {
+                                "wf": "alang-alang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "alang-alang",
+                                    "pos": "v",
+                                    "form": "alang-alang"
+                                }
+                            },
+                            {
+                                "wf": "menancapkan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tancap",
+                                    "pos": "v",
+                                    "form": "meN-tancap-kan"
+                                }
+                            },
+                            {
+                                "wf": "akar-akarnya",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "akar-akarnya",
+                                    "pos": "v",
+                                    "form": "akar-akarnya"
+                                }
+                            },
+                            {
+                                "wf": "yang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "yang",
+                                    "pos": "a|v|n",
+                                    "form": "yang"
+                                }
+                            },
+                            {
+                                "wf": "gatal",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "gatal",
+                                    "pos": "a",
+                                    "form": "gatal"
+                                }
+                            }
+                        ],
+                        "syllables": 20
+                    },
+                    {
+                        "line": "Serumpun alang-alang gelap, lembut dan nakal",
+                        "words": [
+                            {
+                                "wf": "Serumpun",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "rumpun",
+                                    "pos": "n",
+                                    "form": "se-rumpun"
+                                }
+                            },
+                            {
+                                "wf": "alang-alang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "alang-alang",
+                                    "pos": "v",
+                                    "form": "alang-alang"
+                                }
+                            },
+                            {
+                                "wf": "gelap",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "gelap",
+                                    "pos": "a",
+                                    "form": "gelap"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "lembut",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lembut",
+                                    "pos": "a",
+                                    "form": "lembut"
+                                }
+                            },
+                            {
+                                "wf": "dan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dan",
+                                    "pos": "p",
+                                    "form": "dan"
+                                }
+                            },
+                            {
+                                "wf": "nakal",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "nakal",
+                                    "pos": "a",
+                                    "form": "nakal"
+                                }
+                            }
+                        ],
+                        "syllables": 14
+                    },
+                    {
+                        "line": "Gelap dan bergoyang ia",
+                        "words": [
+                            {
+                                "wf": "Gelap",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "gelap",
+                                    "pos": "a",
+                                    "form": "gelap"
+                                }
+                            },
+                            {
+                                "wf": "dan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dan",
+                                    "pos": "p",
+                                    "form": "dan"
+                                }
+                            },
+                            {
+                                "wf": "bergoyang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "goyang",
+                                    "pos": "v",
+                                    "form": "ber-goyang"
+                                }
+                            },
+                            {
+                                "wf": "ia",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ia",
+                                    "pos": "n",
+                                    "form": "ia"
+                                }
+                            }
+                        ],
+                        "syllables": 8
+                    },
+                    {
+                        "line": "dan ia pun berbunga dosa",
+                        "words": [
+                            {
+                                "wf": "dan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dan",
+                                    "pos": "p",
+                                    "form": "dan"
+                                }
+                            },
+                            {
+                                "wf": "ia",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ia",
+                                    "pos": "n",
+                                    "form": "ia"
+                                }
+                            },
+                            {
+                                "wf": "pun",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pun",
+                                    "pos": "p",
+                                    "form": "pun"
+                                }
+                            },
+                            {
+                                "wf": "berbunga",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bunga",
+                                    "pos": "v",
+                                    "form": "ber-bunga"
+                                }
+                            },
+                            {
+                                "wf": "dosa",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dosa",
+                                    "pos": "n",
+                                    "form": "dosa"
+                                }
+                            }
+                        ],
+                        "syllables": 9
+                    },
+                    {
+                        "line": "Engkau tetap yang punya",
+                        "words": [
+                            {
+                                "wf": "Engkau",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "engkau",
+                                    "pos": "pron",
+                                    "form": "engkau"
+                                }
+                            },
+                            {
+                                "wf": "tetap",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tetap",
+                                    "pos": "v|a|adv",
+                                    "form": "tetap"
+                                }
+                            },
+                            {
+                                "wf": "yang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "yang",
+                                    "pos": "a|v|n",
+                                    "form": "yang"
+                                }
+                            },
+                            {
+                                "wf": "punya",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "punya",
+                                    "pos": "v|n",
+                                    "form": "punya"
+                                }
+                            }
+                        ],
+                        "syllables": 6
+                    },
+                    {
+                        "line": "tapi alang-alang tumbuh di dada",
+                        "words": [
+                            {
+                                "wf": "tapi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tapi",
+                                    "pos": "v",
+                                    "form": "tapi"
+                                }
+                            },
+                            {
+                                "wf": "alang-alang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "alang-alang",
+                                    "pos": "v",
+                                    "form": "alang-alang"
+                                }
+                            },
+                            {
+                                "wf": "tumbuh",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tumbuh",
+                                    "pos": "v",
+                                    "form": "tumbuh"
+                                }
+                            },
+                            {
+                                "wf": "di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "dada",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dada",
+                                    "pos": "n",
+                                    "form": "dada"
+                                }
+                            }
+                        ],
+                        "syllables": 11
+                    }
+                ],
+                "num_lines": 8
+            }
+        ]
+    }
+}

@@ -1,0 +1,830 @@
+{
+    "meta": {
+        "file_name": "764.json",
+        "id_bd": 764,
+        "author": "Ajip Rosidi",
+        "title": "Pantun hari lebaran",
+        "genre": "пантун",
+        "year": "---",
+        "num_lines": 16,
+        "rhyme": "Есть",
+        "syllables": [
+            12,
+            10,
+            11,
+            11,
+            11,
+            10,
+            10,
+            9,
+            10,
+            11,
+            12,
+            10,
+            11,
+            10,
+            10,
+            11
+        ],
+        "strofy": [
+            4,
+            1,
+            4,
+            1,
+            4,
+            1,
+            4
+        ]
+    },
+    "poem": {
+        "text": "{Pada hari Lebaran ramai takbiran\r\nsepanjang malam tiada henti;\r\nHidup fana berakhir di kuburan\r\nmerindukan engkau sebelum mati}\r\n{Hari Lebaran bermaaf-maafan\r\nmenghapus dosa lahir dan batin\r\nKalau dengan engkau berhadapan\r\ntidak kuharap lagi yang lain}\r\n{Hari Lebaran hari yang suci\r\nsaat manusia menjadi fitri;\r\nHarap engkau menerimaku kembali\r\nsetelah sesat lepas kendali}\r\n{Saat manusia menjadi fitri\r\nsegala dosanya Kauampuni\r\nSetelah sesat di bumi keji\r\nmencari ridhoMu di langit hati.}",
+        "strof": [
+            {
+                "strof": "Pada hari Lebaran ramai takbiran\r\nsepanjang malam tiada henti;\r\nHidup fana berakhir di kuburan\r\nmerindukan engkau sebelum mati",
+                "lines": [
+                    {
+                        "line": "Pada hari Lebaran ramai takbiran",
+                        "words": [
+                            {
+                                "wf": "Pada",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pada",
+                                    "pos": "p",
+                                    "form": "pada"
+                                }
+                            },
+                            {
+                                "wf": "hari",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hari",
+                                    "pos": "n",
+                                    "form": "hari"
+                                }
+                            },
+                            {
+                                "wf": "Lebaran",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "Lebaran",
+                                    "pos": "n",
+                                    "form": "Lebaran"
+                                }
+                            },
+                            {
+                                "wf": "ramai",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ramai",
+                                    "pos": "a",
+                                    "form": "ramai"
+                                }
+                            },
+                            {
+                                "wf": "takbiran",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "takbir",
+                                    "pos": "n",
+                                    "form": "takbir-an"
+                                }
+                            }
+                        ],
+                        "syllables": 12
+                    },
+                    {
+                        "line": "sepanjang malam tiada henti;",
+                        "words": [
+                            {
+                                "wf": "sepanjang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "panjang",
+                                    "pos": "n",
+                                    "form": "se-panjang"
+                                }
+                            },
+                            {
+                                "wf": "malam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "malam",
+                                    "pos": "n",
+                                    "form": "malam"
+                                }
+                            },
+                            {
+                                "wf": "tiada",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tiada",
+                                    "pos": "v",
+                                    "form": "tiada"
+                                }
+                            },
+                            {
+                                "wf": "henti",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "henti",
+                                    "pos": "n",
+                                    "form": "henti"
+                                }
+                            },
+                            {
+                                "wf": ";",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "Hidup fana berakhir di kuburan",
+                        "words": [
+                            {
+                                "wf": "Hidup",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hidup",
+                                    "pos": "v",
+                                    "form": "hidup"
+                                }
+                            },
+                            {
+                                "wf": "fana",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "fana",
+                                    "pos": "a",
+                                    "form": "fana"
+                                }
+                            },
+                            {
+                                "wf": "berakhir",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "akhir",
+                                    "pos": "v",
+                                    "form": "berakhir"
+                                }
+                            },
+                            {
+                                "wf": "di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "kuburan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kubur",
+                                    "pos": "n",
+                                    "form": "kubur-an"
+                                }
+                            }
+                        ],
+                        "syllables": 11
+                    },
+                    {
+                        "line": "merindukan engkau sebelum mati",
+                        "words": [
+                            {
+                                "wf": "merindukan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "rindu",
+                                    "pos": "v",
+                                    "form": "meN-rindu-kan"
+                                }
+                            },
+                            {
+                                "wf": "engkau",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "engkau",
+                                    "pos": "pron",
+                                    "form": "engkau"
+                                }
+                            },
+                            {
+                                "wf": "sebelum",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "belum",
+                                    "pos": "adv",
+                                    "form": "se-belum"
+                                }
+                            },
+                            {
+                                "wf": "mati",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "mati",
+                                    "pos": "v",
+                                    "form": "mati"
+                                }
+                            }
+                        ],
+                        "syllables": 11
+                    }
+                ],
+                "num_lines": 4
+            },
+            {
+                "strof": "\r\n",
+                "lines": [
+                    {
+                        "line": "",
+                        "words": [],
+                        "syllables": 0
+                    }
+                ],
+                "num_lines": 1
+            },
+            {
+                "strof": "Hari Lebaran bermaaf-maafan\r\nmenghapus dosa lahir dan batin\r\nKalau dengan engkau berhadapan\r\ntidak kuharap lagi yang lain",
+                "lines": [
+                    {
+                        "line": "Hari Lebaran bermaaf-maafan",
+                        "words": [
+                            {
+                                "wf": "Hari",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hari",
+                                    "pos": "n",
+                                    "form": "hari"
+                                }
+                            },
+                            {
+                                "wf": "Lebaran",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "Lebaran",
+                                    "pos": "n",
+                                    "form": "Lebaran"
+                                }
+                            },
+                            {
+                                "wf": "bermaaf-maafan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "maaf",
+                                    "pos": "v",
+                                    "form": "ber-maaf-maaf-an"
+                                }
+                            }
+                        ],
+                        "syllables": 11
+                    },
+                    {
+                        "line": "menghapus dosa lahir dan batin",
+                        "words": [
+                            {
+                                "wf": "menghapus",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hapus",
+                                    "pos": "v",
+                                    "form": "meN-hapus"
+                                }
+                            },
+                            {
+                                "wf": "dosa",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dosa",
+                                    "pos": "n",
+                                    "form": "dosa"
+                                }
+                            },
+                            {
+                                "wf": "lahir",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lahir",
+                                    "pos": "v|n",
+                                    "form": "lahir"
+                                }
+                            },
+                            {
+                                "wf": "dan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dan",
+                                    "pos": "p",
+                                    "form": "dan"
+                                }
+                            },
+                            {
+                                "wf": "batin",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "batin",
+                                    "pos": "n",
+                                    "form": "batin"
+                                }
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "Kalau dengan engkau berhadapan",
+                        "words": [
+                            {
+                                "wf": "Kalau",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kalau",
+                                    "pos": "p",
+                                    "form": "kalau"
+                                }
+                            },
+                            {
+                                "wf": "dengan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dengan",
+                                    "pos": "p",
+                                    "form": "dengan"
+                                }
+                            },
+                            {
+                                "wf": "engkau",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "engkau",
+                                    "pos": "pron",
+                                    "form": "engkau"
+                                }
+                            },
+                            {
+                                "wf": "berhadapan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "berhadapan",
+                                    "pos": "v",
+                                    "form": "berhadapan"
+                                }
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "tidak kuharap lagi yang lain",
+                        "words": [
+                            {
+                                "wf": "tidak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tidak",
+                                    "pos": "adv",
+                                    "form": "tidak"
+                                }
+                            },
+                            {
+                                "wf": "kuharap",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "harap",
+                                    "pos": "v|n|adv",
+                                    "form": "ku-harap"
+                                }
+                            },
+                            {
+                                "wf": "lagi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lagi",
+                                    "pos": "adv|p",
+                                    "form": "lagi"
+                                }
+                            },
+                            {
+                                "wf": "yang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "yang",
+                                    "pos": "a|v|n",
+                                    "form": "yang"
+                                }
+                            },
+                            {
+                                "wf": "lain",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lain",
+                                    "pos": "a",
+                                    "form": "lain"
+                                }
+                            }
+                        ],
+                        "syllables": 9
+                    }
+                ],
+                "num_lines": 4
+            },
+            {
+                "strof": "\r\n",
+                "lines": [
+                    {
+                        "line": "",
+                        "words": [],
+                        "syllables": 0
+                    }
+                ],
+                "num_lines": 1
+            },
+            {
+                "strof": "Hari Lebaran hari yang suci\r\nsaat manusia menjadi fitri;\r\nHarap engkau menerimaku kembali\r\nsetelah sesat lepas kendali",
+                "lines": [
+                    {
+                        "line": "Hari Lebaran hari yang suci",
+                        "words": [
+                            {
+                                "wf": "Hari",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hari",
+                                    "pos": "n",
+                                    "form": "hari"
+                                }
+                            },
+                            {
+                                "wf": "Lebaran",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "Lebaran",
+                                    "pos": "n",
+                                    "form": "Lebaran"
+                                }
+                            },
+                            {
+                                "wf": "hari",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hari",
+                                    "pos": "n",
+                                    "form": "hari"
+                                }
+                            },
+                            {
+                                "wf": "yang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "yang",
+                                    "pos": "a|v|n",
+                                    "form": "yang"
+                                }
+                            },
+                            {
+                                "wf": "suci",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "suci",
+                                    "pos": "a",
+                                    "form": "suci"
+                                }
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "saat manusia menjadi fitri;",
+                        "words": [
+                            {
+                                "wf": "saat",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "saat",
+                                    "pos": "n",
+                                    "form": "saat"
+                                }
+                            },
+                            {
+                                "wf": "manusia",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "manusia",
+                                    "pos": "n",
+                                    "form": "manusia"
+                                }
+                            },
+                            {
+                                "wf": "menjadi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jadi",
+                                    "pos": "v",
+                                    "form": "meN-jadi"
+                                }
+                            },
+                            {
+                                "wf": "fitri",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "fitri",
+                                    "pos": "a",
+                                    "form": "fitri"
+                                }
+                            },
+                            {
+                                "wf": ";",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 11
+                    },
+                    {
+                        "line": "Harap engkau menerimaku kembali",
+                        "words": [
+                            {
+                                "wf": "Harap",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "harap",
+                                    "pos": "v|n|adv",
+                                    "form": "harap"
+                                }
+                            },
+                            {
+                                "wf": "engkau",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "engkau",
+                                    "pos": "pron",
+                                    "form": "engkau"
+                                }
+                            },
+                            {
+                                "wf": "menerimaku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "terima",
+                                    "pos": "v",
+                                    "form": "meN-terima-ku-ku"
+                                }
+                            },
+                            {
+                                "wf": "kembali",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kembali",
+                                    "pos": "v",
+                                    "form": "kembali"
+                                }
+                            }
+                        ],
+                        "syllables": 12
+                    },
+                    {
+                        "line": "setelah sesat lepas kendali",
+                        "words": [
+                            {
+                                "wf": "setelah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "telah",
+                                    "pos": "adv",
+                                    "form": "se-telah"
+                                }
+                            },
+                            {
+                                "wf": "sesat",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sesat",
+                                    "pos": "a",
+                                    "form": "sesat"
+                                }
+                            },
+                            {
+                                "wf": "lepas",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lepas",
+                                    "pos": "a",
+                                    "form": "lepas"
+                                }
+                            },
+                            {
+                                "wf": "kendali",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kendali",
+                                    "pos": "n",
+                                    "form": "kendali"
+                                }
+                            }
+                        ],
+                        "syllables": 10
+                    }
+                ],
+                "num_lines": 4
+            },
+            {
+                "strof": "\r\n",
+                "lines": [
+                    {
+                        "line": "",
+                        "words": [],
+                        "syllables": 0
+                    }
+                ],
+                "num_lines": 1
+            },
+            {
+                "strof": "Saat manusia menjadi fitri\r\nsegala dosanya Kauampuni\r\nSetelah sesat di bumi keji\r\nmencari ridhoMu di langit hati.",
+                "lines": [
+                    {
+                        "line": "Saat manusia menjadi fitri",
+                        "words": [
+                            {
+                                "wf": "Saat",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "saat",
+                                    "pos": "n",
+                                    "form": "saat"
+                                }
+                            },
+                            {
+                                "wf": "manusia",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "manusia",
+                                    "pos": "n",
+                                    "form": "manusia"
+                                }
+                            },
+                            {
+                                "wf": "menjadi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jadi",
+                                    "pos": "v",
+                                    "form": "meN-jadi"
+                                }
+                            },
+                            {
+                                "wf": "fitri",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "fitri",
+                                    "pos": "a",
+                                    "form": "fitri"
+                                }
+                            }
+                        ],
+                        "syllables": 11
+                    },
+                    {
+                        "line": "segala dosanya Kauampuni",
+                        "words": [
+                            {
+                                "wf": "segala",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "segala",
+                                    "pos": "num",
+                                    "form": "segala"
+                                }
+                            },
+                            {
+                                "wf": "dosanya",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dosa",
+                                    "pos": "n",
+                                    "form": "dosa-nya"
+                                }
+                            },
+                            {
+                                "wf": "Kauampuni",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "Kauampuni",
+                                    "pos": "v",
+                                    "form": "Kauampuni"
+                                }
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "Setelah sesat di bumi keji",
+                        "words": [
+                            {
+                                "wf": "Setelah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "telah",
+                                    "pos": "adv",
+                                    "form": "se-telah"
+                                }
+                            },
+                            {
+                                "wf": "sesat",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sesat",
+                                    "pos": "a",
+                                    "form": "sesat"
+                                }
+                            },
+                            {
+                                "wf": "di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "bumi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bumi",
+                                    "pos": "n",
+                                    "form": "bumi"
+                                }
+                            },
+                            {
+                                "wf": "keji",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "keji",
+                                    "pos": "a",
+                                    "form": "keji"
+                                }
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "mencari ridhoMu di langit hati.",
+                        "words": [
+                            {
+                                "wf": "mencari",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "cari",
+                                    "pos": "v",
+                                    "form": "meN-cari"
+                                }
+                            },
+                            {
+                                "wf": "ridhoMu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ridhomu",
+                                    "pos": "?",
+                                    "form": "ridhomu"
+                                }
+                            },
+                            {
+                                "wf": "di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "langit",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "langit",
+                                    "pos": "n",
+                                    "form": "langit"
+                                }
+                            },
+                            {
+                                "wf": "hati",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hati",
+                                    "pos": "n",
+                                    "form": "hati"
+                                }
+                            },
+                            {
+                                "wf": ".",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 11
+                    }
+                ],
+                "num_lines": 4
+            }
+        ]
+    }
+}

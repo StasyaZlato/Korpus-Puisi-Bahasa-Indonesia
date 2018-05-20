@@ -1,0 +1,709 @@
+{
+    "meta": {
+        "file_name": "64.json",
+        "id_bd": 64,
+        "author": "Amir Hamzah",
+        "title": "Hanyut aku",
+        "genre": "стихотворение",
+        "year": "---",
+        "num_lines": 14,
+        "rhyme": "Есть",
+        "syllables": [
+            8,
+            4,
+            9,
+            8,
+            19,
+            9,
+            12,
+            10,
+            11,
+            4,
+            7,
+            9,
+            11,
+            12
+        ],
+        "strofy": [
+            14
+        ]
+    },
+    "poem": {
+        "text": "Hanyut aku, kekasihku!\r\nHanyut aku!\r\nUlurkan tanganmu, tolong aku.\r\nSunyinya sekelilingku!\r\nTiada suara kasihan, tiada angin mendingin hati,\r\nTiada air menolak ngelak.\r\nDahagaku kasihmu, hauskan bisikmu,\r\nMati aku, sebabkan diammu.\r\nLangit menyerkap, air berlepas tangan,\r\nAku tenggelam.\r\nTenggelam dalam malam.\r\nAir di atas mendidih keras.\r\nBumi di bawah menolak keatas.\r\nMati aku, kekasihku, mati aku!",
+        "strof": [
+            {
+                "strof": "Hanyut aku, kekasihku!\r\nHanyut aku!\r\nUlurkan tanganmu, tolong aku.\r\nSunyinya sekelilingku!\r\nTiada suara kasihan, tiada angin mendingin hati,\r\nTiada air menolak ngelak.\r\nDahagaku kasihmu, hauskan bisikmu,\r\nMati aku, sebabkan diammu.\r\nLangit menyerkap, air berlepas tangan,\r\nAku tenggelam.\r\nTenggelam dalam malam.\r\nAir di atas mendidih keras.\r\nBumi di bawah menolak keatas.\r\nMati aku, kekasihku, mati aku!",
+                "lines": [
+                    {
+                        "line": "Hanyut aku, kekasihku!",
+                        "words": [
+                            {
+                                "wf": "Hanyut",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hanyut",
+                                    "pos": "v",
+                                    "form": "hanyut"
+                                }
+                            },
+                            {
+                                "wf": "aku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "aku",
+                                    "pos": "pron",
+                                    "form": "aku"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "kekasihku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kasih",
+                                    "pos": "n",
+                                    "form": "ke-kasih-ku-ku"
+                                }
+                            },
+                            {
+                                "wf": "!",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 8
+                    },
+                    {
+                        "line": "Hanyut aku!",
+                        "words": [
+                            {
+                                "wf": "Hanyut",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hanyut",
+                                    "pos": "v",
+                                    "form": "hanyut"
+                                }
+                            },
+                            {
+                                "wf": "aku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "aku",
+                                    "pos": "pron",
+                                    "form": "aku"
+                                }
+                            },
+                            {
+                                "wf": "!",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 4
+                    },
+                    {
+                        "line": "Ulurkan tanganmu, tolong aku.",
+                        "words": [
+                            {
+                                "wf": "Ulurkan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ulur",
+                                    "pos": "v",
+                                    "form": "ulur-kan"
+                                }
+                            },
+                            {
+                                "wf": "tanganmu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tanganmu",
+                                    "pos": "v",
+                                    "form": "tanganmu"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "tolong",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tolong",
+                                    "pos": "v",
+                                    "form": "tolong"
+                                }
+                            },
+                            {
+                                "wf": "aku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "aku",
+                                    "pos": "pron",
+                                    "form": "aku"
+                                }
+                            },
+                            {
+                                "wf": ".",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 9
+                    },
+                    {
+                        "line": "Sunyinya sekelilingku!",
+                        "words": [
+                            {
+                                "wf": "Sunyinya",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sunyi",
+                                    "pos": "a",
+                                    "form": "sunyi-nya"
+                                }
+                            },
+                            {
+                                "wf": "sekelilingku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sekelilingku",
+                                    "pos": "?",
+                                    "form": "sekelilingku"
+                                }
+                            },
+                            {
+                                "wf": "!",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 8
+                    },
+                    {
+                        "line": "Tiada suara kasihan, tiada angin mendingin hati,",
+                        "words": [
+                            {
+                                "wf": "Tiada",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tiada",
+                                    "pos": "v",
+                                    "form": "tiada"
+                                }
+                            },
+                            {
+                                "wf": "suara",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "suara",
+                                    "pos": "n",
+                                    "form": "suara"
+                                }
+                            },
+                            {
+                                "wf": "kasihan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kasihan",
+                                    "pos": "v",
+                                    "form": "kasihan"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "tiada",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tiada",
+                                    "pos": "v",
+                                    "form": "tiada"
+                                }
+                            },
+                            {
+                                "wf": "angin",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "angin",
+                                    "pos": "n",
+                                    "form": "angin"
+                                }
+                            },
+                            {
+                                "wf": "mendingin",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dingin",
+                                    "pos": "v",
+                                    "form": "meN-dingin"
+                                }
+                            },
+                            {
+                                "wf": "hati",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hati",
+                                    "pos": "n",
+                                    "form": "hati"
+                                }
+                            },
+                            {
+                                "wf": ",",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 19
+                    },
+                    {
+                        "line": "Tiada air menolak ngelak.",
+                        "words": [
+                            {
+                                "wf": "Tiada",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tiada",
+                                    "pos": "v",
+                                    "form": "tiada"
+                                }
+                            },
+                            {
+                                "wf": "air",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "air",
+                                    "pos": "n",
+                                    "form": "air"
+                                }
+                            },
+                            {
+                                "wf": "menolak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tolak",
+                                    "pos": "v",
+                                    "form": "meN-tolak"
+                                }
+                            },
+                            {
+                                "wf": "ngelak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ngelak",
+                                    "pos": "?",
+                                    "form": "ngelak"
+                                }
+                            },
+                            {
+                                "wf": ".",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 9
+                    },
+                    {
+                        "line": "Dahagaku kasihmu, hauskan bisikmu,",
+                        "words": [
+                            {
+                                "wf": "Dahagaku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dahaga",
+                                    "pos": "a",
+                                    "form": "dahaga-ku"
+                                }
+                            },
+                            {
+                                "wf": "kasihmu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kasih",
+                                    "pos": "n",
+                                    "form": "kasihmu"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "hauskan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "haus",
+                                    "pos": "v",
+                                    "form": "haus-kan"
+                                }
+                            },
+                            {
+                                "wf": "bisikmu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bisik",
+                                    "pos": "n",
+                                    "form": "bisik-mu"
+                                }
+                            },
+                            {
+                                "wf": ",",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 12
+                    },
+                    {
+                        "line": "Mati aku, sebabkan diammu.",
+                        "words": [
+                            {
+                                "wf": "Mati",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "mati",
+                                    "pos": "v",
+                                    "form": "mati"
+                                }
+                            },
+                            {
+                                "wf": "aku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "aku",
+                                    "pos": "pron",
+                                    "form": "aku"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "sebabkan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sebabkan",
+                                    "pos": "v",
+                                    "form": "sebabkan"
+                                }
+                            },
+                            {
+                                "wf": "diammu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "diammu",
+                                    "pos": "?",
+                                    "form": "diammu"
+                                }
+                            },
+                            {
+                                "wf": ".",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "Langit menyerkap, air berlepas tangan,",
+                        "words": [
+                            {
+                                "wf": "Langit",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "langit",
+                                    "pos": "n",
+                                    "form": "langit"
+                                }
+                            },
+                            {
+                                "wf": "menyerkap",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "serkap",
+                                    "pos": "v",
+                                    "form": "meN-serkap"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "air",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "air",
+                                    "pos": "n",
+                                    "form": "air"
+                                }
+                            },
+                            {
+                                "wf": "berlepas",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lepas",
+                                    "pos": "v",
+                                    "form": "ber-lepas"
+                                }
+                            },
+                            {
+                                "wf": "tangan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tangan",
+                                    "pos": "v",
+                                    "form": "tangan"
+                                }
+                            },
+                            {
+                                "wf": ",",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 11
+                    },
+                    {
+                        "line": "Aku tenggelam.",
+                        "words": [
+                            {
+                                "wf": "Aku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "aku",
+                                    "pos": "pron",
+                                    "form": "aku"
+                                }
+                            },
+                            {
+                                "wf": "tenggelam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tenggelam",
+                                    "pos": "v",
+                                    "form": "tenggelam"
+                                }
+                            },
+                            {
+                                "wf": ".",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 4
+                    },
+                    {
+                        "line": "Tenggelam dalam malam.",
+                        "words": [
+                            {
+                                "wf": "Tenggelam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tenggelam",
+                                    "pos": "v",
+                                    "form": "tenggelam"
+                                }
+                            },
+                            {
+                                "wf": "dalam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dalam",
+                                    "pos": "a|n",
+                                    "form": "dalam"
+                                }
+                            },
+                            {
+                                "wf": "malam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "malam",
+                                    "pos": "n",
+                                    "form": "malam"
+                                }
+                            },
+                            {
+                                "wf": ".",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 7
+                    },
+                    {
+                        "line": "Air di atas mendidih keras.",
+                        "words": [
+                            {
+                                "wf": "Air",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "air",
+                                    "pos": "n",
+                                    "form": "air"
+                                }
+                            },
+                            {
+                                "wf": "di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "atas",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "atas",
+                                    "pos": "n",
+                                    "form": "atas"
+                                }
+                            },
+                            {
+                                "wf": "mendidih",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "didih",
+                                    "pos": "v",
+                                    "form": "meN-didih"
+                                }
+                            },
+                            {
+                                "wf": "keras",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "keras",
+                                    "pos": "a",
+                                    "form": "keras"
+                                }
+                            },
+                            {
+                                "wf": ".",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 9
+                    },
+                    {
+                        "line": "Bumi di bawah menolak keatas.",
+                        "words": [
+                            {
+                                "wf": "Bumi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bumi",
+                                    "pos": "n",
+                                    "form": "bumi"
+                                }
+                            },
+                            {
+                                "wf": "di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "bawah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bawah",
+                                    "pos": "n|v",
+                                    "form": "bawah"
+                                }
+                            },
+                            {
+                                "wf": "menolak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tolak",
+                                    "pos": "v",
+                                    "form": "meN-tolak"
+                                }
+                            },
+                            {
+                                "wf": "keatas",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "keatas",
+                                    "pos": "?",
+                                    "form": "keatas"
+                                }
+                            },
+                            {
+                                "wf": ".",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 11
+                    },
+                    {
+                        "line": "Mati aku, kekasihku, mati aku!",
+                        "words": [
+                            {
+                                "wf": "Mati",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "mati",
+                                    "pos": "v",
+                                    "form": "mati"
+                                }
+                            },
+                            {
+                                "wf": "aku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "aku",
+                                    "pos": "pron",
+                                    "form": "aku"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "kekasihku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kasih",
+                                    "pos": "n",
+                                    "form": "ke-kasih-ku-ku"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "mati",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "mati",
+                                    "pos": "v",
+                                    "form": "mati"
+                                }
+                            },
+                            {
+                                "wf": "aku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "aku",
+                                    "pos": "pron",
+                                    "form": "aku"
+                                }
+                            },
+                            {
+                                "wf": "!",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 12
+                    }
+                ],
+                "num_lines": 14
+            }
+        ]
+    }
+}

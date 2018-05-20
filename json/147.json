@@ -1,0 +1,997 @@
+{
+    "meta": {
+        "file_name": "147.json",
+        "id_bd": 147,
+        "author": "Chairil Anwar",
+        "title": "Kepada peminta-minta",
+        "genre": "стихотворение",
+        "year": 6.1943,
+        "num_lines": 20,
+        "rhyme": "Есть",
+        "syllables": [
+            11,
+            12,
+            10,
+            9,
+            9,
+            11,
+            9,
+            10,
+            10,
+            10,
+            12,
+            7,
+            8,
+            10,
+            9,
+            7,
+            11,
+            13,
+            10,
+            9
+        ],
+        "strofy": [
+            20
+        ]
+    },
+    "poem": {
+        "text": "Baik, baik aku akan menghadap Dia\r\nMenyerahkan diri dan segala dosa\r\nTapi jangan tentang lagi aku\r\nNanti darahku jadi beku.\r\nJangan lagi kau bercerita\r\nSudah tercacar semua di muka\r\nNanah meleleh dari luka\r\nSambil berjalan kau usap juga.\r\nBersuara tiap kau melangkah\r\nMengeerang tiap kau memandang\r\nMenetes dari suasana kau datang\r\nSembarang kau merebah.\r\nMengganggu dalam mimpiku\r\nMenghempas aku di bumi keras\r\nDi bibirku terasa pedas\r\nMengaum di telingaku.\r\nBaik, baik aku akan menghadap Dia\r\nMenyerahkan diri dari segala dosa\r\nTapi jangan tentang lagi aku\r\nNanti darahku jadi beku.",
+        "strof": [
+            {
+                "strof": "Baik, baik aku akan menghadap Dia\r\nMenyerahkan diri dan segala dosa\r\nTapi jangan tentang lagi aku\r\nNanti darahku jadi beku.\r\nJangan lagi kau bercerita\r\nSudah tercacar semua di muka\r\nNanah meleleh dari luka\r\nSambil berjalan kau usap juga.\r\nBersuara tiap kau melangkah\r\nMengeerang tiap kau memandang\r\nMenetes dari suasana kau datang\r\nSembarang kau merebah.\r\nMengganggu dalam mimpiku\r\nMenghempas aku di bumi keras\r\nDi bibirku terasa pedas\r\nMengaum di telingaku.\r\nBaik, baik aku akan menghadap Dia\r\nMenyerahkan diri dari segala dosa\r\nTapi jangan tentang lagi aku\r\nNanti darahku jadi beku.",
+                "lines": [
+                    {
+                        "line": "Baik, baik aku akan menghadap Dia",
+                        "words": [
+                            {
+                                "wf": "Baik",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "baik",
+                                    "pos": "a|v|p|n",
+                                    "form": "baik"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "baik",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "baik",
+                                    "pos": "a|v|p|n",
+                                    "form": "baik"
+                                }
+                            },
+                            {
+                                "wf": "aku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "aku",
+                                    "pos": "pron",
+                                    "form": "aku"
+                                }
+                            },
+                            {
+                                "wf": "akan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "akan",
+                                    "pos": "v",
+                                    "form": "akan"
+                                }
+                            },
+                            {
+                                "wf": "menghadap",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hadap",
+                                    "pos": "v",
+                                    "form": "meN-hadap"
+                                }
+                            },
+                            {
+                                "wf": "Dia",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dia",
+                                    "pos": "v",
+                                    "form": "dia"
+                                }
+                            }
+                        ],
+                        "syllables": 11
+                    },
+                    {
+                        "line": "Menyerahkan diri dan segala dosa",
+                        "words": [
+                            {
+                                "wf": "Menyerahkan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "serah",
+                                    "pos": "v",
+                                    "form": "meN-serah-kan"
+                                }
+                            },
+                            {
+                                "wf": "diri",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "diri",
+                                    "pos": "n",
+                                    "form": "diri"
+                                }
+                            },
+                            {
+                                "wf": "dan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dan",
+                                    "pos": "p",
+                                    "form": "dan"
+                                }
+                            },
+                            {
+                                "wf": "segala",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "segala",
+                                    "pos": "num",
+                                    "form": "segala"
+                                }
+                            },
+                            {
+                                "wf": "dosa",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dosa",
+                                    "pos": "n",
+                                    "form": "dosa"
+                                }
+                            }
+                        ],
+                        "syllables": 12
+                    },
+                    {
+                        "line": "Tapi jangan tentang lagi aku",
+                        "words": [
+                            {
+                                "wf": "Tapi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tapi",
+                                    "pos": "v",
+                                    "form": "tapi"
+                                }
+                            },
+                            {
+                                "wf": "jangan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jangan",
+                                    "pos": "adv",
+                                    "form": "jangan"
+                                }
+                            },
+                            {
+                                "wf": "tentang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tentang",
+                                    "pos": "p",
+                                    "form": "tentang"
+                                }
+                            },
+                            {
+                                "wf": "lagi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lagi",
+                                    "pos": "adv|p",
+                                    "form": "lagi"
+                                }
+                            },
+                            {
+                                "wf": "aku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "aku",
+                                    "pos": "pron",
+                                    "form": "aku"
+                                }
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "Nanti darahku jadi beku.",
+                        "words": [
+                            {
+                                "wf": "Nanti",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "nanti",
+                                    "pos": "n|adv",
+                                    "form": "nanti"
+                                }
+                            },
+                            {
+                                "wf": "darahku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "darah",
+                                    "pos": "n",
+                                    "form": "darah-ku"
+                                }
+                            },
+                            {
+                                "wf": "jadi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jadi",
+                                    "pos": "v",
+                                    "form": "jadi"
+                                }
+                            },
+                            {
+                                "wf": "beku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "beku",
+                                    "pos": "a",
+                                    "form": "beku"
+                                }
+                            },
+                            {
+                                "wf": ".",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 9
+                    },
+                    {
+                        "line": "Jangan lagi kau bercerita",
+                        "words": [
+                            {
+                                "wf": "Jangan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jangan",
+                                    "pos": "adv",
+                                    "form": "jangan"
+                                }
+                            },
+                            {
+                                "wf": "lagi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lagi",
+                                    "pos": "adv|p",
+                                    "form": "lagi"
+                                }
+                            },
+                            {
+                                "wf": "kau",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kau",
+                                    "pos": "pron",
+                                    "form": "kau"
+                                }
+                            },
+                            {
+                                "wf": "bercerita",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "cerita",
+                                    "pos": "v",
+                                    "form": "ber-cerita"
+                                }
+                            }
+                        ],
+                        "syllables": 9
+                    },
+                    {
+                        "line": "Sudah tercacar semua di muka",
+                        "words": [
+                            {
+                                "wf": "Sudah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sudah",
+                                    "pos": "adv",
+                                    "form": "sudah"
+                                }
+                            },
+                            {
+                                "wf": "tercacar",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "cacar",
+                                    "pos": "n",
+                                    "form": "tercacar"
+                                }
+                            },
+                            {
+                                "wf": "semua",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "semua",
+                                    "pos": "num",
+                                    "form": "semua"
+                                }
+                            },
+                            {
+                                "wf": "di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "muka",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "muka",
+                                    "pos": "n",
+                                    "form": "muka"
+                                }
+                            }
+                        ],
+                        "syllables": 11
+                    },
+                    {
+                        "line": "Nanah meleleh dari luka",
+                        "words": [
+                            {
+                                "wf": "Nanah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "nanah",
+                                    "pos": "n",
+                                    "form": "nanah"
+                                }
+                            },
+                            {
+                                "wf": "meleleh",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "leleh",
+                                    "pos": "v",
+                                    "form": "meN-leleh"
+                                }
+                            },
+                            {
+                                "wf": "dari",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dari",
+                                    "pos": "p",
+                                    "form": "dari"
+                                }
+                            },
+                            {
+                                "wf": "luka",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "luka",
+                                    "pos": "n|v",
+                                    "form": "luka"
+                                }
+                            }
+                        ],
+                        "syllables": 9
+                    },
+                    {
+                        "line": "Sambil berjalan kau usap juga.",
+                        "words": [
+                            {
+                                "wf": "Sambil",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sambil",
+                                    "pos": "p",
+                                    "form": "sambil"
+                                }
+                            },
+                            {
+                                "wf": "berjalan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jalan",
+                                    "pos": "v",
+                                    "form": "ber-jalan"
+                                }
+                            },
+                            {
+                                "wf": "kau",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kau",
+                                    "pos": "pron",
+                                    "form": "kau"
+                                }
+                            },
+                            {
+                                "wf": "usap",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "usap",
+                                    "pos": "v",
+                                    "form": "usap"
+                                }
+                            },
+                            {
+                                "wf": "juga",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "juga",
+                                    "pos": "adv",
+                                    "form": "juga"
+                                }
+                            },
+                            {
+                                "wf": ".",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "Bersuara tiap kau melangkah",
+                        "words": [
+                            {
+                                "wf": "Bersuara",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "suara",
+                                    "pos": "v",
+                                    "form": "ber-suara"
+                                }
+                            },
+                            {
+                                "wf": "tiap",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tiap",
+                                    "pos": "a",
+                                    "form": "tiap"
+                                }
+                            },
+                            {
+                                "wf": "kau",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kau",
+                                    "pos": "pron",
+                                    "form": "kau"
+                                }
+                            },
+                            {
+                                "wf": "melangkah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "langkah",
+                                    "pos": "v",
+                                    "form": "meN-langkah"
+                                }
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "Mengeerang tiap kau memandang",
+                        "words": [
+                            {
+                                "wf": "Mengeerang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "mengeerang",
+                                    "pos": "v",
+                                    "form": "mengeerang"
+                                }
+                            },
+                            {
+                                "wf": "tiap",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tiap",
+                                    "pos": "a",
+                                    "form": "tiap"
+                                }
+                            },
+                            {
+                                "wf": "kau",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kau",
+                                    "pos": "pron",
+                                    "form": "kau"
+                                }
+                            },
+                            {
+                                "wf": "memandang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pandang",
+                                    "pos": "v",
+                                    "form": "meN-pandang"
+                                }
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "Menetes dari suasana kau datang",
+                        "words": [
+                            {
+                                "wf": "Menetes",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tetes",
+                                    "pos": "v",
+                                    "form": "meN-tetes"
+                                }
+                            },
+                            {
+                                "wf": "dari",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dari",
+                                    "pos": "p",
+                                    "form": "dari"
+                                }
+                            },
+                            {
+                                "wf": "suasana",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "suasana",
+                                    "pos": "n",
+                                    "form": "suasana"
+                                }
+                            },
+                            {
+                                "wf": "kau",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kau",
+                                    "pos": "pron",
+                                    "form": "kau"
+                                }
+                            },
+                            {
+                                "wf": "datang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "datang",
+                                    "pos": "v|n",
+                                    "form": "datang"
+                                }
+                            }
+                        ],
+                        "syllables": 12
+                    },
+                    {
+                        "line": "Sembarang kau merebah.",
+                        "words": [
+                            {
+                                "wf": "Sembarang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sembarang",
+                                    "pos": "a",
+                                    "form": "Sembarang"
+                                }
+                            },
+                            {
+                                "wf": "kau",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kau",
+                                    "pos": "pron",
+                                    "form": "kau"
+                                }
+                            },
+                            {
+                                "wf": "merebah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "rebah",
+                                    "pos": "v",
+                                    "form": "meN-rebah"
+                                }
+                            },
+                            {
+                                "wf": ".",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 7
+                    },
+                    {
+                        "line": "Mengganggu dalam mimpiku",
+                        "words": [
+                            {
+                                "wf": "Mengganggu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ganggu",
+                                    "pos": "v",
+                                    "form": "meN-ganggu"
+                                }
+                            },
+                            {
+                                "wf": "dalam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dalam",
+                                    "pos": "a|n",
+                                    "form": "dalam"
+                                }
+                            },
+                            {
+                                "wf": "mimpiku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "mimpi",
+                                    "pos": "n",
+                                    "form": "mimpi-ku"
+                                }
+                            }
+                        ],
+                        "syllables": 8
+                    },
+                    {
+                        "line": "Menghempas aku di bumi keras",
+                        "words": [
+                            {
+                                "wf": "Menghempas",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hempas",
+                                    "pos": "v",
+                                    "form": "meN-hempas"
+                                }
+                            },
+                            {
+                                "wf": "aku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "aku",
+                                    "pos": "pron",
+                                    "form": "aku"
+                                }
+                            },
+                            {
+                                "wf": "di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "bumi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bumi",
+                                    "pos": "n",
+                                    "form": "bumi"
+                                }
+                            },
+                            {
+                                "wf": "keras",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "keras",
+                                    "pos": "a",
+                                    "form": "keras"
+                                }
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "Di bibirku terasa pedas",
+                        "words": [
+                            {
+                                "wf": "Di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "bibirku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bibir",
+                                    "pos": "n",
+                                    "form": "bibir-ku"
+                                }
+                            },
+                            {
+                                "wf": "terasa",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "rasa",
+                                    "pos": "v",
+                                    "form": "ter-rasa"
+                                }
+                            },
+                            {
+                                "wf": "pedas",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pedas",
+                                    "pos": "n|a",
+                                    "form": "pedas"
+                                }
+                            }
+                        ],
+                        "syllables": 9
+                    },
+                    {
+                        "line": "Mengaum di telingaku.",
+                        "words": [
+                            {
+                                "wf": "Mengaum",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "aum",
+                                    "pos": "v",
+                                    "form": "meN-aum"
+                                }
+                            },
+                            {
+                                "wf": "di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "telingaku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "telinga",
+                                    "pos": "n",
+                                    "form": "telinga-ku"
+                                }
+                            },
+                            {
+                                "wf": ".",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 7
+                    },
+                    {
+                        "line": "Baik, baik aku akan menghadap Dia",
+                        "words": [
+                            {
+                                "wf": "Baik",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "baik",
+                                    "pos": "a|v|p|n",
+                                    "form": "baik"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "baik",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "baik",
+                                    "pos": "a|v|p|n",
+                                    "form": "baik"
+                                }
+                            },
+                            {
+                                "wf": "aku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "aku",
+                                    "pos": "pron",
+                                    "form": "aku"
+                                }
+                            },
+                            {
+                                "wf": "akan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "akan",
+                                    "pos": "v",
+                                    "form": "akan"
+                                }
+                            },
+                            {
+                                "wf": "menghadap",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hadap",
+                                    "pos": "v",
+                                    "form": "meN-hadap"
+                                }
+                            },
+                            {
+                                "wf": "Dia",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dia",
+                                    "pos": "v",
+                                    "form": "dia"
+                                }
+                            }
+                        ],
+                        "syllables": 11
+                    },
+                    {
+                        "line": "Menyerahkan diri dari segala dosa",
+                        "words": [
+                            {
+                                "wf": "Menyerahkan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "serah",
+                                    "pos": "v",
+                                    "form": "meN-serah-kan"
+                                }
+                            },
+                            {
+                                "wf": "diri",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "diri",
+                                    "pos": "n",
+                                    "form": "diri"
+                                }
+                            },
+                            {
+                                "wf": "dari",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dari",
+                                    "pos": "p",
+                                    "form": "dari"
+                                }
+                            },
+                            {
+                                "wf": "segala",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "segala",
+                                    "pos": "num",
+                                    "form": "segala"
+                                }
+                            },
+                            {
+                                "wf": "dosa",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dosa",
+                                    "pos": "n",
+                                    "form": "dosa"
+                                }
+                            }
+                        ],
+                        "syllables": 13
+                    },
+                    {
+                        "line": "Tapi jangan tentang lagi aku",
+                        "words": [
+                            {
+                                "wf": "Tapi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tapi",
+                                    "pos": "v",
+                                    "form": "tapi"
+                                }
+                            },
+                            {
+                                "wf": "jangan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jangan",
+                                    "pos": "adv",
+                                    "form": "jangan"
+                                }
+                            },
+                            {
+                                "wf": "tentang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tentang",
+                                    "pos": "p",
+                                    "form": "tentang"
+                                }
+                            },
+                            {
+                                "wf": "lagi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lagi",
+                                    "pos": "adv|p",
+                                    "form": "lagi"
+                                }
+                            },
+                            {
+                                "wf": "aku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "aku",
+                                    "pos": "pron",
+                                    "form": "aku"
+                                }
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "Nanti darahku jadi beku.",
+                        "words": [
+                            {
+                                "wf": "Nanti",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "nanti",
+                                    "pos": "n|adv",
+                                    "form": "nanti"
+                                }
+                            },
+                            {
+                                "wf": "darahku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "darah",
+                                    "pos": "n",
+                                    "form": "darah-ku"
+                                }
+                            },
+                            {
+                                "wf": "jadi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jadi",
+                                    "pos": "v",
+                                    "form": "jadi"
+                                }
+                            },
+                            {
+                                "wf": "beku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "beku",
+                                    "pos": "a",
+                                    "form": "beku"
+                                }
+                            },
+                            {
+                                "wf": ".",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 9
+                    }
+                ],
+                "num_lines": 20
+            }
+        ]
+    }
+}

@@ -1,0 +1,728 @@
+{
+    "meta": {
+        "file_name": "341.json",
+        "id_bd": 341,
+        "author": "Ajip Rosidi",
+        "title": "Kucari musik",
+        "genre": "стихотворение",
+        "year": 1968,
+        "num_lines": 18,
+        "rhyme": "Есть",
+        "syllables": [
+            5,
+            3,
+            4,
+            4,
+            5,
+            3,
+            4,
+            3,
+            15,
+            7,
+            7,
+            14,
+            7,
+            12,
+            15,
+            6,
+            5,
+            6
+        ],
+        "strofy": [
+            4,
+            1,
+            4,
+            1,
+            1,
+            1,
+            2,
+            1,
+            5,
+            1,
+            2
+        ]
+    },
+    "poem": {
+        "text": "{Kucari musik\r\nYang brisik\r\nYang berontak\r\nMemberangsang}\r\n{Kucari musik\r\nYang sejuk\r\nYang mengalun\r\nTenteram}\r\n{Kucari musik. Setiap saat kucari musik.}\r\n{Musik yang menggairahkan\r\nMengendap dalam hati.}\r\n{Musik menyelinap dalam celah-celah waktu\r\nMerasuk dalam jiwa\r\nMengusap luka-luka hidup yang nyeri\r\nDan menidurkan tangan-tangan durhaka yang lelah\r\nDalam pangkuanMu.}\r\n{Maka kasihMu\r\nmengalir abadi.}",
+        "strof": [
+            {
+                "strof": "Kucari musik\r\nYang brisik\r\nYang berontak\r\nMemberangsang",
+                "lines": [
+                    {
+                        "line": "Kucari musik",
+                        "words": [
+                            {
+                                "wf": "Kucari",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "Kucari",
+                                    "pos": "v",
+                                    "form": "Kucari"
+                                }
+                            },
+                            {
+                                "wf": "musik",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "musik",
+                                    "pos": "n",
+                                    "form": "musik"
+                                }
+                            }
+                        ],
+                        "syllables": 5
+                    },
+                    {
+                        "line": "Yang brisik",
+                        "words": [
+                            {
+                                "wf": "Yang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "yang",
+                                    "pos": "a|v|n",
+                                    "form": "yang"
+                                }
+                            },
+                            {
+                                "wf": "brisik",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "brisik",
+                                    "pos": "?",
+                                    "form": "brisik"
+                                }
+                            }
+                        ],
+                        "syllables": 3
+                    },
+                    {
+                        "line": "Yang berontak",
+                        "words": [
+                            {
+                                "wf": "Yang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "yang",
+                                    "pos": "a|v|n",
+                                    "form": "yang"
+                                }
+                            },
+                            {
+                                "wf": "berontak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "berontak",
+                                    "pos": "v",
+                                    "form": "berontak"
+                                }
+                            }
+                        ],
+                        "syllables": 4
+                    },
+                    {
+                        "line": "Memberangsang",
+                        "words": [
+                            {
+                                "wf": "Memberangsang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "berangsang",
+                                    "pos": "a|v",
+                                    "form": "meN-berangsang"
+                                }
+                            }
+                        ],
+                        "syllables": 4
+                    }
+                ],
+                "num_lines": 4
+            },
+            {
+                "strof": "\r\n",
+                "lines": [
+                    {
+                        "line": "",
+                        "words": [],
+                        "syllables": 0
+                    }
+                ],
+                "num_lines": 1
+            },
+            {
+                "strof": "Kucari musik\r\nYang sejuk\r\nYang mengalun\r\nTenteram",
+                "lines": [
+                    {
+                        "line": "Kucari musik",
+                        "words": [
+                            {
+                                "wf": "Kucari",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "Kucari",
+                                    "pos": "v",
+                                    "form": "Kucari"
+                                }
+                            },
+                            {
+                                "wf": "musik",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "musik",
+                                    "pos": "n",
+                                    "form": "musik"
+                                }
+                            }
+                        ],
+                        "syllables": 5
+                    },
+                    {
+                        "line": "Yang sejuk",
+                        "words": [
+                            {
+                                "wf": "Yang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "yang",
+                                    "pos": "a|v|n",
+                                    "form": "yang"
+                                }
+                            },
+                            {
+                                "wf": "sejuk",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sejuk",
+                                    "pos": "a",
+                                    "form": "sejuk"
+                                }
+                            }
+                        ],
+                        "syllables": 3
+                    },
+                    {
+                        "line": "Yang mengalun",
+                        "words": [
+                            {
+                                "wf": "Yang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "yang",
+                                    "pos": "a|v|n",
+                                    "form": "yang"
+                                }
+                            },
+                            {
+                                "wf": "mengalun",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "alun",
+                                    "pos": "v",
+                                    "form": "meN-alun"
+                                }
+                            }
+                        ],
+                        "syllables": 4
+                    },
+                    {
+                        "line": "Tenteram",
+                        "words": [
+                            {
+                                "wf": "Tenteram",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tenteram",
+                                    "pos": "a",
+                                    "form": "Tenteram"
+                                }
+                            }
+                        ],
+                        "syllables": 3
+                    }
+                ],
+                "num_lines": 4
+            },
+            {
+                "strof": "\r\n",
+                "lines": [
+                    {
+                        "line": "",
+                        "words": [],
+                        "syllables": 0
+                    }
+                ],
+                "num_lines": 1
+            },
+            {
+                "strof": "Kucari musik. Setiap saat kucari musik.",
+                "lines": [
+                    {
+                        "line": "Kucari musik. Setiap saat kucari musik.",
+                        "words": [
+                            {
+                                "wf": "Kucari",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "Kucari",
+                                    "pos": "v",
+                                    "form": "Kucari"
+                                }
+                            },
+                            {
+                                "wf": "musik",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "musik",
+                                    "pos": "n",
+                                    "form": "musik"
+                                }
+                            },
+                            {
+                                "wf": ". ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "Setiap",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tiap",
+                                    "pos": "num",
+                                    "form": "se-tiap"
+                                }
+                            },
+                            {
+                                "wf": "saat",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "saat",
+                                    "pos": "n",
+                                    "form": "saat"
+                                }
+                            },
+                            {
+                                "wf": "kucari",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "cari",
+                                    "pos": "v",
+                                    "form": "ku-cari"
+                                }
+                            },
+                            {
+                                "wf": "musik",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "musik",
+                                    "pos": "n",
+                                    "form": "musik"
+                                }
+                            },
+                            {
+                                "wf": ".",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 15
+                    }
+                ],
+                "num_lines": 1
+            },
+            {
+                "strof": "\r\n",
+                "lines": [
+                    {
+                        "line": "",
+                        "words": [],
+                        "syllables": 0
+                    }
+                ],
+                "num_lines": 1
+            },
+            {
+                "strof": "Musik yang menggairahkan\r\nMengendap dalam hati.",
+                "lines": [
+                    {
+                        "line": "Musik yang menggairahkan",
+                        "words": [
+                            {
+                                "wf": "Musik",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "musik",
+                                    "pos": "n",
+                                    "form": "musik"
+                                }
+                            },
+                            {
+                                "wf": "yang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "yang",
+                                    "pos": "a|v|n",
+                                    "form": "yang"
+                                }
+                            },
+                            {
+                                "wf": "menggairahkan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "gairah",
+                                    "pos": "v",
+                                    "form": "meN-gairah-kan"
+                                }
+                            }
+                        ],
+                        "syllables": 7
+                    },
+                    {
+                        "line": "Mengendap dalam hati.",
+                        "words": [
+                            {
+                                "wf": "Mengendap",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "endap",
+                                    "pos": "v",
+                                    "form": "meN-endap"
+                                }
+                            },
+                            {
+                                "wf": "dalam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dalam",
+                                    "pos": "a|n",
+                                    "form": "dalam"
+                                }
+                            },
+                            {
+                                "wf": "hati",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hati",
+                                    "pos": "n",
+                                    "form": "hati"
+                                }
+                            },
+                            {
+                                "wf": ".",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 7
+                    }
+                ],
+                "num_lines": 2
+            },
+            {
+                "strof": "\r\n",
+                "lines": [
+                    {
+                        "line": "",
+                        "words": [],
+                        "syllables": 0
+                    }
+                ],
+                "num_lines": 1
+            },
+            {
+                "strof": "Musik menyelinap dalam celah-celah waktu\r\nMerasuk dalam jiwa\r\nMengusap luka-luka hidup yang nyeri\r\nDan menidurkan tangan-tangan durhaka yang lelah\r\nDalam pangkuanMu.",
+                "lines": [
+                    {
+                        "line": "Musik menyelinap dalam celah-celah waktu",
+                        "words": [
+                            {
+                                "wf": "Musik",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "musik",
+                                    "pos": "n",
+                                    "form": "musik"
+                                }
+                            },
+                            {
+                                "wf": "menyelinap",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "selinap",
+                                    "pos": "v",
+                                    "form": "meN-selinap"
+                                }
+                            },
+                            {
+                                "wf": "dalam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dalam",
+                                    "pos": "a|n",
+                                    "form": "dalam"
+                                }
+                            },
+                            {
+                                "wf": "celah-celah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "",
+                                    "pos": "n",
+                                    "form": "celah-celah-lah"
+                                }
+                            },
+                            {
+                                "wf": "waktu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "waktu",
+                                    "pos": "n|p",
+                                    "form": "waktu"
+                                }
+                            }
+                        ],
+                        "syllables": 14
+                    },
+                    {
+                        "line": "Merasuk dalam jiwa",
+                        "words": [
+                            {
+                                "wf": "Merasuk",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "rasuk",
+                                    "pos": "v",
+                                    "form": "meN-rasuk"
+                                }
+                            },
+                            {
+                                "wf": "dalam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dalam",
+                                    "pos": "a|n",
+                                    "form": "dalam"
+                                }
+                            },
+                            {
+                                "wf": "jiwa",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jiwa",
+                                    "pos": "n",
+                                    "form": "jiwa"
+                                }
+                            }
+                        ],
+                        "syllables": 7
+                    },
+                    {
+                        "line": "Mengusap luka-luka hidup yang nyeri",
+                        "words": [
+                            {
+                                "wf": "Mengusap",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "usap",
+                                    "pos": "v",
+                                    "form": "meN-usap"
+                                }
+                            },
+                            {
+                                "wf": "luka-luka",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "luka",
+                                    "pos": "n|v",
+                                    "form": "luka-luka"
+                                }
+                            },
+                            {
+                                "wf": "hidup",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hidup",
+                                    "pos": "v",
+                                    "form": "hidup"
+                                }
+                            },
+                            {
+                                "wf": "yang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "yang",
+                                    "pos": "a|v|n",
+                                    "form": "yang"
+                                }
+                            },
+                            {
+                                "wf": "nyeri",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "nyeri",
+                                    "pos": "v",
+                                    "form": "nyeri"
+                                }
+                            }
+                        ],
+                        "syllables": 12
+                    },
+                    {
+                        "line": "Dan menidurkan tangan-tangan durhaka yang lelah",
+                        "words": [
+                            {
+                                "wf": "Dan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dan",
+                                    "pos": "p",
+                                    "form": "dan"
+                                }
+                            },
+                            {
+                                "wf": "menidurkan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tidur",
+                                    "pos": "v",
+                                    "form": "meN-tidur-kan"
+                                }
+                            },
+                            {
+                                "wf": "tangan-tangan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tangan",
+                                    "pos": "n",
+                                    "form": "tangan-tangan"
+                                }
+                            },
+                            {
+                                "wf": "durhaka",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "durhaka",
+                                    "pos": "a",
+                                    "form": "durhaka"
+                                }
+                            },
+                            {
+                                "wf": "yang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "yang",
+                                    "pos": "a|v|n",
+                                    "form": "yang"
+                                }
+                            },
+                            {
+                                "wf": "lelah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lelah",
+                                    "pos": "a",
+                                    "form": "lelah"
+                                }
+                            }
+                        ],
+                        "syllables": 15
+                    },
+                    {
+                        "line": "Dalam pangkuanMu.",
+                        "words": [
+                            {
+                                "wf": "Dalam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dalam",
+                                    "pos": "a|n",
+                                    "form": "dalam"
+                                }
+                            },
+                            {
+                                "wf": "pangkuanMu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pangkuanmu",
+                                    "pos": "?",
+                                    "form": "pangkuanmu"
+                                }
+                            },
+                            {
+                                "wf": ".",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 6
+                    }
+                ],
+                "num_lines": 5
+            },
+            {
+                "strof": "\r\n",
+                "lines": [
+                    {
+                        "line": "",
+                        "words": [],
+                        "syllables": 0
+                    }
+                ],
+                "num_lines": 1
+            },
+            {
+                "strof": "Maka kasihMu\r\nmengalir abadi.",
+                "lines": [
+                    {
+                        "line": "Maka kasihMu",
+                        "words": [
+                            {
+                                "wf": "Maka",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "maka",
+                                    "pos": "p",
+                                    "form": "maka"
+                                }
+                            },
+                            {
+                                "wf": "kasihMu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kasihmu",
+                                    "pos": "?",
+                                    "form": "kasihmu"
+                                }
+                            }
+                        ],
+                        "syllables": 5
+                    },
+                    {
+                        "line": "mengalir abadi.",
+                        "words": [
+                            {
+                                "wf": "mengalir",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "alir",
+                                    "pos": "v",
+                                    "form": "meN-alir"
+                                }
+                            },
+                            {
+                                "wf": "abadi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "abadi",
+                                    "pos": "a",
+                                    "form": "abadi"
+                                }
+                            },
+                            {
+                                "wf": ".",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 6
+                    }
+                ],
+                "num_lines": 2
+            }
+        ]
+    }
+}

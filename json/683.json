@@ -1,0 +1,1124 @@
+{
+    "meta": {
+        "file_name": "683.json",
+        "id_bd": 683,
+        "author": "W.S. Rendra",
+        "title": "Nina bobok bagi pengantin",
+        "genre": "стихотворение",
+        "year": "---",
+        "num_lines": 18,
+        "rhyme": "Есть",
+        "syllables": [
+            10,
+            15,
+            11,
+            6,
+            9,
+            15,
+            13,
+            16,
+            13,
+            10,
+            10,
+            15,
+            7,
+            7,
+            14,
+            10,
+            12,
+            15
+        ],
+        "strofy": [
+            3,
+            1,
+            3,
+            1,
+            3,
+            1,
+            3,
+            1,
+            3,
+            1,
+            3
+        ]
+    },
+    "poem": {
+        "text": "{Awan bergoyang, pohonan bergoyang\r\nantara pohonan bergoyang malaikat membayang\r\ndari jauh bunyi merdu loceng loyang}\r\n{Sepi, syahdu, rindu\r\ncandu rindu, ghairah kelabu\r\nrebahlah, sayang, rebahlah wajahmu ke dadaku}\r\n{Langit lembayung, pucuk-pucuk daun lembayung\r\nantara daunan lembayung bergantung hati yang ruyung\r\ndalam hawa bergulung mantera dan tenung}\r\n{Mimpi remaja, bulan kenangan\r\nduka cinta, duka berkilauan\r\nrebahlah sayang, rebahkan mimpimu ke dadaku}\r\n{Bumi berangkat tidur\r\nduka berangkat hancur\r\naku tampung kau dalam pelukan tangan rindu}\r\n{Sepi dan tidur, tidur dan sepi\r\nsepi tanpa mati, tidur tanpa mati\r\nrebahlah sayang, rebahkan dukamu ke dadaku.}",
+        "strof": [
+            {
+                "strof": "Awan bergoyang, pohonan bergoyang\r\nantara pohonan bergoyang malaikat membayang\r\ndari jauh bunyi merdu loceng loyang",
+                "lines": [
+                    {
+                        "line": "Awan bergoyang, pohonan bergoyang",
+                        "words": [
+                            {
+                                "wf": "Awan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "awan",
+                                    "pos": "n",
+                                    "form": "awan"
+                                }
+                            },
+                            {
+                                "wf": "bergoyang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "goyang",
+                                    "pos": "v",
+                                    "form": "ber-goyang"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "pohonan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pohonan",
+                                    "pos": "n",
+                                    "form": "pohonan"
+                                }
+                            },
+                            {
+                                "wf": "bergoyang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "goyang",
+                                    "pos": "v",
+                                    "form": "ber-goyang"
+                                }
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "antara pohonan bergoyang malaikat membayang",
+                        "words": [
+                            {
+                                "wf": "antara",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "antara",
+                                    "pos": "n|p|a",
+                                    "form": "antara"
+                                }
+                            },
+                            {
+                                "wf": "pohonan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pohonan",
+                                    "pos": "n",
+                                    "form": "pohonan"
+                                }
+                            },
+                            {
+                                "wf": "bergoyang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "goyang",
+                                    "pos": "v",
+                                    "form": "ber-goyang"
+                                }
+                            },
+                            {
+                                "wf": "malaikat",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "malaikat",
+                                    "pos": "n",
+                                    "form": "malaikat"
+                                }
+                            },
+                            {
+                                "wf": "membayang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bayang",
+                                    "pos": "v",
+                                    "form": "meN-bayang"
+                                }
+                            }
+                        ],
+                        "syllables": 15
+                    },
+                    {
+                        "line": "dari jauh bunyi merdu loceng loyang",
+                        "words": [
+                            {
+                                "wf": "dari",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dari",
+                                    "pos": "p",
+                                    "form": "dari"
+                                }
+                            },
+                            {
+                                "wf": "jauh",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jauh",
+                                    "pos": "a",
+                                    "form": "jauh"
+                                }
+                            },
+                            {
+                                "wf": "bunyi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bunyi",
+                                    "pos": "v",
+                                    "form": "bunyi"
+                                }
+                            },
+                            {
+                                "wf": "merdu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "merdu",
+                                    "pos": "a",
+                                    "form": "merdu"
+                                }
+                            },
+                            {
+                                "wf": "loceng",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "loceng",
+                                    "pos": "?",
+                                    "form": "loceng"
+                                }
+                            },
+                            {
+                                "wf": "loyang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "loyang",
+                                    "pos": "n",
+                                    "form": "loyang"
+                                }
+                            }
+                        ],
+                        "syllables": 11
+                    }
+                ],
+                "num_lines": 3
+            },
+            {
+                "strof": "\r\n",
+                "lines": [
+                    {
+                        "line": "",
+                        "words": [],
+                        "syllables": 0
+                    }
+                ],
+                "num_lines": 1
+            },
+            {
+                "strof": "Sepi, syahdu, rindu\r\ncandu rindu, ghairah kelabu\r\nrebahlah, sayang, rebahlah wajahmu ke dadaku",
+                "lines": [
+                    {
+                        "line": "Sepi, syahdu, rindu",
+                        "words": [
+                            {
+                                "wf": "Sepi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sepi",
+                                    "pos": "a",
+                                    "form": "sepi"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "syahdu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "syahdu",
+                                    "pos": "a",
+                                    "form": "syahdu"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "rindu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "rindu",
+                                    "pos": "a",
+                                    "form": "rindu"
+                                }
+                            }
+                        ],
+                        "syllables": 6
+                    },
+                    {
+                        "line": "candu rindu, ghairah kelabu",
+                        "words": [
+                            {
+                                "wf": "candu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "candu",
+                                    "pos": "n",
+                                    "form": "candu"
+                                }
+                            },
+                            {
+                                "wf": "rindu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "rindu",
+                                    "pos": "a",
+                                    "form": "rindu"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "ghairah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ghairah",
+                                    "pos": "?",
+                                    "form": "ghairah"
+                                }
+                            },
+                            {
+                                "wf": "kelabu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kelabu",
+                                    "pos": "n",
+                                    "form": "kelabu"
+                                }
+                            }
+                        ],
+                        "syllables": 9
+                    },
+                    {
+                        "line": "rebahlah, sayang, rebahlah wajahmu ke dadaku",
+                        "words": [
+                            {
+                                "wf": "rebahlah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "rebah",
+                                    "pos": "v",
+                                    "form": "rebah-lah"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "sayang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sayang",
+                                    "pos": "a|v|n",
+                                    "form": "sayang"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "rebahlah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "rebah",
+                                    "pos": "v",
+                                    "form": "rebah-lah"
+                                }
+                            },
+                            {
+                                "wf": "wajahmu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "wajah",
+                                    "pos": "n",
+                                    "form": "wajahmu"
+                                }
+                            },
+                            {
+                                "wf": "ke",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ke",
+                                    "pos": "p",
+                                    "form": "ke"
+                                }
+                            },
+                            {
+                                "wf": "dadaku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dada",
+                                    "pos": "n",
+                                    "form": "dada-ku"
+                                }
+                            }
+                        ],
+                        "syllables": 15
+                    }
+                ],
+                "num_lines": 3
+            },
+            {
+                "strof": "\r\n",
+                "lines": [
+                    {
+                        "line": "",
+                        "words": [],
+                        "syllables": 0
+                    }
+                ],
+                "num_lines": 1
+            },
+            {
+                "strof": "Langit lembayung, pucuk-pucuk daun lembayung\r\nantara daunan lembayung bergantung hati yang ruyung\r\ndalam hawa bergulung mantera dan tenung",
+                "lines": [
+                    {
+                        "line": "Langit lembayung, pucuk-pucuk daun lembayung",
+                        "words": [
+                            {
+                                "wf": "Langit",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "langit",
+                                    "pos": "n",
+                                    "form": "langit"
+                                }
+                            },
+                            {
+                                "wf": "lembayung",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lembayung",
+                                    "pos": "n",
+                                    "form": "lembayung"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "pucuk-pucuk",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pucuk",
+                                    "pos": "n",
+                                    "form": "pucuk-pucuk"
+                                }
+                            },
+                            {
+                                "wf": "daun",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "daun",
+                                    "pos": "n",
+                                    "form": "daun"
+                                }
+                            },
+                            {
+                                "wf": "lembayung",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lembayung",
+                                    "pos": "n",
+                                    "form": "lembayung"
+                                }
+                            }
+                        ],
+                        "syllables": 13
+                    },
+                    {
+                        "line": "antara daunan lembayung bergantung hati yang ruyung",
+                        "words": [
+                            {
+                                "wf": "antara",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "antara",
+                                    "pos": "n|p|a",
+                                    "form": "antara"
+                                }
+                            },
+                            {
+                                "wf": "daunan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "daunan",
+                                    "pos": "n",
+                                    "form": "daunan"
+                                }
+                            },
+                            {
+                                "wf": "lembayung",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lembayung",
+                                    "pos": "n",
+                                    "form": "lembayung"
+                                }
+                            },
+                            {
+                                "wf": "bergantung",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "gantung",
+                                    "pos": "v",
+                                    "form": "ber-gantung"
+                                }
+                            },
+                            {
+                                "wf": "hati",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hati",
+                                    "pos": "n",
+                                    "form": "hati"
+                                }
+                            },
+                            {
+                                "wf": "yang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "yang",
+                                    "pos": "a|v|n",
+                                    "form": "yang"
+                                }
+                            },
+                            {
+                                "wf": "ruyung",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ruyung",
+                                    "pos": "a",
+                                    "form": "ruyung"
+                                }
+                            }
+                        ],
+                        "syllables": 16
+                    },
+                    {
+                        "line": "dalam hawa bergulung mantera dan tenung",
+                        "words": [
+                            {
+                                "wf": "dalam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dalam",
+                                    "pos": "a|n",
+                                    "form": "dalam"
+                                }
+                            },
+                            {
+                                "wf": "hawa",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hawa",
+                                    "pos": "n",
+                                    "form": "hawa"
+                                }
+                            },
+                            {
+                                "wf": "bergulung",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "gulung",
+                                    "pos": "v",
+                                    "form": "ber-gulung"
+                                }
+                            },
+                            {
+                                "wf": "mantera",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "mantra",
+                                    "pos": "?",
+                                    "form": "mantera"
+                                }
+                            },
+                            {
+                                "wf": "dan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dan",
+                                    "pos": "p",
+                                    "form": "dan"
+                                }
+                            },
+                            {
+                                "wf": "tenung",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tenung",
+                                    "pos": "n",
+                                    "form": "tenung"
+                                }
+                            }
+                        ],
+                        "syllables": 13
+                    }
+                ],
+                "num_lines": 3
+            },
+            {
+                "strof": "\r\n",
+                "lines": [
+                    {
+                        "line": "",
+                        "words": [],
+                        "syllables": 0
+                    }
+                ],
+                "num_lines": 1
+            },
+            {
+                "strof": "Mimpi remaja, bulan kenangan\r\nduka cinta, duka berkilauan\r\nrebahlah sayang, rebahkan mimpimu ke dadaku",
+                "lines": [
+                    {
+                        "line": "Mimpi remaja, bulan kenangan",
+                        "words": [
+                            {
+                                "wf": "Mimpi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "mimpi",
+                                    "pos": "n",
+                                    "form": "mimpi"
+                                }
+                            },
+                            {
+                                "wf": "remaja",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "remaja",
+                                    "pos": "a|n",
+                                    "form": "remaja"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "bulan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bulan",
+                                    "pos": "n",
+                                    "form": "bulan"
+                                }
+                            },
+                            {
+                                "wf": "kenangan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kenang",
+                                    "pos": "n",
+                                    "form": "kenang-an"
+                                }
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "duka cinta, duka berkilauan",
+                        "words": [
+                            {
+                                "wf": "duka",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "duka",
+                                    "pos": "a",
+                                    "form": "duka"
+                                }
+                            },
+                            {
+                                "wf": "cinta",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "cinta",
+                                    "pos": "a",
+                                    "form": "cinta"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "duka",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "duka",
+                                    "pos": "a",
+                                    "form": "duka"
+                                }
+                            },
+                            {
+                                "wf": "berkilauan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kilau",
+                                    "pos": "a",
+                                    "form": "ber-kilau-an"
+                                }
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "rebahlah sayang, rebahkan mimpimu ke dadaku",
+                        "words": [
+                            {
+                                "wf": "rebahlah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "rebah",
+                                    "pos": "v",
+                                    "form": "rebah-lah"
+                                }
+                            },
+                            {
+                                "wf": "sayang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sayang",
+                                    "pos": "a|v|n",
+                                    "form": "sayang"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "rebahkan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "rebahkan",
+                                    "pos": "n",
+                                    "form": "rebahkan"
+                                }
+                            },
+                            {
+                                "wf": "mimpimu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "mimpi",
+                                    "pos": "n",
+                                    "form": "mimpi-mu"
+                                }
+                            },
+                            {
+                                "wf": "ke",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ke",
+                                    "pos": "p",
+                                    "form": "ke"
+                                }
+                            },
+                            {
+                                "wf": "dadaku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dada",
+                                    "pos": "n",
+                                    "form": "dada-ku"
+                                }
+                            }
+                        ],
+                        "syllables": 15
+                    }
+                ],
+                "num_lines": 3
+            },
+            {
+                "strof": "\r\n",
+                "lines": [
+                    {
+                        "line": "",
+                        "words": [],
+                        "syllables": 0
+                    }
+                ],
+                "num_lines": 1
+            },
+            {
+                "strof": "Bumi berangkat tidur\r\nduka berangkat hancur\r\naku tampung kau dalam pelukan tangan rindu",
+                "lines": [
+                    {
+                        "line": "Bumi berangkat tidur",
+                        "words": [
+                            {
+                                "wf": "Bumi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bumi",
+                                    "pos": "n",
+                                    "form": "bumi"
+                                }
+                            },
+                            {
+                                "wf": "berangkat",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "berangkat",
+                                    "pos": "v",
+                                    "form": "berangkat"
+                                }
+                            },
+                            {
+                                "wf": "tidur",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tidur",
+                                    "pos": "v",
+                                    "form": "tidur"
+                                }
+                            }
+                        ],
+                        "syllables": 7
+                    },
+                    {
+                        "line": "duka berangkat hancur",
+                        "words": [
+                            {
+                                "wf": "duka",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "duka",
+                                    "pos": "a",
+                                    "form": "duka"
+                                }
+                            },
+                            {
+                                "wf": "berangkat",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "berangkat",
+                                    "pos": "v",
+                                    "form": "berangkat"
+                                }
+                            },
+                            {
+                                "wf": "hancur",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "luluh",
+                                    "pos": "v",
+                                    "form": "hancur"
+                                }
+                            }
+                        ],
+                        "syllables": 7
+                    },
+                    {
+                        "line": "aku tampung kau dalam pelukan tangan rindu",
+                        "words": [
+                            {
+                                "wf": "aku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "aku",
+                                    "pos": "pron",
+                                    "form": "aku"
+                                }
+                            },
+                            {
+                                "wf": "tampung",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tampung",
+                                    "pos": "v",
+                                    "form": "tampung"
+                                }
+                            },
+                            {
+                                "wf": "kau",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kau",
+                                    "pos": "pron",
+                                    "form": "kau"
+                                }
+                            },
+                            {
+                                "wf": "dalam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dalam",
+                                    "pos": "a|n",
+                                    "form": "dalam"
+                                }
+                            },
+                            {
+                                "wf": "pelukan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "peluk",
+                                    "pos": "v",
+                                    "form": "peluk-an"
+                                }
+                            },
+                            {
+                                "wf": "tangan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tangan",
+                                    "pos": "v",
+                                    "form": "tangan"
+                                }
+                            },
+                            {
+                                "wf": "rindu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "rindu",
+                                    "pos": "a",
+                                    "form": "rindu"
+                                }
+                            }
+                        ],
+                        "syllables": 14
+                    }
+                ],
+                "num_lines": 3
+            },
+            {
+                "strof": "\r\n",
+                "lines": [
+                    {
+                        "line": "",
+                        "words": [],
+                        "syllables": 0
+                    }
+                ],
+                "num_lines": 1
+            },
+            {
+                "strof": "Sepi dan tidur, tidur dan sepi\r\nsepi tanpa mati, tidur tanpa mati\r\nrebahlah sayang, rebahkan dukamu ke dadaku.",
+                "lines": [
+                    {
+                        "line": "Sepi dan tidur, tidur dan sepi",
+                        "words": [
+                            {
+                                "wf": "Sepi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sepi",
+                                    "pos": "a",
+                                    "form": "sepi"
+                                }
+                            },
+                            {
+                                "wf": "dan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dan",
+                                    "pos": "p",
+                                    "form": "dan"
+                                }
+                            },
+                            {
+                                "wf": "tidur",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tidur",
+                                    "pos": "v",
+                                    "form": "tidur"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "tidur",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tidur",
+                                    "pos": "v",
+                                    "form": "tidur"
+                                }
+                            },
+                            {
+                                "wf": "dan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dan",
+                                    "pos": "p",
+                                    "form": "dan"
+                                }
+                            },
+                            {
+                                "wf": "sepi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sepi",
+                                    "pos": "a",
+                                    "form": "sepi"
+                                }
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "sepi tanpa mati, tidur tanpa mati",
+                        "words": [
+                            {
+                                "wf": "sepi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sepi",
+                                    "pos": "a",
+                                    "form": "sepi"
+                                }
+                            },
+                            {
+                                "wf": "tanpa",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tanpa",
+                                    "pos": "adv",
+                                    "form": "tanpa"
+                                }
+                            },
+                            {
+                                "wf": "mati",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "mati",
+                                    "pos": "v",
+                                    "form": "mati"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "tidur",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tidur",
+                                    "pos": "v",
+                                    "form": "tidur"
+                                }
+                            },
+                            {
+                                "wf": "tanpa",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tanpa",
+                                    "pos": "adv",
+                                    "form": "tanpa"
+                                }
+                            },
+                            {
+                                "wf": "mati",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "mati",
+                                    "pos": "v",
+                                    "form": "mati"
+                                }
+                            }
+                        ],
+                        "syllables": 12
+                    },
+                    {
+                        "line": "rebahlah sayang, rebahkan dukamu ke dadaku.",
+                        "words": [
+                            {
+                                "wf": "rebahlah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "rebah",
+                                    "pos": "v",
+                                    "form": "rebah-lah"
+                                }
+                            },
+                            {
+                                "wf": "sayang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sayang",
+                                    "pos": "a|v|n",
+                                    "form": "sayang"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "rebahkan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "rebahkan",
+                                    "pos": "n",
+                                    "form": "rebahkan"
+                                }
+                            },
+                            {
+                                "wf": "dukamu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "duka",
+                                    "pos": "a",
+                                    "form": "duka-mu"
+                                }
+                            },
+                            {
+                                "wf": "ke",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ke",
+                                    "pos": "p",
+                                    "form": "ke"
+                                }
+                            },
+                            {
+                                "wf": "dadaku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dada",
+                                    "pos": "n",
+                                    "form": "dada-ku"
+                                }
+                            },
+                            {
+                                "wf": ".",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 15
+                    }
+                ],
+                "num_lines": 3
+            }
+        ]
+    }
+}

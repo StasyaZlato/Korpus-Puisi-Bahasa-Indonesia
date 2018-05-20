@@ -1,0 +1,617 @@
+{
+    "meta": {
+        "file_name": "772.json",
+        "id_bd": 772,
+        "author": "Ajip Rosidi",
+        "title": "Pantun burung merpati",
+        "genre": "пантун",
+        "year": "---",
+        "num_lines": 12,
+        "rhyme": "Есть",
+        "syllables": [
+            9,
+            10,
+            12,
+            11,
+            9,
+            10,
+            10,
+            9,
+            9,
+            9,
+            9,
+            9
+        ],
+        "strofy": [
+            4,
+            1,
+            4,
+            1,
+            4
+        ]
+    },
+    "poem": {
+        "text": "{Merpati si burung merpati\r\nhinggap di dahan pohon beringin\r\nMeski seribu tahun aku menanti\r\nmemandang wajahmu tetap kepingin}\r\n{Merpati putih terbang tinggi\r\nmencari air pengobat dahaga\r\nMenanti kasih turun ke hati\r\ndari sumbermu tak berhingga}\r\n{Jinak-jinak burung merpati\r\nmendekat mau tertangkap tidak;\r\nDekat, dekat engkau di hati\r\ndengan mata tertampak tidak}",
+        "strof": [
+            {
+                "strof": "Merpati si burung merpati\r\nhinggap di dahan pohon beringin\r\nMeski seribu tahun aku menanti\r\nmemandang wajahmu tetap kepingin",
+                "lines": [
+                    {
+                        "line": "Merpati si burung merpati",
+                        "words": [
+                            {
+                                "wf": "Merpati",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "merpati",
+                                    "pos": "n",
+                                    "form": "merpati"
+                                }
+                            },
+                            {
+                                "wf": "si",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "si",
+                                    "pos": "v",
+                                    "form": "si"
+                                }
+                            },
+                            {
+                                "wf": "burung",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "burung",
+                                    "pos": "n",
+                                    "form": "burung"
+                                }
+                            },
+                            {
+                                "wf": "merpati",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "merpati",
+                                    "pos": "n",
+                                    "form": "merpati"
+                                }
+                            }
+                        ],
+                        "syllables": 9
+                    },
+                    {
+                        "line": "hinggap di dahan pohon beringin",
+                        "words": [
+                            {
+                                "wf": "hinggap",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hinggap",
+                                    "pos": "v",
+                                    "form": "hinggap"
+                                }
+                            },
+                            {
+                                "wf": "di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "dahan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dahan",
+                                    "pos": "n",
+                                    "form": "dahan"
+                                }
+                            },
+                            {
+                                "wf": "pohon",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pohon",
+                                    "pos": "n",
+                                    "form": "pohon"
+                                }
+                            },
+                            {
+                                "wf": "beringin",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "beringin",
+                                    "pos": "n",
+                                    "form": "beringin"
+                                }
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "Meski seribu tahun aku menanti",
+                        "words": [
+                            {
+                                "wf": "Meski",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "meski",
+                                    "pos": "p",
+                                    "form": "meski"
+                                }
+                            },
+                            {
+                                "wf": "seribu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ribu",
+                                    "pos": "v",
+                                    "form": "se-ribu"
+                                }
+                            },
+                            {
+                                "wf": "tahun",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tahun",
+                                    "pos": "n",
+                                    "form": "tahun"
+                                }
+                            },
+                            {
+                                "wf": "aku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "aku",
+                                    "pos": "pron",
+                                    "form": "aku"
+                                }
+                            },
+                            {
+                                "wf": "menanti",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "menanti",
+                                    "pos": "v",
+                                    "form": "menanti"
+                                }
+                            }
+                        ],
+                        "syllables": 12
+                    },
+                    {
+                        "line": "memandang wajahmu tetap kepingin",
+                        "words": [
+                            {
+                                "wf": "memandang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pandang",
+                                    "pos": "v",
+                                    "form": "meN-pandang"
+                                }
+                            },
+                            {
+                                "wf": "wajahmu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "wajahmu",
+                                    "pos": "n",
+                                    "form": "wajahmu"
+                                }
+                            },
+                            {
+                                "wf": "tetap",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tetap",
+                                    "pos": "v|a|adv",
+                                    "form": "tetap"
+                                }
+                            },
+                            {
+                                "wf": "kepingin",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kepingin",
+                                    "pos": "adv",
+                                    "form": "kepingin"
+                                }
+                            }
+                        ],
+                        "syllables": 11
+                    }
+                ],
+                "num_lines": 4
+            },
+            {
+                "strof": "\r\n",
+                "lines": [
+                    {
+                        "line": "",
+                        "words": [],
+                        "syllables": 0
+                    }
+                ],
+                "num_lines": 1
+            },
+            {
+                "strof": "Merpati putih terbang tinggi\r\nmencari air pengobat dahaga\r\nMenanti kasih turun ke hati\r\ndari sumbermu tak berhingga",
+                "lines": [
+                    {
+                        "line": "Merpati putih terbang tinggi",
+                        "words": [
+                            {
+                                "wf": "Merpati",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "merpati",
+                                    "pos": "n",
+                                    "form": "merpati"
+                                }
+                            },
+                            {
+                                "wf": "putih",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "putih",
+                                    "pos": "n|a",
+                                    "form": "putih"
+                                }
+                            },
+                            {
+                                "wf": "terbang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "terbang",
+                                    "pos": "v",
+                                    "form": "terbang"
+                                }
+                            },
+                            {
+                                "wf": "tinggi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tinggi",
+                                    "pos": "a",
+                                    "form": "tinggi"
+                                }
+                            }
+                        ],
+                        "syllables": 9
+                    },
+                    {
+                        "line": "mencari air pengobat dahaga",
+                        "words": [
+                            {
+                                "wf": "mencari",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "cari",
+                                    "pos": "v",
+                                    "form": "meN-cari"
+                                }
+                            },
+                            {
+                                "wf": "air",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "air",
+                                    "pos": "n",
+                                    "form": "air"
+                                }
+                            },
+                            {
+                                "wf": "pengobat",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "obat",
+                                    "pos": "n",
+                                    "form": "peN-obat"
+                                }
+                            },
+                            {
+                                "wf": "dahaga",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dahaga",
+                                    "pos": "a",
+                                    "form": "dahaga"
+                                }
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "Menanti kasih turun ke hati",
+                        "words": [
+                            {
+                                "wf": "Menanti",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "Menanti",
+                                    "pos": "v",
+                                    "form": "Menanti"
+                                }
+                            },
+                            {
+                                "wf": "kasih",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kasih",
+                                    "pos": "n",
+                                    "form": "kasih"
+                                }
+                            },
+                            {
+                                "wf": "turun",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "turun",
+                                    "pos": "v",
+                                    "form": "turun"
+                                }
+                            },
+                            {
+                                "wf": "ke",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ke",
+                                    "pos": "p",
+                                    "form": "ke"
+                                }
+                            },
+                            {
+                                "wf": "hati",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hati",
+                                    "pos": "n",
+                                    "form": "hati"
+                                }
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "dari sumbermu tak berhingga",
+                        "words": [
+                            {
+                                "wf": "dari",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dari",
+                                    "pos": "p",
+                                    "form": "dari"
+                                }
+                            },
+                            {
+                                "wf": "sumbermu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sumber",
+                                    "pos": "n",
+                                    "form": "sumber-mu"
+                                }
+                            },
+                            {
+                                "wf": "tak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tak",
+                                    "pos": "adv",
+                                    "form": "tak"
+                                }
+                            },
+                            {
+                                "wf": "berhingga",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hingga",
+                                    "pos": "v",
+                                    "form": "ber-hingga"
+                                }
+                            }
+                        ],
+                        "syllables": 9
+                    }
+                ],
+                "num_lines": 4
+            },
+            {
+                "strof": "\r\n",
+                "lines": [
+                    {
+                        "line": "",
+                        "words": [],
+                        "syllables": 0
+                    }
+                ],
+                "num_lines": 1
+            },
+            {
+                "strof": "Jinak-jinak burung merpati\r\nmendekat mau tertangkap tidak;\r\nDekat, dekat engkau di hati\r\ndengan mata tertampak tidak",
+                "lines": [
+                    {
+                        "line": "Jinak-jinak burung merpati",
+                        "words": [
+                            {
+                                "wf": "Jinak-jinak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jinak",
+                                    "pos": "a",
+                                    "form": "jinak-jinak"
+                                }
+                            },
+                            {
+                                "wf": "burung",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "burung",
+                                    "pos": "n",
+                                    "form": "burung"
+                                }
+                            },
+                            {
+                                "wf": "merpati",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "merpati",
+                                    "pos": "n",
+                                    "form": "merpati"
+                                }
+                            }
+                        ],
+                        "syllables": 9
+                    },
+                    {
+                        "line": "mendekat mau tertangkap tidak;",
+                        "words": [
+                            {
+                                "wf": "mendekat",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dekat",
+                                    "pos": "v",
+                                    "form": "meN-dekat"
+                                }
+                            },
+                            {
+                                "wf": "mau",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "mau",
+                                    "pos": "adv|n",
+                                    "form": "mau"
+                                }
+                            },
+                            {
+                                "wf": "tertangkap",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tangkap",
+                                    "pos": "v",
+                                    "form": "ter-tangkap"
+                                }
+                            },
+                            {
+                                "wf": "tidak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tidak",
+                                    "pos": "adv",
+                                    "form": "tidak"
+                                }
+                            },
+                            {
+                                "wf": ";",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 9
+                    },
+                    {
+                        "line": "Dekat, dekat engkau di hati",
+                        "words": [
+                            {
+                                "wf": "Dekat",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dekat",
+                                    "pos": "a",
+                                    "form": "dekat"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "dekat",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dekat",
+                                    "pos": "a",
+                                    "form": "dekat"
+                                }
+                            },
+                            {
+                                "wf": "engkau",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "engkau",
+                                    "pos": "pron",
+                                    "form": "engkau"
+                                }
+                            },
+                            {
+                                "wf": "di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "hati",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hati",
+                                    "pos": "n",
+                                    "form": "hati"
+                                }
+                            }
+                        ],
+                        "syllables": 9
+                    },
+                    {
+                        "line": "dengan mata tertampak tidak",
+                        "words": [
+                            {
+                                "wf": "dengan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dengan",
+                                    "pos": "p",
+                                    "form": "dengan"
+                                }
+                            },
+                            {
+                                "wf": "mata",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "mata",
+                                    "pos": "n",
+                                    "form": "mata"
+                                }
+                            },
+                            {
+                                "wf": "tertampak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "nampak",
+                                    "pos": "v",
+                                    "form": "tertampak"
+                                }
+                            },
+                            {
+                                "wf": "tidak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tidak",
+                                    "pos": "adv",
+                                    "form": "tidak"
+                                }
+                            }
+                        ],
+                        "syllables": 9
+                    }
+                ],
+                "num_lines": 4
+            }
+        ]
+    }
+}

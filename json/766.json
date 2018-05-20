@@ -1,0 +1,888 @@
+{
+    "meta": {
+        "file_name": "766.json",
+        "id_bd": 766,
+        "author": "Ajip Rosidi",
+        "title": "Pantun dari kyoto",
+        "genre": "пантун",
+        "year": "---",
+        "num_lines": 18,
+        "rhyme": "Есть",
+        "syllables": [
+            9,
+            9,
+            11,
+            10,
+            9,
+            11,
+            11,
+            9,
+            11,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            9,
+            10
+        ],
+        "strofy": [
+            6,
+            1,
+            6,
+            1,
+            6
+        ]
+    },
+    "poem": {
+        "text": "{Kyoto kota seribu jinja\r\ntujuan orang berwisata\r\nmenonton matsuri sepanjang hari;\r\nHidup sejahtera di dunia\r\ntanpa engkau tidak bermakna\r\nseperti terbuang ke lorong sunyi}\r\n{Dalam istana peninggalan Shogun\r\ntaman luas pohon pun rindang\r\nbenteng dan parit di sekelilingnya;\r\nMencari engkau bertahun-tahun\r\ntiada henti malam dan siang\r\nnamun engkau tetap rahasia}\r\n{Benteng dan parit mengelilingi\r\nmenjaga dari serangan musuh\r\nmeski jumlahnya beratus ribu;\r\nHidup terasa tak punya arti\r\nkarena engkau terlalu jauh\r\nentah dimana aku tak tahu}",
+        "strof": [
+            {
+                "strof": "Kyoto kota seribu jinja\r\ntujuan orang berwisata\r\nmenonton matsuri sepanjang hari;\r\nHidup sejahtera di dunia\r\ntanpa engkau tidak bermakna\r\nseperti terbuang ke lorong sunyi",
+                "lines": [
+                    {
+                        "line": "Kyoto kota seribu jinja",
+                        "words": [
+                            {
+                                "wf": "Kyoto",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kyoto",
+                                    "pos": "?",
+                                    "form": "kyoto"
+                                }
+                            },
+                            {
+                                "wf": "kota",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kota",
+                                    "pos": "n",
+                                    "form": "kota"
+                                }
+                            },
+                            {
+                                "wf": "seribu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ribu",
+                                    "pos": "v",
+                                    "form": "se-ribu"
+                                }
+                            },
+                            {
+                                "wf": "jinja",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jinja",
+                                    "pos": "?",
+                                    "form": "jinja"
+                                }
+                            }
+                        ],
+                        "syllables": 9
+                    },
+                    {
+                        "line": "tujuan orang berwisata",
+                        "words": [
+                            {
+                                "wf": "tujuan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tuju",
+                                    "pos": "n",
+                                    "form": "tuju-an"
+                                }
+                            },
+                            {
+                                "wf": "orang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "orang",
+                                    "pos": "n",
+                                    "form": "orang"
+                                }
+                            },
+                            {
+                                "wf": "berwisata",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "wisata",
+                                    "pos": "v",
+                                    "form": "ber-wisata"
+                                }
+                            }
+                        ],
+                        "syllables": 9
+                    },
+                    {
+                        "line": "menonton matsuri sepanjang hari;",
+                        "words": [
+                            {
+                                "wf": "menonton",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tonton",
+                                    "pos": "v",
+                                    "form": "meN-tonton"
+                                }
+                            },
+                            {
+                                "wf": "matsuri",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "matsuri",
+                                    "pos": "?",
+                                    "form": "matsuri"
+                                }
+                            },
+                            {
+                                "wf": "sepanjang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "panjang",
+                                    "pos": "n",
+                                    "form": "se-panjang"
+                                }
+                            },
+                            {
+                                "wf": "hari",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hari",
+                                    "pos": "n",
+                                    "form": "hari"
+                                }
+                            },
+                            {
+                                "wf": ";",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 11
+                    },
+                    {
+                        "line": "Hidup sejahtera di dunia",
+                        "words": [
+                            {
+                                "wf": "Hidup",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hidup",
+                                    "pos": "v",
+                                    "form": "hidup"
+                                }
+                            },
+                            {
+                                "wf": "sejahtera",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sejahtera",
+                                    "pos": "a",
+                                    "form": "sejahtera"
+                                }
+                            },
+                            {
+                                "wf": "di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "dunia",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dunia",
+                                    "pos": "n",
+                                    "form": "dunia"
+                                }
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "tanpa engkau tidak bermakna",
+                        "words": [
+                            {
+                                "wf": "tanpa",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tanpa",
+                                    "pos": "adv",
+                                    "form": "tanpa"
+                                }
+                            },
+                            {
+                                "wf": "engkau",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "engkau",
+                                    "pos": "pron",
+                                    "form": "engkau"
+                                }
+                            },
+                            {
+                                "wf": "tidak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tidak",
+                                    "pos": "adv",
+                                    "form": "tidak"
+                                }
+                            },
+                            {
+                                "wf": "bermakna",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "makna",
+                                    "pos": "v",
+                                    "form": "ber-makna"
+                                }
+                            }
+                        ],
+                        "syllables": 9
+                    },
+                    {
+                        "line": "seperti terbuang ke lorong sunyi",
+                        "words": [
+                            {
+                                "wf": "seperti",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "seperti",
+                                    "pos": "p",
+                                    "form": "seperti"
+                                }
+                            },
+                            {
+                                "wf": "terbuang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "buang",
+                                    "pos": "v",
+                                    "form": "ter-buang"
+                                }
+                            },
+                            {
+                                "wf": "ke",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ke",
+                                    "pos": "p",
+                                    "form": "ke"
+                                }
+                            },
+                            {
+                                "wf": "lorong",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lorong",
+                                    "pos": "n",
+                                    "form": "lorong"
+                                }
+                            },
+                            {
+                                "wf": "sunyi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sunyi",
+                                    "pos": "a",
+                                    "form": "sunyi"
+                                }
+                            }
+                        ],
+                        "syllables": 11
+                    }
+                ],
+                "num_lines": 6
+            },
+            {
+                "strof": "\r\n",
+                "lines": [
+                    {
+                        "line": "",
+                        "words": [],
+                        "syllables": 0
+                    }
+                ],
+                "num_lines": 1
+            },
+            {
+                "strof": "Dalam istana peninggalan Shogun\r\ntaman luas pohon pun rindang\r\nbenteng dan parit di sekelilingnya;\r\nMencari engkau bertahun-tahun\r\ntiada henti malam dan siang\r\nnamun engkau tetap rahasia",
+                "lines": [
+                    {
+                        "line": "Dalam istana peninggalan Shogun",
+                        "words": [
+                            {
+                                "wf": "Dalam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dalam",
+                                    "pos": "a|n",
+                                    "form": "dalam"
+                                }
+                            },
+                            {
+                                "wf": "istana",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "istana",
+                                    "pos": "n",
+                                    "form": "istana"
+                                }
+                            },
+                            {
+                                "wf": "peninggalan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tinggal",
+                                    "pos": "n",
+                                    "form": "peN-tinggal-an"
+                                }
+                            },
+                            {
+                                "wf": "Shogun",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "shogun",
+                                    "pos": "?",
+                                    "form": "shogun"
+                                }
+                            }
+                        ],
+                        "syllables": 11
+                    },
+                    {
+                        "line": "taman luas pohon pun rindang",
+                        "words": [
+                            {
+                                "wf": "taman",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "taman",
+                                    "pos": "n",
+                                    "form": "taman"
+                                }
+                            },
+                            {
+                                "wf": "luas",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "luas",
+                                    "pos": "a",
+                                    "form": "luas"
+                                }
+                            },
+                            {
+                                "wf": "pohon",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pohon",
+                                    "pos": "n",
+                                    "form": "pohon"
+                                }
+                            },
+                            {
+                                "wf": "pun",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pun",
+                                    "pos": "p",
+                                    "form": "pun"
+                                }
+                            },
+                            {
+                                "wf": "rindang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "rindang",
+                                    "pos": "a",
+                                    "form": "rindang"
+                                }
+                            }
+                        ],
+                        "syllables": 9
+                    },
+                    {
+                        "line": "benteng dan parit di sekelilingnya;",
+                        "words": [
+                            {
+                                "wf": "benteng",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "benteng",
+                                    "pos": "",
+                                    "form": "benteng"
+                                }
+                            },
+                            {
+                                "wf": "dan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dan",
+                                    "pos": "p",
+                                    "form": "dan"
+                                }
+                            },
+                            {
+                                "wf": "parit",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "parit",
+                                    "pos": "n",
+                                    "form": "parit"
+                                }
+                            },
+                            {
+                                "wf": "di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "sekelilingnya",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "keliling",
+                                    "pos": "p",
+                                    "form": "se-keliling-nya-nya"
+                                }
+                            },
+                            {
+                                "wf": ";",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 11
+                    },
+                    {
+                        "line": "Mencari engkau bertahun-tahun",
+                        "words": [
+                            {
+                                "wf": "Mencari",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "cari",
+                                    "pos": "v",
+                                    "form": "meN-cari"
+                                }
+                            },
+                            {
+                                "wf": "engkau",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "engkau",
+                                    "pos": "pron",
+                                    "form": "engkau"
+                                }
+                            },
+                            {
+                                "wf": "bertahun-tahun",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tahun",
+                                    "pos": "num",
+                                    "form": "ber-tahun-tahun"
+                                }
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "tiada henti malam dan siang",
+                        "words": [
+                            {
+                                "wf": "tiada",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tiada",
+                                    "pos": "v",
+                                    "form": "tiada"
+                                }
+                            },
+                            {
+                                "wf": "henti",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "henti",
+                                    "pos": "n",
+                                    "form": "henti"
+                                }
+                            },
+                            {
+                                "wf": "malam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "malam",
+                                    "pos": "n",
+                                    "form": "malam"
+                                }
+                            },
+                            {
+                                "wf": "dan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dan",
+                                    "pos": "p",
+                                    "form": "dan"
+                                }
+                            },
+                            {
+                                "wf": "siang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "siang",
+                                    "pos": "n",
+                                    "form": "siang"
+                                }
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "namun engkau tetap rahasia",
+                        "words": [
+                            {
+                                "wf": "namun",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "namun",
+                                    "pos": "p",
+                                    "form": "namun"
+                                }
+                            },
+                            {
+                                "wf": "engkau",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "engkau",
+                                    "pos": "pron",
+                                    "form": "engkau"
+                                }
+                            },
+                            {
+                                "wf": "tetap",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tetap",
+                                    "pos": "v|a|adv",
+                                    "form": "tetap"
+                                }
+                            },
+                            {
+                                "wf": "rahasia",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "rahasia",
+                                    "pos": "n|a",
+                                    "form": "rahasia"
+                                }
+                            }
+                        ],
+                        "syllables": 10
+                    }
+                ],
+                "num_lines": 6
+            },
+            {
+                "strof": "\r\n",
+                "lines": [
+                    {
+                        "line": "",
+                        "words": [],
+                        "syllables": 0
+                    }
+                ],
+                "num_lines": 1
+            },
+            {
+                "strof": "Benteng dan parit mengelilingi\r\nmenjaga dari serangan musuh\r\nmeski jumlahnya beratus ribu;\r\nHidup terasa tak punya arti\r\nkarena engkau terlalu jauh\r\nentah dimana aku tak tahu",
+                "lines": [
+                    {
+                        "line": "Benteng dan parit mengelilingi",
+                        "words": [
+                            {
+                                "wf": "Benteng",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "benteng",
+                                    "pos": "",
+                                    "form": "benteng"
+                                }
+                            },
+                            {
+                                "wf": "dan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dan",
+                                    "pos": "p",
+                                    "form": "dan"
+                                }
+                            },
+                            {
+                                "wf": "parit",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "parit",
+                                    "pos": "n",
+                                    "form": "parit"
+                                }
+                            },
+                            {
+                                "wf": "mengelilingi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "keliling",
+                                    "pos": "v",
+                                    "form": "meN-keliling-i"
+                                }
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "menjaga dari serangan musuh",
+                        "words": [
+                            {
+                                "wf": "menjaga",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jaga",
+                                    "pos": "v",
+                                    "form": "meN-jaga"
+                                }
+                            },
+                            {
+                                "wf": "dari",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dari",
+                                    "pos": "p",
+                                    "form": "dari"
+                                }
+                            },
+                            {
+                                "wf": "serangan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "serang",
+                                    "pos": "v",
+                                    "form": "serang-an"
+                                }
+                            },
+                            {
+                                "wf": "musuh",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "musuh",
+                                    "pos": "n",
+                                    "form": "musuh"
+                                }
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "meski jumlahnya beratus ribu;",
+                        "words": [
+                            {
+                                "wf": "meski",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "meski",
+                                    "pos": "p",
+                                    "form": "meski"
+                                }
+                            },
+                            {
+                                "wf": "jumlahnya",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jumlah",
+                                    "pos": "n",
+                                    "form": "jumlah-nya"
+                                }
+                            },
+                            {
+                                "wf": "beratus",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "beratus",
+                                    "pos": "v",
+                                    "form": "beratus"
+                                }
+                            },
+                            {
+                                "wf": "ribu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ribu",
+                                    "pos": "v",
+                                    "form": "ribu"
+                                }
+                            },
+                            {
+                                "wf": ";",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "Hidup terasa tak punya arti",
+                        "words": [
+                            {
+                                "wf": "Hidup",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hidup",
+                                    "pos": "v",
+                                    "form": "hidup"
+                                }
+                            },
+                            {
+                                "wf": "terasa",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "rasa",
+                                    "pos": "v",
+                                    "form": "ter-rasa"
+                                }
+                            },
+                            {
+                                "wf": "tak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tak",
+                                    "pos": "adv",
+                                    "form": "tak"
+                                }
+                            },
+                            {
+                                "wf": "punya",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "punya",
+                                    "pos": "v|n",
+                                    "form": "punya"
+                                }
+                            },
+                            {
+                                "wf": "arti",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "arti",
+                                    "pos": "n",
+                                    "form": "arti"
+                                }
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "karena engkau terlalu jauh",
+                        "words": [
+                            {
+                                "wf": "karena",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "karena",
+                                    "pos": "p",
+                                    "form": "karena"
+                                }
+                            },
+                            {
+                                "wf": "engkau",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "engkau",
+                                    "pos": "pron",
+                                    "form": "engkau"
+                                }
+                            },
+                            {
+                                "wf": "terlalu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lalu",
+                                    "pos": "adv",
+                                    "form": "ter-lalu"
+                                }
+                            },
+                            {
+                                "wf": "jauh",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jauh",
+                                    "pos": "a",
+                                    "form": "jauh"
+                                }
+                            }
+                        ],
+                        "syllables": 9
+                    },
+                    {
+                        "line": "entah dimana aku tak tahu",
+                        "words": [
+                            {
+                                "wf": "entah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "entah",
+                                    "pos": "adv",
+                                    "form": "entah"
+                                }
+                            },
+                            {
+                                "wf": "dimana",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dimana",
+                                    "pos": "pron",
+                                    "form": "dimana"
+                                }
+                            },
+                            {
+                                "wf": "aku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "aku",
+                                    "pos": "pron",
+                                    "form": "aku"
+                                }
+                            },
+                            {
+                                "wf": "tak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tak",
+                                    "pos": "adv",
+                                    "form": "tak"
+                                }
+                            },
+                            {
+                                "wf": "tahu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tahu",
+                                    "pos": "v",
+                                    "form": "tahu"
+                                }
+                            }
+                        ],
+                        "syllables": 10
+                    }
+                ],
+                "num_lines": 6
+            }
+        ]
+    }
+}

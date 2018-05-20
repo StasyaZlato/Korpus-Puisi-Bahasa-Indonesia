@@ -1,0 +1,462 @@
+{
+    "meta": {
+        "file_name": "123.json",
+        "id_bd": 123,
+        "author": "Chairil Anwar",
+        "title": "Jangan kita di sini berhenti",
+        "genre": "стихотворение",
+        "year": "24.07.1943",
+        "num_lines": 8,
+        "rhyme": "Есть",
+        "syllables": [
+            10,
+            10,
+            10,
+            6,
+            15,
+            15,
+            12,
+            8
+        ],
+        "strofy": [
+            8
+        ]
+    },
+    "poem": {
+        "text": "Jangan kita di sini berhenti.\r\nTuaknya tua, sedikit pula\r\nSedang kita mau berkendi-kendi\r\nTerus, terus dulu…!!\r\nKe ruang dimana botol tuak banyak berbaris\r\nPelayannya kita dilayuani gadis-gadis\r\nO, bibir merah, selokan mati pertama\r\nO, hidup, kau masih ketawa??",
+        "strof": [
+            {
+                "strof": "Jangan kita di sini berhenti.\r\nTuaknya tua, sedikit pula\r\nSedang kita mau berkendi-kendi\r\nTerus, terus dulu…!!\r\nKe ruang dimana botol tuak banyak berbaris\r\nPelayannya kita dilayuani gadis-gadis\r\nO, bibir merah, selokan mati pertama\r\nO, hidup, kau masih ketawa??",
+                "lines": [
+                    {
+                        "line": "Jangan kita di sini berhenti.",
+                        "words": [
+                            {
+                                "wf": "Jangan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jangan",
+                                    "pos": "adv",
+                                    "form": "jangan"
+                                }
+                            },
+                            {
+                                "wf": "kita",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kita",
+                                    "pos": "pron",
+                                    "form": "kita"
+                                }
+                            },
+                            {
+                                "wf": "di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "sini",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sini",
+                                    "pos": "pron",
+                                    "form": "sini"
+                                }
+                            },
+                            {
+                                "wf": "berhenti",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "henti",
+                                    "pos": "v",
+                                    "form": "ber-henti"
+                                }
+                            },
+                            {
+                                "wf": ".",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "Tuaknya tua, sedikit pula",
+                        "words": [
+                            {
+                                "wf": "Tuaknya",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tuak",
+                                    "pos": "n",
+                                    "form": "tuak-nya"
+                                }
+                            },
+                            {
+                                "wf": "tua",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tua",
+                                    "pos": "a",
+                                    "form": "tua"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "sedikit",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sedikit",
+                                    "pos": "a",
+                                    "form": "sedikit"
+                                }
+                            },
+                            {
+                                "wf": "pula",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pula",
+                                    "pos": "p",
+                                    "form": "pula"
+                                }
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "Sedang kita mau berkendi-kendi",
+                        "words": [
+                            {
+                                "wf": "Sedang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sedang",
+                                    "pos": "adv",
+                                    "form": "sedang"
+                                }
+                            },
+                            {
+                                "wf": "kita",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kita",
+                                    "pos": "pron",
+                                    "form": "kita"
+                                }
+                            },
+                            {
+                                "wf": "mau",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "mau",
+                                    "pos": "adv|n",
+                                    "form": "mau"
+                                }
+                            },
+                            {
+                                "wf": "berkendi-kendi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kendi",
+                                    "pos": "v",
+                                    "form": "ber-kendi-kendi"
+                                }
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "Terus, terus dulu…!!",
+                        "words": [
+                            {
+                                "wf": "Terus",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "terus",
+                                    "pos": "v",
+                                    "form": "terus"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "terus",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "terus",
+                                    "pos": "v",
+                                    "form": "terus"
+                                }
+                            },
+                            {
+                                "wf": "dulu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dulu",
+                                    "pos": "?",
+                                    "form": "dulu"
+                                }
+                            },
+                            {
+                                "wf": "…!!",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 6
+                    },
+                    {
+                        "line": "Ke ruang dimana botol tuak banyak berbaris",
+                        "words": [
+                            {
+                                "wf": "Ke",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ke",
+                                    "pos": "p",
+                                    "form": "ke"
+                                }
+                            },
+                            {
+                                "wf": "ruang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ruang",
+                                    "pos": "n",
+                                    "form": "ruang"
+                                }
+                            },
+                            {
+                                "wf": "dimana",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dimana",
+                                    "pos": "pron",
+                                    "form": "dimana"
+                                }
+                            },
+                            {
+                                "wf": "botol",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "botol",
+                                    "pos": "n",
+                                    "form": "botol"
+                                }
+                            },
+                            {
+                                "wf": "tuak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tuak",
+                                    "pos": "n",
+                                    "form": "tuak"
+                                }
+                            },
+                            {
+                                "wf": "banyak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "banyak",
+                                    "pos": "a|num|adv",
+                                    "form": "banyak"
+                                }
+                            },
+                            {
+                                "wf": "berbaris",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "baris",
+                                    "pos": "v",
+                                    "form": "ber-baris"
+                                }
+                            }
+                        ],
+                        "syllables": 15
+                    },
+                    {
+                        "line": "Pelayannya kita dilayuani gadis-gadis",
+                        "words": [
+                            {
+                                "wf": "Pelayannya",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "layan",
+                                    "pos": "n",
+                                    "form": "peN-layan-nya"
+                                }
+                            },
+                            {
+                                "wf": "kita",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kita",
+                                    "pos": "pron",
+                                    "form": "kita"
+                                }
+                            },
+                            {
+                                "wf": "dilayuani",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dilayuani",
+                                    "pos": "?",
+                                    "form": "dilayuani"
+                                }
+                            },
+                            {
+                                "wf": "gadis-gadis",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "gadis",
+                                    "pos": "n",
+                                    "form": "gadis-gadis"
+                                }
+                            }
+                        ],
+                        "syllables": 15
+                    },
+                    {
+                        "line": "O, bibir merah, selokan mati pertama",
+                        "words": [
+                            {
+                                "wf": "O",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "o",
+                                    "pos": "n",
+                                    "form": "o"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "bibir",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bibir",
+                                    "pos": "n",
+                                    "form": "bibir"
+                                }
+                            },
+                            {
+                                "wf": "merah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "merah",
+                                    "pos": "n|a",
+                                    "form": "merah"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "selokan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "selokan",
+                                    "pos": "n",
+                                    "form": "selokan"
+                                }
+                            },
+                            {
+                                "wf": "mati",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "mati",
+                                    "pos": "v",
+                                    "form": "mati"
+                                }
+                            },
+                            {
+                                "wf": "pertama",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pertama",
+                                    "pos": "num",
+                                    "form": "pertama"
+                                }
+                            }
+                        ],
+                        "syllables": 12
+                    },
+                    {
+                        "line": "O, hidup, kau masih ketawa??",
+                        "words": [
+                            {
+                                "wf": "O",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "o",
+                                    "pos": "n",
+                                    "form": "o"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "hidup",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hidup",
+                                    "pos": "v",
+                                    "form": "hidup"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "kau",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kau",
+                                    "pos": "pron",
+                                    "form": "kau"
+                                }
+                            },
+                            {
+                                "wf": "masih",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "masih",
+                                    "pos": "n",
+                                    "form": "masih"
+                                }
+                            },
+                            {
+                                "wf": "ketawa",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ketawa",
+                                    "pos": "v",
+                                    "form": "ke-tawa"
+                                }
+                            },
+                            {
+                                "wf": "??",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 8
+                    }
+                ],
+                "num_lines": 8
+            }
+        ]
+    }
+}

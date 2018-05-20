@@ -1,0 +1,396 @@
+{
+    "meta": {
+        "file_name": "680.json",
+        "id_bd": 680,
+        "author": "Ajip Rosidi",
+        "title": "Sebelum padi menguning",
+        "genre": "стихотворение",
+        "year": 1953,
+        "num_lines": 6,
+        "rhyme": "Есть",
+        "syllables": [
+            17,
+            9,
+            15,
+            11,
+            12,
+            10
+        ],
+        "strofy": [
+            2,
+            1,
+            2,
+            1,
+            2
+        ]
+    },
+    "poem": {
+        "text": "{Sebelum padi menguning mana burung datang mendekat\r\natau cinta bisa melekat}\r\n{jika tiada banjir mendatang hama menyerang\r\nharapan panen takkan sia-sia}\r\n{lantas padi menguning cinta pun datang\r\ntinggal aku yang selalu malang}",
+        "strof": [
+            {
+                "strof": "Sebelum padi menguning mana burung datang mendekat\r\natau cinta bisa melekat",
+                "lines": [
+                    {
+                        "line": "Sebelum padi menguning mana burung datang mendekat",
+                        "words": [
+                            {
+                                "wf": "Sebelum",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "belum",
+                                    "pos": "adv",
+                                    "form": "se-belum"
+                                }
+                            },
+                            {
+                                "wf": "padi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "padi",
+                                    "pos": "n",
+                                    "form": "padi"
+                                }
+                            },
+                            {
+                                "wf": "menguning",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kuning",
+                                    "pos": "v",
+                                    "form": "meN-kuning"
+                                }
+                            },
+                            {
+                                "wf": "mana",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "mana",
+                                    "pos": "pron",
+                                    "form": "mana"
+                                }
+                            },
+                            {
+                                "wf": "burung",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "burung",
+                                    "pos": "n",
+                                    "form": "burung"
+                                }
+                            },
+                            {
+                                "wf": "datang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "datang",
+                                    "pos": "v|n",
+                                    "form": "datang"
+                                }
+                            },
+                            {
+                                "wf": "mendekat",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dekat",
+                                    "pos": "v",
+                                    "form": "meN-dekat"
+                                }
+                            }
+                        ],
+                        "syllables": 17
+                    },
+                    {
+                        "line": "atau cinta bisa melekat",
+                        "words": [
+                            {
+                                "wf": "atau",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "atau",
+                                    "pos": "p",
+                                    "form": "atau"
+                                }
+                            },
+                            {
+                                "wf": "cinta",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "cinta",
+                                    "pos": "a",
+                                    "form": "cinta"
+                                }
+                            },
+                            {
+                                "wf": "bisa",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bisa",
+                                    "pos": "v",
+                                    "form": "bisa"
+                                }
+                            },
+                            {
+                                "wf": "melekat",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lekat",
+                                    "pos": "v|a",
+                                    "form": "meN-lekat"
+                                }
+                            }
+                        ],
+                        "syllables": 9
+                    }
+                ],
+                "num_lines": 2
+            },
+            {
+                "strof": "\r\n",
+                "lines": [
+                    {
+                        "line": "",
+                        "words": [],
+                        "syllables": 0
+                    }
+                ],
+                "num_lines": 1
+            },
+            {
+                "strof": "jika tiada banjir mendatang hama menyerang\r\nharapan panen takkan sia-sia",
+                "lines": [
+                    {
+                        "line": "jika tiada banjir mendatang hama menyerang",
+                        "words": [
+                            {
+                                "wf": "jika",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jika",
+                                    "pos": "p",
+                                    "form": "jika"
+                                }
+                            },
+                            {
+                                "wf": "tiada",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tiada",
+                                    "pos": "v",
+                                    "form": "tiada"
+                                }
+                            },
+                            {
+                                "wf": "banjir",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "banjir",
+                                    "pos": "v|n",
+                                    "form": "banjir"
+                                }
+                            },
+                            {
+                                "wf": "mendatang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "datang",
+                                    "pos": "v",
+                                    "form": "meN-datang"
+                                }
+                            },
+                            {
+                                "wf": "hama",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hama",
+                                    "pos": "n",
+                                    "form": "hama"
+                                }
+                            },
+                            {
+                                "wf": "menyerang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "serang",
+                                    "pos": "v",
+                                    "form": "meN-serang"
+                                }
+                            }
+                        ],
+                        "syllables": 15
+                    },
+                    {
+                        "line": "harapan panen takkan sia-sia",
+                        "words": [
+                            {
+                                "wf": "harapan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "harap",
+                                    "pos": "v",
+                                    "form": "harap-an"
+                                }
+                            },
+                            {
+                                "wf": "panen",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "panen",
+                                    "pos": "n|v",
+                                    "form": "panen"
+                                }
+                            },
+                            {
+                                "wf": "takkan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "takkan",
+                                    "pos": "v",
+                                    "form": "takkan"
+                                }
+                            },
+                            {
+                                "wf": "sia-sia",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sia-sia",
+                                    "pos": "a",
+                                    "form": "sia-sia"
+                                }
+                            }
+                        ],
+                        "syllables": 11
+                    }
+                ],
+                "num_lines": 2
+            },
+            {
+                "strof": "\r\n",
+                "lines": [
+                    {
+                        "line": "",
+                        "words": [],
+                        "syllables": 0
+                    }
+                ],
+                "num_lines": 1
+            },
+            {
+                "strof": "lantas padi menguning cinta pun datang\r\ntinggal aku yang selalu malang",
+                "lines": [
+                    {
+                        "line": "lantas padi menguning cinta pun datang",
+                        "words": [
+                            {
+                                "wf": "lantas",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lantas",
+                                    "pos": "adv|p",
+                                    "form": "lantas"
+                                }
+                            },
+                            {
+                                "wf": "padi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "padi",
+                                    "pos": "n",
+                                    "form": "padi"
+                                }
+                            },
+                            {
+                                "wf": "menguning",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kuning",
+                                    "pos": "v",
+                                    "form": "meN-kuning"
+                                }
+                            },
+                            {
+                                "wf": "cinta",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "cinta",
+                                    "pos": "a",
+                                    "form": "cinta"
+                                }
+                            },
+                            {
+                                "wf": "pun",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pun",
+                                    "pos": "p",
+                                    "form": "pun"
+                                }
+                            },
+                            {
+                                "wf": "datang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "datang",
+                                    "pos": "v|n",
+                                    "form": "datang"
+                                }
+                            }
+                        ],
+                        "syllables": 12
+                    },
+                    {
+                        "line": "tinggal aku yang selalu malang",
+                        "words": [
+                            {
+                                "wf": "tinggal",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tinggal",
+                                    "pos": "v",
+                                    "form": "tinggal"
+                                }
+                            },
+                            {
+                                "wf": "aku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "aku",
+                                    "pos": "pron",
+                                    "form": "aku"
+                                }
+                            },
+                            {
+                                "wf": "yang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "yang",
+                                    "pos": "a|v|n",
+                                    "form": "yang"
+                                }
+                            },
+                            {
+                                "wf": "selalu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "selalu",
+                                    "pos": "adv",
+                                    "form": "selalu"
+                                }
+                            },
+                            {
+                                "wf": "malang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "malang",
+                                    "pos": "a",
+                                    "form": "malang"
+                                }
+                            }
+                        ],
+                        "syllables": 10
+                    }
+                ],
+                "num_lines": 2
+            }
+        ]
+    }
+}

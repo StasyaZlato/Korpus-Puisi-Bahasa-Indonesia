@@ -1,0 +1,843 @@
+{
+    "meta": {
+        "file_name": "760.json",
+        "id_bd": 760,
+        "author": "Ajip Rosidi",
+        "title": "Pantun bulan purnama",
+        "genre": "пантун",
+        "year": "---",
+        "num_lines": 16,
+        "rhyme": "Есть",
+        "syllables": [
+            10,
+            9,
+            10,
+            9,
+            10,
+            9,
+            10,
+            7,
+            10,
+            11,
+            10,
+            10,
+            10,
+            11,
+            10,
+            10
+        ],
+        "strofy": [
+            4,
+            1,
+            4,
+            1,
+            4,
+            1,
+            4
+        ]
+    },
+    "poem": {
+        "text": "{Di atas Mino bulan purnama\r\nlangit bersih terang sekali;\r\nMenyebut nama memuja nama\r\nhanya engkau di dalam hati}\r\n{Bulan purnama meskipun terang\r\nkalah oleh cahaya lilin;\r\nKasihku hanya engkau seorang\r\ntak nanti ada yang lain}\r\n{Bulan Purnama di atas bukit\r\ncahaya menerangi kebun bambu;\r\nTanpa engkau hidup jadi pahit\r\nsegala yang lain hanyalah batu}\r\n{Bulan purnama bulan perbani\r\nBulan gerhana kentongan dipalu;\r\nBaru hidupku mengandung arti\r\nbila denganmu aku bertemu}",
+        "strof": [
+            {
+                "strof": "Di atas Mino bulan purnama\r\nlangit bersih terang sekali;\r\nMenyebut nama memuja nama\r\nhanya engkau di dalam hati",
+                "lines": [
+                    {
+                        "line": "Di atas Mino bulan purnama",
+                        "words": [
+                            {
+                                "wf": "Di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "atas",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "atas",
+                                    "pos": "n",
+                                    "form": "atas"
+                                }
+                            },
+                            {
+                                "wf": "Mino",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "mino",
+                                    "pos": "?",
+                                    "form": "mino"
+                                }
+                            },
+                            {
+                                "wf": "bulan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bulan",
+                                    "pos": "n",
+                                    "form": "bulan"
+                                }
+                            },
+                            {
+                                "wf": "purnama",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "purnama",
+                                    "pos": "a|n",
+                                    "form": "purnama"
+                                }
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "langit bersih terang sekali;",
+                        "words": [
+                            {
+                                "wf": "langit",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "langit",
+                                    "pos": "n",
+                                    "form": "langit"
+                                }
+                            },
+                            {
+                                "wf": "bersih",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bersih",
+                                    "pos": "a",
+                                    "form": "bersih"
+                                }
+                            },
+                            {
+                                "wf": "terang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "terang",
+                                    "pos": "a",
+                                    "form": "terang"
+                                }
+                            },
+                            {
+                                "wf": "sekali",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kali",
+                                    "pos": "adv|num|n",
+                                    "form": "se-kali"
+                                }
+                            },
+                            {
+                                "wf": ";",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 9
+                    },
+                    {
+                        "line": "Menyebut nama memuja nama",
+                        "words": [
+                            {
+                                "wf": "Menyebut",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sebut",
+                                    "pos": "v",
+                                    "form": "meN-sebut"
+                                }
+                            },
+                            {
+                                "wf": "nama",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "nama",
+                                    "pos": "a|n",
+                                    "form": "nama"
+                                }
+                            },
+                            {
+                                "wf": "memuja",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "puja",
+                                    "pos": "v",
+                                    "form": "meN-puja"
+                                }
+                            },
+                            {
+                                "wf": "nama",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "nama",
+                                    "pos": "a|n",
+                                    "form": "nama"
+                                }
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "hanya engkau di dalam hati",
+                        "words": [
+                            {
+                                "wf": "hanya",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hanya",
+                                    "pos": "adv",
+                                    "form": "hanya"
+                                }
+                            },
+                            {
+                                "wf": "engkau",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "engkau",
+                                    "pos": "pron",
+                                    "form": "engkau"
+                                }
+                            },
+                            {
+                                "wf": "di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "dalam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dalam",
+                                    "pos": "a|n",
+                                    "form": "dalam"
+                                }
+                            },
+                            {
+                                "wf": "hati",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hati",
+                                    "pos": "n",
+                                    "form": "hati"
+                                }
+                            }
+                        ],
+                        "syllables": 9
+                    }
+                ],
+                "num_lines": 4
+            },
+            {
+                "strof": "\r\n",
+                "lines": [
+                    {
+                        "line": "",
+                        "words": [],
+                        "syllables": 0
+                    }
+                ],
+                "num_lines": 1
+            },
+            {
+                "strof": "Bulan purnama meskipun terang\r\nkalah oleh cahaya lilin;\r\nKasihku hanya engkau seorang\r\ntak nanti ada yang lain",
+                "lines": [
+                    {
+                        "line": "Bulan purnama meskipun terang",
+                        "words": [
+                            {
+                                "wf": "Bulan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bulan",
+                                    "pos": "n",
+                                    "form": "bulan"
+                                }
+                            },
+                            {
+                                "wf": "purnama",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "purnama",
+                                    "pos": "a|n",
+                                    "form": "purnama"
+                                }
+                            },
+                            {
+                                "wf": "meskipun",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "meski",
+                                    "pos": "p",
+                                    "form": "meskipun"
+                                }
+                            },
+                            {
+                                "wf": "terang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "terang",
+                                    "pos": "a",
+                                    "form": "terang"
+                                }
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "kalah oleh cahaya lilin;",
+                        "words": [
+                            {
+                                "wf": "kalah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kalah",
+                                    "pos": "v",
+                                    "form": "kalah"
+                                }
+                            },
+                            {
+                                "wf": "oleh",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "oleh",
+                                    "pos": "",
+                                    "form": "oleh"
+                                }
+                            },
+                            {
+                                "wf": "cahaya",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "cahaya",
+                                    "pos": "n",
+                                    "form": "cahaya"
+                                }
+                            },
+                            {
+                                "wf": "lilin",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lilin",
+                                    "pos": "n",
+                                    "form": "lilin"
+                                }
+                            },
+                            {
+                                "wf": ";",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 9
+                    },
+                    {
+                        "line": "Kasihku hanya engkau seorang",
+                        "words": [
+                            {
+                                "wf": "Kasihku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kasih",
+                                    "pos": "n",
+                                    "form": "kasih-ku"
+                                }
+                            },
+                            {
+                                "wf": "hanya",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hanya",
+                                    "pos": "adv",
+                                    "form": "hanya"
+                                }
+                            },
+                            {
+                                "wf": "engkau",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "engkau",
+                                    "pos": "pron",
+                                    "form": "engkau"
+                                }
+                            },
+                            {
+                                "wf": "seorang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "orang",
+                                    "pos": "n",
+                                    "form": "se-orang"
+                                }
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "tak nanti ada yang lain",
+                        "words": [
+                            {
+                                "wf": "tak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tak",
+                                    "pos": "adv",
+                                    "form": "tak"
+                                }
+                            },
+                            {
+                                "wf": "nanti",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "nanti",
+                                    "pos": "n|adv",
+                                    "form": "nanti"
+                                }
+                            },
+                            {
+                                "wf": "ada",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ada",
+                                    "pos": "v",
+                                    "form": "ada"
+                                }
+                            },
+                            {
+                                "wf": "yang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "yang",
+                                    "pos": "a|v|n",
+                                    "form": "yang"
+                                }
+                            },
+                            {
+                                "wf": "lain",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lain",
+                                    "pos": "a",
+                                    "form": "lain"
+                                }
+                            }
+                        ],
+                        "syllables": 7
+                    }
+                ],
+                "num_lines": 4
+            },
+            {
+                "strof": "\r\n",
+                "lines": [
+                    {
+                        "line": "",
+                        "words": [],
+                        "syllables": 0
+                    }
+                ],
+                "num_lines": 1
+            },
+            {
+                "strof": "Bulan Purnama di atas bukit\r\ncahaya menerangi kebun bambu;\r\nTanpa engkau hidup jadi pahit\r\nsegala yang lain hanyalah batu",
+                "lines": [
+                    {
+                        "line": "Bulan Purnama di atas bukit",
+                        "words": [
+                            {
+                                "wf": "Bulan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bulan",
+                                    "pos": "n",
+                                    "form": "bulan"
+                                }
+                            },
+                            {
+                                "wf": "Purnama",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "purnama",
+                                    "pos": "a|n",
+                                    "form": "purnama"
+                                }
+                            },
+                            {
+                                "wf": "di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "atas",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "atas",
+                                    "pos": "n",
+                                    "form": "atas"
+                                }
+                            },
+                            {
+                                "wf": "bukit",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bukit",
+                                    "pos": "n",
+                                    "form": "bukit"
+                                }
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "cahaya menerangi kebun bambu;",
+                        "words": [
+                            {
+                                "wf": "cahaya",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "cahaya",
+                                    "pos": "n",
+                                    "form": "cahaya"
+                                }
+                            },
+                            {
+                                "wf": "menerangi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "terang",
+                                    "pos": "v",
+                                    "form": "meN-terang-i"
+                                }
+                            },
+                            {
+                                "wf": "kebun",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kebun",
+                                    "pos": "n",
+                                    "form": "kebun"
+                                }
+                            },
+                            {
+                                "wf": "bambu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bambu",
+                                    "pos": "n",
+                                    "form": "bambu"
+                                }
+                            },
+                            {
+                                "wf": ";",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 11
+                    },
+                    {
+                        "line": "Tanpa engkau hidup jadi pahit",
+                        "words": [
+                            {
+                                "wf": "Tanpa",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tanpa",
+                                    "pos": "adv",
+                                    "form": "tanpa"
+                                }
+                            },
+                            {
+                                "wf": "engkau",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "engkau",
+                                    "pos": "pron",
+                                    "form": "engkau"
+                                }
+                            },
+                            {
+                                "wf": "hidup",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hidup",
+                                    "pos": "v",
+                                    "form": "hidup"
+                                }
+                            },
+                            {
+                                "wf": "jadi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jadi",
+                                    "pos": "v",
+                                    "form": "jadi"
+                                }
+                            },
+                            {
+                                "wf": "pahit",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pahit",
+                                    "pos": "a",
+                                    "form": "pahit"
+                                }
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "segala yang lain hanyalah batu",
+                        "words": [
+                            {
+                                "wf": "segala",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "segala",
+                                    "pos": "num",
+                                    "form": "segala"
+                                }
+                            },
+                            {
+                                "wf": "yang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "yang",
+                                    "pos": "a|v|n",
+                                    "form": "yang"
+                                }
+                            },
+                            {
+                                "wf": "lain",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lain",
+                                    "pos": "a",
+                                    "form": "lain"
+                                }
+                            },
+                            {
+                                "wf": "hanyalah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hanyalah",
+                                    "pos": "adv",
+                                    "form": "hanyalah"
+                                }
+                            },
+                            {
+                                "wf": "batu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "batu",
+                                    "pos": "n",
+                                    "form": "batu"
+                                }
+                            }
+                        ],
+                        "syllables": 10
+                    }
+                ],
+                "num_lines": 4
+            },
+            {
+                "strof": "\r\n",
+                "lines": [
+                    {
+                        "line": "",
+                        "words": [],
+                        "syllables": 0
+                    }
+                ],
+                "num_lines": 1
+            },
+            {
+                "strof": "Bulan purnama bulan perbani\r\nBulan gerhana kentongan dipalu;\r\nBaru hidupku mengandung arti\r\nbila denganmu aku bertemu",
+                "lines": [
+                    {
+                        "line": "Bulan purnama bulan perbani",
+                        "words": [
+                            {
+                                "wf": "Bulan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bulan",
+                                    "pos": "n",
+                                    "form": "bulan"
+                                }
+                            },
+                            {
+                                "wf": "purnama",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "purnama",
+                                    "pos": "a|n",
+                                    "form": "purnama"
+                                }
+                            },
+                            {
+                                "wf": "bulan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bulan",
+                                    "pos": "n",
+                                    "form": "bulan"
+                                }
+                            },
+                            {
+                                "wf": "perbani",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "perbani",
+                                    "pos": "a",
+                                    "form": "perbani"
+                                }
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "Bulan gerhana kentongan dipalu;",
+                        "words": [
+                            {
+                                "wf": "Bulan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bulan",
+                                    "pos": "n",
+                                    "form": "bulan"
+                                }
+                            },
+                            {
+                                "wf": "gerhana",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "gerhana",
+                                    "pos": "n|a",
+                                    "form": "gerhana"
+                                }
+                            },
+                            {
+                                "wf": "kentongan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kentongan",
+                                    "pos": "?",
+                                    "form": "kentongan"
+                                }
+                            },
+                            {
+                                "wf": "dipalu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "palu",
+                                    "pos": "n",
+                                    "form": "di-palu"
+                                }
+                            },
+                            {
+                                "wf": ";",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 11
+                    },
+                    {
+                        "line": "Baru hidupku mengandung arti",
+                        "words": [
+                            {
+                                "wf": "Baru",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "baru",
+                                    "pos": "a|adv",
+                                    "form": "baru"
+                                }
+                            },
+                            {
+                                "wf": "hidupku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hidup",
+                                    "pos": "v",
+                                    "form": "hidup-ku"
+                                }
+                            },
+                            {
+                                "wf": "mengandung",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kandung",
+                                    "pos": "v",
+                                    "form": "meN-kandung"
+                                }
+                            },
+                            {
+                                "wf": "arti",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "arti",
+                                    "pos": "n",
+                                    "form": "arti"
+                                }
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "bila denganmu aku bertemu",
+                        "words": [
+                            {
+                                "wf": "bila",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bila",
+                                    "pos": "pron|p",
+                                    "form": "bila"
+                                }
+                            },
+                            {
+                                "wf": "denganmu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dengan",
+                                    "pos": "p",
+                                    "form": "dengan-mu"
+                                }
+                            },
+                            {
+                                "wf": "aku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "aku",
+                                    "pos": "pron",
+                                    "form": "aku"
+                                }
+                            },
+                            {
+                                "wf": "bertemu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "",
+                                    "pos": "v",
+                                    "form": "bertemu-mu"
+                                }
+                            }
+                        ],
+                        "syllables": 10
+                    }
+                ],
+                "num_lines": 4
+            }
+        ]
+    }
+}

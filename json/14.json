@@ -1,0 +1,874 @@
+{
+    "meta": {
+        "file_name": "14.json",
+        "id_bd": 14,
+        "author": "Amir Hamzah",
+        "title": "Hari menuai",
+        "genre": "стихотворение",
+        "year": "---",
+        "num_lines": 20,
+        "rhyme": "Нет",
+        "syllables": [
+            11,
+            12,
+            10,
+            11,
+            9,
+            9,
+            9,
+            10,
+            10,
+            10,
+            12,
+            11,
+            12,
+            10,
+            10,
+            10,
+            4,
+            9,
+            10,
+            11
+        ],
+        "strofy": [
+            20
+        ]
+    },
+    "poem": {
+        "text": "Lamanya sudah tiada bertemu\r\ntiada kedengaran suatu apa\r\ntiada tempat duduk bertanya\r\ntiada teman kawan berberita\r\nLipu aku diharu sendu\r\nsamar sapur cuaca mata\r\nsesak sempit gelanggang dada\r\nsenak terhentak raga kecewa\r\nHibuk mengamuk hati tergari\r\nmelolong meraung menyentak rentak\r\nmembuang merangsang segala petua\r\ntiada percaya pada siapa\r\nKutilik diriku kuselam tahunku\r\ntimbul terasa terpancar terang\r\nistiwa lama merekah terang\r\nmerona rawan membunga sedan\r\nTahu aku\r\nkini hari menuai api\r\nmengetam ancam membelam redam\r\nditulis dilukis jari tanganku.",
+        "strof": [
+            {
+                "strof": "Lamanya sudah tiada bertemu\r\ntiada kedengaran suatu apa\r\ntiada tempat duduk bertanya\r\ntiada teman kawan berberita\r\nLipu aku diharu sendu\r\nsamar sapur cuaca mata\r\nsesak sempit gelanggang dada\r\nsenak terhentak raga kecewa\r\nHibuk mengamuk hati tergari\r\nmelolong meraung menyentak rentak\r\nmembuang merangsang segala petua\r\ntiada percaya pada siapa\r\nKutilik diriku kuselam tahunku\r\ntimbul terasa terpancar terang\r\nistiwa lama merekah terang\r\nmerona rawan membunga sedan\r\nTahu aku\r\nkini hari menuai api\r\nmengetam ancam membelam redam\r\nditulis dilukis jari tanganku.",
+                "lines": [
+                    {
+                        "line": "Lamanya sudah tiada bertemu",
+                        "words": [
+                            {
+                                "wf": "Lamanya",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lama",
+                                    "pos": "adv",
+                                    "form": "lama-nya"
+                                }
+                            },
+                            {
+                                "wf": "sudah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sudah",
+                                    "pos": "adv",
+                                    "form": "sudah"
+                                }
+                            },
+                            {
+                                "wf": "tiada",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tiada",
+                                    "pos": "v",
+                                    "form": "tiada"
+                                }
+                            },
+                            {
+                                "wf": "bertemu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "",
+                                    "pos": "v",
+                                    "form": "bertemu-mu"
+                                }
+                            }
+                        ],
+                        "syllables": 11
+                    },
+                    {
+                        "line": "tiada kedengaran suatu apa",
+                        "words": [
+                            {
+                                "wf": "tiada",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tiada",
+                                    "pos": "v",
+                                    "form": "tiada"
+                                }
+                            },
+                            {
+                                "wf": "kedengaran",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dengar",
+                                    "pos": "v",
+                                    "form": "ke-dengar-an"
+                                }
+                            },
+                            {
+                                "wf": "suatu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "suatu",
+                                    "pos": "num",
+                                    "form": "suatu"
+                                }
+                            },
+                            {
+                                "wf": "apa",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "apa",
+                                    "pos": "pron|p",
+                                    "form": "apa"
+                                }
+                            }
+                        ],
+                        "syllables": 12
+                    },
+                    {
+                        "line": "tiada tempat duduk bertanya",
+                        "words": [
+                            {
+                                "wf": "tiada",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tiada",
+                                    "pos": "v",
+                                    "form": "tiada"
+                                }
+                            },
+                            {
+                                "wf": "tempat",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tempat",
+                                    "pos": "n",
+                                    "form": "tempat"
+                                }
+                            },
+                            {
+                                "wf": "duduk",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "duduk",
+                                    "pos": "v",
+                                    "form": "duduk"
+                                }
+                            },
+                            {
+                                "wf": "bertanya",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bertanya",
+                                    "pos": "v|a",
+                                    "form": "ber-tanya"
+                                }
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "tiada teman kawan berberita",
+                        "words": [
+                            {
+                                "wf": "tiada",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tiada",
+                                    "pos": "v",
+                                    "form": "tiada"
+                                }
+                            },
+                            {
+                                "wf": "teman",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "teman",
+                                    "pos": "n",
+                                    "form": "teman"
+                                }
+                            },
+                            {
+                                "wf": "kawan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kawan",
+                                    "pos": "n",
+                                    "form": "kawan"
+                                }
+                            },
+                            {
+                                "wf": "berberita",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "berita",
+                                    "pos": "v",
+                                    "form": "ber-berita"
+                                }
+                            }
+                        ],
+                        "syllables": 11
+                    },
+                    {
+                        "line": "Lipu aku diharu sendu",
+                        "words": [
+                            {
+                                "wf": "Lipu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lipu",
+                                    "pos": "a",
+                                    "form": "lipu"
+                                }
+                            },
+                            {
+                                "wf": "aku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "aku",
+                                    "pos": "pron",
+                                    "form": "aku"
+                                }
+                            },
+                            {
+                                "wf": "diharu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "haru",
+                                    "pos": "n",
+                                    "form": "di-haru"
+                                }
+                            },
+                            {
+                                "wf": "sendu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sendu",
+                                    "pos": "a",
+                                    "form": "sendu"
+                                }
+                            }
+                        ],
+                        "syllables": 9
+                    },
+                    {
+                        "line": "samar sapur cuaca mata",
+                        "words": [
+                            {
+                                "wf": "samar",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "samar",
+                                    "pos": "a",
+                                    "form": "samar"
+                                }
+                            },
+                            {
+                                "wf": "sapur",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sapur",
+                                    "pos": "?",
+                                    "form": "sapur"
+                                }
+                            },
+                            {
+                                "wf": "cuaca",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "cuaca",
+                                    "pos": "n",
+                                    "form": "cuaca"
+                                }
+                            },
+                            {
+                                "wf": "mata",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "mata",
+                                    "pos": "n",
+                                    "form": "mata"
+                                }
+                            }
+                        ],
+                        "syllables": 9
+                    },
+                    {
+                        "line": "sesak sempit gelanggang dada",
+                        "words": [
+                            {
+                                "wf": "sesak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sesak",
+                                    "pos": "a",
+                                    "form": "sesak"
+                                }
+                            },
+                            {
+                                "wf": "sempit",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sempit",
+                                    "pos": "a",
+                                    "form": "sempit"
+                                }
+                            },
+                            {
+                                "wf": "gelanggang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "gelanggang",
+                                    "pos": "n",
+                                    "form": "gelanggang"
+                                }
+                            },
+                            {
+                                "wf": "dada",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dada",
+                                    "pos": "n",
+                                    "form": "dada"
+                                }
+                            }
+                        ],
+                        "syllables": 9
+                    },
+                    {
+                        "line": "senak terhentak raga kecewa",
+                        "words": [
+                            {
+                                "wf": "senak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "senak",
+                                    "pos": "a",
+                                    "form": "senak"
+                                }
+                            },
+                            {
+                                "wf": "terhentak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "terhentak",
+                                    "pos": "?",
+                                    "form": "terhentak"
+                                }
+                            },
+                            {
+                                "wf": "raga",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "raga",
+                                    "pos": "n",
+                                    "form": "raga"
+                                }
+                            },
+                            {
+                                "wf": "kecewa",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kecewa",
+                                    "pos": "v",
+                                    "form": "kecewa"
+                                }
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "Hibuk mengamuk hati tergari",
+                        "words": [
+                            {
+                                "wf": "Hibuk",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hibuk",
+                                    "pos": "a",
+                                    "form": "hibuk"
+                                }
+                            },
+                            {
+                                "wf": "mengamuk",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "amuk",
+                                    "pos": "v",
+                                    "form": "meN-amuk"
+                                }
+                            },
+                            {
+                                "wf": "hati",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hati",
+                                    "pos": "n",
+                                    "form": "hati"
+                                }
+                            },
+                            {
+                                "wf": "tergari",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "gari",
+                                    "pos": "n",
+                                    "form": "ter-gari"
+                                }
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "melolong meraung menyentak rentak",
+                        "words": [
+                            {
+                                "wf": "melolong",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lolong",
+                                    "pos": "v",
+                                    "form": "meN-lolong"
+                                }
+                            },
+                            {
+                                "wf": "meraung",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "raung",
+                                    "pos": "v",
+                                    "form": "meN-raung"
+                                }
+                            },
+                            {
+                                "wf": "menyentak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sentak",
+                                    "pos": "v",
+                                    "form": "meN-sentak"
+                                }
+                            },
+                            {
+                                "wf": "rentak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "rentak",
+                                    "pos": "n",
+                                    "form": "rentak"
+                                }
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "membuang merangsang segala petua",
+                        "words": [
+                            {
+                                "wf": "membuang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "buang",
+                                    "pos": "v",
+                                    "form": "meN-buang"
+                                }
+                            },
+                            {
+                                "wf": "merangsang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "rangsang",
+                                    "pos": "v",
+                                    "form": "meN-rangsang"
+                                }
+                            },
+                            {
+                                "wf": "segala",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "segala",
+                                    "pos": "num",
+                                    "form": "segala"
+                                }
+                            },
+                            {
+                                "wf": "petua",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "petua",
+                                    "pos": "?",
+                                    "form": "petua"
+                                }
+                            }
+                        ],
+                        "syllables": 12
+                    },
+                    {
+                        "line": "tiada percaya pada siapa",
+                        "words": [
+                            {
+                                "wf": "tiada",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tiada",
+                                    "pos": "v",
+                                    "form": "tiada"
+                                }
+                            },
+                            {
+                                "wf": "percaya",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "percaya",
+                                    "pos": "v",
+                                    "form": "percaya"
+                                }
+                            },
+                            {
+                                "wf": "pada",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pada",
+                                    "pos": "p",
+                                    "form": "pada"
+                                }
+                            },
+                            {
+                                "wf": "siapa",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "siapa",
+                                    "pos": "pron",
+                                    "form": "siapa"
+                                }
+                            }
+                        ],
+                        "syllables": 11
+                    },
+                    {
+                        "line": "Kutilik diriku kuselam tahunku",
+                        "words": [
+                            {
+                                "wf": "Kutilik",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "Kutilik",
+                                    "pos": "n",
+                                    "form": "Kutilik"
+                                }
+                            },
+                            {
+                                "wf": "diriku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "diriku",
+                                    "pos": "?",
+                                    "form": "diriku"
+                                }
+                            },
+                            {
+                                "wf": "kuselam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "selam",
+                                    "pos": "v|n",
+                                    "form": "ku-selam"
+                                }
+                            },
+                            {
+                                "wf": "tahunku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tahun",
+                                    "pos": "n",
+                                    "form": "tahun-ku"
+                                }
+                            }
+                        ],
+                        "syllables": 12
+                    },
+                    {
+                        "line": "timbul terasa terpancar terang",
+                        "words": [
+                            {
+                                "wf": "timbul",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "timbul",
+                                    "pos": "v",
+                                    "form": "timbul"
+                                }
+                            },
+                            {
+                                "wf": "terasa",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "rasa",
+                                    "pos": "v",
+                                    "form": "ter-rasa"
+                                }
+                            },
+                            {
+                                "wf": "terpancar",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pancar",
+                                    "pos": "v",
+                                    "form": "terpancar"
+                                }
+                            },
+                            {
+                                "wf": "terang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "terang",
+                                    "pos": "a",
+                                    "form": "terang"
+                                }
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "istiwa lama merekah terang",
+                        "words": [
+                            {
+                                "wf": "istiwa",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "istiwa",
+                                    "pos": "n",
+                                    "form": "istiwa"
+                                }
+                            },
+                            {
+                                "wf": "lama",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lama",
+                                    "pos": "a",
+                                    "form": "lama"
+                                }
+                            },
+                            {
+                                "wf": "merekah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "rekah",
+                                    "pos": "v",
+                                    "form": "meN-rekah"
+                                }
+                            },
+                            {
+                                "wf": "terang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "terang",
+                                    "pos": "a",
+                                    "form": "terang"
+                                }
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "merona rawan membunga sedan",
+                        "words": [
+                            {
+                                "wf": "merona",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "rona",
+                                    "pos": "v",
+                                    "form": "meN-rona"
+                                }
+                            },
+                            {
+                                "wf": "rawan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "rawan",
+                                    "pos": "n",
+                                    "form": "rawan"
+                                }
+                            },
+                            {
+                                "wf": "membunga",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bunga",
+                                    "pos": "v",
+                                    "form": "meN-bunga"
+                                }
+                            },
+                            {
+                                "wf": "sedan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sedan",
+                                    "pos": "n",
+                                    "form": "sedan"
+                                }
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "Tahu aku",
+                        "words": [
+                            {
+                                "wf": "Tahu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tahu",
+                                    "pos": "v",
+                                    "form": "tahu"
+                                }
+                            },
+                            {
+                                "wf": "aku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "aku",
+                                    "pos": "pron",
+                                    "form": "aku"
+                                }
+                            }
+                        ],
+                        "syllables": 4
+                    },
+                    {
+                        "line": "kini hari menuai api",
+                        "words": [
+                            {
+                                "wf": "kini",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kini",
+                                    "pos": "n",
+                                    "form": "kini"
+                                }
+                            },
+                            {
+                                "wf": "hari",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hari",
+                                    "pos": "n",
+                                    "form": "hari"
+                                }
+                            },
+                            {
+                                "wf": "menuai",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tuai",
+                                    "pos": "v",
+                                    "form": "meN-tuai"
+                                }
+                            },
+                            {
+                                "wf": "api",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "api",
+                                    "pos": "n",
+                                    "form": "api"
+                                }
+                            }
+                        ],
+                        "syllables": 9
+                    },
+                    {
+                        "line": "mengetam ancam membelam redam",
+                        "words": [
+                            {
+                                "wf": "mengetam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ketam",
+                                    "pos": "v",
+                                    "form": "meN-ketam"
+                                }
+                            },
+                            {
+                                "wf": "ancam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ancam",
+                                    "pos": "v",
+                                    "form": "ancam"
+                                }
+                            },
+                            {
+                                "wf": "membelam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "belam",
+                                    "pos": "v",
+                                    "form": "meN-belam"
+                                }
+                            },
+                            {
+                                "wf": "redam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "redam",
+                                    "pos": "a",
+                                    "form": "redam"
+                                }
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "ditulis dilukis jari tanganku.",
+                        "words": [
+                            {
+                                "wf": "ditulis",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tulis",
+                                    "pos": "v",
+                                    "form": "di-tulis"
+                                }
+                            },
+                            {
+                                "wf": "dilukis",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lukis",
+                                    "pos": "v",
+                                    "form": "di-lukis"
+                                }
+                            },
+                            {
+                                "wf": "jari",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jari",
+                                    "pos": "n",
+                                    "form": "jari"
+                                }
+                            },
+                            {
+                                "wf": "tanganku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tangan",
+                                    "pos": "v",
+                                    "form": "tangan-ku"
+                                }
+                            },
+                            {
+                                "wf": ".",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 11
+                    }
+                ],
+                "num_lines": 20
+            }
+        ]
+    }
+}

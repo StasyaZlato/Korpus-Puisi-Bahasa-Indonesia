@@ -1,0 +1,719 @@
+{
+    "meta": {
+        "file_name": "330.json",
+        "id_bd": 330,
+        "author": "Ajip Rosidi",
+        "title": "Mimpi kita siang hari",
+        "genre": "стихотворение",
+        "year": 1969,
+        "num_lines": 16,
+        "rhyme": "Есть",
+        "syllables": [
+            10,
+            7,
+            13,
+            8,
+            11,
+            9,
+            13,
+            6,
+            8,
+            8,
+            10,
+            11,
+            6,
+            2,
+            8,
+            2
+        ],
+        "strofy": [
+            4,
+            1,
+            4,
+            1,
+            4,
+            1,
+            4
+        ]
+    },
+    "poem": {
+        "text": "{Dalam terik sinar matahari\r\nKulihat kau melambai:\r\nBayang-bayangku ataukah aku sendiri\r\nYang kaupeluk dan kaubelai?}\r\n{Kebun belakang rumah, kolam ikan\r\nAnak-anak bermain, kau menyulam\r\nMenjalin helai-helai peruntungan kita\r\nDengan benang cinta.}\r\n{Dalam cahaya rembulan\r\nKau perlahan bersenandung\r\nMeski terpisah gelombang lautan\r\nKudengar sansai suaramu murung}\r\n{Jalan lengang panjang,\r\nWahai!\r\nMengarah ke batik kelam,\r\nAduhai!}",
+        "strof": [
+            {
+                "strof": "Dalam terik sinar matahari\r\nKulihat kau melambai:\r\nBayang-bayangku ataukah aku sendiri\r\nYang kaupeluk dan kaubelai?",
+                "lines": [
+                    {
+                        "line": "Dalam terik sinar matahari",
+                        "words": [
+                            {
+                                "wf": "Dalam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dalam",
+                                    "pos": "a|n",
+                                    "form": "dalam"
+                                }
+                            },
+                            {
+                                "wf": "terik",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "terik",
+                                    "pos": "a",
+                                    "form": "terik"
+                                }
+                            },
+                            {
+                                "wf": "sinar",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "mu",
+                                    "pos": "n",
+                                    "form": "sinar"
+                                }
+                            },
+                            {
+                                "wf": "matahari",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "matahari",
+                                    "pos": "n",
+                                    "form": "matahari"
+                                }
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "Kulihat kau melambai:",
+                        "words": [
+                            {
+                                "wf": "Kulihat",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "Kulihat",
+                                    "pos": "v",
+                                    "form": "Kulihat"
+                                }
+                            },
+                            {
+                                "wf": "kau",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kau",
+                                    "pos": "pron",
+                                    "form": "kau"
+                                }
+                            },
+                            {
+                                "wf": "melambai",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lambai",
+                                    "pos": "v",
+                                    "form": "meN-lambai"
+                                }
+                            },
+                            {
+                                "wf": ":",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 7
+                    },
+                    {
+                        "line": "Bayang-bayangku ataukah aku sendiri",
+                        "words": [
+                            {
+                                "wf": "Bayang-bayangku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bayang",
+                                    "pos": "n",
+                                    "form": "bayang-bayang-ku-ku"
+                                }
+                            },
+                            {
+                                "wf": "ataukah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "atau",
+                                    "pos": "p",
+                                    "form": "atau-kah"
+                                }
+                            },
+                            {
+                                "wf": "aku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "aku",
+                                    "pos": "pron",
+                                    "form": "aku"
+                                }
+                            },
+                            {
+                                "wf": "sendiri",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sendiri",
+                                    "pos": "adv|a|n",
+                                    "form": "sendiri"
+                                }
+                            }
+                        ],
+                        "syllables": 13
+                    },
+                    {
+                        "line": "Yang kaupeluk dan kaubelai?",
+                        "words": [
+                            {
+                                "wf": "Yang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "yang",
+                                    "pos": "a|v|n",
+                                    "form": "yang"
+                                }
+                            },
+                            {
+                                "wf": "kaupeluk",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "peluk",
+                                    "pos": "v|n",
+                                    "form": "kau-peluk"
+                                }
+                            },
+                            {
+                                "wf": "dan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dan",
+                                    "pos": "p",
+                                    "form": "dan"
+                                }
+                            },
+                            {
+                                "wf": "kaubelai",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "belai",
+                                    "pos": "n",
+                                    "form": "kau-belai"
+                                }
+                            },
+                            {
+                                "wf": "?",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 8
+                    }
+                ],
+                "num_lines": 4
+            },
+            {
+                "strof": "\r\n",
+                "lines": [
+                    {
+                        "line": "",
+                        "words": [],
+                        "syllables": 0
+                    }
+                ],
+                "num_lines": 1
+            },
+            {
+                "strof": "Kebun belakang rumah, kolam ikan\r\nAnak-anak bermain, kau menyulam\r\nMenjalin helai-helai peruntungan kita\r\nDengan benang cinta.",
+                "lines": [
+                    {
+                        "line": "Kebun belakang rumah, kolam ikan",
+                        "words": [
+                            {
+                                "wf": "Kebun",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kebun",
+                                    "pos": "n",
+                                    "form": "kebun"
+                                }
+                            },
+                            {
+                                "wf": "belakang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "belakang",
+                                    "pos": "n",
+                                    "form": "belakang"
+                                }
+                            },
+                            {
+                                "wf": "rumah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "rumah",
+                                    "pos": "n",
+                                    "form": "rumah"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "kolam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kolam",
+                                    "pos": "n",
+                                    "form": "kolam"
+                                }
+                            },
+                            {
+                                "wf": "ikan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ikan",
+                                    "pos": "v",
+                                    "form": "ikan"
+                                }
+                            }
+                        ],
+                        "syllables": 11
+                    },
+                    {
+                        "line": "Anak-anak bermain, kau menyulam",
+                        "words": [
+                            {
+                                "wf": "Anak-anak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "anak",
+                                    "pos": "a|n",
+                                    "form": "anak-anak"
+                                }
+                            },
+                            {
+                                "wf": "bermain",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "main",
+                                    "pos": "v",
+                                    "form": "ber-main"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "kau",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kau",
+                                    "pos": "pron",
+                                    "form": "kau"
+                                }
+                            },
+                            {
+                                "wf": "menyulam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sulam",
+                                    "pos": "v",
+                                    "form": "meN-sulam"
+                                }
+                            }
+                        ],
+                        "syllables": 9
+                    },
+                    {
+                        "line": "Menjalin helai-helai peruntungan kita",
+                        "words": [
+                            {
+                                "wf": "Menjalin",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jalin",
+                                    "pos": "v",
+                                    "form": "meN-jalin"
+                                }
+                            },
+                            {
+                                "wf": "helai-helai",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "helai",
+                                    "pos": "n",
+                                    "form": "helai-helai"
+                                }
+                            },
+                            {
+                                "wf": "peruntungan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "untung",
+                                    "pos": "n",
+                                    "form": "per-untung-an"
+                                }
+                            },
+                            {
+                                "wf": "kita",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kita",
+                                    "pos": "pron",
+                                    "form": "kita"
+                                }
+                            }
+                        ],
+                        "syllables": 13
+                    },
+                    {
+                        "line": "Dengan benang cinta.",
+                        "words": [
+                            {
+                                "wf": "Dengan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dengan",
+                                    "pos": "p",
+                                    "form": "dengan"
+                                }
+                            },
+                            {
+                                "wf": "benang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "benang",
+                                    "pos": "n",
+                                    "form": "benang"
+                                }
+                            },
+                            {
+                                "wf": "cinta",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "cinta",
+                                    "pos": "a",
+                                    "form": "cinta"
+                                }
+                            },
+                            {
+                                "wf": ".",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 6
+                    }
+                ],
+                "num_lines": 4
+            },
+            {
+                "strof": "\r\n",
+                "lines": [
+                    {
+                        "line": "",
+                        "words": [],
+                        "syllables": 0
+                    }
+                ],
+                "num_lines": 1
+            },
+            {
+                "strof": "Dalam cahaya rembulan\r\nKau perlahan bersenandung\r\nMeski terpisah gelombang lautan\r\nKudengar sansai suaramu murung",
+                "lines": [
+                    {
+                        "line": "Dalam cahaya rembulan",
+                        "words": [
+                            {
+                                "wf": "Dalam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dalam",
+                                    "pos": "a|n",
+                                    "form": "dalam"
+                                }
+                            },
+                            {
+                                "wf": "cahaya",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "caya",
+                                    "pos": "n",
+                                    "form": "cahaya"
+                                }
+                            },
+                            {
+                                "wf": "rembulan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "rembulan",
+                                    "pos": "n",
+                                    "form": "rembulan"
+                                }
+                            }
+                        ],
+                        "syllables": 8
+                    },
+                    {
+                        "line": "Kau perlahan bersenandung",
+                        "words": [
+                            {
+                                "wf": "Kau",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kau",
+                                    "pos": "pron",
+                                    "form": "kau"
+                                }
+                            },
+                            {
+                                "wf": "perlahan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "perlahan",
+                                    "pos": "a",
+                                    "form": "perlahan"
+                                }
+                            },
+                            {
+                                "wf": "bersenandung",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "senandung",
+                                    "pos": "v",
+                                    "form": "ber-senandung"
+                                }
+                            }
+                        ],
+                        "syllables": 8
+                    },
+                    {
+                        "line": "Meski terpisah gelombang lautan",
+                        "words": [
+                            {
+                                "wf": "Meski",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "meski",
+                                    "pos": "p",
+                                    "form": "meski"
+                                }
+                            },
+                            {
+                                "wf": "terpisah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pisah",
+                                    "pos": "v",
+                                    "form": "ter-pisah"
+                                }
+                            },
+                            {
+                                "wf": "gelombang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "gelombang",
+                                    "pos": "n",
+                                    "form": "gelombang"
+                                }
+                            },
+                            {
+                                "wf": "lautan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "laut",
+                                    "pos": "n",
+                                    "form": "laut-an"
+                                }
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "Kudengar sansai suaramu murung",
+                        "words": [
+                            {
+                                "wf": "Kudengar",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "Kudengar",
+                                    "pos": "v",
+                                    "form": "Kudengar"
+                                }
+                            },
+                            {
+                                "wf": "sansai",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sansai",
+                                    "pos": "a",
+                                    "form": "sansai"
+                                }
+                            },
+                            {
+                                "wf": "suaramu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "suara",
+                                    "pos": "n",
+                                    "form": "suara-mu"
+                                }
+                            },
+                            {
+                                "wf": "murung",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "murung",
+                                    "pos": "a",
+                                    "form": "murung"
+                                }
+                            }
+                        ],
+                        "syllables": 11
+                    }
+                ],
+                "num_lines": 4
+            },
+            {
+                "strof": "\r\n",
+                "lines": [
+                    {
+                        "line": "",
+                        "words": [],
+                        "syllables": 0
+                    }
+                ],
+                "num_lines": 1
+            },
+            {
+                "strof": "Jalan lengang panjang,\r\nWahai!\r\nMengarah ke batik kelam,\r\nAduhai!",
+                "lines": [
+                    {
+                        "line": "Jalan lengang panjang,",
+                        "words": [
+                            {
+                                "wf": "Jalan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jalan",
+                                    "pos": "n|v|a",
+                                    "form": "jalan"
+                                }
+                            },
+                            {
+                                "wf": "lengang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lengang",
+                                    "pos": "a",
+                                    "form": "lengang"
+                                }
+                            },
+                            {
+                                "wf": "panjang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "panjang",
+                                    "pos": "a|n",
+                                    "form": "panjang"
+                                }
+                            },
+                            {
+                                "wf": ",",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 6
+                    },
+                    {
+                        "line": "Wahai!",
+                        "words": [
+                            {
+                                "wf": "Wahai",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "wahai",
+                                    "pos": "p",
+                                    "form": "wahai"
+                                }
+                            },
+                            {
+                                "wf": "!",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 2
+                    },
+                    {
+                        "line": "Mengarah ke batik kelam,",
+                        "words": [
+                            {
+                                "wf": "Mengarah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "arah",
+                                    "pos": "v",
+                                    "form": "meN-arah"
+                                }
+                            },
+                            {
+                                "wf": "ke",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ke",
+                                    "pos": "p",
+                                    "form": "ke"
+                                }
+                            },
+                            {
+                                "wf": "batik",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "batik",
+                                    "pos": "n",
+                                    "form": "batik"
+                                }
+                            },
+                            {
+                                "wf": "kelam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kelam",
+                                    "pos": "a",
+                                    "form": "kelam"
+                                }
+                            },
+                            {
+                                "wf": ",",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 8
+                    },
+                    {
+                        "line": "Aduhai!",
+                        "words": [
+                            {
+                                "wf": "Aduhai",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "aduhai",
+                                    "pos": "p|a",
+                                    "form": "aduhai"
+                                }
+                            },
+                            {
+                                "wf": "!",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 2
+                    }
+                ],
+                "num_lines": 4
+            }
+        ]
+    }
+}

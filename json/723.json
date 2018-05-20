@@ -1,0 +1,1553 @@
+{
+    "meta": {
+        "file_name": "723.json",
+        "id_bd": 723,
+        "author": "Wing Kardjo Wangsaatmadja",
+        "title": "Rumah hidupku",
+        "genre": "стихотворение",
+        "year": "---",
+        "num_lines": 14,
+        "rhyme": "Есть",
+        "syllables": [
+            21,
+            20,
+            23,
+            23,
+            22,
+            20,
+            22,
+            22,
+            19,
+            22,
+            20,
+            24,
+            20,
+            20
+        ],
+        "strofy": [
+            4,
+            1,
+            4,
+            1,
+            3,
+            1,
+            3
+        ]
+    },
+    "poem": {
+        "text": "{Kubangun rumah hidupku dari batu, bata, kayu, bambu, tanah air,\r\ntumpah darah, merah putih, biru, kuning, hijau, semua warna. Ada\r\ndana pemerintah, ada bantuan luar negri, juga barang tentu modal\r\npertama orangtua. Hidup ini kubangun sendiri, kubentuk coraknya.}\r\n{Sekaligus majikan dan pembantu, istana dan gudang. Ada botol kosong\r\ndan separuh penuh. Ada gelas jatuh, piring pecah, pena patah.Tak\r\nterhitung kutu dan debu, pakaian, majalah, \"an berserakan. Makanan\r\nsembarangan. Suara, bunyi, dari tiap sudut, meledak, berteriak,}\r\n{mengeluh, mengaduh atau nyanyi mendambakan waktu. Ada dipan\r\nlusuh tempat kerja dan istirah. Buku yang tengah dan setengah kubaca\r\ndan yang tak pernah terbuka halaman-halamannya. Tetap gelap, tak}\r\n{tertangkap sebab jendela pikiran terbuka ke segala arah sedang lampu\r\nmenyala, membakar umur. Yang tidur tak bangun karena adzan dan\r\nayam berkokok. Bikin rumah harus pasang tiang iman yang pokok.}",
+        "strof": [
+            {
+                "strof": "Kubangun rumah hidupku dari batu, bata, kayu, bambu, tanah air,\r\ntumpah darah, merah putih, biru, kuning, hijau, semua warna. Ada\r\ndana pemerintah, ada bantuan luar negri, juga barang tentu modal\r\npertama orangtua. Hidup ini kubangun sendiri, kubentuk coraknya.",
+                "lines": [
+                    {
+                        "line": "Kubangun rumah hidupku dari batu, bata, kayu, bambu, tanah air,",
+                        "words": [
+                            {
+                                "wf": "Kubangun",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "Kubangun",
+                                    "pos": "v",
+                                    "form": "Kubangun"
+                                }
+                            },
+                            {
+                                "wf": "rumah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "rumah",
+                                    "pos": "n",
+                                    "form": "rumah"
+                                }
+                            },
+                            {
+                                "wf": "hidupku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hidup",
+                                    "pos": "v",
+                                    "form": "hidup-ku"
+                                }
+                            },
+                            {
+                                "wf": "dari",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dari",
+                                    "pos": "p",
+                                    "form": "dari"
+                                }
+                            },
+                            {
+                                "wf": "batu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "batu",
+                                    "pos": "n",
+                                    "form": "batu"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "bata",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bata",
+                                    "pos": "n",
+                                    "form": "bata"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "kayu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kayu",
+                                    "pos": "n",
+                                    "form": "kayu"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "bambu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bambu",
+                                    "pos": "n",
+                                    "form": "bambu"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "tanah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tanah",
+                                    "pos": "n",
+                                    "form": "tanah"
+                                }
+                            },
+                            {
+                                "wf": "air",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "air",
+                                    "pos": "n",
+                                    "form": "air"
+                                }
+                            },
+                            {
+                                "wf": ",",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 21
+                    },
+                    {
+                        "line": "tumpah darah, merah putih, biru, kuning, hijau, semua warna. Ada",
+                        "words": [
+                            {
+                                "wf": "tumpah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tumpah",
+                                    "pos": "v",
+                                    "form": "tumpah"
+                                }
+                            },
+                            {
+                                "wf": "darah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "darah",
+                                    "pos": "n",
+                                    "form": "darah"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "merah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "merah",
+                                    "pos": "n|a",
+                                    "form": "merah"
+                                }
+                            },
+                            {
+                                "wf": "putih",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "putih",
+                                    "pos": "n|a",
+                                    "form": "putih"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "biru",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "biru",
+                                    "pos": "n|a",
+                                    "form": "biru"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "kuning",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kuning",
+                                    "pos": "n|a",
+                                    "form": "kuning"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "hijau",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hijau",
+                                    "pos": "n|a",
+                                    "form": "hijau"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "semua",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "semua",
+                                    "pos": "num",
+                                    "form": "semua"
+                                }
+                            },
+                            {
+                                "wf": "warna",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "warna",
+                                    "pos": "n",
+                                    "form": "warna"
+                                }
+                            },
+                            {
+                                "wf": ". ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "Ada",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ada",
+                                    "pos": "v",
+                                    "form": "ada"
+                                }
+                            }
+                        ],
+                        "syllables": 20
+                    },
+                    {
+                        "line": "dana pemerintah, ada bantuan luar negri, juga barang tentu modal",
+                        "words": [
+                            {
+                                "wf": "dana",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dana",
+                                    "pos": "n",
+                                    "form": "dana"
+                                }
+                            },
+                            {
+                                "wf": "pemerintah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "perintah",
+                                    "pos": "n",
+                                    "form": "peN-perintah"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "ada",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ada",
+                                    "pos": "v",
+                                    "form": "ada"
+                                }
+                            },
+                            {
+                                "wf": "bantuan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hua",
+                                    "pos": "n",
+                                    "form": "bantuan"
+                                }
+                            },
+                            {
+                                "wf": "luar",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "luar",
+                                    "pos": "v",
+                                    "form": "luar"
+                                }
+                            },
+                            {
+                                "wf": "negri",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "negri",
+                                    "pos": "?",
+                                    "form": "negri"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "juga",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "juga",
+                                    "pos": "adv",
+                                    "form": "juga"
+                                }
+                            },
+                            {
+                                "wf": "barang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "barang",
+                                    "pos": "n",
+                                    "form": "barang"
+                                }
+                            },
+                            {
+                                "wf": "tentu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tentu",
+                                    "pos": "a|adv",
+                                    "form": "tentu"
+                                }
+                            },
+                            {
+                                "wf": "modal",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "modal",
+                                    "pos": "n",
+                                    "form": "modal"
+                                }
+                            }
+                        ],
+                        "syllables": 23
+                    },
+                    {
+                        "line": "pertama orangtua. Hidup ini kubangun sendiri, kubentuk coraknya.",
+                        "words": [
+                            {
+                                "wf": "pertama",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pertama",
+                                    "pos": "num",
+                                    "form": "pertama"
+                                }
+                            },
+                            {
+                                "wf": "orangtua",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "orangtua",
+                                    "pos": "?",
+                                    "form": "orangtua"
+                                }
+                            },
+                            {
+                                "wf": ". ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "Hidup",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hidup",
+                                    "pos": "v",
+                                    "form": "hidup"
+                                }
+                            },
+                            {
+                                "wf": "ini",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ini",
+                                    "pos": "pron",
+                                    "form": "ini"
+                                }
+                            },
+                            {
+                                "wf": "kubangun",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bangun",
+                                    "pos": "v",
+                                    "form": "ku-bangun"
+                                }
+                            },
+                            {
+                                "wf": "sendiri",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sendiri",
+                                    "pos": "adv|a|n",
+                                    "form": "sendiri"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "kubentuk",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bentuk",
+                                    "pos": "n",
+                                    "form": "ku-bentuk"
+                                }
+                            },
+                            {
+                                "wf": "coraknya",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "corak",
+                                    "pos": "n",
+                                    "form": "corak-nya"
+                                }
+                            },
+                            {
+                                "wf": ".",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 23
+                    }
+                ],
+                "num_lines": 4
+            },
+            {
+                "strof": "\r\n",
+                "lines": [
+                    {
+                        "line": "",
+                        "words": [],
+                        "syllables": 0
+                    }
+                ],
+                "num_lines": 1
+            },
+            {
+                "strof": "Sekaligus majikan dan pembantu, istana dan gudang. Ada botol kosong\r\ndan separuh penuh. Ada gelas jatuh, piring pecah, pena patah.Tak\r\nterhitung kutu dan debu, pakaian, majalah, \"an berserakan. Makanan\r\nsembarangan. Suara, bunyi, dari tiap sudut, meledak, berteriak,",
+                "lines": [
+                    {
+                        "line": "Sekaligus majikan dan pembantu, istana dan gudang. Ada botol kosong",
+                        "words": [
+                            {
+                                "wf": "Sekaligus",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sekaligus",
+                                    "pos": "adv",
+                                    "form": "sekaligus"
+                                }
+                            },
+                            {
+                                "wf": "majikan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "majikan",
+                                    "pos": "n",
+                                    "form": "majikan"
+                                }
+                            },
+                            {
+                                "wf": "dan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dan",
+                                    "pos": "p",
+                                    "form": "dan"
+                                }
+                            },
+                            {
+                                "wf": "pembantu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bantu",
+                                    "pos": "n",
+                                    "form": "peN-bantu"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "istana",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "istana",
+                                    "pos": "n",
+                                    "form": "istana"
+                                }
+                            },
+                            {
+                                "wf": "dan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dan",
+                                    "pos": "p",
+                                    "form": "dan"
+                                }
+                            },
+                            {
+                                "wf": "gudang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "gudang",
+                                    "pos": "n",
+                                    "form": "gudang"
+                                }
+                            },
+                            {
+                                "wf": ". ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "Ada",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ada",
+                                    "pos": "v",
+                                    "form": "ada"
+                                }
+                            },
+                            {
+                                "wf": "botol",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "botol",
+                                    "pos": "n",
+                                    "form": "botol"
+                                }
+                            },
+                            {
+                                "wf": "kosong",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kosong",
+                                    "pos": "a",
+                                    "form": "kosong"
+                                }
+                            }
+                        ],
+                        "syllables": 22
+                    },
+                    {
+                        "line": "dan separuh penuh. Ada gelas jatuh, piring pecah, pena patah.Tak",
+                        "words": [
+                            {
+                                "wf": "dan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dan",
+                                    "pos": "p",
+                                    "form": "dan"
+                                }
+                            },
+                            {
+                                "wf": "separuh",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "paruh",
+                                    "pos": "num",
+                                    "form": "se-paruh"
+                                }
+                            },
+                            {
+                                "wf": "penuh",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "penuh",
+                                    "pos": "a",
+                                    "form": "penuh"
+                                }
+                            },
+                            {
+                                "wf": ". ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "Ada",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ada",
+                                    "pos": "v",
+                                    "form": "ada"
+                                }
+                            },
+                            {
+                                "wf": "gelas",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "gelas",
+                                    "pos": "n",
+                                    "form": "gelas"
+                                }
+                            },
+                            {
+                                "wf": "jatuh",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jatuh",
+                                    "pos": "v",
+                                    "form": "jatuh"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "piring",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "piring",
+                                    "pos": "n",
+                                    "form": "piring"
+                                }
+                            },
+                            {
+                                "wf": "pecah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pecah",
+                                    "pos": "v",
+                                    "form": "pecah"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "pena",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pena",
+                                    "pos": "?",
+                                    "form": "pena"
+                                }
+                            },
+                            {
+                                "wf": "patah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "patah",
+                                    "pos": "a",
+                                    "form": "patah"
+                                }
+                            },
+                            {
+                                "wf": ".",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "Tak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tak",
+                                    "pos": "adv",
+                                    "form": "tak"
+                                }
+                            }
+                        ],
+                        "syllables": 20
+                    },
+                    {
+                        "line": "terhitung kutu dan debu, pakaian, majalah, \"an berserakan. Makanan",
+                        "words": [
+                            {
+                                "wf": "terhitung",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hitung",
+                                    "pos": "v",
+                                    "form": "ter-hitung"
+                                }
+                            },
+                            {
+                                "wf": "kutu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kutu",
+                                    "pos": "n",
+                                    "form": "kutu"
+                                }
+                            },
+                            {
+                                "wf": "dan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dan",
+                                    "pos": "p",
+                                    "form": "dan"
+                                }
+                            },
+                            {
+                                "wf": "debu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "debu",
+                                    "pos": "n",
+                                    "form": "debu"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "pakaian",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pakai",
+                                    "pos": "n",
+                                    "form": "pakai-an"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "majalah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "majalah",
+                                    "pos": "n",
+                                    "form": "majalah"
+                                }
+                            },
+                            {
+                                "wf": ", \"",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "an",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "an",
+                                    "pos": "v",
+                                    "form": "an"
+                                }
+                            },
+                            {
+                                "wf": "berserakan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "serak",
+                                    "pos": "v",
+                                    "form": "ber-serak-an"
+                                }
+                            },
+                            {
+                                "wf": ". ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "Makanan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "makanan",
+                                    "pos": "v",
+                                    "form": "makanan"
+                                }
+                            }
+                        ],
+                        "syllables": 22
+                    },
+                    {
+                        "line": "sembarangan. Suara, bunyi, dari tiap sudut, meledak, berteriak,",
+                        "words": [
+                            {
+                                "wf": "sembarangan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sembarang",
+                                    "pos": "a",
+                                    "form": "sembarang-an"
+                                }
+                            },
+                            {
+                                "wf": ". ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "Suara",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "suara",
+                                    "pos": "n",
+                                    "form": "suara"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "bunyi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bunyi",
+                                    "pos": "v",
+                                    "form": "bunyi"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "dari",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dari",
+                                    "pos": "p",
+                                    "form": "dari"
+                                }
+                            },
+                            {
+                                "wf": "tiap",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tiap",
+                                    "pos": "a",
+                                    "form": "tiap"
+                                }
+                            },
+                            {
+                                "wf": "sudut",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sudut",
+                                    "pos": "n",
+                                    "form": "sudut"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "meledak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "meledak",
+                                    "pos": "v",
+                                    "form": "meledak"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "berteriak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "teriak",
+                                    "pos": "v",
+                                    "form": "ber-teriak"
+                                }
+                            },
+                            {
+                                "wf": ",",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 22
+                    }
+                ],
+                "num_lines": 4
+            },
+            {
+                "strof": "\r\n",
+                "lines": [
+                    {
+                        "line": "",
+                        "words": [],
+                        "syllables": 0
+                    }
+                ],
+                "num_lines": 1
+            },
+            {
+                "strof": "mengeluh, mengaduh atau nyanyi mendambakan waktu. Ada dipan\r\nlusuh tempat kerja dan istirah. Buku yang tengah dan setengah kubaca\r\ndan yang tak pernah terbuka halaman-halamannya. Tetap gelap, tak",
+                "lines": [
+                    {
+                        "line": "mengeluh, mengaduh atau nyanyi mendambakan waktu. Ada dipan",
+                        "words": [
+                            {
+                                "wf": "mengeluh",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "keluh",
+                                    "pos": "v",
+                                    "form": "meN-keluh"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "mengaduh",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "aduh",
+                                    "pos": "v",
+                                    "form": "meN-aduh"
+                                }
+                            },
+                            {
+                                "wf": "atau",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "atau",
+                                    "pos": "p",
+                                    "form": "atau"
+                                }
+                            },
+                            {
+                                "wf": "nyanyi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "nyanyi",
+                                    "pos": "v",
+                                    "form": "nyanyi"
+                                }
+                            },
+                            {
+                                "wf": "mendambakan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "damba",
+                                    "pos": "v",
+                                    "form": "meN-damba-kan"
+                                }
+                            },
+                            {
+                                "wf": "waktu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "waktu",
+                                    "pos": "n|p",
+                                    "form": "waktu"
+                                }
+                            },
+                            {
+                                "wf": ". ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "Ada",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ada",
+                                    "pos": "v",
+                                    "form": "ada"
+                                }
+                            },
+                            {
+                                "wf": "dipan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dipan",
+                                    "pos": "n",
+                                    "form": "dipan"
+                                }
+                            }
+                        ],
+                        "syllables": 19
+                    },
+                    {
+                        "line": "lusuh tempat kerja dan istirah. Buku yang tengah dan setengah kubaca",
+                        "words": [
+                            {
+                                "wf": "lusuh",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lusuh",
+                                    "pos": "a",
+                                    "form": "lusuh"
+                                }
+                            },
+                            {
+                                "wf": "tempat",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tempat",
+                                    "pos": "n",
+                                    "form": "tempat"
+                                }
+                            },
+                            {
+                                "wf": "kerja",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kerja",
+                                    "pos": "n|v",
+                                    "form": "kerja"
+                                }
+                            },
+                            {
+                                "wf": "dan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dan",
+                                    "pos": "p",
+                                    "form": "dan"
+                                }
+                            },
+                            {
+                                "wf": "istirah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "istirah",
+                                    "pos": "?",
+                                    "form": "istirah"
+                                }
+                            },
+                            {
+                                "wf": ". ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "Buku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "buku",
+                                    "pos": "n",
+                                    "form": "buku"
+                                }
+                            },
+                            {
+                                "wf": "yang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "yang",
+                                    "pos": "a|v|n",
+                                    "form": "yang"
+                                }
+                            },
+                            {
+                                "wf": "tengah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tengah",
+                                    "pos": "n",
+                                    "form": "tengah"
+                                }
+                            },
+                            {
+                                "wf": "dan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dan",
+                                    "pos": "p",
+                                    "form": "dan"
+                                }
+                            },
+                            {
+                                "wf": "setengah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tengah",
+                                    "pos": "num",
+                                    "form": "se-tengah"
+                                }
+                            },
+                            {
+                                "wf": "kubaca",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kubaca",
+                                    "pos": "v",
+                                    "form": "kubaca"
+                                }
+                            }
+                        ],
+                        "syllables": 22
+                    },
+                    {
+                        "line": "dan yang tak pernah terbuka halaman-halamannya. Tetap gelap, tak",
+                        "words": [
+                            {
+                                "wf": "dan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dan",
+                                    "pos": "p",
+                                    "form": "dan"
+                                }
+                            },
+                            {
+                                "wf": "yang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "yang",
+                                    "pos": "a|v|n",
+                                    "form": "yang"
+                                }
+                            },
+                            {
+                                "wf": "tak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tak",
+                                    "pos": "adv",
+                                    "form": "tak"
+                                }
+                            },
+                            {
+                                "wf": "pernah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pernah",
+                                    "pos": "adv",
+                                    "form": "pernah"
+                                }
+                            },
+                            {
+                                "wf": "terbuka",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "buka",
+                                    "pos": "v",
+                                    "form": "ter-buka"
+                                }
+                            },
+                            {
+                                "wf": "halaman-halamannya",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "",
+                                    "pos": "n",
+                                    "form": "halaman-halamannya-nya"
+                                }
+                            },
+                            {
+                                "wf": ". ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "Tetap",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tetap",
+                                    "pos": "v|a|adv",
+                                    "form": "tetap"
+                                }
+                            },
+                            {
+                                "wf": "gelap",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "gelap",
+                                    "pos": "a",
+                                    "form": "gelap"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "tak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tak",
+                                    "pos": "adv",
+                                    "form": "tak"
+                                }
+                            }
+                        ],
+                        "syllables": 20
+                    }
+                ],
+                "num_lines": 3
+            },
+            {
+                "strof": "\r\n",
+                "lines": [
+                    {
+                        "line": "",
+                        "words": [],
+                        "syllables": 0
+                    }
+                ],
+                "num_lines": 1
+            },
+            {
+                "strof": "tertangkap sebab jendela pikiran terbuka ke segala arah sedang lampu\r\nmenyala, membakar umur. Yang tidur tak bangun karena adzan dan\r\nayam berkokok. Bikin rumah harus pasang tiang iman yang pokok.",
+                "lines": [
+                    {
+                        "line": "tertangkap sebab jendela pikiran terbuka ke segala arah sedang lampu",
+                        "words": [
+                            {
+                                "wf": "tertangkap",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tangkap",
+                                    "pos": "v",
+                                    "form": "ter-tangkap"
+                                }
+                            },
+                            {
+                                "wf": "sebab",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sebab",
+                                    "pos": "n|p",
+                                    "form": "sebab"
+                                }
+                            },
+                            {
+                                "wf": "jendela",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jendela",
+                                    "pos": "?",
+                                    "form": "jendela"
+                                }
+                            },
+                            {
+                                "wf": "pikiran",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pikir",
+                                    "pos": "v",
+                                    "form": "pikir-an"
+                                }
+                            },
+                            {
+                                "wf": "terbuka",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "buka",
+                                    "pos": "v",
+                                    "form": "ter-buka"
+                                }
+                            },
+                            {
+                                "wf": "ke",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ke",
+                                    "pos": "p",
+                                    "form": "ke"
+                                }
+                            },
+                            {
+                                "wf": "segala",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "segala",
+                                    "pos": "num",
+                                    "form": "segala"
+                                }
+                            },
+                            {
+                                "wf": "arah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "arah",
+                                    "pos": "n",
+                                    "form": "arah"
+                                }
+                            },
+                            {
+                                "wf": "sedang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sedang",
+                                    "pos": "adv",
+                                    "form": "sedang"
+                                }
+                            },
+                            {
+                                "wf": "lampu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lampu",
+                                    "pos": "n",
+                                    "form": "lampu"
+                                }
+                            }
+                        ],
+                        "syllables": 24
+                    },
+                    {
+                        "line": "menyala, membakar umur. Yang tidur tak bangun karena adzan dan",
+                        "words": [
+                            {
+                                "wf": "menyala",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "nyala",
+                                    "pos": "v",
+                                    "form": "meN-nyala"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "membakar",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bakar",
+                                    "pos": "v",
+                                    "form": "meN-bakar"
+                                }
+                            },
+                            {
+                                "wf": "umur",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "umur",
+                                    "pos": "n",
+                                    "form": "umur"
+                                }
+                            },
+                            {
+                                "wf": ". ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "Yang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "yang",
+                                    "pos": "a|v|n",
+                                    "form": "yang"
+                                }
+                            },
+                            {
+                                "wf": "tidur",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tidur",
+                                    "pos": "v",
+                                    "form": "tidur"
+                                }
+                            },
+                            {
+                                "wf": "tak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tak",
+                                    "pos": "adv",
+                                    "form": "tak"
+                                }
+                            },
+                            {
+                                "wf": "bangun",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bangun",
+                                    "pos": "v",
+                                    "form": "bangun"
+                                }
+                            },
+                            {
+                                "wf": "karena",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "karena",
+                                    "pos": "p",
+                                    "form": "karena"
+                                }
+                            },
+                            {
+                                "wf": "adzan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "adzan",
+                                    "pos": "?",
+                                    "form": "adzan"
+                                }
+                            },
+                            {
+                                "wf": "dan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dan",
+                                    "pos": "p",
+                                    "form": "dan"
+                                }
+                            }
+                        ],
+                        "syllables": 20
+                    },
+                    {
+                        "line": "ayam berkokok. Bikin rumah harus pasang tiang iman yang pokok.",
+                        "words": [
+                            {
+                                "wf": "ayam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ayam",
+                                    "pos": "n",
+                                    "form": "ayam"
+                                }
+                            },
+                            {
+                                "wf": "berkokok",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kokok",
+                                    "pos": "v",
+                                    "form": "ber-kokok"
+                                }
+                            },
+                            {
+                                "wf": ". ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "Bikin",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bikin",
+                                    "pos": "v",
+                                    "form": "bikin"
+                                }
+                            },
+                            {
+                                "wf": "rumah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "rumah",
+                                    "pos": "n",
+                                    "form": "rumah"
+                                }
+                            },
+                            {
+                                "wf": "harus",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "harus",
+                                    "pos": "adv",
+                                    "form": "harus"
+                                }
+                            },
+                            {
+                                "wf": "pasang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pasang",
+                                    "pos": "n",
+                                    "form": "pasang"
+                                }
+                            },
+                            {
+                                "wf": "tiang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tiang",
+                                    "pos": "n",
+                                    "form": "tiang"
+                                }
+                            },
+                            {
+                                "wf": "iman",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "iman",
+                                    "pos": "v",
+                                    "form": "iman"
+                                }
+                            },
+                            {
+                                "wf": "yang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "yang",
+                                    "pos": "a|v|n",
+                                    "form": "yang"
+                                }
+                            },
+                            {
+                                "wf": "pokok",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pokok",
+                                    "pos": "n",
+                                    "form": "pokok"
+                                }
+                            },
+                            {
+                                "wf": ".",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 20
+                    }
+                ],
+                "num_lines": 3
+            }
+        ]
+    }
+}

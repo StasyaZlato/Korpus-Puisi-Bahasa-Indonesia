@@ -1,0 +1,607 @@
+{
+    "meta": {
+        "file_name": "410.json",
+        "id_bd": 410,
+        "author": "L.K. Ara",
+        "title": "Laut sigli",
+        "genre": "стихотворение",
+        "year": "21.07.1986",
+        "num_lines": 12,
+        "rhyme": "Есть",
+        "syllables": [
+            12,
+            11,
+            15,
+            16,
+            3,
+            14,
+            12,
+            13,
+            15,
+            3,
+            8,
+            1
+        ],
+        "strofy": [
+            5,
+            1,
+            7
+        ]
+    },
+    "poem": {
+        "text": "{Semua keluh kukirim kepadamu\r\nSemua risau kubenam kelaut mu\r\nRasa kesal dan benci kusampaikan kepadamu\r\nRasa kawatir dan takut kuceritakan padamu\r\nO, laut Sigli}\r\n{Semua derita ku tumpahkan kepadamu\r\nSemua rindu kunyanyikan untukmu\r\nRasa sunyi dan nyeri kukirim padamu\r\nRasa takluk dan menyerah rubuh kepangkuanmu\r\nO, laut Sigli\r\nIzinkan aku memanggilmu\r\nIbu}",
+        "strof": [
+            {
+                "strof": "Semua keluh kukirim kepadamu\r\nSemua risau kubenam kelaut mu\r\nRasa kesal dan benci kusampaikan kepadamu\r\nRasa kawatir dan takut kuceritakan padamu\r\nO, laut Sigli",
+                "lines": [
+                    {
+                        "line": "Semua keluh kukirim kepadamu",
+                        "words": [
+                            {
+                                "wf": "Semua",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "semua",
+                                    "pos": "num",
+                                    "form": "semua"
+                                }
+                            },
+                            {
+                                "wf": "keluh",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "keluh",
+                                    "pos": "n",
+                                    "form": "keluh"
+                                }
+                            },
+                            {
+                                "wf": "kukirim",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kirim",
+                                    "pos": "v",
+                                    "form": "ku-kirim"
+                                }
+                            },
+                            {
+                                "wf": "kepadamu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kepadamu",
+                                    "pos": "p",
+                                    "form": "kepadamu"
+                                }
+                            }
+                        ],
+                        "syllables": 12
+                    },
+                    {
+                        "line": "Semua risau kubenam kelaut mu",
+                        "words": [
+                            {
+                                "wf": "Semua",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "semua",
+                                    "pos": "num",
+                                    "form": "semua"
+                                }
+                            },
+                            {
+                                "wf": "risau",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "risau",
+                                    "pos": "a",
+                                    "form": "risau"
+                                }
+                            },
+                            {
+                                "wf": "kubenam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "benam",
+                                    "pos": "v",
+                                    "form": "ku-benam"
+                                }
+                            },
+                            {
+                                "wf": "kelaut",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kelaut",
+                                    "pos": "?",
+                                    "form": "kelaut"
+                                }
+                            },
+                            {
+                                "wf": "mu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "mu",
+                                    "pos": "v",
+                                    "form": "mu"
+                                }
+                            }
+                        ],
+                        "syllables": 11
+                    },
+                    {
+                        "line": "Rasa kesal dan benci kusampaikan kepadamu",
+                        "words": [
+                            {
+                                "wf": "Rasa",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "rasa",
+                                    "pos": "n",
+                                    "form": "rasa"
+                                }
+                            },
+                            {
+                                "wf": "kesal",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kesal",
+                                    "pos": "a",
+                                    "form": "kesal"
+                                }
+                            },
+                            {
+                                "wf": "dan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dan",
+                                    "pos": "p",
+                                    "form": "dan"
+                                }
+                            },
+                            {
+                                "wf": "benci",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "benci",
+                                    "pos": "a",
+                                    "form": "benci"
+                                }
+                            },
+                            {
+                                "wf": "kusampaikan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kusampaikan",
+                                    "pos": "v",
+                                    "form": "kusampaikan"
+                                }
+                            },
+                            {
+                                "wf": "kepadamu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kepadamu",
+                                    "pos": "p",
+                                    "form": "kepadamu"
+                                }
+                            }
+                        ],
+                        "syllables": 15
+                    },
+                    {
+                        "line": "Rasa kawatir dan takut kuceritakan padamu",
+                        "words": [
+                            {
+                                "wf": "Rasa",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "rasa",
+                                    "pos": "n",
+                                    "form": "rasa"
+                                }
+                            },
+                            {
+                                "wf": "kawatir",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kawatir",
+                                    "pos": "?",
+                                    "form": "kawatir"
+                                }
+                            },
+                            {
+                                "wf": "dan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dan",
+                                    "pos": "p",
+                                    "form": "dan"
+                                }
+                            },
+                            {
+                                "wf": "takut",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "takut",
+                                    "pos": "a",
+                                    "form": "takut"
+                                }
+                            },
+                            {
+                                "wf": "kuceritakan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kuceritakan",
+                                    "pos": "v",
+                                    "form": "kuceritakan"
+                                }
+                            },
+                            {
+                                "wf": "padamu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pada",
+                                    "pos": "p",
+                                    "form": "padamu"
+                                }
+                            }
+                        ],
+                        "syllables": 16
+                    },
+                    {
+                        "line": "O, laut Sigli",
+                        "words": [
+                            {
+                                "wf": "O",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "o",
+                                    "pos": "n",
+                                    "form": "o"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "laut",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "laut",
+                                    "pos": "n",
+                                    "form": "laut"
+                                }
+                            },
+                            {
+                                "wf": "Sigli",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sigli",
+                                    "pos": "?",
+                                    "form": "sigli"
+                                }
+                            }
+                        ],
+                        "syllables": 3
+                    }
+                ],
+                "num_lines": 5
+            },
+            {
+                "strof": "\r\n",
+                "lines": [
+                    {
+                        "line": "",
+                        "words": [],
+                        "syllables": 0
+                    }
+                ],
+                "num_lines": 1
+            },
+            {
+                "strof": "Semua derita ku tumpahkan kepadamu\r\nSemua rindu kunyanyikan untukmu\r\nRasa sunyi dan nyeri kukirim padamu\r\nRasa takluk dan menyerah rubuh kepangkuanmu\r\nO, laut Sigli\r\nIzinkan aku memanggilmu\r\nIbu",
+                "lines": [
+                    {
+                        "line": "Semua derita ku tumpahkan kepadamu",
+                        "words": [
+                            {
+                                "wf": "Semua",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "semua",
+                                    "pos": "num",
+                                    "form": "semua"
+                                }
+                            },
+                            {
+                                "wf": "derita",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "derita",
+                                    "pos": "n",
+                                    "form": "derita"
+                                }
+                            },
+                            {
+                                "wf": "ku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ku",
+                                    "pos": "v",
+                                    "form": "ku"
+                                }
+                            },
+                            {
+                                "wf": "tumpahkan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tumpahkan",
+                                    "pos": "v",
+                                    "form": "tumpahkan"
+                                }
+                            },
+                            {
+                                "wf": "kepadamu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kepadamu",
+                                    "pos": "p",
+                                    "form": "kepadamu"
+                                }
+                            }
+                        ],
+                        "syllables": 14
+                    },
+                    {
+                        "line": "Semua rindu kunyanyikan untukmu",
+                        "words": [
+                            {
+                                "wf": "Semua",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "semua",
+                                    "pos": "num",
+                                    "form": "semua"
+                                }
+                            },
+                            {
+                                "wf": "rindu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "rindu",
+                                    "pos": "a",
+                                    "form": "rindu"
+                                }
+                            },
+                            {
+                                "wf": "kunyanyikan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kunyanyikan",
+                                    "pos": "v",
+                                    "form": "kunyanyikan"
+                                }
+                            },
+                            {
+                                "wf": "untukmu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "untuk",
+                                    "pos": "p",
+                                    "form": "untuk-mu"
+                                }
+                            }
+                        ],
+                        "syllables": 12
+                    },
+                    {
+                        "line": "Rasa sunyi dan nyeri kukirim padamu",
+                        "words": [
+                            {
+                                "wf": "Rasa",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "rasa",
+                                    "pos": "n",
+                                    "form": "rasa"
+                                }
+                            },
+                            {
+                                "wf": "sunyi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sunyi",
+                                    "pos": "a",
+                                    "form": "sunyi"
+                                }
+                            },
+                            {
+                                "wf": "dan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dan",
+                                    "pos": "p",
+                                    "form": "dan"
+                                }
+                            },
+                            {
+                                "wf": "nyeri",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "nyeri",
+                                    "pos": "v",
+                                    "form": "nyeri"
+                                }
+                            },
+                            {
+                                "wf": "kukirim",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kirim",
+                                    "pos": "v",
+                                    "form": "ku-kirim"
+                                }
+                            },
+                            {
+                                "wf": "padamu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pada",
+                                    "pos": "p",
+                                    "form": "padamu"
+                                }
+                            }
+                        ],
+                        "syllables": 13
+                    },
+                    {
+                        "line": "Rasa takluk dan menyerah rubuh kepangkuanmu",
+                        "words": [
+                            {
+                                "wf": "Rasa",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "rasa",
+                                    "pos": "n",
+                                    "form": "rasa"
+                                }
+                            },
+                            {
+                                "wf": "takluk",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "takluk",
+                                    "pos": "v",
+                                    "form": "takluk"
+                                }
+                            },
+                            {
+                                "wf": "dan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dan",
+                                    "pos": "p",
+                                    "form": "dan"
+                                }
+                            },
+                            {
+                                "wf": "menyerah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "serah",
+                                    "pos": "v",
+                                    "form": "meN-serah"
+                                }
+                            },
+                            {
+                                "wf": "rubuh",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "rubuh",
+                                    "pos": "?",
+                                    "form": "rubuh"
+                                }
+                            },
+                            {
+                                "wf": "kepangkuanmu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kepangkuanmu",
+                                    "pos": "?",
+                                    "form": "kepangkuanmu"
+                                }
+                            }
+                        ],
+                        "syllables": 15
+                    },
+                    {
+                        "line": "O, laut Sigli",
+                        "words": [
+                            {
+                                "wf": "O",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "o",
+                                    "pos": "n",
+                                    "form": "o"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "laut",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "laut",
+                                    "pos": "n",
+                                    "form": "laut"
+                                }
+                            },
+                            {
+                                "wf": "Sigli",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sigli",
+                                    "pos": "?",
+                                    "form": "sigli"
+                                }
+                            }
+                        ],
+                        "syllables": 3
+                    },
+                    {
+                        "line": "Izinkan aku memanggilmu",
+                        "words": [
+                            {
+                                "wf": "Izinkan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "izin",
+                                    "pos": "v",
+                                    "form": "izin-kan"
+                                }
+                            },
+                            {
+                                "wf": "aku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "aku",
+                                    "pos": "pron",
+                                    "form": "aku"
+                                }
+                            },
+                            {
+                                "wf": "memanggilmu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "panggil",
+                                    "pos": "v",
+                                    "form": "meN-panggil-mu-mu"
+                                }
+                            }
+                        ],
+                        "syllables": 8
+                    },
+                    {
+                        "line": "Ibu",
+                        "words": [
+                            {
+                                "wf": "Ibu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ibu",
+                                    "pos": "n",
+                                    "form": "ibu"
+                                }
+                            }
+                        ],
+                        "syllables": 1
+                    }
+                ],
+                "num_lines": 7
+            }
+        ]
+    }
+}

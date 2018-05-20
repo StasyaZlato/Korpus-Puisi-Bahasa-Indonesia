@@ -1,0 +1,589 @@
+{
+    "meta": {
+        "file_name": "360.json",
+        "id_bd": 360,
+        "author": "Kuntowijoyo",
+        "title": "In memoriam: yang terbunuh",
+        "genre": "памяти...",
+        "year": "---",
+        "num_lines": 9,
+        "rhyme": "Есть",
+        "syllables": [
+            13,
+            15,
+            11,
+            14,
+            13,
+            15,
+            9,
+            18,
+            12
+        ],
+        "strofy": [
+            5,
+            1,
+            3,
+            1,
+            1
+        ]
+    },
+    "poem": {
+        "text": "{Sekali, hutan tidak menumbuhkan pohon\r\nBurung melayap-layap, terbakar bulu-bulunya\r\nBumi mengaduh, menggapai bebannya\r\nPemburu tidak pulang sesudah petang tiba\r\nLampu malam dipetik dari gunung api.}\r\n{Malaikat di angkasa menyilang tangan di dada\r\nMenyesali dendam yang tumpah\r\nMemalingkan muka tiap kali darah menetes di tanah.}\r\n{\"Mengapa kaubunuh saudara kandungmu?\"}",
+        "strof": [
+            {
+                "strof": "Sekali, hutan tidak menumbuhkan pohon\r\nBurung melayap-layap, terbakar bulu-bulunya\r\nBumi mengaduh, menggapai bebannya\r\nPemburu tidak pulang sesudah petang tiba\r\nLampu malam dipetik dari gunung api.",
+                "lines": [
+                    {
+                        "line": "Sekali, hutan tidak menumbuhkan pohon",
+                        "words": [
+                            {
+                                "wf": "Sekali",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kali",
+                                    "pos": "adv|num|n",
+                                    "form": "se-kali"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "hutan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hutan",
+                                    "pos": "n",
+                                    "form": "hutan"
+                                }
+                            },
+                            {
+                                "wf": "tidak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tidak",
+                                    "pos": "adv",
+                                    "form": "tidak"
+                                }
+                            },
+                            {
+                                "wf": "menumbuhkan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tumbuh",
+                                    "pos": "v",
+                                    "form": "meN-tumbuh-kan"
+                                }
+                            },
+                            {
+                                "wf": "pohon",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pohon",
+                                    "pos": "n",
+                                    "form": "pohon"
+                                }
+                            }
+                        ],
+                        "syllables": 13
+                    },
+                    {
+                        "line": "Burung melayap-layap, terbakar bulu-bulunya",
+                        "words": [
+                            {
+                                "wf": "Burung",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "burung",
+                                    "pos": "n",
+                                    "form": "burung"
+                                }
+                            },
+                            {
+                                "wf": "melayap-layap",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "layap",
+                                    "pos": "v",
+                                    "form": "meN-layap-layap"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "terbakar",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bakar",
+                                    "pos": "v",
+                                    "form": "terbakar"
+                                }
+                            },
+                            {
+                                "wf": "bulu-bulunya",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bulu-bulu",
+                                    "pos": "n",
+                                    "form": "bulu-bulu-nya"
+                                }
+                            }
+                        ],
+                        "syllables": 15
+                    },
+                    {
+                        "line": "Bumi mengaduh, menggapai bebannya",
+                        "words": [
+                            {
+                                "wf": "Bumi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bumi",
+                                    "pos": "n",
+                                    "form": "bumi"
+                                }
+                            },
+                            {
+                                "wf": "mengaduh",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "aduh",
+                                    "pos": "v",
+                                    "form": "meN-aduh"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "menggapai",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "gapai",
+                                    "pos": "v",
+                                    "form": "meN-gapai"
+                                }
+                            },
+                            {
+                                "wf": "bebannya",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "beban",
+                                    "pos": "n",
+                                    "form": "beban-nya"
+                                }
+                            }
+                        ],
+                        "syllables": 11
+                    },
+                    {
+                        "line": "Pemburu tidak pulang sesudah petang tiba",
+                        "words": [
+                            {
+                                "wf": "Pemburu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "buru",
+                                    "pos": "n",
+                                    "form": "peN-buru"
+                                }
+                            },
+                            {
+                                "wf": "tidak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tidak",
+                                    "pos": "adv",
+                                    "form": "tidak"
+                                }
+                            },
+                            {
+                                "wf": "pulang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pulang",
+                                    "pos": "v",
+                                    "form": "pulang"
+                                }
+                            },
+                            {
+                                "wf": "sesudah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sudah",
+                                    "pos": "p",
+                                    "form": "se-sudah"
+                                }
+                            },
+                            {
+                                "wf": "petang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "petang",
+                                    "pos": "n",
+                                    "form": "petang"
+                                }
+                            },
+                            {
+                                "wf": "tiba",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tiba",
+                                    "pos": "v",
+                                    "form": "tiba"
+                                }
+                            }
+                        ],
+                        "syllables": 14
+                    },
+                    {
+                        "line": "Lampu malam dipetik dari gunung api.",
+                        "words": [
+                            {
+                                "wf": "Lampu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lampu",
+                                    "pos": "n",
+                                    "form": "lampu"
+                                }
+                            },
+                            {
+                                "wf": "malam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "malam",
+                                    "pos": "n",
+                                    "form": "malam"
+                                }
+                            },
+                            {
+                                "wf": "dipetik",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "petik",
+                                    "pos": "v",
+                                    "form": "di-petik"
+                                }
+                            },
+                            {
+                                "wf": "dari",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dari",
+                                    "pos": "p",
+                                    "form": "dari"
+                                }
+                            },
+                            {
+                                "wf": "gunung",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "gunung",
+                                    "pos": "n",
+                                    "form": "gunung"
+                                }
+                            },
+                            {
+                                "wf": "api",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "api",
+                                    "pos": "n",
+                                    "form": "api"
+                                }
+                            },
+                            {
+                                "wf": ".",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 13
+                    }
+                ],
+                "num_lines": 5
+            },
+            {
+                "strof": "\r\n",
+                "lines": [
+                    {
+                        "line": "",
+                        "words": [],
+                        "syllables": 0
+                    }
+                ],
+                "num_lines": 1
+            },
+            {
+                "strof": "Malaikat di angkasa menyilang tangan di dada\r\nMenyesali dendam yang tumpah\r\nMemalingkan muka tiap kali darah menetes di tanah.",
+                "lines": [
+                    {
+                        "line": "Malaikat di angkasa menyilang tangan di dada",
+                        "words": [
+                            {
+                                "wf": "Malaikat",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "malaikat",
+                                    "pos": "n",
+                                    "form": "malaikat"
+                                }
+                            },
+                            {
+                                "wf": "di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "angkasa",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "angkasa",
+                                    "pos": "n",
+                                    "form": "angkasa"
+                                }
+                            },
+                            {
+                                "wf": "menyilang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "silang",
+                                    "pos": "v",
+                                    "form": "meN-silang"
+                                }
+                            },
+                            {
+                                "wf": "tangan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tangan",
+                                    "pos": "v",
+                                    "form": "tangan"
+                                }
+                            },
+                            {
+                                "wf": "di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "dada",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dada",
+                                    "pos": "n",
+                                    "form": "dada"
+                                }
+                            }
+                        ],
+                        "syllables": 15
+                    },
+                    {
+                        "line": "Menyesali dendam yang tumpah",
+                        "words": [
+                            {
+                                "wf": "Menyesali",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sesal",
+                                    "pos": "v",
+                                    "form": "meN-sesal-i"
+                                }
+                            },
+                            {
+                                "wf": "dendam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dendam",
+                                    "pos": "a",
+                                    "form": "dendam"
+                                }
+                            },
+                            {
+                                "wf": "yang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "yang",
+                                    "pos": "a|v|n",
+                                    "form": "yang"
+                                }
+                            },
+                            {
+                                "wf": "tumpah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tumpah",
+                                    "pos": "v",
+                                    "form": "tumpah"
+                                }
+                            }
+                        ],
+                        "syllables": 9
+                    },
+                    {
+                        "line": "Memalingkan muka tiap kali darah menetes di tanah.",
+                        "words": [
+                            {
+                                "wf": "Memalingkan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "paling",
+                                    "pos": "v",
+                                    "form": "meN-paling-kan"
+                                }
+                            },
+                            {
+                                "wf": "muka",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "muka",
+                                    "pos": "n",
+                                    "form": "muka"
+                                }
+                            },
+                            {
+                                "wf": "tiap",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tiap",
+                                    "pos": "a",
+                                    "form": "tiap"
+                                }
+                            },
+                            {
+                                "wf": "kali",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kali",
+                                    "pos": "v",
+                                    "form": "kali"
+                                }
+                            },
+                            {
+                                "wf": "darah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "darah",
+                                    "pos": "n",
+                                    "form": "darah"
+                                }
+                            },
+                            {
+                                "wf": "menetes",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tetes",
+                                    "pos": "v",
+                                    "form": "meN-tetes"
+                                }
+                            },
+                            {
+                                "wf": "di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "tanah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tanah",
+                                    "pos": "n",
+                                    "form": "tanah"
+                                }
+                            },
+                            {
+                                "wf": ".",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 18
+                    }
+                ],
+                "num_lines": 3
+            },
+            {
+                "strof": "\r\n",
+                "lines": [
+                    {
+                        "line": "",
+                        "words": [],
+                        "syllables": 0
+                    }
+                ],
+                "num_lines": 1
+            },
+            {
+                "strof": "\"Mengapa kaubunuh saudara kandungmu?\"",
+                "lines": [
+                    {
+                        "line": "\"Mengapa kaubunuh saudara kandungmu?\"",
+                        "words": [
+                            {
+                                "wf": "\"",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "Mengapa",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "apa",
+                                    "pos": "pron",
+                                    "form": "meN-apa"
+                                }
+                            },
+                            {
+                                "wf": "kaubunuh",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bunuh",
+                                    "pos": "v",
+                                    "form": "kau-bunuh"
+                                }
+                            },
+                            {
+                                "wf": "saudara",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "saudara",
+                                    "pos": "n",
+                                    "form": "saudara"
+                                }
+                            },
+                            {
+                                "wf": "kandungmu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kandung",
+                                    "pos": "n",
+                                    "form": "kandung-mu"
+                                }
+                            },
+                            {
+                                "wf": "?\"",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 12
+                    }
+                ],
+                "num_lines": 1
+            }
+        ]
+    }
+}

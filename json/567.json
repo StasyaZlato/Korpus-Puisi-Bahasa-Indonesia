@@ -1,0 +1,708 @@
+{
+    "meta": {
+        "file_name": "567.json",
+        "id_bd": 567,
+        "author": "Sutan Takdir Alisyahbana",
+        "title": "Nikmat hidup",
+        "genre": "стихотворение",
+        "year": "---",
+        "num_lines": 14,
+        "rhyme": "Нет",
+        "syllables": [
+            9,
+            11,
+            9,
+            10,
+            10,
+            10,
+            10,
+            11,
+            6,
+            10,
+            10,
+            7,
+            8,
+            8
+        ],
+        "strofy": [
+            14
+        ]
+    },
+    "poem": {
+        "text": "{Api menyala di dalam kalbu,\r\nGanas membakar tiada beragak.\r\nHangus badan rasa seluruh,\r\nKepala penuh bersabung sinar.\r\nMalam mata tiada terpicing,\r\nGelisah duduk sepanjang hari.\r\nRasa dicambuk rasa didera\r\nJiwa ’ngembara tiada sentosa.\r\nYa Allah, ya Tuhanku!\r\nBiarlah api nyala di kalbu,\r\nBiarlah badan hangus tertuju.\r\nApi jangan Engkau padamkan,\r\nMata jangan Engkau picakan,\r\nJiwa jangan Engkau lelapkan.}",
+        "strof": [
+            {
+                "strof": "Api menyala di dalam kalbu,\r\nGanas membakar tiada beragak.\r\nHangus badan rasa seluruh,\r\nKepala penuh bersabung sinar.\r\nMalam mata tiada terpicing,\r\nGelisah duduk sepanjang hari.\r\nRasa dicambuk rasa didera\r\nJiwa ’ngembara tiada sentosa.\r\nYa Allah, ya Tuhanku!\r\nBiarlah api nyala di kalbu,\r\nBiarlah badan hangus tertuju.\r\nApi jangan Engkau padamkan,\r\nMata jangan Engkau picakan,\r\nJiwa jangan Engkau lelapkan.",
+                "lines": [
+                    {
+                        "line": "Api menyala di dalam kalbu,",
+                        "words": [
+                            {
+                                "wf": "Api",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "api",
+                                    "pos": "n",
+                                    "form": "api"
+                                }
+                            },
+                            {
+                                "wf": "menyala",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "nyala",
+                                    "pos": "v",
+                                    "form": "meN-nyala"
+                                }
+                            },
+                            {
+                                "wf": "di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "dalam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dalam",
+                                    "pos": "a|n",
+                                    "form": "dalam"
+                                }
+                            },
+                            {
+                                "wf": "kalbu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kalbu",
+                                    "pos": "n",
+                                    "form": "kalbu"
+                                }
+                            },
+                            {
+                                "wf": ",",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 9
+                    },
+                    {
+                        "line": "Ganas membakar tiada beragak.",
+                        "words": [
+                            {
+                                "wf": "Ganas",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ganas",
+                                    "pos": "a",
+                                    "form": "ganas"
+                                }
+                            },
+                            {
+                                "wf": "membakar",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bakar",
+                                    "pos": "v",
+                                    "form": "meN-bakar"
+                                }
+                            },
+                            {
+                                "wf": "tiada",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tiada",
+                                    "pos": "v",
+                                    "form": "tiada"
+                                }
+                            },
+                            {
+                                "wf": "beragak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "agak",
+                                    "pos": "v",
+                                    "form": "ber-agak"
+                                }
+                            },
+                            {
+                                "wf": ".",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 11
+                    },
+                    {
+                        "line": "Hangus badan rasa seluruh,",
+                        "words": [
+                            {
+                                "wf": "Hangus",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hangus",
+                                    "pos": "v",
+                                    "form": "hangus"
+                                }
+                            },
+                            {
+                                "wf": "badan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "badan",
+                                    "pos": "n",
+                                    "form": "badan"
+                                }
+                            },
+                            {
+                                "wf": "rasa",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "rasa",
+                                    "pos": "n",
+                                    "form": "rasa"
+                                }
+                            },
+                            {
+                                "wf": "seluruh",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "seluruh",
+                                    "pos": "num",
+                                    "form": "seluruh"
+                                }
+                            },
+                            {
+                                "wf": ",",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 9
+                    },
+                    {
+                        "line": "Kepala penuh bersabung sinar.",
+                        "words": [
+                            {
+                                "wf": "Kepala",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kepala",
+                                    "pos": "n",
+                                    "form": "kepala"
+                                }
+                            },
+                            {
+                                "wf": "penuh",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "penuh",
+                                    "pos": "a",
+                                    "form": "penuh"
+                                }
+                            },
+                            {
+                                "wf": "bersabung",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sabung",
+                                    "pos": "v",
+                                    "form": "ber-sabung"
+                                }
+                            },
+                            {
+                                "wf": "sinar",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sinar",
+                                    "pos": "n",
+                                    "form": "sinar"
+                                }
+                            },
+                            {
+                                "wf": ".",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "Malam mata tiada terpicing,",
+                        "words": [
+                            {
+                                "wf": "Malam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "malam",
+                                    "pos": "n",
+                                    "form": "malam"
+                                }
+                            },
+                            {
+                                "wf": "mata",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "mata",
+                                    "pos": "n",
+                                    "form": "mata"
+                                }
+                            },
+                            {
+                                "wf": "tiada",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tiada",
+                                    "pos": "v",
+                                    "form": "tiada"
+                                }
+                            },
+                            {
+                                "wf": "terpicing",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "picing",
+                                    "pos": "v",
+                                    "form": "ter-picing"
+                                }
+                            },
+                            {
+                                "wf": ",",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "Gelisah duduk sepanjang hari.",
+                        "words": [
+                            {
+                                "wf": "Gelisah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "gelisah",
+                                    "pos": "a",
+                                    "form": "gelisah"
+                                }
+                            },
+                            {
+                                "wf": "duduk",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "duduk",
+                                    "pos": "v",
+                                    "form": "duduk"
+                                }
+                            },
+                            {
+                                "wf": "sepanjang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "panjang",
+                                    "pos": "n",
+                                    "form": "se-panjang"
+                                }
+                            },
+                            {
+                                "wf": "hari",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hari",
+                                    "pos": "n",
+                                    "form": "hari"
+                                }
+                            },
+                            {
+                                "wf": ".",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "Rasa dicambuk rasa didera",
+                        "words": [
+                            {
+                                "wf": "Rasa",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "rasa",
+                                    "pos": "n",
+                                    "form": "rasa"
+                                }
+                            },
+                            {
+                                "wf": "dicambuk",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "cambuk",
+                                    "pos": "n",
+                                    "form": "di-cambuk"
+                                }
+                            },
+                            {
+                                "wf": "rasa",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "rasa",
+                                    "pos": "n",
+                                    "form": "rasa"
+                                }
+                            },
+                            {
+                                "wf": "didera",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dera",
+                                    "pos": "n",
+                                    "form": "di-dera"
+                                }
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "Jiwa ’ngembara tiada sentosa.",
+                        "words": [
+                            {
+                                "wf": "Jiwa",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jiwa",
+                                    "pos": "n",
+                                    "form": "jiwa"
+                                }
+                            },
+                            {
+                                "wf": " ’",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "ngembara",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ngembara",
+                                    "pos": "n",
+                                    "form": "ngembara"
+                                }
+                            },
+                            {
+                                "wf": "tiada",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tiada",
+                                    "pos": "v",
+                                    "form": "tiada"
+                                }
+                            },
+                            {
+                                "wf": "sentosa",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sentosa",
+                                    "pos": "a",
+                                    "form": "sentosa"
+                                }
+                            },
+                            {
+                                "wf": ".",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 11
+                    },
+                    {
+                        "line": "Ya Allah, ya Tuhanku!",
+                        "words": [
+                            {
+                                "wf": "Ya",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ya",
+                                    "pos": "adv",
+                                    "form": "ya"
+                                }
+                            },
+                            {
+                                "wf": "Allah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "Allah",
+                                    "pos": "n",
+                                    "form": "Allah"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "ya",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ya",
+                                    "pos": "adv",
+                                    "form": "ya"
+                                }
+                            },
+                            {
+                                "wf": "Tuhanku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "Tuhan",
+                                    "pos": "n",
+                                    "form": "Tuhan-ku"
+                                }
+                            },
+                            {
+                                "wf": "!",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 6
+                    },
+                    {
+                        "line": "Biarlah api nyala di kalbu,",
+                        "words": [
+                            {
+                                "wf": "Biarlah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "biar",
+                                    "pos": "p",
+                                    "form": "biar-lah"
+                                }
+                            },
+                            {
+                                "wf": "api",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "api",
+                                    "pos": "n",
+                                    "form": "api"
+                                }
+                            },
+                            {
+                                "wf": "nyala",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "nyala",
+                                    "pos": "n",
+                                    "form": "nyala"
+                                }
+                            },
+                            {
+                                "wf": "di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "kalbu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kalbu",
+                                    "pos": "n",
+                                    "form": "kalbu"
+                                }
+                            },
+                            {
+                                "wf": ",",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "Biarlah badan hangus tertuju.",
+                        "words": [
+                            {
+                                "wf": "Biarlah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "biar",
+                                    "pos": "p",
+                                    "form": "biar-lah"
+                                }
+                            },
+                            {
+                                "wf": "badan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "badan",
+                                    "pos": "n",
+                                    "form": "badan"
+                                }
+                            },
+                            {
+                                "wf": "hangus",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hangus",
+                                    "pos": "v",
+                                    "form": "hangus"
+                                }
+                            },
+                            {
+                                "wf": "tertuju",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tuju",
+                                    "pos": "v",
+                                    "form": "ter-tuju"
+                                }
+                            },
+                            {
+                                "wf": ".",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "Api jangan Engkau padamkan,",
+                        "words": [
+                            {
+                                "wf": "Api",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "api",
+                                    "pos": "n",
+                                    "form": "api"
+                                }
+                            },
+                            {
+                                "wf": "jangan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jangan",
+                                    "pos": "adv",
+                                    "form": "jangan"
+                                }
+                            },
+                            {
+                                "wf": "Engkau",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "engkau",
+                                    "pos": "pron",
+                                    "form": "engkau"
+                                }
+                            },
+                            {
+                                "wf": "padamkan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "padam",
+                                    "pos": "v",
+                                    "form": "padam-kan"
+                                }
+                            },
+                            {
+                                "wf": ",",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 7
+                    },
+                    {
+                        "line": "Mata jangan Engkau picakan,",
+                        "words": [
+                            {
+                                "wf": "Mata",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "mata",
+                                    "pos": "n",
+                                    "form": "mata"
+                                }
+                            },
+                            {
+                                "wf": "jangan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jangan",
+                                    "pos": "adv",
+                                    "form": "jangan"
+                                }
+                            },
+                            {
+                                "wf": "Engkau",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "engkau",
+                                    "pos": "pron",
+                                    "form": "engkau"
+                                }
+                            },
+                            {
+                                "wf": "picakan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pica",
+                                    "pos": "v",
+                                    "form": "pica-kan"
+                                }
+                            },
+                            {
+                                "wf": ",",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 8
+                    },
+                    {
+                        "line": "Jiwa jangan Engkau lelapkan.",
+                        "words": [
+                            {
+                                "wf": "Jiwa",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jiwa",
+                                    "pos": "n",
+                                    "form": "jiwa"
+                                }
+                            },
+                            {
+                                "wf": "jangan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jangan",
+                                    "pos": "adv",
+                                    "form": "jangan"
+                                }
+                            },
+                            {
+                                "wf": "Engkau",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "engkau",
+                                    "pos": "pron",
+                                    "form": "engkau"
+                                }
+                            },
+                            {
+                                "wf": "lelapkan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lelap",
+                                    "pos": "v",
+                                    "form": "lelap-kan"
+                                }
+                            },
+                            {
+                                "wf": ".",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 8
+                    }
+                ],
+                "num_lines": 14
+            }
+        ]
+    }
+}

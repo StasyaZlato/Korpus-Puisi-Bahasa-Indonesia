@@ -63,7 +63,7 @@ def count_syllables(line):
 
 
 def take_alll():
-    conn = sqlite3.connect(os.path.join('.', 'main_bd13_SOS_shit.sqlite'))
+    conn = sqlite3.connect(os.path.join('.', 'KorpusBD.sqlite'))
     c = conn.cursor()
     c.execute('SELECT id_poem, poem_text FROM poems')
     all = c.fetchall()

@@ -1,0 +1,265 @@
+{
+    "meta": {
+        "file_name": "407.json",
+        "id_bd": 407,
+        "author": "Ajip Rosidi",
+        "title": "Diriku",
+        "genre": "стихотворение",
+        "year": 1961,
+        "num_lines": 7,
+        "rhyme": "Есть",
+        "syllables": [
+            6,
+            11,
+            5,
+            5,
+            8,
+            5,
+            2
+        ],
+        "strofy": [
+            3,
+            1,
+            4
+        ]
+    },
+    "poem": {
+        "text": "{Diriku samudra\r\nDilayari kapal, perahu, bajak\r\nTiada jejak.}\r\n{Yang sementara\r\nBerasal dari Tiada\r\n’Kan lenyap dalam\r\nTada}",
+        "strof": [
+            {
+                "strof": "Diriku samudra\r\nDilayari kapal, perahu, bajak\r\nTiada jejak.",
+                "lines": [
+                    {
+                        "line": "Diriku samudra",
+                        "words": [
+                            {
+                                "wf": "Diriku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "diriku",
+                                    "pos": "?",
+                                    "form": "diriku"
+                                }
+                            },
+                            {
+                                "wf": "samudra",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "samudra",
+                                    "pos": "n",
+                                    "form": "samudra"
+                                }
+                            }
+                        ],
+                        "syllables": 6
+                    },
+                    {
+                        "line": "Dilayari kapal, perahu, bajak",
+                        "words": [
+                            {
+                                "wf": "Dilayari",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dilayari",
+                                    "pos": "v",
+                                    "form": "dilayari"
+                                }
+                            },
+                            {
+                                "wf": "kapal",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kapal",
+                                    "pos": "n",
+                                    "form": "kapal"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "perahu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "perahu",
+                                    "pos": "n",
+                                    "form": "perahu"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "bajak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bajak",
+                                    "pos": "n",
+                                    "form": "bajak"
+                                }
+                            }
+                        ],
+                        "syllables": 11
+                    },
+                    {
+                        "line": "Tiada jejak.",
+                        "words": [
+                            {
+                                "wf": "Tiada",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tiada",
+                                    "pos": "v",
+                                    "form": "tiada"
+                                }
+                            },
+                            {
+                                "wf": "jejak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jejak",
+                                    "pos": "n",
+                                    "form": "jejak"
+                                }
+                            },
+                            {
+                                "wf": ".",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 5
+                    }
+                ],
+                "num_lines": 3
+            },
+            {
+                "strof": "\r\n",
+                "lines": [
+                    {
+                        "line": "",
+                        "words": [],
+                        "syllables": 0
+                    }
+                ],
+                "num_lines": 1
+            },
+            {
+                "strof": "Yang sementara\r\nBerasal dari Tiada\r\n’Kan lenyap dalam\r\nTada",
+                "lines": [
+                    {
+                        "line": "Yang sementara",
+                        "words": [
+                            {
+                                "wf": "Yang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "yang",
+                                    "pos": "a|v|n",
+                                    "form": "yang"
+                                }
+                            },
+                            {
+                                "wf": "sementara",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sementara",
+                                    "pos": "p|n|num",
+                                    "form": "sementara"
+                                }
+                            }
+                        ],
+                        "syllables": 5
+                    },
+                    {
+                        "line": "Berasal dari Tiada",
+                        "words": [
+                            {
+                                "wf": "Berasal",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "asal",
+                                    "pos": "v",
+                                    "form": "ber-asal"
+                                }
+                            },
+                            {
+                                "wf": "dari",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dari",
+                                    "pos": "p",
+                                    "form": "dari"
+                                }
+                            },
+                            {
+                                "wf": "Tiada",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tiada",
+                                    "pos": "v",
+                                    "form": "tiada"
+                                }
+                            }
+                        ],
+                        "syllables": 8
+                    },
+                    {
+                        "line": "’Kan lenyap dalam",
+                        "words": [
+                            {
+                                "wf": "’",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "Kan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kan",
+                                    "pos": "v",
+                                    "form": "kan"
+                                }
+                            },
+                            {
+                                "wf": "lenyap",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lenyap",
+                                    "pos": "a",
+                                    "form": "lenyap"
+                                }
+                            },
+                            {
+                                "wf": "dalam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dalam",
+                                    "pos": "a|n",
+                                    "form": "dalam"
+                                }
+                            }
+                        ],
+                        "syllables": 5
+                    },
+                    {
+                        "line": "Tada",
+                        "words": [
+                            {
+                                "wf": "Tada",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tada",
+                                    "pos": "?",
+                                    "form": "tada"
+                                }
+                            }
+                        ],
+                        "syllables": 2
+                    }
+                ],
+                "num_lines": 4
+            }
+        ]
+    }
+}

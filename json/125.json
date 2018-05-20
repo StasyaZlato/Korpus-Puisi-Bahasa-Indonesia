@@ -1,0 +1,544 @@
+{
+    "meta": {
+        "file_name": "125.json",
+        "id_bd": 125,
+        "author": "Chairil Anwar",
+        "title": "Dendam",
+        "genre": "стихотворение",
+        "year": "13.07.1943",
+        "num_lines": 12,
+        "rhyme": "Есть",
+        "syllables": [
+            6,
+            11,
+            3,
+            11,
+            11,
+            11,
+            11,
+            4,
+            14,
+            4,
+            9,
+            11
+        ],
+        "strofy": [
+            12
+        ]
+    },
+    "poem": {
+        "text": "Berdiri tersentak\r\nDari mimpi aku bengis dielak\r\nAku tegak\r\nBulan bersinar sedikit tak nampak\r\nTangan meraba ke bawah bantalku\r\nKeris berkarat kugenggam di hulu\r\nBulan bersinar sedikit tak nampak\r\nAku mencari\r\nMendadak mati kuhendak berbekas di jari\r\nAku mencari\r\nDiri tercerai dari hati\r\nBulan bersinar sedikit tak tampak",
+        "strof": [
+            {
+                "strof": "Berdiri tersentak\r\nDari mimpi aku bengis dielak\r\nAku tegak\r\nBulan bersinar sedikit tak nampak\r\nTangan meraba ke bawah bantalku\r\nKeris berkarat kugenggam di hulu\r\nBulan bersinar sedikit tak nampak\r\nAku mencari\r\nMendadak mati kuhendak berbekas di jari\r\nAku mencari\r\nDiri tercerai dari hati\r\nBulan bersinar sedikit tak tampak",
+                "lines": [
+                    {
+                        "line": "Berdiri tersentak",
+                        "words": [
+                            {
+                                "wf": "Berdiri",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "Berdiri",
+                                    "pos": "v",
+                                    "form": "Berdiri"
+                                }
+                            },
+                            {
+                                "wf": "tersentak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sentak",
+                                    "pos": "v",
+                                    "form": "ter-sentak"
+                                }
+                            }
+                        ],
+                        "syllables": 6
+                    },
+                    {
+                        "line": "Dari mimpi aku bengis dielak",
+                        "words": [
+                            {
+                                "wf": "Dari",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dari",
+                                    "pos": "p",
+                                    "form": "dari"
+                                }
+                            },
+                            {
+                                "wf": "mimpi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "mimpi",
+                                    "pos": "n",
+                                    "form": "mimpi"
+                                }
+                            },
+                            {
+                                "wf": "aku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "aku",
+                                    "pos": "pron",
+                                    "form": "aku"
+                                }
+                            },
+                            {
+                                "wf": "bengis",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bengis",
+                                    "pos": "a",
+                                    "form": "bengis"
+                                }
+                            },
+                            {
+                                "wf": "dielak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "elak",
+                                    "pos": "n",
+                                    "form": "di-elak"
+                                }
+                            }
+                        ],
+                        "syllables": 11
+                    },
+                    {
+                        "line": "Aku tegak",
+                        "words": [
+                            {
+                                "wf": "Aku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "aku",
+                                    "pos": "pron",
+                                    "form": "aku"
+                                }
+                            },
+                            {
+                                "wf": "tegak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tegak",
+                                    "pos": "a",
+                                    "form": "tegak"
+                                }
+                            }
+                        ],
+                        "syllables": 3
+                    },
+                    {
+                        "line": "Bulan bersinar sedikit tak nampak",
+                        "words": [
+                            {
+                                "wf": "Bulan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bulan",
+                                    "pos": "n",
+                                    "form": "bulan"
+                                }
+                            },
+                            {
+                                "wf": "bersinar",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sinar",
+                                    "pos": "v",
+                                    "form": "bersinar"
+                                }
+                            },
+                            {
+                                "wf": "sedikit",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sedikit",
+                                    "pos": "a",
+                                    "form": "sedikit"
+                                }
+                            },
+                            {
+                                "wf": "tak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tak",
+                                    "pos": "adv",
+                                    "form": "tak"
+                                }
+                            },
+                            {
+                                "wf": "nampak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "nampak",
+                                    "pos": "v",
+                                    "form": "nampak"
+                                }
+                            }
+                        ],
+                        "syllables": 11
+                    },
+                    {
+                        "line": "Tangan meraba ke bawah bantalku",
+                        "words": [
+                            {
+                                "wf": "Tangan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tangan",
+                                    "pos": "v",
+                                    "form": "tangan"
+                                }
+                            },
+                            {
+                                "wf": "meraba",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "raba",
+                                    "pos": "v",
+                                    "form": "meN-raba"
+                                }
+                            },
+                            {
+                                "wf": "ke",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ke",
+                                    "pos": "p",
+                                    "form": "ke"
+                                }
+                            },
+                            {
+                                "wf": "bawah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bawah",
+                                    "pos": "n|v",
+                                    "form": "bawah"
+                                }
+                            },
+                            {
+                                "wf": "bantalku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bantal",
+                                    "pos": "n",
+                                    "form": "bantal-ku"
+                                }
+                            }
+                        ],
+                        "syllables": 11
+                    },
+                    {
+                        "line": "Keris berkarat kugenggam di hulu",
+                        "words": [
+                            {
+                                "wf": "Keris",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "keris",
+                                    "pos": "n",
+                                    "form": "keris"
+                                }
+                            },
+                            {
+                                "wf": "berkarat",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "karat",
+                                    "pos": "v|a",
+                                    "form": "ber-karat"
+                                }
+                            },
+                            {
+                                "wf": "kugenggam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "genggam",
+                                    "pos": "n",
+                                    "form": "ku-genggam"
+                                }
+                            },
+                            {
+                                "wf": "di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "hulu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hulu",
+                                    "pos": "n",
+                                    "form": "hulu"
+                                }
+                            }
+                        ],
+                        "syllables": 11
+                    },
+                    {
+                        "line": "Bulan bersinar sedikit tak nampak",
+                        "words": [
+                            {
+                                "wf": "Bulan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bulan",
+                                    "pos": "n",
+                                    "form": "bulan"
+                                }
+                            },
+                            {
+                                "wf": "bersinar",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sinar",
+                                    "pos": "v",
+                                    "form": "bersinar"
+                                }
+                            },
+                            {
+                                "wf": "sedikit",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sedikit",
+                                    "pos": "a",
+                                    "form": "sedikit"
+                                }
+                            },
+                            {
+                                "wf": "tak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tak",
+                                    "pos": "adv",
+                                    "form": "tak"
+                                }
+                            },
+                            {
+                                "wf": "nampak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "nampak",
+                                    "pos": "v",
+                                    "form": "nampak"
+                                }
+                            }
+                        ],
+                        "syllables": 11
+                    },
+                    {
+                        "line": "Aku mencari",
+                        "words": [
+                            {
+                                "wf": "Aku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "aku",
+                                    "pos": "pron",
+                                    "form": "aku"
+                                }
+                            },
+                            {
+                                "wf": "mencari",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "cari",
+                                    "pos": "v",
+                                    "form": "meN-cari"
+                                }
+                            }
+                        ],
+                        "syllables": 4
+                    },
+                    {
+                        "line": "Mendadak mati kuhendak berbekas di jari",
+                        "words": [
+                            {
+                                "wf": "Mendadak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dadakan",
+                                    "pos": "adv",
+                                    "form": "Mendadak"
+                                }
+                            },
+                            {
+                                "wf": "mati",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "mati",
+                                    "pos": "v",
+                                    "form": "mati"
+                                }
+                            },
+                            {
+                                "wf": "kuhendak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hendak",
+                                    "pos": "adv",
+                                    "form": "ku-hendak"
+                                }
+                            },
+                            {
+                                "wf": "berbekas",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bekas",
+                                    "pos": "v",
+                                    "form": "ber-bekas"
+                                }
+                            },
+                            {
+                                "wf": "di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "jari",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jari",
+                                    "pos": "n",
+                                    "form": "jari"
+                                }
+                            }
+                        ],
+                        "syllables": 14
+                    },
+                    {
+                        "line": "Aku mencari",
+                        "words": [
+                            {
+                                "wf": "Aku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "aku",
+                                    "pos": "pron",
+                                    "form": "aku"
+                                }
+                            },
+                            {
+                                "wf": "mencari",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "cari",
+                                    "pos": "v",
+                                    "form": "meN-cari"
+                                }
+                            }
+                        ],
+                        "syllables": 4
+                    },
+                    {
+                        "line": "Diri tercerai dari hati",
+                        "words": [
+                            {
+                                "wf": "Diri",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "diri",
+                                    "pos": "n",
+                                    "form": "diri"
+                                }
+                            },
+                            {
+                                "wf": "tercerai",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tercerai",
+                                    "pos": "v",
+                                    "form": "tercerai"
+                                }
+                            },
+                            {
+                                "wf": "dari",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dari",
+                                    "pos": "p",
+                                    "form": "dari"
+                                }
+                            },
+                            {
+                                "wf": "hati",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hati",
+                                    "pos": "n",
+                                    "form": "hati"
+                                }
+                            }
+                        ],
+                        "syllables": 9
+                    },
+                    {
+                        "line": "Bulan bersinar sedikit tak tampak",
+                        "words": [
+                            {
+                                "wf": "Bulan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bulan",
+                                    "pos": "n",
+                                    "form": "bulan"
+                                }
+                            },
+                            {
+                                "wf": "bersinar",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sinar",
+                                    "pos": "v",
+                                    "form": "bersinar"
+                                }
+                            },
+                            {
+                                "wf": "sedikit",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sedikit",
+                                    "pos": "a",
+                                    "form": "sedikit"
+                                }
+                            },
+                            {
+                                "wf": "tak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tak",
+                                    "pos": "adv",
+                                    "form": "tak"
+                                }
+                            },
+                            {
+                                "wf": "tampak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "nampak",
+                                    "pos": "v",
+                                    "form": "tampak"
+                                }
+                            }
+                        ],
+                        "syllables": 11
+                    }
+                ],
+                "num_lines": 12
+            }
+        ]
+    }
+}

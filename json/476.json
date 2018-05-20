@@ -1,0 +1,763 @@
+{
+    "meta": {
+        "file_name": "476.json",
+        "id_bd": 476,
+        "author": "Sapardi Djoko Damono",
+        "title": "Sonnet: x",
+        "genre": "сонет",
+        "year": "---",
+        "num_lines": 14,
+        "rhyme": "Есть",
+        "syllables": [
+            11,
+            11,
+            11,
+            11,
+            10,
+            11,
+            15,
+            11,
+            14,
+            14,
+            11,
+            13,
+            11,
+            5
+        ],
+        "strofy": [
+            4,
+            1,
+            4,
+            1,
+            3,
+            1,
+            3
+        ]
+    },
+    "poem": {
+        "text": "{Siapa menggores di langit biru\r\nSiapa meretas di awan lalu\r\nSiapa mengkristal di kabut biru\r\nSiapa mengertap di bunga layu}\r\n{Siapa cerna di warna ungu\r\nSiapa bernafas di detak waktu\r\nSiapa berkelebat setiap kubuka pintu\r\nSiapa mencair di bawah pandangku}\r\n{Siapa terucap di celah kata-kataku\r\nSiapa mengaduh di bayang-bayang sepiku\r\nSiapa tiba menjemput berburu}\r\n{Siapa tiba-tiba menyibak cadarku\r\nSiapa meledak dalam diriku\r\n: Siapa aku}",
+        "strof": [
+            {
+                "strof": "Siapa menggores di langit biru\r\nSiapa meretas di awan lalu\r\nSiapa mengkristal di kabut biru\r\nSiapa mengertap di bunga layu",
+                "lines": [
+                    {
+                        "line": "Siapa menggores di langit biru",
+                        "words": [
+                            {
+                                "wf": "Siapa",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "siapa",
+                                    "pos": "pron",
+                                    "form": "siapa"
+                                }
+                            },
+                            {
+                                "wf": "menggores",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "gores",
+                                    "pos": "v",
+                                    "form": "meN-gores"
+                                }
+                            },
+                            {
+                                "wf": "di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "langit",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "langit",
+                                    "pos": "n",
+                                    "form": "langit"
+                                }
+                            },
+                            {
+                                "wf": "biru",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "biru",
+                                    "pos": "n|a",
+                                    "form": "biru"
+                                }
+                            }
+                        ],
+                        "syllables": 11
+                    },
+                    {
+                        "line": "Siapa meretas di awan lalu",
+                        "words": [
+                            {
+                                "wf": "Siapa",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "siapa",
+                                    "pos": "pron",
+                                    "form": "siapa"
+                                }
+                            },
+                            {
+                                "wf": "meretas",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "retas",
+                                    "pos": "v",
+                                    "form": "meN-retas"
+                                }
+                            },
+                            {
+                                "wf": "di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "awan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "awan",
+                                    "pos": "n",
+                                    "form": "awan"
+                                }
+                            },
+                            {
+                                "wf": "lalu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lalu",
+                                    "pos": "adv",
+                                    "form": "lalu"
+                                }
+                            }
+                        ],
+                        "syllables": 11
+                    },
+                    {
+                        "line": "Siapa mengkristal di kabut biru",
+                        "words": [
+                            {
+                                "wf": "Siapa",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "siapa",
+                                    "pos": "pron",
+                                    "form": "siapa"
+                                }
+                            },
+                            {
+                                "wf": "mengkristal",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kristal",
+                                    "pos": "v",
+                                    "form": "mengkristal"
+                                }
+                            },
+                            {
+                                "wf": "di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "kabut",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kabut",
+                                    "pos": "a|n",
+                                    "form": "kabut"
+                                }
+                            },
+                            {
+                                "wf": "biru",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "biru",
+                                    "pos": "n|a",
+                                    "form": "biru"
+                                }
+                            }
+                        ],
+                        "syllables": 11
+                    },
+                    {
+                        "line": "Siapa mengertap di bunga layu",
+                        "words": [
+                            {
+                                "wf": "Siapa",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "siapa",
+                                    "pos": "pron",
+                                    "form": "siapa"
+                                }
+                            },
+                            {
+                                "wf": "mengertap",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kertap",
+                                    "pos": "v",
+                                    "form": "meN-kertap"
+                                }
+                            },
+                            {
+                                "wf": "di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "bunga",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bunga",
+                                    "pos": "n",
+                                    "form": "bunga"
+                                }
+                            },
+                            {
+                                "wf": "layu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "layu",
+                                    "pos": "n",
+                                    "form": "layu"
+                                }
+                            }
+                        ],
+                        "syllables": 11
+                    }
+                ],
+                "num_lines": 4
+            },
+            {
+                "strof": "\r\n",
+                "lines": [
+                    {
+                        "line": "",
+                        "words": [],
+                        "syllables": 0
+                    }
+                ],
+                "num_lines": 1
+            },
+            {
+                "strof": "Siapa cerna di warna ungu\r\nSiapa bernafas di detak waktu\r\nSiapa berkelebat setiap kubuka pintu\r\nSiapa mencair di bawah pandangku",
+                "lines": [
+                    {
+                        "line": "Siapa cerna di warna ungu",
+                        "words": [
+                            {
+                                "wf": "Siapa",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "siapa",
+                                    "pos": "pron",
+                                    "form": "siapa"
+                                }
+                            },
+                            {
+                                "wf": "cerna",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "cerna",
+                                    "pos": "a",
+                                    "form": "cerna"
+                                }
+                            },
+                            {
+                                "wf": "di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "warna",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "warna",
+                                    "pos": "n",
+                                    "form": "warna"
+                                }
+                            },
+                            {
+                                "wf": "ungu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ungu",
+                                    "pos": "n",
+                                    "form": "ungu"
+                                }
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "Siapa bernafas di detak waktu",
+                        "words": [
+                            {
+                                "wf": "Siapa",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "siapa",
+                                    "pos": "pron",
+                                    "form": "siapa"
+                                }
+                            },
+                            {
+                                "wf": "bernafas",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bernafas",
+                                    "pos": "v",
+                                    "form": "bernafas"
+                                }
+                            },
+                            {
+                                "wf": "di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "detak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "detak",
+                                    "pos": "n",
+                                    "form": "detak"
+                                }
+                            },
+                            {
+                                "wf": "waktu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "waktu",
+                                    "pos": "n|p",
+                                    "form": "waktu"
+                                }
+                            }
+                        ],
+                        "syllables": 11
+                    },
+                    {
+                        "line": "Siapa berkelebat setiap kubuka pintu",
+                        "words": [
+                            {
+                                "wf": "Siapa",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "siapa",
+                                    "pos": "pron",
+                                    "form": "siapa"
+                                }
+                            },
+                            {
+                                "wf": "berkelebat",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kelebat",
+                                    "pos": "v",
+                                    "form": "ber-kelebat"
+                                }
+                            },
+                            {
+                                "wf": "setiap",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tiap",
+                                    "pos": "num",
+                                    "form": "se-tiap"
+                                }
+                            },
+                            {
+                                "wf": "kubuka",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "buka",
+                                    "pos": "v",
+                                    "form": "ku-buka"
+                                }
+                            },
+                            {
+                                "wf": "pintu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pintu",
+                                    "pos": "n",
+                                    "form": "pintu"
+                                }
+                            }
+                        ],
+                        "syllables": 15
+                    },
+                    {
+                        "line": "Siapa mencair di bawah pandangku",
+                        "words": [
+                            {
+                                "wf": "Siapa",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "siapa",
+                                    "pos": "pron",
+                                    "form": "siapa"
+                                }
+                            },
+                            {
+                                "wf": "mencair",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "cair",
+                                    "pos": "v",
+                                    "form": "meN-cair"
+                                }
+                            },
+                            {
+                                "wf": "di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "bawah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bawah",
+                                    "pos": "n|v",
+                                    "form": "bawah"
+                                }
+                            },
+                            {
+                                "wf": "pandangku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pandang",
+                                    "pos": "n",
+                                    "form": "pandang-ku"
+                                }
+                            }
+                        ],
+                        "syllables": 11
+                    }
+                ],
+                "num_lines": 4
+            },
+            {
+                "strof": "\r\n",
+                "lines": [
+                    {
+                        "line": "",
+                        "words": [],
+                        "syllables": 0
+                    }
+                ],
+                "num_lines": 1
+            },
+            {
+                "strof": "Siapa terucap di celah kata-kataku\r\nSiapa mengaduh di bayang-bayang sepiku\r\nSiapa tiba menjemput berburu",
+                "lines": [
+                    {
+                        "line": "Siapa terucap di celah kata-kataku",
+                        "words": [
+                            {
+                                "wf": "Siapa",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "siapa",
+                                    "pos": "pron",
+                                    "form": "siapa"
+                                }
+                            },
+                            {
+                                "wf": "terucap",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "terucap",
+                                    "pos": "n",
+                                    "form": "terucap"
+                                }
+                            },
+                            {
+                                "wf": "di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "celah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "celah",
+                                    "pos": "n",
+                                    "form": "celah"
+                                }
+                            },
+                            {
+                                "wf": "kata-kataku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "",
+                                    "pos": "n",
+                                    "form": "kata-kataku-ku"
+                                }
+                            }
+                        ],
+                        "syllables": 14
+                    },
+                    {
+                        "line": "Siapa mengaduh di bayang-bayang sepiku",
+                        "words": [
+                            {
+                                "wf": "Siapa",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "siapa",
+                                    "pos": "pron",
+                                    "form": "siapa"
+                                }
+                            },
+                            {
+                                "wf": "mengaduh",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "aduh",
+                                    "pos": "v",
+                                    "form": "meN-aduh"
+                                }
+                            },
+                            {
+                                "wf": "di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "bayang-bayang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bayang",
+                                    "pos": "v",
+                                    "form": "bayang-bayang"
+                                }
+                            },
+                            {
+                                "wf": "sepiku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sepiku",
+                                    "pos": "?",
+                                    "form": "sepiku"
+                                }
+                            }
+                        ],
+                        "syllables": 14
+                    },
+                    {
+                        "line": "Siapa tiba menjemput berburu",
+                        "words": [
+                            {
+                                "wf": "Siapa",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "siapa",
+                                    "pos": "pron",
+                                    "form": "siapa"
+                                }
+                            },
+                            {
+                                "wf": "tiba",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tiba",
+                                    "pos": "v",
+                                    "form": "tiba"
+                                }
+                            },
+                            {
+                                "wf": "menjemput",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jemput",
+                                    "pos": "v",
+                                    "form": "meN-jemput"
+                                }
+                            },
+                            {
+                                "wf": "berburu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "buru",
+                                    "pos": "v",
+                                    "form": "ber-buru"
+                                }
+                            }
+                        ],
+                        "syllables": 11
+                    }
+                ],
+                "num_lines": 3
+            },
+            {
+                "strof": "\r\n",
+                "lines": [
+                    {
+                        "line": "",
+                        "words": [],
+                        "syllables": 0
+                    }
+                ],
+                "num_lines": 1
+            },
+            {
+                "strof": "Siapa tiba-tiba menyibak cadarku\r\nSiapa meledak dalam diriku\r\n: Siapa aku",
+                "lines": [
+                    {
+                        "line": "Siapa tiba-tiba menyibak cadarku",
+                        "words": [
+                            {
+                                "wf": "Siapa",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "siapa",
+                                    "pos": "pron",
+                                    "form": "siapa"
+                                }
+                            },
+                            {
+                                "wf": "tiba-tiba",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tiba-tiba",
+                                    "pos": "adv",
+                                    "form": "tiba-tiba"
+                                }
+                            },
+                            {
+                                "wf": "menyibak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sibak",
+                                    "pos": "v",
+                                    "form": "meN-sibak"
+                                }
+                            },
+                            {
+                                "wf": "cadarku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "cadar",
+                                    "pos": "n",
+                                    "form": "cadar-ku"
+                                }
+                            }
+                        ],
+                        "syllables": 13
+                    },
+                    {
+                        "line": "Siapa meledak dalam diriku",
+                        "words": [
+                            {
+                                "wf": "Siapa",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "siapa",
+                                    "pos": "pron",
+                                    "form": "siapa"
+                                }
+                            },
+                            {
+                                "wf": "meledak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "meledak",
+                                    "pos": "v",
+                                    "form": "meledak"
+                                }
+                            },
+                            {
+                                "wf": "dalam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dalam",
+                                    "pos": "a|n",
+                                    "form": "dalam"
+                                }
+                            },
+                            {
+                                "wf": "diriku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "diriku",
+                                    "pos": "?",
+                                    "form": "diriku"
+                                }
+                            }
+                        ],
+                        "syllables": 11
+                    },
+                    {
+                        "line": ": Siapa aku",
+                        "words": [
+                            {
+                                "wf": ": ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "Siapa",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "siapa",
+                                    "pos": "pron",
+                                    "form": "siapa"
+                                }
+                            },
+                            {
+                                "wf": "aku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "aku",
+                                    "pos": "pron",
+                                    "form": "aku"
+                                }
+                            }
+                        ],
+                        "syllables": 5
+                    }
+                ],
+                "num_lines": 3
+            }
+        ]
+    }
+}

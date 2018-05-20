@@ -1,0 +1,606 @@
+{
+    "meta": {
+        "file_name": "328.json",
+        "id_bd": 328,
+        "author": "Korrie Layun Rampan",
+        "title": "Surat",
+        "genre": "стихотворение",
+        "year": 1973,
+        "num_lines": 14,
+        "rhyme": "Есть",
+        "syllables": [
+            4,
+            8,
+            5,
+            4,
+            8,
+            8,
+            8,
+            4,
+            9,
+            10,
+            9,
+            4,
+            9,
+            10
+        ],
+        "strofy": [
+            3,
+            1,
+            4,
+            1,
+            4,
+            1,
+            3
+        ]
+    },
+    "poem": {
+        "text": "{Surat ini\r\nKembang merah dalam hijau\r\nDi bibir danau}\r\n{Surat ini\r\nBunga putih dalam biru\r\nMekar di dasar benua\r\nDada penyair yang gelisah}\r\n{Surat ini\r\nLukisan hari demi hari\r\nBisik riuh sukma kehidupan\r\nKe gigir telaga pualam}\r\n{Surat ini\r\nUntaian kalung khatulistiwa\r\nYang terserak di antara kita}",
+        "strof": [
+            {
+                "strof": "Surat ini\r\nKembang merah dalam hijau\r\nDi bibir danau",
+                "lines": [
+                    {
+                        "line": "Surat ini",
+                        "words": [
+                            {
+                                "wf": "Surat",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "surat",
+                                    "pos": "n",
+                                    "form": "surat"
+                                }
+                            },
+                            {
+                                "wf": "ini",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ini",
+                                    "pos": "pron",
+                                    "form": "ini"
+                                }
+                            }
+                        ],
+                        "syllables": 4
+                    },
+                    {
+                        "line": "Kembang merah dalam hijau",
+                        "words": [
+                            {
+                                "wf": "Kembang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kembang",
+                                    "pos": "v",
+                                    "form": "kembang"
+                                }
+                            },
+                            {
+                                "wf": "merah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "merah",
+                                    "pos": "n|a",
+                                    "form": "merah"
+                                }
+                            },
+                            {
+                                "wf": "dalam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dalam",
+                                    "pos": "a|n",
+                                    "form": "dalam"
+                                }
+                            },
+                            {
+                                "wf": "hijau",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hijau",
+                                    "pos": "n|a",
+                                    "form": "hijau"
+                                }
+                            }
+                        ],
+                        "syllables": 8
+                    },
+                    {
+                        "line": "Di bibir danau",
+                        "words": [
+                            {
+                                "wf": "Di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "bibir",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bibir",
+                                    "pos": "n",
+                                    "form": "bibir"
+                                }
+                            },
+                            {
+                                "wf": "danau",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "danau",
+                                    "pos": "n",
+                                    "form": "danau"
+                                }
+                            }
+                        ],
+                        "syllables": 5
+                    }
+                ],
+                "num_lines": 3
+            },
+            {
+                "strof": "\r\n",
+                "lines": [
+                    {
+                        "line": "",
+                        "words": [],
+                        "syllables": 0
+                    }
+                ],
+                "num_lines": 1
+            },
+            {
+                "strof": "Surat ini\r\nBunga putih dalam biru\r\nMekar di dasar benua\r\nDada penyair yang gelisah",
+                "lines": [
+                    {
+                        "line": "Surat ini",
+                        "words": [
+                            {
+                                "wf": "Surat",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "surat",
+                                    "pos": "n",
+                                    "form": "surat"
+                                }
+                            },
+                            {
+                                "wf": "ini",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ini",
+                                    "pos": "pron",
+                                    "form": "ini"
+                                }
+                            }
+                        ],
+                        "syllables": 4
+                    },
+                    {
+                        "line": "Bunga putih dalam biru",
+                        "words": [
+                            {
+                                "wf": "Bunga",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bunga",
+                                    "pos": "n",
+                                    "form": "bunga"
+                                }
+                            },
+                            {
+                                "wf": "putih",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "putih",
+                                    "pos": "n|a",
+                                    "form": "putih"
+                                }
+                            },
+                            {
+                                "wf": "dalam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dalam",
+                                    "pos": "a|n",
+                                    "form": "dalam"
+                                }
+                            },
+                            {
+                                "wf": "biru",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "biru",
+                                    "pos": "n|a",
+                                    "form": "biru"
+                                }
+                            }
+                        ],
+                        "syllables": 8
+                    },
+                    {
+                        "line": "Mekar di dasar benua",
+                        "words": [
+                            {
+                                "wf": "Mekar",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "mekar",
+                                    "pos": "v",
+                                    "form": "mekar"
+                                }
+                            },
+                            {
+                                "wf": "di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "dasar",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dasar",
+                                    "pos": "n",
+                                    "form": "dasar"
+                                }
+                            },
+                            {
+                                "wf": "benua",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "benua",
+                                    "pos": "n",
+                                    "form": "benua"
+                                }
+                            }
+                        ],
+                        "syllables": 8
+                    },
+                    {
+                        "line": "Dada penyair yang gelisah",
+                        "words": [
+                            {
+                                "wf": "Dada",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dada",
+                                    "pos": "n",
+                                    "form": "dada"
+                                }
+                            },
+                            {
+                                "wf": "penyair",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "syair",
+                                    "pos": "n",
+                                    "form": "penyair"
+                                }
+                            },
+                            {
+                                "wf": "yang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "yang",
+                                    "pos": "a|v|n",
+                                    "form": "yang"
+                                }
+                            },
+                            {
+                                "wf": "gelisah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "gelisah",
+                                    "pos": "a",
+                                    "form": "gelisah"
+                                }
+                            }
+                        ],
+                        "syllables": 8
+                    }
+                ],
+                "num_lines": 4
+            },
+            {
+                "strof": "\r\n",
+                "lines": [
+                    {
+                        "line": "",
+                        "words": [],
+                        "syllables": 0
+                    }
+                ],
+                "num_lines": 1
+            },
+            {
+                "strof": "Surat ini\r\nLukisan hari demi hari\r\nBisik riuh sukma kehidupan\r\nKe gigir telaga pualam",
+                "lines": [
+                    {
+                        "line": "Surat ini",
+                        "words": [
+                            {
+                                "wf": "Surat",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "surat",
+                                    "pos": "n",
+                                    "form": "surat"
+                                }
+                            },
+                            {
+                                "wf": "ini",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ini",
+                                    "pos": "pron",
+                                    "form": "ini"
+                                }
+                            }
+                        ],
+                        "syllables": 4
+                    },
+                    {
+                        "line": "Lukisan hari demi hari",
+                        "words": [
+                            {
+                                "wf": "Lukisan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lukis",
+                                    "pos": "n",
+                                    "form": "lukis-an"
+                                }
+                            },
+                            {
+                                "wf": "hari",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hari",
+                                    "pos": "n",
+                                    "form": "hari"
+                                }
+                            },
+                            {
+                                "wf": "demi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "demi",
+                                    "pos": "p",
+                                    "form": "demi"
+                                }
+                            },
+                            {
+                                "wf": "hari",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hari",
+                                    "pos": "n",
+                                    "form": "hari"
+                                }
+                            }
+                        ],
+                        "syllables": 9
+                    },
+                    {
+                        "line": "Bisik riuh sukma kehidupan",
+                        "words": [
+                            {
+                                "wf": "Bisik",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bisik",
+                                    "pos": "n",
+                                    "form": "bisik"
+                                }
+                            },
+                            {
+                                "wf": "riuh",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "riuh",
+                                    "pos": "a",
+                                    "form": "riuh"
+                                }
+                            },
+                            {
+                                "wf": "sukma",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sukma",
+                                    "pos": "n",
+                                    "form": "sukma"
+                                }
+                            },
+                            {
+                                "wf": "kehidupan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hidup",
+                                    "pos": "n",
+                                    "form": "ke-hidup-an"
+                                }
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "Ke gigir telaga pualam",
+                        "words": [
+                            {
+                                "wf": "Ke",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ke",
+                                    "pos": "p",
+                                    "form": "ke"
+                                }
+                            },
+                            {
+                                "wf": "gigir",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "gigir",
+                                    "pos": "n",
+                                    "form": "gigir"
+                                }
+                            },
+                            {
+                                "wf": "telaga",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "telaga",
+                                    "pos": "n",
+                                    "form": "telaga"
+                                }
+                            },
+                            {
+                                "wf": "pualam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pualam",
+                                    "pos": "n",
+                                    "form": "pualam"
+                                }
+                            }
+                        ],
+                        "syllables": 9
+                    }
+                ],
+                "num_lines": 4
+            },
+            {
+                "strof": "\r\n",
+                "lines": [
+                    {
+                        "line": "",
+                        "words": [],
+                        "syllables": 0
+                    }
+                ],
+                "num_lines": 1
+            },
+            {
+                "strof": "Surat ini\r\nUntaian kalung khatulistiwa\r\nYang terserak di antara kita",
+                "lines": [
+                    {
+                        "line": "Surat ini",
+                        "words": [
+                            {
+                                "wf": "Surat",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "surat",
+                                    "pos": "n",
+                                    "form": "surat"
+                                }
+                            },
+                            {
+                                "wf": "ini",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ini",
+                                    "pos": "pron",
+                                    "form": "ini"
+                                }
+                            }
+                        ],
+                        "syllables": 4
+                    },
+                    {
+                        "line": "Untaian kalung khatulistiwa",
+                        "words": [
+                            {
+                                "wf": "Untaian",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "untai",
+                                    "pos": "v",
+                                    "form": "untai-an"
+                                }
+                            },
+                            {
+                                "wf": "kalung",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kalung",
+                                    "pos": "n",
+                                    "form": "kalung"
+                                }
+                            },
+                            {
+                                "wf": "khatulistiwa",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "khatulistiwa",
+                                    "pos": "n",
+                                    "form": "khatulistiwa"
+                                }
+                            }
+                        ],
+                        "syllables": 9
+                    },
+                    {
+                        "line": "Yang terserak di antara kita",
+                        "words": [
+                            {
+                                "wf": "Yang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "yang",
+                                    "pos": "a|v|n",
+                                    "form": "yang"
+                                }
+                            },
+                            {
+                                "wf": "terserak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "serak",
+                                    "pos": "v",
+                                    "form": "ter-serak"
+                                }
+                            },
+                            {
+                                "wf": "di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "antara",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "antara",
+                                    "pos": "n|p|a",
+                                    "form": "antara"
+                                }
+                            },
+                            {
+                                "wf": "kita",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kita",
+                                    "pos": "pron",
+                                    "form": "kita"
+                                }
+                            }
+                        ],
+                        "syllables": 10
+                    }
+                ],
+                "num_lines": 3
+            }
+        ]
+    }
+}

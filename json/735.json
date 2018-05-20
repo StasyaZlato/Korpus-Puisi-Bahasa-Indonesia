@@ -1,0 +1,790 @@
+{
+    "meta": {
+        "file_name": "735.json",
+        "id_bd": 735,
+        "author": "Ajip Rosidi",
+        "title": "Pantun pergi ke laut",
+        "genre": "пантун",
+        "year": "---",
+        "num_lines": 16,
+        "rhyme": "Есть",
+        "syllables": [
+            8,
+            10,
+            8,
+            10,
+            9,
+            8,
+            8,
+            9,
+            9,
+            9,
+            9,
+            9,
+            9,
+            9,
+            8,
+            11
+        ],
+        "strofy": [
+            4,
+            1,
+            4,
+            1,
+            4,
+            1,
+            4
+        ]
+    },
+    "poem": {
+        "text": "{Kalau tuan pergi ke laut\r\ncarikan saya ketam betina\r\nudang galah dan tenggiri\r\nikan kerapu di dalam bubu;}\r\n{Kalau tidak karena takut\r\nkupaksa untuk berjumpa\r\nagar kau jadi mengerti\r\nbetapa rindu melihatmu}\r\n{Kalau tuan pergi ke Tanjung\r\nbawalah kain barang sekayu\r\nuntuk baju anak yang kecil\r\nsudah lama tak ada ganti;}\r\n{Aku merasa tidak beruntung\r\nselalu kautolak bertemu\r\npadahal tidaklah musykil\r\nasal kauampuni dosaku keji}",
+        "strof": [
+            {
+                "strof": "Kalau tuan pergi ke laut\r\ncarikan saya ketam betina\r\nudang galah dan tenggiri\r\nikan kerapu di dalam bubu;",
+                "lines": [
+                    {
+                        "line": "Kalau tuan pergi ke laut",
+                        "words": [
+                            {
+                                "wf": "Kalau",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kalau",
+                                    "pos": "p",
+                                    "form": "kalau"
+                                }
+                            },
+                            {
+                                "wf": "tuan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tuan",
+                                    "pos": "n",
+                                    "form": "tuan"
+                                }
+                            },
+                            {
+                                "wf": "pergi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pergi",
+                                    "pos": "v",
+                                    "form": "pergi"
+                                }
+                            },
+                            {
+                                "wf": "ke",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ke",
+                                    "pos": "p",
+                                    "form": "ke"
+                                }
+                            },
+                            {
+                                "wf": "laut",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "laut",
+                                    "pos": "n",
+                                    "form": "laut"
+                                }
+                            }
+                        ],
+                        "syllables": 8
+                    },
+                    {
+                        "line": "carikan saya ketam betina",
+                        "words": [
+                            {
+                                "wf": "carikan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "carik",
+                                    "pos": "v",
+                                    "form": "carik-an"
+                                }
+                            },
+                            {
+                                "wf": "saya",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "saya",
+                                    "pos": "pron",
+                                    "form": "saya"
+                                }
+                            },
+                            {
+                                "wf": "ketam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ketam",
+                                    "pos": "a",
+                                    "form": "ketam"
+                                }
+                            },
+                            {
+                                "wf": "betina",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "betina",
+                                    "pos": "n",
+                                    "form": "betina"
+                                }
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "udang galah dan tenggiri",
+                        "words": [
+                            {
+                                "wf": "udang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "udang",
+                                    "pos": "n",
+                                    "form": "udang"
+                                }
+                            },
+                            {
+                                "wf": "galah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "galah",
+                                    "pos": "v",
+                                    "form": "galah"
+                                }
+                            },
+                            {
+                                "wf": "dan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dan",
+                                    "pos": "p",
+                                    "form": "dan"
+                                }
+                            },
+                            {
+                                "wf": "tenggiri",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tenggiri",
+                                    "pos": "n",
+                                    "form": "tenggiri"
+                                }
+                            }
+                        ],
+                        "syllables": 8
+                    },
+                    {
+                        "line": "ikan kerapu di dalam bubu;",
+                        "words": [
+                            {
+                                "wf": "ikan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ikan",
+                                    "pos": "v",
+                                    "form": "ikan"
+                                }
+                            },
+                            {
+                                "wf": "kerapu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kerapu",
+                                    "pos": "n",
+                                    "form": "kerapu"
+                                }
+                            },
+                            {
+                                "wf": "di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "dalam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dalam",
+                                    "pos": "a|n",
+                                    "form": "dalam"
+                                }
+                            },
+                            {
+                                "wf": "bubu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bubu",
+                                    "pos": "n",
+                                    "form": "bubu"
+                                }
+                            },
+                            {
+                                "wf": ";",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 10
+                    }
+                ],
+                "num_lines": 4
+            },
+            {
+                "strof": "\r\n",
+                "lines": [
+                    {
+                        "line": "",
+                        "words": [],
+                        "syllables": 0
+                    }
+                ],
+                "num_lines": 1
+            },
+            {
+                "strof": "Kalau tidak karena takut\r\nkupaksa untuk berjumpa\r\nagar kau jadi mengerti\r\nbetapa rindu melihatmu",
+                "lines": [
+                    {
+                        "line": "Kalau tidak karena takut",
+                        "words": [
+                            {
+                                "wf": "Kalau",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kalau",
+                                    "pos": "p",
+                                    "form": "kalau"
+                                }
+                            },
+                            {
+                                "wf": "tidak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tidak",
+                                    "pos": "adv",
+                                    "form": "tidak"
+                                }
+                            },
+                            {
+                                "wf": "karena",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "karena",
+                                    "pos": "p",
+                                    "form": "karena"
+                                }
+                            },
+                            {
+                                "wf": "takut",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "takut",
+                                    "pos": "a",
+                                    "form": "takut"
+                                }
+                            }
+                        ],
+                        "syllables": 9
+                    },
+                    {
+                        "line": "kupaksa untuk berjumpa",
+                        "words": [
+                            {
+                                "wf": "kupaksa",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "paksa",
+                                    "pos": "v|n",
+                                    "form": "ku-paksa"
+                                }
+                            },
+                            {
+                                "wf": "untuk",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "untuk",
+                                    "pos": "p",
+                                    "form": "untuk"
+                                }
+                            },
+                            {
+                                "wf": "berjumpa",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jumpa",
+                                    "pos": "v",
+                                    "form": "ber-jumpa"
+                                }
+                            }
+                        ],
+                        "syllables": 8
+                    },
+                    {
+                        "line": "agar kau jadi mengerti",
+                        "words": [
+                            {
+                                "wf": "agar",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "agar",
+                                    "pos": "n",
+                                    "form": "agar"
+                                }
+                            },
+                            {
+                                "wf": "kau",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kau",
+                                    "pos": "pron",
+                                    "form": "kau"
+                                }
+                            },
+                            {
+                                "wf": "jadi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jadi",
+                                    "pos": "v",
+                                    "form": "jadi"
+                                }
+                            },
+                            {
+                                "wf": "mengerti",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "erti",
+                                    "pos": "v",
+                                    "form": "meN-erti"
+                                }
+                            }
+                        ],
+                        "syllables": 8
+                    },
+                    {
+                        "line": "betapa rindu melihatmu",
+                        "words": [
+                            {
+                                "wf": "betapa",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "betapa",
+                                    "pos": "pron|p",
+                                    "form": "betapa"
+                                }
+                            },
+                            {
+                                "wf": "rindu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "rindu",
+                                    "pos": "a",
+                                    "form": "rindu"
+                                }
+                            },
+                            {
+                                "wf": "melihatmu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lihat",
+                                    "pos": "v",
+                                    "form": "meN-lihat-mu-mu"
+                                }
+                            }
+                        ],
+                        "syllables": 9
+                    }
+                ],
+                "num_lines": 4
+            },
+            {
+                "strof": "\r\n",
+                "lines": [
+                    {
+                        "line": "",
+                        "words": [],
+                        "syllables": 0
+                    }
+                ],
+                "num_lines": 1
+            },
+            {
+                "strof": "Kalau tuan pergi ke Tanjung\r\nbawalah kain barang sekayu\r\nuntuk baju anak yang kecil\r\nsudah lama tak ada ganti;",
+                "lines": [
+                    {
+                        "line": "Kalau tuan pergi ke Tanjung",
+                        "words": [
+                            {
+                                "wf": "Kalau",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kalau",
+                                    "pos": "p",
+                                    "form": "kalau"
+                                }
+                            },
+                            {
+                                "wf": "tuan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tuan",
+                                    "pos": "n",
+                                    "form": "tuan"
+                                }
+                            },
+                            {
+                                "wf": "pergi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pergi",
+                                    "pos": "v",
+                                    "form": "pergi"
+                                }
+                            },
+                            {
+                                "wf": "ke",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ke",
+                                    "pos": "p",
+                                    "form": "ke"
+                                }
+                            },
+                            {
+                                "wf": "Tanjung",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tanjung",
+                                    "pos": "n",
+                                    "form": "tanjung"
+                                }
+                            }
+                        ],
+                        "syllables": 9
+                    },
+                    {
+                        "line": "bawalah kain barang sekayu",
+                        "words": [
+                            {
+                                "wf": "bawalah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bawa",
+                                    "pos": "v",
+                                    "form": "bawa-lah"
+                                }
+                            },
+                            {
+                                "wf": "kain",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kain",
+                                    "pos": "n",
+                                    "form": "kain"
+                                }
+                            },
+                            {
+                                "wf": "barang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "barang",
+                                    "pos": "n",
+                                    "form": "barang"
+                                }
+                            },
+                            {
+                                "wf": "sekayu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sekayu",
+                                    "pos": "n",
+                                    "form": "sekayu"
+                                }
+                            }
+                        ],
+                        "syllables": 9
+                    },
+                    {
+                        "line": "untuk baju anak yang kecil",
+                        "words": [
+                            {
+                                "wf": "untuk",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "untuk",
+                                    "pos": "p",
+                                    "form": "untuk"
+                                }
+                            },
+                            {
+                                "wf": "baju",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "baju",
+                                    "pos": "n",
+                                    "form": "baju"
+                                }
+                            },
+                            {
+                                "wf": "anak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "anak",
+                                    "pos": "n",
+                                    "form": "anak"
+                                }
+                            },
+                            {
+                                "wf": "yang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "yang",
+                                    "pos": "a|v|n",
+                                    "form": "yang"
+                                }
+                            },
+                            {
+                                "wf": "kecil",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kecil",
+                                    "pos": "a",
+                                    "form": "kecil"
+                                }
+                            }
+                        ],
+                        "syllables": 9
+                    },
+                    {
+                        "line": "sudah lama tak ada ganti;",
+                        "words": [
+                            {
+                                "wf": "sudah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sudah",
+                                    "pos": "adv",
+                                    "form": "sudah"
+                                }
+                            },
+                            {
+                                "wf": "lama",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lama",
+                                    "pos": "a",
+                                    "form": "lama"
+                                }
+                            },
+                            {
+                                "wf": "tak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tak",
+                                    "pos": "adv",
+                                    "form": "tak"
+                                }
+                            },
+                            {
+                                "wf": "ada",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ada",
+                                    "pos": "v",
+                                    "form": "ada"
+                                }
+                            },
+                            {
+                                "wf": "ganti",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ganti",
+                                    "pos": "n",
+                                    "form": "ganti"
+                                }
+                            },
+                            {
+                                "wf": ";",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 9
+                    }
+                ],
+                "num_lines": 4
+            },
+            {
+                "strof": "\r\n",
+                "lines": [
+                    {
+                        "line": "",
+                        "words": [],
+                        "syllables": 0
+                    }
+                ],
+                "num_lines": 1
+            },
+            {
+                "strof": "Aku merasa tidak beruntung\r\nselalu kautolak bertemu\r\npadahal tidaklah musykil\r\nasal kauampuni dosaku keji",
+                "lines": [
+                    {
+                        "line": "Aku merasa tidak beruntung",
+                        "words": [
+                            {
+                                "wf": "Aku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "aku",
+                                    "pos": "pron",
+                                    "form": "aku"
+                                }
+                            },
+                            {
+                                "wf": "merasa",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "rasa",
+                                    "pos": "v",
+                                    "form": "meN-rasa"
+                                }
+                            },
+                            {
+                                "wf": "tidak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tidak",
+                                    "pos": "adv",
+                                    "form": "tidak"
+                                }
+                            },
+                            {
+                                "wf": "beruntung",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "untung",
+                                    "pos": "v",
+                                    "form": "ber-untung"
+                                }
+                            }
+                        ],
+                        "syllables": 9
+                    },
+                    {
+                        "line": "selalu kautolak bertemu",
+                        "words": [
+                            {
+                                "wf": "selalu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "selalu",
+                                    "pos": "adv",
+                                    "form": "selalu"
+                                }
+                            },
+                            {
+                                "wf": "kautolak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tolak",
+                                    "pos": "v",
+                                    "form": "kau-tolak"
+                                }
+                            },
+                            {
+                                "wf": "bertemu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "",
+                                    "pos": "v",
+                                    "form": "bertemu-mu"
+                                }
+                            }
+                        ],
+                        "syllables": 9
+                    },
+                    {
+                        "line": "padahal tidaklah musykil",
+                        "words": [
+                            {
+                                "wf": "padahal",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "padahal",
+                                    "pos": "p",
+                                    "form": "padahal"
+                                }
+                            },
+                            {
+                                "wf": "tidaklah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tidak",
+                                    "pos": "adv",
+                                    "form": "tidak-lah"
+                                }
+                            },
+                            {
+                                "wf": "musykil",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "muskil",
+                                    "pos": "?",
+                                    "form": "musykil"
+                                }
+                            }
+                        ],
+                        "syllables": 8
+                    },
+                    {
+                        "line": "asal kauampuni dosaku keji",
+                        "words": [
+                            {
+                                "wf": "asal",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "asal",
+                                    "pos": "n|a",
+                                    "form": "asal"
+                                }
+                            },
+                            {
+                                "wf": "kauampuni",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ampun",
+                                    "pos": "v",
+                                    "form": "kau-kau-ampun-i"
+                                }
+                            },
+                            {
+                                "wf": "dosaku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dosa",
+                                    "pos": "n",
+                                    "form": "dosa-ku"
+                                }
+                            },
+                            {
+                                "wf": "keji",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "keji",
+                                    "pos": "a",
+                                    "form": "keji"
+                                }
+                            }
+                        ],
+                        "syllables": 11
+                    }
+                ],
+                "num_lines": 4
+            }
+        ]
+    }
+}

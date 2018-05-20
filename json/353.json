@@ -1,0 +1,621 @@
+{
+    "meta": {
+        "file_name": "353.json",
+        "id_bd": 353,
+        "author": "Kuntowijoyo",
+        "title": "Pada hari yang lain",
+        "genre": "стихотворение",
+        "year": "---",
+        "num_lines": 17,
+        "rhyme": "Есть",
+        "syllables": [
+            6,
+            4,
+            8,
+            7,
+            8,
+            7,
+            8,
+            8,
+            7,
+            5,
+            7,
+            8,
+            4,
+            10,
+            9,
+            7,
+            7
+        ],
+        "strofy": [
+            6,
+            1,
+            6,
+            1,
+            5
+        ]
+    },
+    "poem": {
+        "text": "{Pada hari yang lain\r\ndi angkasa\r\nseribu gagak raksasa\r\nmenyerbu matahari\r\nmenggugurkan batu-batu\r\nterbang menutup ruang}\r\n{Malaikat langit ketujuh\r\nturun menghalau perusuh\r\nmenghunus pedang guntur\r\nberkilat-kilat\r\ndarah mengucur hujan\r\nlangit amis kemerahan}\r\n{Engkau di sini\r\ndi kebun semangka pinggir desa\r\nbersama lima bidadari\r\nmengajarmu menyanyi\r\ndan merangkai puisi.}",
+        "strof": [
+            {
+                "strof": "Pada hari yang lain\r\ndi angkasa\r\nseribu gagak raksasa\r\nmenyerbu matahari\r\nmenggugurkan batu-batu\r\nterbang menutup ruang",
+                "lines": [
+                    {
+                        "line": "Pada hari yang lain",
+                        "words": [
+                            {
+                                "wf": "Pada",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pada",
+                                    "pos": "p",
+                                    "form": "pada"
+                                }
+                            },
+                            {
+                                "wf": "hari",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hari",
+                                    "pos": "n",
+                                    "form": "hari"
+                                }
+                            },
+                            {
+                                "wf": "yang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "yang",
+                                    "pos": "a|v|n",
+                                    "form": "yang"
+                                }
+                            },
+                            {
+                                "wf": "lain",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lain",
+                                    "pos": "a",
+                                    "form": "lain"
+                                }
+                            }
+                        ],
+                        "syllables": 6
+                    },
+                    {
+                        "line": "di angkasa",
+                        "words": [
+                            {
+                                "wf": "di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "angkasa",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "angkasa",
+                                    "pos": "n",
+                                    "form": "angkasa"
+                                }
+                            }
+                        ],
+                        "syllables": 4
+                    },
+                    {
+                        "line": "seribu gagak raksasa",
+                        "words": [
+                            {
+                                "wf": "seribu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ribu",
+                                    "pos": "v",
+                                    "form": "se-ribu"
+                                }
+                            },
+                            {
+                                "wf": "gagak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "gagak",
+                                    "pos": "n",
+                                    "form": "gagak"
+                                }
+                            },
+                            {
+                                "wf": "raksasa",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "raksasa",
+                                    "pos": "n|a",
+                                    "form": "raksasa"
+                                }
+                            }
+                        ],
+                        "syllables": 8
+                    },
+                    {
+                        "line": "menyerbu matahari",
+                        "words": [
+                            {
+                                "wf": "menyerbu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "serbu",
+                                    "pos": "v",
+                                    "form": "meN-serbu"
+                                }
+                            },
+                            {
+                                "wf": "matahari",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "matahari",
+                                    "pos": "n",
+                                    "form": "matahari"
+                                }
+                            }
+                        ],
+                        "syllables": 7
+                    },
+                    {
+                        "line": "menggugurkan batu-batu",
+                        "words": [
+                            {
+                                "wf": "menggugurkan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "gugur",
+                                    "pos": "v",
+                                    "form": "meN-gugur-kan"
+                                }
+                            },
+                            {
+                                "wf": "batu-batu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "batu",
+                                    "pos": "num",
+                                    "form": "batu-batu"
+                                }
+                            }
+                        ],
+                        "syllables": 8
+                    },
+                    {
+                        "line": "terbang menutup ruang",
+                        "words": [
+                            {
+                                "wf": "terbang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "terbang",
+                                    "pos": "v",
+                                    "form": "terbang"
+                                }
+                            },
+                            {
+                                "wf": "menutup",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tutup",
+                                    "pos": "v",
+                                    "form": "meN-tutup"
+                                }
+                            },
+                            {
+                                "wf": "ruang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ruang",
+                                    "pos": "n",
+                                    "form": "ruang"
+                                }
+                            }
+                        ],
+                        "syllables": 7
+                    }
+                ],
+                "num_lines": 6
+            },
+            {
+                "strof": "\r\n",
+                "lines": [
+                    {
+                        "line": "",
+                        "words": [],
+                        "syllables": 0
+                    }
+                ],
+                "num_lines": 1
+            },
+            {
+                "strof": "Malaikat langit ketujuh\r\nturun menghalau perusuh\r\nmenghunus pedang guntur\r\nberkilat-kilat\r\ndarah mengucur hujan\r\nlangit amis kemerahan",
+                "lines": [
+                    {
+                        "line": "Malaikat langit ketujuh",
+                        "words": [
+                            {
+                                "wf": "Malaikat",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "malaikat",
+                                    "pos": "n",
+                                    "form": "malaikat"
+                                }
+                            },
+                            {
+                                "wf": "langit",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "langit",
+                                    "pos": "n",
+                                    "form": "langit"
+                                }
+                            },
+                            {
+                                "wf": "ketujuh",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ketujuh",
+                                    "pos": "?",
+                                    "form": "ketujuh"
+                                }
+                            }
+                        ],
+                        "syllables": 8
+                    },
+                    {
+                        "line": "turun menghalau perusuh",
+                        "words": [
+                            {
+                                "wf": "turun",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "turun",
+                                    "pos": "v",
+                                    "form": "turun"
+                                }
+                            },
+                            {
+                                "wf": "menghalau",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "halau",
+                                    "pos": "v",
+                                    "form": "meN-halau"
+                                }
+                            },
+                            {
+                                "wf": "perusuh",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "rusuh",
+                                    "pos": "v",
+                                    "form": "per-rusuh"
+                                }
+                            }
+                        ],
+                        "syllables": 8
+                    },
+                    {
+                        "line": "menghunus pedang guntur",
+                        "words": [
+                            {
+                                "wf": "menghunus",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hunus",
+                                    "pos": "v",
+                                    "form": "meN-hunus"
+                                }
+                            },
+                            {
+                                "wf": "pedang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pedang",
+                                    "pos": "n",
+                                    "form": "pedang"
+                                }
+                            },
+                            {
+                                "wf": "guntur",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "guntur",
+                                    "pos": "n",
+                                    "form": "guntur"
+                                }
+                            }
+                        ],
+                        "syllables": 7
+                    },
+                    {
+                        "line": "berkilat-kilat",
+                        "words": [
+                            {
+                                "wf": "berkilat-kilat",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kilat",
+                                    "pos": "v",
+                                    "form": "ber-kilat-kilat"
+                                }
+                            }
+                        ],
+                        "syllables": 5
+                    },
+                    {
+                        "line": "darah mengucur hujan",
+                        "words": [
+                            {
+                                "wf": "darah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "darah",
+                                    "pos": "n",
+                                    "form": "darah"
+                                }
+                            },
+                            {
+                                "wf": "mengucur",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kucur",
+                                    "pos": "v",
+                                    "form": "meN-kucur"
+                                }
+                            },
+                            {
+                                "wf": "hujan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hujan",
+                                    "pos": "n",
+                                    "form": "hujan"
+                                }
+                            }
+                        ],
+                        "syllables": 7
+                    },
+                    {
+                        "line": "langit amis kemerahan",
+                        "words": [
+                            {
+                                "wf": "langit",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "langit",
+                                    "pos": "n",
+                                    "form": "langit"
+                                }
+                            },
+                            {
+                                "wf": "amis",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "amis",
+                                    "pos": "a",
+                                    "form": "amis"
+                                }
+                            },
+                            {
+                                "wf": "kemerahan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "merah",
+                                    "pos": "n",
+                                    "form": "ke-merah-an"
+                                }
+                            }
+                        ],
+                        "syllables": 8
+                    }
+                ],
+                "num_lines": 6
+            },
+            {
+                "strof": "\r\n",
+                "lines": [
+                    {
+                        "line": "",
+                        "words": [],
+                        "syllables": 0
+                    }
+                ],
+                "num_lines": 1
+            },
+            {
+                "strof": "Engkau di sini\r\ndi kebun semangka pinggir desa\r\nbersama lima bidadari\r\nmengajarmu menyanyi\r\ndan merangkai puisi.",
+                "lines": [
+                    {
+                        "line": "Engkau di sini",
+                        "words": [
+                            {
+                                "wf": "Engkau",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "engkau",
+                                    "pos": "pron",
+                                    "form": "engkau"
+                                }
+                            },
+                            {
+                                "wf": "di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "sini",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sini",
+                                    "pos": "pron",
+                                    "form": "sini"
+                                }
+                            }
+                        ],
+                        "syllables": 4
+                    },
+                    {
+                        "line": "di kebun semangka pinggir desa",
+                        "words": [
+                            {
+                                "wf": "di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "kebun",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kebun",
+                                    "pos": "n",
+                                    "form": "kebun"
+                                }
+                            },
+                            {
+                                "wf": "semangka",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "semangka",
+                                    "pos": "n",
+                                    "form": "semangka"
+                                }
+                            },
+                            {
+                                "wf": "pinggir",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pinggir",
+                                    "pos": "n",
+                                    "form": "pinggir"
+                                }
+                            },
+                            {
+                                "wf": "desa",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "desa",
+                                    "pos": "",
+                                    "form": "desa"
+                                }
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "bersama lima bidadari",
+                        "words": [
+                            {
+                                "wf": "bersama",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sama",
+                                    "pos": "v",
+                                    "form": "ber-sama"
+                                }
+                            },
+                            {
+                                "wf": "lima",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lima",
+                                    "pos": "num",
+                                    "form": "lima"
+                                }
+                            },
+                            {
+                                "wf": "bidadari",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bidadari",
+                                    "pos": "n",
+                                    "form": "bidadari"
+                                }
+                            }
+                        ],
+                        "syllables": 9
+                    },
+                    {
+                        "line": "mengajarmu menyanyi",
+                        "words": [
+                            {
+                                "wf": "mengajarmu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ajar",
+                                    "pos": "v",
+                                    "form": "meN-ajar-mu-mu"
+                                }
+                            },
+                            {
+                                "wf": "menyanyi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "nyanyi",
+                                    "pos": "v",
+                                    "form": "meN-nyanyi"
+                                }
+                            }
+                        ],
+                        "syllables": 7
+                    },
+                    {
+                        "line": "dan merangkai puisi.",
+                        "words": [
+                            {
+                                "wf": "dan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dan",
+                                    "pos": "p",
+                                    "form": "dan"
+                                }
+                            },
+                            {
+                                "wf": "merangkai",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "rangkai",
+                                    "pos": "v",
+                                    "form": "meN-rangkai"
+                                }
+                            },
+                            {
+                                "wf": "puisi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "puisi",
+                                    "pos": "n",
+                                    "form": "puisi"
+                                }
+                            },
+                            {
+                                "wf": ".",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 7
+                    }
+                ],
+                "num_lines": 5
+            }
+        ]
+    }
+}

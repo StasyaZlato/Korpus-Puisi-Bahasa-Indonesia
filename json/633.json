@@ -1,0 +1,566 @@
+{
+    "meta": {
+        "file_name": "633.json",
+        "id_bd": 633,
+        "author": "W.S. Rendra",
+        "title": "Spada",
+        "genre": "стихотворение",
+        "year": "---",
+        "num_lines": 8,
+        "rhyme": "Есть",
+        "syllables": [
+            12,
+            11,
+            11,
+            10,
+            12,
+            13,
+            13,
+            17
+        ],
+        "strofy": [
+            4,
+            1,
+            4
+        ]
+    },
+    "poem": {
+        "text": "{He, kakak yang berjalan ke timur itu\r\npalingkan kepalamu bongkah batu\r\nkerna dalam gelap yang menelanmu\r\naku bimbang apa kau lakiku!}\r\n{Ada khianat dan angkuh antara kita\r\ntertahan ku ngejar, bisaku cuma nyapa.\r\nSpada! Hai! Teriak angin di dada: Spada!\r\nBila kau lelakiku yang serong, berpalinglah kiranya.}",
+        "strof": [
+            {
+                "strof": "He, kakak yang berjalan ke timur itu\r\npalingkan kepalamu bongkah batu\r\nkerna dalam gelap yang menelanmu\r\naku bimbang apa kau lakiku!",
+                "lines": [
+                    {
+                        "line": "He, kakak yang berjalan ke timur itu",
+                        "words": [
+                            {
+                                "wf": "He",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "he",
+                                    "pos": "",
+                                    "form": "he"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "kakak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kakak",
+                                    "pos": "v",
+                                    "form": "kakak"
+                                }
+                            },
+                            {
+                                "wf": "yang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "yang",
+                                    "pos": "a|v|n",
+                                    "form": "yang"
+                                }
+                            },
+                            {
+                                "wf": "berjalan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jalan",
+                                    "pos": "v",
+                                    "form": "ber-jalan"
+                                }
+                            },
+                            {
+                                "wf": "ke",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ke",
+                                    "pos": "p",
+                                    "form": "ke"
+                                }
+                            },
+                            {
+                                "wf": "timur",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "timur",
+                                    "pos": "n",
+                                    "form": "timur"
+                                }
+                            },
+                            {
+                                "wf": "itu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "itu",
+                                    "pos": "pron|n",
+                                    "form": "itu"
+                                }
+                            }
+                        ],
+                        "syllables": 12
+                    },
+                    {
+                        "line": "palingkan kepalamu bongkah batu",
+                        "words": [
+                            {
+                                "wf": "palingkan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "palingkan",
+                                    "pos": "v",
+                                    "form": "palingkan"
+                                }
+                            },
+                            {
+                                "wf": "kepalamu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kepala",
+                                    "pos": "n",
+                                    "form": "kepala-mu"
+                                }
+                            },
+                            {
+                                "wf": "bongkah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bongkah",
+                                    "pos": "n",
+                                    "form": "bongkah"
+                                }
+                            },
+                            {
+                                "wf": "batu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "batu",
+                                    "pos": "n",
+                                    "form": "batu"
+                                }
+                            }
+                        ],
+                        "syllables": 11
+                    },
+                    {
+                        "line": "kerna dalam gelap yang menelanmu",
+                        "words": [
+                            {
+                                "wf": "kerna",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kerna",
+                                    "pos": "?",
+                                    "form": "kerna"
+                                }
+                            },
+                            {
+                                "wf": "dalam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dalam",
+                                    "pos": "a|n",
+                                    "form": "dalam"
+                                }
+                            },
+                            {
+                                "wf": "gelap",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "gelap",
+                                    "pos": "a",
+                                    "form": "gelap"
+                                }
+                            },
+                            {
+                                "wf": "yang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "yang",
+                                    "pos": "a|v|n",
+                                    "form": "yang"
+                                }
+                            },
+                            {
+                                "wf": "menelanmu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "",
+                                    "pos": "v",
+                                    "form": "menelanmu-mu"
+                                }
+                            }
+                        ],
+                        "syllables": 11
+                    },
+                    {
+                        "line": "aku bimbang apa kau lakiku!",
+                        "words": [
+                            {
+                                "wf": "aku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "aku",
+                                    "pos": "pron",
+                                    "form": "aku"
+                                }
+                            },
+                            {
+                                "wf": "bimbang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bimbang",
+                                    "pos": "a",
+                                    "form": "bimbang"
+                                }
+                            },
+                            {
+                                "wf": "apa",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "apa",
+                                    "pos": "pron|p",
+                                    "form": "apa"
+                                }
+                            },
+                            {
+                                "wf": "kau",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kau",
+                                    "pos": "pron",
+                                    "form": "kau"
+                                }
+                            },
+                            {
+                                "wf": "lakiku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "laki",
+                                    "pos": "n",
+                                    "form": "laki-ku"
+                                }
+                            },
+                            {
+                                "wf": "!",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 10
+                    }
+                ],
+                "num_lines": 4
+            },
+            {
+                "strof": "\r\n",
+                "lines": [
+                    {
+                        "line": "",
+                        "words": [],
+                        "syllables": 0
+                    }
+                ],
+                "num_lines": 1
+            },
+            {
+                "strof": "Ada khianat dan angkuh antara kita\r\ntertahan ku ngejar, bisaku cuma nyapa.\r\nSpada! Hai! Teriak angin di dada: Spada!\r\nBila kau lelakiku yang serong, berpalinglah kiranya.",
+                "lines": [
+                    {
+                        "line": "Ada khianat dan angkuh antara kita",
+                        "words": [
+                            {
+                                "wf": "Ada",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ada",
+                                    "pos": "v",
+                                    "form": "ada"
+                                }
+                            },
+                            {
+                                "wf": "khianat",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "khianat",
+                                    "pos": "n",
+                                    "form": "khianat"
+                                }
+                            },
+                            {
+                                "wf": "dan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dan",
+                                    "pos": "p",
+                                    "form": "dan"
+                                }
+                            },
+                            {
+                                "wf": "angkuh",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "angkuh",
+                                    "pos": "a",
+                                    "form": "angkuh"
+                                }
+                            },
+                            {
+                                "wf": "antara",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "antara",
+                                    "pos": "n|p|a",
+                                    "form": "antara"
+                                }
+                            },
+                            {
+                                "wf": "kita",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kita",
+                                    "pos": "pron",
+                                    "form": "kita"
+                                }
+                            }
+                        ],
+                        "syllables": 12
+                    },
+                    {
+                        "line": "tertahan ku ngejar, bisaku cuma nyapa.",
+                        "words": [
+                            {
+                                "wf": "tertahan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tahan",
+                                    "pos": "v",
+                                    "form": "ter-tahan"
+                                }
+                            },
+                            {
+                                "wf": "ku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ku",
+                                    "pos": "v",
+                                    "form": "ku"
+                                }
+                            },
+                            {
+                                "wf": "ngejar",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ngejar",
+                                    "pos": "v",
+                                    "form": "ngejar"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "bisaku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bisa",
+                                    "pos": "v",
+                                    "form": "bisa-ku"
+                                }
+                            },
+                            {
+                                "wf": "cuma",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "cuma",
+                                    "pos": "adv",
+                                    "form": "cuma"
+                                }
+                            },
+                            {
+                                "wf": "nyapa",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "nyapa",
+                                    "pos": "v",
+                                    "form": "nyapa"
+                                }
+                            },
+                            {
+                                "wf": ".",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 13
+                    },
+                    {
+                        "line": "Spada! Hai! Teriak angin di dada: Spada!",
+                        "words": [
+                            {
+                                "wf": "Spada",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "spada",
+                                    "pos": "a",
+                                    "form": "spada"
+                                }
+                            },
+                            {
+                                "wf": "! ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "Hai",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hai",
+                                    "pos": "p|a",
+                                    "form": "hai"
+                                }
+                            },
+                            {
+                                "wf": "! ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "Teriak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "teriak",
+                                    "pos": "n",
+                                    "form": "teriak"
+                                }
+                            },
+                            {
+                                "wf": "angin",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "angin",
+                                    "pos": "n",
+                                    "form": "angin"
+                                }
+                            },
+                            {
+                                "wf": "di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "dada",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dada",
+                                    "pos": "n",
+                                    "form": "dada"
+                                }
+                            },
+                            {
+                                "wf": ": ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "Spada",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "spada",
+                                    "pos": "a",
+                                    "form": "spada"
+                                }
+                            },
+                            {
+                                "wf": "!",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 13
+                    },
+                    {
+                        "line": "Bila kau lelakiku yang serong, berpalinglah kiranya.",
+                        "words": [
+                            {
+                                "wf": "Bila",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bila",
+                                    "pos": "pron|p",
+                                    "form": "bila"
+                                }
+                            },
+                            {
+                                "wf": "kau",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kau",
+                                    "pos": "pron",
+                                    "form": "kau"
+                                }
+                            },
+                            {
+                                "wf": "lelakiku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lelaki",
+                                    "pos": "n",
+                                    "form": "lelaki-ku"
+                                }
+                            },
+                            {
+                                "wf": "yang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "yang",
+                                    "pos": "a|v|n",
+                                    "form": "yang"
+                                }
+                            },
+                            {
+                                "wf": "serong",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "serong",
+                                    "pos": "",
+                                    "form": "serong"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "berpalinglah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "paling",
+                                    "pos": "v",
+                                    "form": "ber-paling-lah-lah"
+                                }
+                            },
+                            {
+                                "wf": "kiranya",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kira",
+                                    "pos": "adv",
+                                    "form": "kira-nya"
+                                }
+                            },
+                            {
+                                "wf": ".",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 17
+                    }
+                ],
+                "num_lines": 4
+            }
+        ]
+    }
+}

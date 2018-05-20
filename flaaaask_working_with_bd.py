@@ -7,7 +7,7 @@ import sqlite3
 
 app = Flask(__name__)
 
-conn = sqlite3.connect(os.path.join('.', 'main_bd13_SOS_shit.sqlite'))
+conn = sqlite3.connect(os.path.join('.', 'KorpusBD.sqlite'))
 c = conn.cursor()
 c.execute('''SELECT poems_info.id_poem, poems_info.poem_name, poem_url, author, year, poem_text
               FROM poems_info INNER JOIN poems ON poems_info.id_poem = poems.id_poem''')
@@ -35,7 +35,7 @@ def index():
         keys = ['id', 'name', 'url', 'author', 'year',
                 'place', 'text', 'num_lines', 'num_syl',
                 'rhyme', 'form', 'refren', 'figure_poetry', 'source', 'other']
-        conn = sqlite3.connect(os.path.join('.', 'main_bd13_SOS_shit.sqlite'))
+        conn = sqlite3.connect(os.path.join('.', 'KorpusBD.sqlite'))
         c = conn.cursor()
         c.execute('''INSERT INTO poems_all 
         (id_poem, 

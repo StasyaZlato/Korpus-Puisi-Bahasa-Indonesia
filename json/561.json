@@ -1,0 +1,694 @@
+{
+    "meta": {
+        "file_name": "561.json",
+        "id_bd": 561,
+        "author": "Sutan Takdir Alisyahbana",
+        "title": "Sesudah dibajak",
+        "genre": "стихотворение",
+        "year": "---",
+        "num_lines": 14,
+        "rhyme": "Спорадическая",
+        "syllables": [
+            10,
+            9,
+            9,
+            11,
+            9,
+            9,
+            9,
+            9,
+            5,
+            11,
+            9,
+            8,
+            9,
+            9
+        ],
+        "strofy": [
+            14
+        ]
+    },
+    "poem": {
+        "text": "{Aku merasa bajakMu menyayat,\r\nSedih seni mengiris kalbu.\r\nPedih pilu jiwa mengaduh,\r\nGemetar menggigil tulang seluruh.\r\nDalam duka semesra ini,\r\nBeta papa, apalah daya?\r\nKeluh hilang disawang lapang,\r\nAduh tenggelam dibisik angin.\r\nYa Allah, ya Rabbi,\r\nHancurkan, remukkan sesuka hati,\r\nSayat iris jangan sepala.\r\nUmat daif sekedar bermohon:\r\nSemai benih mulia raya\r\nDalam tanah sudah dibajak.}",
+        "strof": [
+            {
+                "strof": "Aku merasa bajakMu menyayat,\r\nSedih seni mengiris kalbu.\r\nPedih pilu jiwa mengaduh,\r\nGemetar menggigil tulang seluruh.\r\nDalam duka semesra ini,\r\nBeta papa, apalah daya?\r\nKeluh hilang disawang lapang,\r\nAduh tenggelam dibisik angin.\r\nYa Allah, ya Rabbi,\r\nHancurkan, remukkan sesuka hati,\r\nSayat iris jangan sepala.\r\nUmat daif sekedar bermohon:\r\nSemai benih mulia raya\r\nDalam tanah sudah dibajak.",
+                "lines": [
+                    {
+                        "line": "Aku merasa bajakMu menyayat,",
+                        "words": [
+                            {
+                                "wf": "Aku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "aku",
+                                    "pos": "pron",
+                                    "form": "aku"
+                                }
+                            },
+                            {
+                                "wf": "merasa",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "rasa",
+                                    "pos": "v",
+                                    "form": "meN-rasa"
+                                }
+                            },
+                            {
+                                "wf": "bajakMu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bajakmu",
+                                    "pos": "?",
+                                    "form": "bajakmu"
+                                }
+                            },
+                            {
+                                "wf": "menyayat",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sayat",
+                                    "pos": "v",
+                                    "form": "meN-sayat"
+                                }
+                            },
+                            {
+                                "wf": ",",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "Sedih seni mengiris kalbu.",
+                        "words": [
+                            {
+                                "wf": "Sedih",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sedih",
+                                    "pos": "n",
+                                    "form": "sedih"
+                                }
+                            },
+                            {
+                                "wf": "seni",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "seni",
+                                    "pos": "a",
+                                    "form": "seni"
+                                }
+                            },
+                            {
+                                "wf": "mengiris",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "iris",
+                                    "pos": "v",
+                                    "form": "meN-iris"
+                                }
+                            },
+                            {
+                                "wf": "kalbu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kalbu",
+                                    "pos": "n",
+                                    "form": "kalbu"
+                                }
+                            },
+                            {
+                                "wf": ".",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 9
+                    },
+                    {
+                        "line": "Pedih pilu jiwa mengaduh,",
+                        "words": [
+                            {
+                                "wf": "Pedih",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pedih",
+                                    "pos": "a",
+                                    "form": "pedih"
+                                }
+                            },
+                            {
+                                "wf": "pilu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pilu",
+                                    "pos": "a",
+                                    "form": "pilu"
+                                }
+                            },
+                            {
+                                "wf": "jiwa",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jiwa",
+                                    "pos": "n",
+                                    "form": "jiwa"
+                                }
+                            },
+                            {
+                                "wf": "mengaduh",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "aduh",
+                                    "pos": "v",
+                                    "form": "meN-aduh"
+                                }
+                            },
+                            {
+                                "wf": ",",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 9
+                    },
+                    {
+                        "line": "Gemetar menggigil tulang seluruh.",
+                        "words": [
+                            {
+                                "wf": "Gemetar",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "gemetar",
+                                    "pos": "a",
+                                    "form": "gemetar"
+                                }
+                            },
+                            {
+                                "wf": "menggigil",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "gigil",
+                                    "pos": "a",
+                                    "form": "meN-gigil"
+                                }
+                            },
+                            {
+                                "wf": "tulang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tulang",
+                                    "pos": "n",
+                                    "form": "tulang"
+                                }
+                            },
+                            {
+                                "wf": "seluruh",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "seluruh",
+                                    "pos": "num",
+                                    "form": "seluruh"
+                                }
+                            },
+                            {
+                                "wf": ".",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 11
+                    },
+                    {
+                        "line": "Dalam duka semesra ini,",
+                        "words": [
+                            {
+                                "wf": "Dalam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dalam",
+                                    "pos": "a|n",
+                                    "form": "dalam"
+                                }
+                            },
+                            {
+                                "wf": "duka",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "duka",
+                                    "pos": "a",
+                                    "form": "duka"
+                                }
+                            },
+                            {
+                                "wf": "semesra",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "mesra",
+                                    "pos": "a",
+                                    "form": "se-mesra"
+                                }
+                            },
+                            {
+                                "wf": "ini",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ini",
+                                    "pos": "pron",
+                                    "form": "ini"
+                                }
+                            },
+                            {
+                                "wf": ",",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 9
+                    },
+                    {
+                        "line": "Beta papa, apalah daya?",
+                        "words": [
+                            {
+                                "wf": "Beta",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "beta",
+                                    "pos": "v",
+                                    "form": "beta"
+                                }
+                            },
+                            {
+                                "wf": "papa",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "papa",
+                                    "pos": "a",
+                                    "form": "papa"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "apalah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "apa",
+                                    "pos": "pron|p",
+                                    "form": "apa-lah"
+                                }
+                            },
+                            {
+                                "wf": "daya",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "daya",
+                                    "pos": "n",
+                                    "form": "daya"
+                                }
+                            },
+                            {
+                                "wf": "?",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 9
+                    },
+                    {
+                        "line": "Keluh hilang disawang lapang,",
+                        "words": [
+                            {
+                                "wf": "Keluh",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "keluh",
+                                    "pos": "n",
+                                    "form": "keluh"
+                                }
+                            },
+                            {
+                                "wf": "hilang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hilang",
+                                    "pos": "v",
+                                    "form": "hilang"
+                                }
+                            },
+                            {
+                                "wf": "disawang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sawang",
+                                    "pos": "n",
+                                    "form": "di-sawang"
+                                }
+                            },
+                            {
+                                "wf": "lapang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lapang",
+                                    "pos": "a",
+                                    "form": "lapang"
+                                }
+                            },
+                            {
+                                "wf": ",",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 9
+                    },
+                    {
+                        "line": "Aduh tenggelam dibisik angin.",
+                        "words": [
+                            {
+                                "wf": "Aduh",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "duh",
+                                    "pos": "a",
+                                    "form": "Aduh"
+                                }
+                            },
+                            {
+                                "wf": "tenggelam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tenggelam",
+                                    "pos": "v",
+                                    "form": "tenggelam"
+                                }
+                            },
+                            {
+                                "wf": "dibisik",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bisik",
+                                    "pos": "n",
+                                    "form": "di-bisik"
+                                }
+                            },
+                            {
+                                "wf": "angin",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "angin",
+                                    "pos": "n",
+                                    "form": "angin"
+                                }
+                            },
+                            {
+                                "wf": ".",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 9
+                    },
+                    {
+                        "line": "Ya Allah, ya Rabbi,",
+                        "words": [
+                            {
+                                "wf": "Ya",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ya",
+                                    "pos": "adv",
+                                    "form": "ya"
+                                }
+                            },
+                            {
+                                "wf": "Allah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "Allah",
+                                    "pos": "n",
+                                    "form": "Allah"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "ya",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ya",
+                                    "pos": "adv",
+                                    "form": "ya"
+                                }
+                            },
+                            {
+                                "wf": "Rabbi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "rabbi",
+                                    "pos": "?",
+                                    "form": "rabbi"
+                                }
+                            },
+                            {
+                                "wf": ",",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 5
+                    },
+                    {
+                        "line": "Hancurkan, remukkan sesuka hati,",
+                        "words": [
+                            {
+                                "wf": "Hancurkan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hancur",
+                                    "pos": "v",
+                                    "form": "hancur-kan"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "remukkan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "remukkan",
+                                    "pos": "v",
+                                    "form": "remukkan"
+                                }
+                            },
+                            {
+                                "wf": "sesuka",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "suka",
+                                    "pos": "a",
+                                    "form": "se-suka"
+                                }
+                            },
+                            {
+                                "wf": "hati",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hati",
+                                    "pos": "n",
+                                    "form": "hati"
+                                }
+                            },
+                            {
+                                "wf": ",",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 11
+                    },
+                    {
+                        "line": "Sayat iris jangan sepala.",
+                        "words": [
+                            {
+                                "wf": "Sayat",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sayat",
+                                    "pos": "n",
+                                    "form": "sayat"
+                                }
+                            },
+                            {
+                                "wf": "iris",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "iris",
+                                    "pos": "a",
+                                    "form": "iris"
+                                }
+                            },
+                            {
+                                "wf": "jangan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jangan",
+                                    "pos": "adv",
+                                    "form": "jangan"
+                                }
+                            },
+                            {
+                                "wf": "sepala",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sepala",
+                                    "pos": "n",
+                                    "form": "sepala"
+                                }
+                            },
+                            {
+                                "wf": ".",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 9
+                    },
+                    {
+                        "line": "Umat daif sekedar bermohon:",
+                        "words": [
+                            {
+                                "wf": "Umat",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "umat",
+                                    "pos": "n",
+                                    "form": "umat"
+                                }
+                            },
+                            {
+                                "wf": "daif",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "daif",
+                                    "pos": "a",
+                                    "form": "daif"
+                                }
+                            },
+                            {
+                                "wf": "sekedar",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sekedar",
+                                    "pos": "?",
+                                    "form": "sekedar"
+                                }
+                            },
+                            {
+                                "wf": "bermohon",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bermohon",
+                                    "pos": "v",
+                                    "form": "bermohon"
+                                }
+                            },
+                            {
+                                "wf": ":",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 8
+                    },
+                    {
+                        "line": "Semai benih mulia raya",
+                        "words": [
+                            {
+                                "wf": "Semai",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "semai",
+                                    "pos": "n",
+                                    "form": "semai"
+                                }
+                            },
+                            {
+                                "wf": "benih",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "benih",
+                                    "pos": "n",
+                                    "form": "benih"
+                                }
+                            },
+                            {
+                                "wf": "mulia",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "mulia",
+                                    "pos": "a",
+                                    "form": "mulia"
+                                }
+                            },
+                            {
+                                "wf": "raya",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "raya",
+                                    "pos": "a",
+                                    "form": "raya"
+                                }
+                            }
+                        ],
+                        "syllables": 9
+                    },
+                    {
+                        "line": "Dalam tanah sudah dibajak.",
+                        "words": [
+                            {
+                                "wf": "Dalam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dalam",
+                                    "pos": "a|n",
+                                    "form": "dalam"
+                                }
+                            },
+                            {
+                                "wf": "tanah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tanah",
+                                    "pos": "n",
+                                    "form": "tanah"
+                                }
+                            },
+                            {
+                                "wf": "sudah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sudah",
+                                    "pos": "adv",
+                                    "form": "sudah"
+                                }
+                            },
+                            {
+                                "wf": "dibajak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bajak",
+                                    "pos": "n",
+                                    "form": "di-bajak"
+                                }
+                            },
+                            {
+                                "wf": ".",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 9
+                    }
+                ],
+                "num_lines": 14
+            }
+        ]
+    }
+}

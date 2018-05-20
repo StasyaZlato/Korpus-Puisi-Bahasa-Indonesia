@@ -1,0 +1,761 @@
+{
+    "meta": {
+        "file_name": "533.json",
+        "id_bd": 533,
+        "author": "Sitor Situmorang",
+        "title": "Matahari minggu",
+        "genre": "стихотворение",
+        "year": "---",
+        "num_lines": 13,
+        "rhyme": "Спорадическая",
+        "syllables": [
+            10,
+            12,
+            12,
+            10,
+            9,
+            11,
+            9,
+            10,
+            10,
+            11,
+            8,
+            15,
+            10
+        ],
+        "strofy": [
+            3,
+            1,
+            3,
+            1,
+            2,
+            1,
+            5
+        ]
+    },
+    "poem": {
+        "text": "{Di hari Minggu di hari iseng\r\nDi silau matahari jalan berliku\r\nKawan habis tujuan di tepi kota}\r\n{Di hari Minggu di hari iseng\r\nBersandar pada dinding kota\r\nKawan terima kebuntuan batas}\r\n{Di hari panas tak berwarna\r\nSeluruh damba dibawa jalan}\r\n{Di hari Minggu di hari iseng\r\nBila pertemuan menambah damba\r\nMelingkar di jantung kota\r\nIa merebah pada diri dan kepadatan hari\r\nTidak menolak tidak terima}",
+        "strof": [
+            {
+                "strof": "Di hari Minggu di hari iseng\r\nDi silau matahari jalan berliku\r\nKawan habis tujuan di tepi kota",
+                "lines": [
+                    {
+                        "line": "Di hari Minggu di hari iseng",
+                        "words": [
+                            {
+                                "wf": "Di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "hari",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hari",
+                                    "pos": "n",
+                                    "form": "hari"
+                                }
+                            },
+                            {
+                                "wf": "Minggu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "Minggu",
+                                    "pos": "n",
+                                    "form": "Minggu"
+                                }
+                            },
+                            {
+                                "wf": "di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "hari",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hari",
+                                    "pos": "n",
+                                    "form": "hari"
+                                }
+                            },
+                            {
+                                "wf": "iseng",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "iseng",
+                                    "pos": "a",
+                                    "form": "iseng"
+                                }
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "Di silau matahari jalan berliku",
+                        "words": [
+                            {
+                                "wf": "Di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "silau",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "silau",
+                                    "pos": "a",
+                                    "form": "silau"
+                                }
+                            },
+                            {
+                                "wf": "matahari",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "matahari",
+                                    "pos": "n",
+                                    "form": "matahari"
+                                }
+                            },
+                            {
+                                "wf": "jalan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jalan",
+                                    "pos": "n|v|a",
+                                    "form": "jalan"
+                                }
+                            },
+                            {
+                                "wf": "berliku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "liku",
+                                    "pos": "v",
+                                    "form": "ber-liku"
+                                }
+                            }
+                        ],
+                        "syllables": 12
+                    },
+                    {
+                        "line": "Kawan habis tujuan di tepi kota",
+                        "words": [
+                            {
+                                "wf": "Kawan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kawan",
+                                    "pos": "n",
+                                    "form": "kawan"
+                                }
+                            },
+                            {
+                                "wf": "habis",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "habis",
+                                    "pos": "v|p|adv|n",
+                                    "form": "habis"
+                                }
+                            },
+                            {
+                                "wf": "tujuan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tuju",
+                                    "pos": "n",
+                                    "form": "tuju-an"
+                                }
+                            },
+                            {
+                                "wf": "di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "tepi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tepi",
+                                    "pos": "n",
+                                    "form": "tepi"
+                                }
+                            },
+                            {
+                                "wf": "kota",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kota",
+                                    "pos": "n",
+                                    "form": "kota"
+                                }
+                            }
+                        ],
+                        "syllables": 12
+                    }
+                ],
+                "num_lines": 3
+            },
+            {
+                "strof": "\r\n",
+                "lines": [
+                    {
+                        "line": "",
+                        "words": [],
+                        "syllables": 0
+                    }
+                ],
+                "num_lines": 1
+            },
+            {
+                "strof": "Di hari Minggu di hari iseng\r\nBersandar pada dinding kota\r\nKawan terima kebuntuan batas",
+                "lines": [
+                    {
+                        "line": "Di hari Minggu di hari iseng",
+                        "words": [
+                            {
+                                "wf": "Di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "hari",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hari",
+                                    "pos": "n",
+                                    "form": "hari"
+                                }
+                            },
+                            {
+                                "wf": "Minggu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "Minggu",
+                                    "pos": "n",
+                                    "form": "Minggu"
+                                }
+                            },
+                            {
+                                "wf": "di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "hari",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hari",
+                                    "pos": "n",
+                                    "form": "hari"
+                                }
+                            },
+                            {
+                                "wf": "iseng",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "iseng",
+                                    "pos": "a",
+                                    "form": "iseng"
+                                }
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "Bersandar pada dinding kota",
+                        "words": [
+                            {
+                                "wf": "Bersandar",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sandar",
+                                    "pos": "v",
+                                    "form": "Bersandar"
+                                }
+                            },
+                            {
+                                "wf": "pada",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pada",
+                                    "pos": "p",
+                                    "form": "pada"
+                                }
+                            },
+                            {
+                                "wf": "dinding",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dinding",
+                                    "pos": "n",
+                                    "form": "dinding"
+                                }
+                            },
+                            {
+                                "wf": "kota",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kota",
+                                    "pos": "n",
+                                    "form": "kota"
+                                }
+                            }
+                        ],
+                        "syllables": 9
+                    },
+                    {
+                        "line": "Kawan terima kebuntuan batas",
+                        "words": [
+                            {
+                                "wf": "Kawan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kawan",
+                                    "pos": "n",
+                                    "form": "kawan"
+                                }
+                            },
+                            {
+                                "wf": "terima",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "terima",
+                                    "pos": "v",
+                                    "form": "terima"
+                                }
+                            },
+                            {
+                                "wf": "kebuntuan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "buntu",
+                                    "pos": "n",
+                                    "form": "ke-buntu-an"
+                                }
+                            },
+                            {
+                                "wf": "batas",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "batas",
+                                    "pos": "n",
+                                    "form": "batas"
+                                }
+                            }
+                        ],
+                        "syllables": 11
+                    }
+                ],
+                "num_lines": 3
+            },
+            {
+                "strof": "\r\n",
+                "lines": [
+                    {
+                        "line": "",
+                        "words": [],
+                        "syllables": 0
+                    }
+                ],
+                "num_lines": 1
+            },
+            {
+                "strof": "Di hari panas tak berwarna\r\nSeluruh damba dibawa jalan",
+                "lines": [
+                    {
+                        "line": "Di hari panas tak berwarna",
+                        "words": [
+                            {
+                                "wf": "Di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "hari",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hari",
+                                    "pos": "n",
+                                    "form": "hari"
+                                }
+                            },
+                            {
+                                "wf": "panas",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "panas",
+                                    "pos": "a|n",
+                                    "form": "panas"
+                                }
+                            },
+                            {
+                                "wf": "tak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tak",
+                                    "pos": "adv",
+                                    "form": "tak"
+                                }
+                            },
+                            {
+                                "wf": "berwarna",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "warna",
+                                    "pos": "v",
+                                    "form": "ber-warna"
+                                }
+                            }
+                        ],
+                        "syllables": 9
+                    },
+                    {
+                        "line": "Seluruh damba dibawa jalan",
+                        "words": [
+                            {
+                                "wf": "Seluruh",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "seluruh",
+                                    "pos": "num",
+                                    "form": "seluruh"
+                                }
+                            },
+                            {
+                                "wf": "damba",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "damba",
+                                    "pos": "a",
+                                    "form": "damba"
+                                }
+                            },
+                            {
+                                "wf": "dibawa",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bawa",
+                                    "pos": "v",
+                                    "form": "di-bawa"
+                                }
+                            },
+                            {
+                                "wf": "jalan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jalan",
+                                    "pos": "n|v|a",
+                                    "form": "jalan"
+                                }
+                            }
+                        ],
+                        "syllables": 10
+                    }
+                ],
+                "num_lines": 2
+            },
+            {
+                "strof": "\r\n",
+                "lines": [
+                    {
+                        "line": "",
+                        "words": [],
+                        "syllables": 0
+                    }
+                ],
+                "num_lines": 1
+            },
+            {
+                "strof": "Di hari Minggu di hari iseng\r\nBila pertemuan menambah damba\r\nMelingkar di jantung kota\r\nIa merebah pada diri dan kepadatan hari\r\nTidak menolak tidak terima",
+                "lines": [
+                    {
+                        "line": "Di hari Minggu di hari iseng",
+                        "words": [
+                            {
+                                "wf": "Di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "hari",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hari",
+                                    "pos": "n",
+                                    "form": "hari"
+                                }
+                            },
+                            {
+                                "wf": "Minggu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "Minggu",
+                                    "pos": "n",
+                                    "form": "Minggu"
+                                }
+                            },
+                            {
+                                "wf": "di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "hari",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hari",
+                                    "pos": "n",
+                                    "form": "hari"
+                                }
+                            },
+                            {
+                                "wf": "iseng",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "iseng",
+                                    "pos": "a",
+                                    "form": "iseng"
+                                }
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "Bila pertemuan menambah damba",
+                        "words": [
+                            {
+                                "wf": "Bila",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bila",
+                                    "pos": "pron|p",
+                                    "form": "bila"
+                                }
+                            },
+                            {
+                                "wf": "pertemuan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pertemuan",
+                                    "pos": "n",
+                                    "form": "pertemuan"
+                                }
+                            },
+                            {
+                                "wf": "menambah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tambah",
+                                    "pos": "v",
+                                    "form": "meN-tambah"
+                                }
+                            },
+                            {
+                                "wf": "damba",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "damba",
+                                    "pos": "a",
+                                    "form": "damba"
+                                }
+                            }
+                        ],
+                        "syllables": 11
+                    },
+                    {
+                        "line": "Melingkar di jantung kota",
+                        "words": [
+                            {
+                                "wf": "Melingkar",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lingkar",
+                                    "pos": "a|v",
+                                    "form": "meN-lingkar"
+                                }
+                            },
+                            {
+                                "wf": "di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "jantung",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jantung",
+                                    "pos": "n",
+                                    "form": "jantung"
+                                }
+                            },
+                            {
+                                "wf": "kota",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kota",
+                                    "pos": "n",
+                                    "form": "kota"
+                                }
+                            }
+                        ],
+                        "syllables": 8
+                    },
+                    {
+                        "line": "Ia merebah pada diri dan kepadatan hari",
+                        "words": [
+                            {
+                                "wf": "Ia",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ia",
+                                    "pos": "n",
+                                    "form": "ia"
+                                }
+                            },
+                            {
+                                "wf": "merebah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "rebah",
+                                    "pos": "v",
+                                    "form": "meN-rebah"
+                                }
+                            },
+                            {
+                                "wf": "pada",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pada",
+                                    "pos": "p",
+                                    "form": "pada"
+                                }
+                            },
+                            {
+                                "wf": "diri",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "diri",
+                                    "pos": "n",
+                                    "form": "diri"
+                                }
+                            },
+                            {
+                                "wf": "dan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dan",
+                                    "pos": "p",
+                                    "form": "dan"
+                                }
+                            },
+                            {
+                                "wf": "kepadatan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "padat",
+                                    "pos": "n",
+                                    "form": "ke-padat-an"
+                                }
+                            },
+                            {
+                                "wf": "hari",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hari",
+                                    "pos": "n",
+                                    "form": "hari"
+                                }
+                            }
+                        ],
+                        "syllables": 15
+                    },
+                    {
+                        "line": "Tidak menolak tidak terima",
+                        "words": [
+                            {
+                                "wf": "Tidak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tidak",
+                                    "pos": "adv",
+                                    "form": "tidak"
+                                }
+                            },
+                            {
+                                "wf": "menolak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tolak",
+                                    "pos": "v",
+                                    "form": "meN-tolak"
+                                }
+                            },
+                            {
+                                "wf": "tidak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tidak",
+                                    "pos": "adv",
+                                    "form": "tidak"
+                                }
+                            },
+                            {
+                                "wf": "terima",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "terima",
+                                    "pos": "v",
+                                    "form": "terima"
+                                }
+                            }
+                        ],
+                        "syllables": 10
+                    }
+                ],
+                "num_lines": 5
+            }
+        ]
+    }
+}

@@ -1,0 +1,668 @@
+{
+    "meta": {
+        "file_name": "132.json",
+        "id_bd": 132,
+        "author": "Chairil Anwar",
+        "title": "Bercerai",
+        "genre": "стихотворение",
+        "year": "7.06.1943",
+        "num_lines": 13,
+        "rhyme": "Есть",
+        "syllables": [
+            7,
+            10,
+            13,
+            11,
+            9,
+            13,
+            7,
+            16,
+            12,
+            11,
+            4,
+            8,
+            13
+        ],
+        "strofy": [
+            13
+        ]
+    },
+    "poem": {
+        "text": "Kita musti bercerai\r\nSebelum kicau murai berderai.\r\nTerlalu kita minta pada malam ini.\r\nBenar belum puas serah-menyerah\r\nDarah masih berbusah-busah.\r\nTerlalu kita minta pada malam ini.\r\nKita musti bercerai\r\nBiar surya ‘kan menembus oleh malam di perisai\r\nDua benua bakal bentur-membentur.\r\nMerah kesumba jadi putih kapur.\r\nBagaimana?\r\nKalau IDA, mau turut mengabur\r\nTidak samudra caya tempatmu menghambar",
+        "strof": [
+            {
+                "strof": "Kita musti bercerai\r\nSebelum kicau murai berderai.\r\nTerlalu kita minta pada malam ini.\r\nBenar belum puas serah-menyerah\r\nDarah masih berbusah-busah.\r\nTerlalu kita minta pada malam ini.\r\nKita musti bercerai\r\nBiar surya ‘kan menembus oleh malam di perisai\r\nDua benua bakal bentur-membentur.\r\nMerah kesumba jadi putih kapur.\r\nBagaimana?\r\nKalau IDA, mau turut mengabur\r\nTidak samudra caya tempatmu menghambar",
+                "lines": [
+                    {
+                        "line": "Kita musti bercerai",
+                        "words": [
+                            {
+                                "wf": "Kita",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kita",
+                                    "pos": "pron",
+                                    "form": "kita"
+                                }
+                            },
+                            {
+                                "wf": "musti",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "musti",
+                                    "pos": "?",
+                                    "form": "musti"
+                                }
+                            },
+                            {
+                                "wf": "bercerai",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bercerai",
+                                    "pos": "v",
+                                    "form": "bercerai"
+                                }
+                            }
+                        ],
+                        "syllables": 7
+                    },
+                    {
+                        "line": "Sebelum kicau murai berderai.",
+                        "words": [
+                            {
+                                "wf": "Sebelum",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "belum",
+                                    "pos": "adv",
+                                    "form": "se-belum"
+                                }
+                            },
+                            {
+                                "wf": "kicau",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kicau",
+                                    "pos": "n",
+                                    "form": "kicau"
+                                }
+                            },
+                            {
+                                "wf": "murai",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "murai",
+                                    "pos": "n",
+                                    "form": "murai"
+                                }
+                            },
+                            {
+                                "wf": "berderai",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "derai",
+                                    "pos": "v",
+                                    "form": "ber-derai"
+                                }
+                            },
+                            {
+                                "wf": ".",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "Terlalu kita minta pada malam ini.",
+                        "words": [
+                            {
+                                "wf": "Terlalu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lalu",
+                                    "pos": "adv",
+                                    "form": "ter-lalu"
+                                }
+                            },
+                            {
+                                "wf": "kita",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kita",
+                                    "pos": "pron",
+                                    "form": "kita"
+                                }
+                            },
+                            {
+                                "wf": "minta",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "minta",
+                                    "pos": "",
+                                    "form": "minta"
+                                }
+                            },
+                            {
+                                "wf": "pada",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pada",
+                                    "pos": "p",
+                                    "form": "pada"
+                                }
+                            },
+                            {
+                                "wf": "malam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "malam",
+                                    "pos": "n",
+                                    "form": "malam"
+                                }
+                            },
+                            {
+                                "wf": "ini",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ini",
+                                    "pos": "pron",
+                                    "form": "ini"
+                                }
+                            },
+                            {
+                                "wf": ".",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 13
+                    },
+                    {
+                        "line": "Benar belum puas serah-menyerah",
+                        "words": [
+                            {
+                                "wf": "Benar",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "benar",
+                                    "pos": "a",
+                                    "form": "benar"
+                                }
+                            },
+                            {
+                                "wf": "belum",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "belum",
+                                    "pos": "adv",
+                                    "form": "belum"
+                                }
+                            },
+                            {
+                                "wf": "puas",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "puas",
+                                    "pos": "a|v",
+                                    "form": "puas"
+                                }
+                            },
+                            {
+                                "wf": "serah-menyerah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "serah",
+                                    "pos": "?",
+                                    "form": "serah-meN-serah"
+                                }
+                            }
+                        ],
+                        "syllables": 11
+                    },
+                    {
+                        "line": "Darah masih berbusah-busah.",
+                        "words": [
+                            {
+                                "wf": "Darah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "darah",
+                                    "pos": "n",
+                                    "form": "darah"
+                                }
+                            },
+                            {
+                                "wf": "masih",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "masih",
+                                    "pos": "n",
+                                    "form": "masih"
+                                }
+                            },
+                            {
+                                "wf": "berbusah-busah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "berbusah-busah",
+                                    "pos": "v",
+                                    "form": "berbusah-busah"
+                                }
+                            },
+                            {
+                                "wf": ".",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 9
+                    },
+                    {
+                        "line": "Terlalu kita minta pada malam ini.",
+                        "words": [
+                            {
+                                "wf": "Terlalu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lalu",
+                                    "pos": "adv",
+                                    "form": "ter-lalu"
+                                }
+                            },
+                            {
+                                "wf": "kita",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kita",
+                                    "pos": "pron",
+                                    "form": "kita"
+                                }
+                            },
+                            {
+                                "wf": "minta",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "minta",
+                                    "pos": "",
+                                    "form": "minta"
+                                }
+                            },
+                            {
+                                "wf": "pada",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pada",
+                                    "pos": "p",
+                                    "form": "pada"
+                                }
+                            },
+                            {
+                                "wf": "malam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "malam",
+                                    "pos": "n",
+                                    "form": "malam"
+                                }
+                            },
+                            {
+                                "wf": "ini",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ini",
+                                    "pos": "pron",
+                                    "form": "ini"
+                                }
+                            },
+                            {
+                                "wf": ".",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 13
+                    },
+                    {
+                        "line": "Kita musti bercerai",
+                        "words": [
+                            {
+                                "wf": "Kita",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kita",
+                                    "pos": "pron",
+                                    "form": "kita"
+                                }
+                            },
+                            {
+                                "wf": "musti",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "musti",
+                                    "pos": "?",
+                                    "form": "musti"
+                                }
+                            },
+                            {
+                                "wf": "bercerai",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bercerai",
+                                    "pos": "v",
+                                    "form": "bercerai"
+                                }
+                            }
+                        ],
+                        "syllables": 7
+                    },
+                    {
+                        "line": "Biar surya ‘kan menembus oleh malam di perisai",
+                        "words": [
+                            {
+                                "wf": "Biar",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "biar",
+                                    "pos": "p",
+                                    "form": "biar"
+                                }
+                            },
+                            {
+                                "wf": "surya",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "surya",
+                                    "pos": "n",
+                                    "form": "surya"
+                                }
+                            },
+                            {
+                                "wf": " ‘",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "kan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kan",
+                                    "pos": "v",
+                                    "form": "kan"
+                                }
+                            },
+                            {
+                                "wf": "menembus",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tembus",
+                                    "pos": "v",
+                                    "form": "meN-tembus"
+                                }
+                            },
+                            {
+                                "wf": "oleh",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "oleh",
+                                    "pos": "",
+                                    "form": "oleh"
+                                }
+                            },
+                            {
+                                "wf": "malam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "malam",
+                                    "pos": "n",
+                                    "form": "malam"
+                                }
+                            },
+                            {
+                                "wf": "di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "perisai",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "perisai",
+                                    "pos": "n",
+                                    "form": "perisai"
+                                }
+                            }
+                        ],
+                        "syllables": 16
+                    },
+                    {
+                        "line": "Dua benua bakal bentur-membentur.",
+                        "words": [
+                            {
+                                "wf": "Dua",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dua",
+                                    "pos": "num",
+                                    "form": "dua"
+                                }
+                            },
+                            {
+                                "wf": "benua",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "benua",
+                                    "pos": "n",
+                                    "form": "benua"
+                                }
+                            },
+                            {
+                                "wf": "bakal",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bakal",
+                                    "pos": "n|adv|p",
+                                    "form": "bakal"
+                                }
+                            },
+                            {
+                                "wf": "bentur-membentur",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bentur",
+                                    "pos": "v",
+                                    "form": "bentur-meN-bentur"
+                                }
+                            },
+                            {
+                                "wf": ".",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 12
+                    },
+                    {
+                        "line": "Merah kesumba jadi putih kapur.",
+                        "words": [
+                            {
+                                "wf": "Merah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "merah",
+                                    "pos": "n|a",
+                                    "form": "merah"
+                                }
+                            },
+                            {
+                                "wf": "kesumba",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kesumba",
+                                    "pos": "n",
+                                    "form": "kesumba"
+                                }
+                            },
+                            {
+                                "wf": "jadi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jadi",
+                                    "pos": "v",
+                                    "form": "jadi"
+                                }
+                            },
+                            {
+                                "wf": "putih",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "putih",
+                                    "pos": "n|a",
+                                    "form": "putih"
+                                }
+                            },
+                            {
+                                "wf": "kapur",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kapur",
+                                    "pos": "n",
+                                    "form": "kapur"
+                                }
+                            },
+                            {
+                                "wf": ".",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 11
+                    },
+                    {
+                        "line": "Bagaimana?",
+                        "words": [
+                            {
+                                "wf": "Bagaimana",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bagaimana",
+                                    "pos": "pron",
+                                    "form": "bagaimana"
+                                }
+                            },
+                            {
+                                "wf": "?",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 4
+                    },
+                    {
+                        "line": "Kalau IDA, mau turut mengabur",
+                        "words": [
+                            {
+                                "wf": "Kalau",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kalau",
+                                    "pos": "p",
+                                    "form": "kalau"
+                                }
+                            },
+                            {
+                                "wf": "IDA",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "IDA",
+                                    "pos": "n",
+                                    "form": "IDA"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "mau",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "mau",
+                                    "pos": "adv|n",
+                                    "form": "mau"
+                                }
+                            },
+                            {
+                                "wf": "turut",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "turut",
+                                    "pos": "v",
+                                    "form": "turut"
+                                }
+                            },
+                            {
+                                "wf": "mengabur",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kabur",
+                                    "pos": "v",
+                                    "form": "meN-kabur"
+                                }
+                            }
+                        ],
+                        "syllables": 8
+                    },
+                    {
+                        "line": "Tidak samudra caya tempatmu menghambar",
+                        "words": [
+                            {
+                                "wf": "Tidak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tidak",
+                                    "pos": "adv",
+                                    "form": "tidak"
+                                }
+                            },
+                            {
+                                "wf": "samudra",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "samudra",
+                                    "pos": "n",
+                                    "form": "samudra"
+                                }
+                            },
+                            {
+                                "wf": "caya",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "caya",
+                                    "pos": "v",
+                                    "form": "caya"
+                                }
+                            },
+                            {
+                                "wf": "tempatmu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tempat",
+                                    "pos": "n",
+                                    "form": "tempat-mu"
+                                }
+                            },
+                            {
+                                "wf": "menghambar",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hambar",
+                                    "pos": "v",
+                                    "form": "meN-hambar"
+                                }
+                            }
+                        ],
+                        "syllables": 13
+                    }
+                ],
+                "num_lines": 13
+            }
+        ]
+    }
+}

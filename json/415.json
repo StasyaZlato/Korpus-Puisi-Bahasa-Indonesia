@@ -1,0 +1,1033 @@
+{
+    "meta": {
+        "file_name": "415.json",
+        "id_bd": 415,
+        "author": "L.K. Ara",
+        "title": "Salam 1",
+        "genre": "стихотворение",
+        "year": "---",
+        "num_lines": 14,
+        "rhyme": "Спорадическая",
+        "syllables": [
+            19,
+            23,
+            22,
+            9,
+            17,
+            22,
+            5,
+            17,
+            13,
+            17,
+            7,
+            23,
+            10,
+            2
+        ],
+        "strofy": [
+            14
+        ]
+    },
+    "poem": {
+        "text": "{Salam kepada pintu terbuka yang tersenyum memandang kita\r\nSalam kepada kerikil yang menciumi kaki kita yang bersih dan kotor\r\nSalam kepada bunga di dalam pot dan bunga di luar pot yang memberi\r\nWangi harum kepada kita\r\nSalam kepada rumput yang hijau yang jadi permadani\r\nSalam kepada kendi yang berisi air dingin yang membasuh tangan, kaki,\r\nDan wajah kita\r\nSalam kepada tangga yang tinggi yang diam dan setia\r\nSalam kepada lantai yang rapat dan renggang\r\nSalam kepada tikar yang berkembang dalam warna-warni\r\nYang mengasyikan mata\r\nSalam kepada seisi rumah, lelaki, perempuan yang besar dan kecil\r\nSalam kepada kita semua\r\nSalam}",
+        "strof": [
+            {
+                "strof": "Salam kepada pintu terbuka yang tersenyum memandang kita\r\nSalam kepada kerikil yang menciumi kaki kita yang bersih dan kotor\r\nSalam kepada bunga di dalam pot dan bunga di luar pot yang memberi\r\nWangi harum kepada kita\r\nSalam kepada rumput yang hijau yang jadi permadani\r\nSalam kepada kendi yang berisi air dingin yang membasuh tangan, kaki,\r\nDan wajah kita\r\nSalam kepada tangga yang tinggi yang diam dan setia\r\nSalam kepada lantai yang rapat dan renggang\r\nSalam kepada tikar yang berkembang dalam warna-warni\r\nYang mengasyikan mata\r\nSalam kepada seisi rumah, lelaki, perempuan yang besar dan kecil\r\nSalam kepada kita semua\r\nSalam",
+                "lines": [
+                    {
+                        "line": "Salam kepada pintu terbuka yang tersenyum memandang kita",
+                        "words": [
+                            {
+                                "wf": "Salam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "salam",
+                                    "pos": "n",
+                                    "form": "salam"
+                                }
+                            },
+                            {
+                                "wf": "kepada",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kepada",
+                                    "pos": "p",
+                                    "form": "kepada"
+                                }
+                            },
+                            {
+                                "wf": "pintu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pintu",
+                                    "pos": "n",
+                                    "form": "pintu"
+                                }
+                            },
+                            {
+                                "wf": "terbuka",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "buka",
+                                    "pos": "v",
+                                    "form": "ter-buka"
+                                }
+                            },
+                            {
+                                "wf": "yang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "yang",
+                                    "pos": "a|v|n",
+                                    "form": "yang"
+                                }
+                            },
+                            {
+                                "wf": "tersenyum",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "senyum",
+                                    "pos": "v",
+                                    "form": "ter-senyum"
+                                }
+                            },
+                            {
+                                "wf": "memandang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pandang",
+                                    "pos": "v",
+                                    "form": "meN-pandang"
+                                }
+                            },
+                            {
+                                "wf": "kita",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kita",
+                                    "pos": "pron",
+                                    "form": "kita"
+                                }
+                            }
+                        ],
+                        "syllables": 19
+                    },
+                    {
+                        "line": "Salam kepada kerikil yang menciumi kaki kita yang bersih dan kotor",
+                        "words": [
+                            {
+                                "wf": "Salam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "salam",
+                                    "pos": "n",
+                                    "form": "salam"
+                                }
+                            },
+                            {
+                                "wf": "kepada",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kepada",
+                                    "pos": "p",
+                                    "form": "kepada"
+                                }
+                            },
+                            {
+                                "wf": "kerikil",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kerikil",
+                                    "pos": "n",
+                                    "form": "kerikil"
+                                }
+                            },
+                            {
+                                "wf": "yang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "yang",
+                                    "pos": "a|v|n",
+                                    "form": "yang"
+                                }
+                            },
+                            {
+                                "wf": "menciumi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "cium",
+                                    "pos": "v",
+                                    "form": "meN-cium-i"
+                                }
+                            },
+                            {
+                                "wf": "kaki",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kaki",
+                                    "pos": "n",
+                                    "form": "kaki"
+                                }
+                            },
+                            {
+                                "wf": "kita",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kita",
+                                    "pos": "pron",
+                                    "form": "kita"
+                                }
+                            },
+                            {
+                                "wf": "yang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "yang",
+                                    "pos": "a|v|n",
+                                    "form": "yang"
+                                }
+                            },
+                            {
+                                "wf": "bersih",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bersih",
+                                    "pos": "a",
+                                    "form": "bersih"
+                                }
+                            },
+                            {
+                                "wf": "dan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dan",
+                                    "pos": "p",
+                                    "form": "dan"
+                                }
+                            },
+                            {
+                                "wf": "kotor",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kotor",
+                                    "pos": "a",
+                                    "form": "kotor"
+                                }
+                            }
+                        ],
+                        "syllables": 23
+                    },
+                    {
+                        "line": "Salam kepada bunga di dalam pot dan bunga di luar pot yang memberi",
+                        "words": [
+                            {
+                                "wf": "Salam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "salam",
+                                    "pos": "n",
+                                    "form": "salam"
+                                }
+                            },
+                            {
+                                "wf": "kepada",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kepada",
+                                    "pos": "p",
+                                    "form": "kepada"
+                                }
+                            },
+                            {
+                                "wf": "bunga",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bunga",
+                                    "pos": "n",
+                                    "form": "bunga"
+                                }
+                            },
+                            {
+                                "wf": "di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "dalam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dalam",
+                                    "pos": "a|n",
+                                    "form": "dalam"
+                                }
+                            },
+                            {
+                                "wf": "pot",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pot",
+                                    "pos": "n",
+                                    "form": "pot"
+                                }
+                            },
+                            {
+                                "wf": "dan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dan",
+                                    "pos": "p",
+                                    "form": "dan"
+                                }
+                            },
+                            {
+                                "wf": "bunga",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bunga",
+                                    "pos": "n",
+                                    "form": "bunga"
+                                }
+                            },
+                            {
+                                "wf": "di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "luar",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "luar",
+                                    "pos": "v",
+                                    "form": "luar"
+                                }
+                            },
+                            {
+                                "wf": "pot",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pot",
+                                    "pos": "n",
+                                    "form": "pot"
+                                }
+                            },
+                            {
+                                "wf": "yang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "yang",
+                                    "pos": "a|v|n",
+                                    "form": "yang"
+                                }
+                            },
+                            {
+                                "wf": "memberi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "beri",
+                                    "pos": "v",
+                                    "form": "meN-beri"
+                                }
+                            }
+                        ],
+                        "syllables": 22
+                    },
+                    {
+                        "line": "Wangi harum kepada kita",
+                        "words": [
+                            {
+                                "wf": "Wangi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "wangi",
+                                    "pos": "a",
+                                    "form": "wangi"
+                                }
+                            },
+                            {
+                                "wf": "harum",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "harum",
+                                    "pos": "a",
+                                    "form": "harum"
+                                }
+                            },
+                            {
+                                "wf": "kepada",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kepada",
+                                    "pos": "p",
+                                    "form": "kepada"
+                                }
+                            },
+                            {
+                                "wf": "kita",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kita",
+                                    "pos": "pron",
+                                    "form": "kita"
+                                }
+                            }
+                        ],
+                        "syllables": 9
+                    },
+                    {
+                        "line": "Salam kepada rumput yang hijau yang jadi permadani",
+                        "words": [
+                            {
+                                "wf": "Salam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "salam",
+                                    "pos": "n",
+                                    "form": "salam"
+                                }
+                            },
+                            {
+                                "wf": "kepada",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kepada",
+                                    "pos": "p",
+                                    "form": "kepada"
+                                }
+                            },
+                            {
+                                "wf": "rumput",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "rumput",
+                                    "pos": "n",
+                                    "form": "rumput"
+                                }
+                            },
+                            {
+                                "wf": "yang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "yang",
+                                    "pos": "a|v|n",
+                                    "form": "yang"
+                                }
+                            },
+                            {
+                                "wf": "hijau",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hijau",
+                                    "pos": "n|a",
+                                    "form": "hijau"
+                                }
+                            },
+                            {
+                                "wf": "yang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "yang",
+                                    "pos": "a|v|n",
+                                    "form": "yang"
+                                }
+                            },
+                            {
+                                "wf": "jadi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jadi",
+                                    "pos": "v",
+                                    "form": "jadi"
+                                }
+                            },
+                            {
+                                "wf": "permadani",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "permadani",
+                                    "pos": "n",
+                                    "form": "permadani"
+                                }
+                            }
+                        ],
+                        "syllables": 17
+                    },
+                    {
+                        "line": "Salam kepada kendi yang berisi air dingin yang membasuh tangan, kaki,",
+                        "words": [
+                            {
+                                "wf": "Salam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "salam",
+                                    "pos": "n",
+                                    "form": "salam"
+                                }
+                            },
+                            {
+                                "wf": "kepada",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kepada",
+                                    "pos": "p",
+                                    "form": "kepada"
+                                }
+                            },
+                            {
+                                "wf": "kendi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kendi",
+                                    "pos": "n",
+                                    "form": "kendi"
+                                }
+                            },
+                            {
+                                "wf": "yang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "yang",
+                                    "pos": "a|v|n",
+                                    "form": "yang"
+                                }
+                            },
+                            {
+                                "wf": "berisi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "isi",
+                                    "pos": "v",
+                                    "form": "ber-isi"
+                                }
+                            },
+                            {
+                                "wf": "air",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "air",
+                                    "pos": "n",
+                                    "form": "air"
+                                }
+                            },
+                            {
+                                "wf": "dingin",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dingin",
+                                    "pos": "a",
+                                    "form": "dingin"
+                                }
+                            },
+                            {
+                                "wf": "yang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "yang",
+                                    "pos": "a|v|n",
+                                    "form": "yang"
+                                }
+                            },
+                            {
+                                "wf": "membasuh",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "basuh",
+                                    "pos": "v",
+                                    "form": "meN-basuh"
+                                }
+                            },
+                            {
+                                "wf": "tangan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tangan",
+                                    "pos": "v",
+                                    "form": "tangan"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "kaki",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kaki",
+                                    "pos": "n",
+                                    "form": "kaki"
+                                }
+                            },
+                            {
+                                "wf": ",",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 22
+                    },
+                    {
+                        "line": "Dan wajah kita",
+                        "words": [
+                            {
+                                "wf": "Dan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dan",
+                                    "pos": "p",
+                                    "form": "dan"
+                                }
+                            },
+                            {
+                                "wf": "wajah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "wajah",
+                                    "pos": "n",
+                                    "form": "wajah"
+                                }
+                            },
+                            {
+                                "wf": "kita",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kita",
+                                    "pos": "pron",
+                                    "form": "kita"
+                                }
+                            }
+                        ],
+                        "syllables": 5
+                    },
+                    {
+                        "line": "Salam kepada tangga yang tinggi yang diam dan setia",
+                        "words": [
+                            {
+                                "wf": "Salam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "salam",
+                                    "pos": "n",
+                                    "form": "salam"
+                                }
+                            },
+                            {
+                                "wf": "kepada",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kepada",
+                                    "pos": "p",
+                                    "form": "kepada"
+                                }
+                            },
+                            {
+                                "wf": "tangga",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tangga",
+                                    "pos": "n",
+                                    "form": "tangga"
+                                }
+                            },
+                            {
+                                "wf": "yang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "yang",
+                                    "pos": "a|v|n",
+                                    "form": "yang"
+                                }
+                            },
+                            {
+                                "wf": "tinggi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tinggi",
+                                    "pos": "a",
+                                    "form": "tinggi"
+                                }
+                            },
+                            {
+                                "wf": "yang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "yang",
+                                    "pos": "a|v|n",
+                                    "form": "yang"
+                                }
+                            },
+                            {
+                                "wf": "diam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "diam",
+                                    "pos": "v",
+                                    "form": "diam"
+                                }
+                            },
+                            {
+                                "wf": "dan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dan",
+                                    "pos": "p",
+                                    "form": "dan"
+                                }
+                            },
+                            {
+                                "wf": "setia",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "setia",
+                                    "pos": "a",
+                                    "form": "setia"
+                                }
+                            }
+                        ],
+                        "syllables": 17
+                    },
+                    {
+                        "line": "Salam kepada lantai yang rapat dan renggang",
+                        "words": [
+                            {
+                                "wf": "Salam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "salam",
+                                    "pos": "n",
+                                    "form": "salam"
+                                }
+                            },
+                            {
+                                "wf": "kepada",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kepada",
+                                    "pos": "p",
+                                    "form": "kepada"
+                                }
+                            },
+                            {
+                                "wf": "lantai",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lantai",
+                                    "pos": "n",
+                                    "form": "lantai"
+                                }
+                            },
+                            {
+                                "wf": "yang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "yang",
+                                    "pos": "a|v|n",
+                                    "form": "yang"
+                                }
+                            },
+                            {
+                                "wf": "rapat",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "rapat",
+                                    "pos": "a",
+                                    "form": "rapat"
+                                }
+                            },
+                            {
+                                "wf": "dan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dan",
+                                    "pos": "p",
+                                    "form": "dan"
+                                }
+                            },
+                            {
+                                "wf": "renggang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "renggang",
+                                    "pos": "a",
+                                    "form": "renggang"
+                                }
+                            }
+                        ],
+                        "syllables": 13
+                    },
+                    {
+                        "line": "Salam kepada tikar yang berkembang dalam warna-warni",
+                        "words": [
+                            {
+                                "wf": "Salam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "salam",
+                                    "pos": "n",
+                                    "form": "salam"
+                                }
+                            },
+                            {
+                                "wf": "kepada",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kepada",
+                                    "pos": "p",
+                                    "form": "kepada"
+                                }
+                            },
+                            {
+                                "wf": "tikar",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tikar",
+                                    "pos": "n",
+                                    "form": "tikar"
+                                }
+                            },
+                            {
+                                "wf": "yang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "yang",
+                                    "pos": "a|v|n",
+                                    "form": "yang"
+                                }
+                            },
+                            {
+                                "wf": "berkembang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kembang",
+                                    "pos": "v",
+                                    "form": "ber-kembang"
+                                }
+                            },
+                            {
+                                "wf": "dalam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dalam",
+                                    "pos": "a|n",
+                                    "form": "dalam"
+                                }
+                            },
+                            {
+                                "wf": "warna-warni",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "mewarna",
+                                    "pos": "n",
+                                    "form": "warna-warni"
+                                }
+                            }
+                        ],
+                        "syllables": 17
+                    },
+                    {
+                        "line": "Yang mengasyikan mata",
+                        "words": [
+                            {
+                                "wf": "Yang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "yang",
+                                    "pos": "a|v|n",
+                                    "form": "yang"
+                                }
+                            },
+                            {
+                                "wf": "mengasyikan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "mengasyikan",
+                                    "pos": "v",
+                                    "form": "mengasyikan"
+                                }
+                            },
+                            {
+                                "wf": "mata",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "mata",
+                                    "pos": "n",
+                                    "form": "mata"
+                                }
+                            }
+                        ],
+                        "syllables": 7
+                    },
+                    {
+                        "line": "Salam kepada seisi rumah, lelaki, perempuan yang besar dan kecil",
+                        "words": [
+                            {
+                                "wf": "Salam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "salam",
+                                    "pos": "n",
+                                    "form": "salam"
+                                }
+                            },
+                            {
+                                "wf": "kepada",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kepada",
+                                    "pos": "p",
+                                    "form": "kepada"
+                                }
+                            },
+                            {
+                                "wf": "seisi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "isi",
+                                    "pos": "n",
+                                    "form": "se-isi"
+                                }
+                            },
+                            {
+                                "wf": "rumah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "rumah",
+                                    "pos": "n",
+                                    "form": "rumah"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "lelaki",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lelaki",
+                                    "pos": "n",
+                                    "form": "lelaki"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "perempuan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "perempuan",
+                                    "pos": "n",
+                                    "form": "perempuan"
+                                }
+                            },
+                            {
+                                "wf": "yang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "yang",
+                                    "pos": "a|v|n",
+                                    "form": "yang"
+                                }
+                            },
+                            {
+                                "wf": "besar",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "besar",
+                                    "pos": "a",
+                                    "form": "besar"
+                                }
+                            },
+                            {
+                                "wf": "dan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dan",
+                                    "pos": "p",
+                                    "form": "dan"
+                                }
+                            },
+                            {
+                                "wf": "kecil",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kecil",
+                                    "pos": "a",
+                                    "form": "kecil"
+                                }
+                            }
+                        ],
+                        "syllables": 23
+                    },
+                    {
+                        "line": "Salam kepada kita semua",
+                        "words": [
+                            {
+                                "wf": "Salam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "salam",
+                                    "pos": "n",
+                                    "form": "salam"
+                                }
+                            },
+                            {
+                                "wf": "kepada",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kepada",
+                                    "pos": "p",
+                                    "form": "kepada"
+                                }
+                            },
+                            {
+                                "wf": "kita",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kita",
+                                    "pos": "pron",
+                                    "form": "kita"
+                                }
+                            },
+                            {
+                                "wf": "semua",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "semua",
+                                    "pos": "num",
+                                    "form": "semua"
+                                }
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "Salam",
+                        "words": [
+                            {
+                                "wf": "Salam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "salam",
+                                    "pos": "n",
+                                    "form": "salam"
+                                }
+                            }
+                        ],
+                        "syllables": 2
+                    }
+                ],
+                "num_lines": 14
+            }
+        ]
+    }
+}

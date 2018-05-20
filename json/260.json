@@ -1,0 +1,1147 @@
+{
+    "meta": {
+        "file_name": "260.json",
+        "id_bd": 260,
+        "author": "Isbedy Stiawan ZS",
+        "title": "Aku baca lembaran-lembaran koran",
+        "genre": "стихотворение",
+        "year": 1987,
+        "num_lines": 16,
+        "rhyme": "Нет",
+        "syllables": [
+            20,
+            19,
+            15,
+            19,
+            21,
+            20,
+            17,
+            11,
+            8,
+            15,
+            12,
+            12,
+            18,
+            18,
+            18,
+            18
+        ],
+        "strofy": [
+            9,
+            1,
+            7
+        ]
+    },
+    "poem": {
+        "text": "{aku baca lembaran-lembaran koran. dan pada setiap kolom\r\nkusimak dunia yang terluka oleh bibirmu! bahkan hingga\r\nke halaman sebelah ada pisaumu bermandi\r\ndarah terkapar atau cinta yang diujudkan pada iklanmu\r\nsia-sia membaca rahasia duniamu. dan pada setiap\r\nkolom aku mengukur luas kubur atau kaveling penawaran\r\natau bahasa sanjungmu. lantas bibirmu, lisptickmu yang\r\nmerah merayuku untuk merobek!\r\nkecuali dendam, ya Allah}\r\n{aku melihat tubuhku tersayat di setiap\r\nlembaran-lembaran koran. tak bergerak,\r\naku membacanya. aku menyimaknya\r\naku membaca lautan darah. aku membaca musim-musim\r\nkemarau yang membantai taman bunga. pada setiap kolom\r\ndan halaman anyir bibirmu menusuk nuraniku. tapi\r\nkarena bibirmu pula aku kasmaran dan patah hati}",
+        "strof": [
+            {
+                "strof": "aku baca lembaran-lembaran koran. dan pada setiap kolom\r\nkusimak dunia yang terluka oleh bibirmu! bahkan hingga\r\nke halaman sebelah ada pisaumu bermandi\r\ndarah terkapar atau cinta yang diujudkan pada iklanmu\r\nsia-sia membaca rahasia duniamu. dan pada setiap\r\nkolom aku mengukur luas kubur atau kaveling penawaran\r\natau bahasa sanjungmu. lantas bibirmu, lisptickmu yang\r\nmerah merayuku untuk merobek!\r\nkecuali dendam, ya Allah",
+                "lines": [
+                    {
+                        "line": "aku baca lembaran-lembaran koran. dan pada setiap kolom",
+                        "words": [
+                            {
+                                "wf": "aku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "aku",
+                                    "pos": "pron",
+                                    "form": "aku"
+                                }
+                            },
+                            {
+                                "wf": "baca",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "baca",
+                                    "pos": "v",
+                                    "form": "baca"
+                                }
+                            },
+                            {
+                                "wf": "lembaran-lembaran",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lembar",
+                                    "pos": "n",
+                                    "form": "lembaran-lembaran"
+                                }
+                            },
+                            {
+                                "wf": "koran",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "koran",
+                                    "pos": "n",
+                                    "form": "koran"
+                                }
+                            },
+                            {
+                                "wf": ". ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "dan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dan",
+                                    "pos": "p",
+                                    "form": "dan"
+                                }
+                            },
+                            {
+                                "wf": "pada",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pada",
+                                    "pos": "p",
+                                    "form": "pada"
+                                }
+                            },
+                            {
+                                "wf": "setiap",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tiap",
+                                    "pos": "num",
+                                    "form": "se-tiap"
+                                }
+                            },
+                            {
+                                "wf": "kolom",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kolom",
+                                    "pos": "n",
+                                    "form": "kolom"
+                                }
+                            }
+                        ],
+                        "syllables": 20
+                    },
+                    {
+                        "line": "kusimak dunia yang terluka oleh bibirmu! bahkan hingga",
+                        "words": [
+                            {
+                                "wf": "kusimak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "simak",
+                                    "pos": "v",
+                                    "form": "ku-simak"
+                                }
+                            },
+                            {
+                                "wf": "dunia",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dunia",
+                                    "pos": "n",
+                                    "form": "dunia"
+                                }
+                            },
+                            {
+                                "wf": "yang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "yang",
+                                    "pos": "a|v|n",
+                                    "form": "yang"
+                                }
+                            },
+                            {
+                                "wf": "terluka",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "luka",
+                                    "pos": "v",
+                                    "form": "ter-luka"
+                                }
+                            },
+                            {
+                                "wf": "oleh",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "oleh",
+                                    "pos": "",
+                                    "form": "oleh"
+                                }
+                            },
+                            {
+                                "wf": "bibirmu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bibir",
+                                    "pos": "n",
+                                    "form": "bibir-mu"
+                                }
+                            },
+                            {
+                                "wf": "! ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "bahkan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bahkan",
+                                    "pos": "v",
+                                    "form": "bahkan"
+                                }
+                            },
+                            {
+                                "wf": "hingga",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hingga",
+                                    "pos": "n|p",
+                                    "form": "hingga"
+                                }
+                            }
+                        ],
+                        "syllables": 19
+                    },
+                    {
+                        "line": "ke halaman sebelah ada pisaumu bermandi",
+                        "words": [
+                            {
+                                "wf": "ke",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ke",
+                                    "pos": "p",
+                                    "form": "ke"
+                                }
+                            },
+                            {
+                                "wf": "halaman",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "halaman",
+                                    "pos": "n",
+                                    "form": "halaman"
+                                }
+                            },
+                            {
+                                "wf": "sebelah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "belah",
+                                    "pos": "n",
+                                    "form": "se-belah"
+                                }
+                            },
+                            {
+                                "wf": "ada",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ada",
+                                    "pos": "v",
+                                    "form": "ada"
+                                }
+                            },
+                            {
+                                "wf": "pisaumu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pisau",
+                                    "pos": "n",
+                                    "form": "pisau-mu"
+                                }
+                            },
+                            {
+                                "wf": "bermandi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "mandi",
+                                    "pos": "v",
+                                    "form": "ber-mandi"
+                                }
+                            }
+                        ],
+                        "syllables": 15
+                    },
+                    {
+                        "line": "darah terkapar atau cinta yang diujudkan pada iklanmu",
+                        "words": [
+                            {
+                                "wf": "darah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "darah",
+                                    "pos": "n",
+                                    "form": "darah"
+                                }
+                            },
+                            {
+                                "wf": "terkapar",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kapar",
+                                    "pos": "v",
+                                    "form": "terkapar"
+                                }
+                            },
+                            {
+                                "wf": "atau",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "atau",
+                                    "pos": "p",
+                                    "form": "atau"
+                                }
+                            },
+                            {
+                                "wf": "cinta",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "cinta",
+                                    "pos": "a",
+                                    "form": "cinta"
+                                }
+                            },
+                            {
+                                "wf": "yang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "yang",
+                                    "pos": "a|v|n",
+                                    "form": "yang"
+                                }
+                            },
+                            {
+                                "wf": "diujudkan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "diujudkan",
+                                    "pos": "v",
+                                    "form": "diujudkan"
+                                }
+                            },
+                            {
+                                "wf": "pada",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pada",
+                                    "pos": "p",
+                                    "form": "pada"
+                                }
+                            },
+                            {
+                                "wf": "iklanmu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "iklan",
+                                    "pos": "n",
+                                    "form": "iklan-mu"
+                                }
+                            }
+                        ],
+                        "syllables": 19
+                    },
+                    {
+                        "line": "sia-sia membaca rahasia duniamu. dan pada setiap",
+                        "words": [
+                            {
+                                "wf": "sia-sia",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sia-sia",
+                                    "pos": "a",
+                                    "form": "sia-sia"
+                                }
+                            },
+                            {
+                                "wf": "membaca",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "baca",
+                                    "pos": "v",
+                                    "form": "meN-baca"
+                                }
+                            },
+                            {
+                                "wf": "rahasia",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "rahasia",
+                                    "pos": "n|a",
+                                    "form": "rahasia"
+                                }
+                            },
+                            {
+                                "wf": "duniamu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dunia",
+                                    "pos": "n",
+                                    "form": "dunia-mu"
+                                }
+                            },
+                            {
+                                "wf": ". ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "dan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dan",
+                                    "pos": "p",
+                                    "form": "dan"
+                                }
+                            },
+                            {
+                                "wf": "pada",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pada",
+                                    "pos": "p",
+                                    "form": "pada"
+                                }
+                            },
+                            {
+                                "wf": "setiap",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tiap",
+                                    "pos": "num",
+                                    "form": "se-tiap"
+                                }
+                            }
+                        ],
+                        "syllables": 21
+                    },
+                    {
+                        "line": "kolom aku mengukur luas kubur atau kaveling penawaran",
+                        "words": [
+                            {
+                                "wf": "kolom",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kolom",
+                                    "pos": "n",
+                                    "form": "kolom"
+                                }
+                            },
+                            {
+                                "wf": "aku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "aku",
+                                    "pos": "pron",
+                                    "form": "aku"
+                                }
+                            },
+                            {
+                                "wf": "mengukur",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kukur",
+                                    "pos": "v",
+                                    "form": "meN-ukur"
+                                }
+                            },
+                            {
+                                "wf": "luas",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "luas",
+                                    "pos": "a",
+                                    "form": "luas"
+                                }
+                            },
+                            {
+                                "wf": "kubur",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kubur",
+                                    "pos": "n",
+                                    "form": "kubur"
+                                }
+                            },
+                            {
+                                "wf": "atau",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "atau",
+                                    "pos": "p",
+                                    "form": "atau"
+                                }
+                            },
+                            {
+                                "wf": "kaveling",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kaveling",
+                                    "pos": "n",
+                                    "form": "kaveling"
+                                }
+                            },
+                            {
+                                "wf": "penawaran",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tawar",
+                                    "pos": "n",
+                                    "form": "peN-tawar-an"
+                                }
+                            }
+                        ],
+                        "syllables": 20
+                    },
+                    {
+                        "line": "atau bahasa sanjungmu. lantas bibirmu, lisptickmu yang",
+                        "words": [
+                            {
+                                "wf": "atau",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "atau",
+                                    "pos": "p",
+                                    "form": "atau"
+                                }
+                            },
+                            {
+                                "wf": "bahasa",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bahasa",
+                                    "pos": "n",
+                                    "form": "bahasa"
+                                }
+                            },
+                            {
+                                "wf": "sanjungmu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sanjung",
+                                    "pos": "v",
+                                    "form": "sanjung-mu"
+                                }
+                            },
+                            {
+                                "wf": ". ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "lantas",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lantas",
+                                    "pos": "adv|p",
+                                    "form": "lantas"
+                                }
+                            },
+                            {
+                                "wf": "bibirmu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bibir",
+                                    "pos": "n",
+                                    "form": "bibir-mu"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "lisptickmu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lisptickmu",
+                                    "pos": "?",
+                                    "form": "lisptickmu"
+                                }
+                            },
+                            {
+                                "wf": "yang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "yang",
+                                    "pos": "a|v|n",
+                                    "form": "yang"
+                                }
+                            }
+                        ],
+                        "syllables": 17
+                    },
+                    {
+                        "line": "merah merayuku untuk merobek!",
+                        "words": [
+                            {
+                                "wf": "merah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "merah",
+                                    "pos": "n|a",
+                                    "form": "merah"
+                                }
+                            },
+                            {
+                                "wf": "merayuku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "rayu",
+                                    "pos": "v",
+                                    "form": "meN-rayu-ku-ku"
+                                }
+                            },
+                            {
+                                "wf": "untuk",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "untuk",
+                                    "pos": "p",
+                                    "form": "untuk"
+                                }
+                            },
+                            {
+                                "wf": "merobek",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "robek",
+                                    "pos": "v",
+                                    "form": "meN-robek"
+                                }
+                            },
+                            {
+                                "wf": "!",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 11
+                    },
+                    {
+                        "line": "kecuali dendam, ya Allah",
+                        "words": [
+                            {
+                                "wf": "kecuali",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kecuali",
+                                    "pos": "p|n",
+                                    "form": "kecuali"
+                                }
+                            },
+                            {
+                                "wf": "dendam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dendam",
+                                    "pos": "a",
+                                    "form": "dendam"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "ya",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ya",
+                                    "pos": "adv",
+                                    "form": "ya"
+                                }
+                            },
+                            {
+                                "wf": "Allah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "Allah",
+                                    "pos": "n",
+                                    "form": "Allah"
+                                }
+                            }
+                        ],
+                        "syllables": 8
+                    }
+                ],
+                "num_lines": 9
+            },
+            {
+                "strof": "\r\n",
+                "lines": [
+                    {
+                        "line": "",
+                        "words": [],
+                        "syllables": 0
+                    }
+                ],
+                "num_lines": 1
+            },
+            {
+                "strof": "aku melihat tubuhku tersayat di setiap\r\nlembaran-lembaran koran. tak bergerak,\r\naku membacanya. aku menyimaknya\r\naku membaca lautan darah. aku membaca musim-musim\r\nkemarau yang membantai taman bunga. pada setiap kolom\r\ndan halaman anyir bibirmu menusuk nuraniku. tapi\r\nkarena bibirmu pula aku kasmaran dan patah hati",
+                "lines": [
+                    {
+                        "line": "aku melihat tubuhku tersayat di setiap",
+                        "words": [
+                            {
+                                "wf": "aku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "aku",
+                                    "pos": "pron",
+                                    "form": "aku"
+                                }
+                            },
+                            {
+                                "wf": "melihat",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lihat",
+                                    "pos": "v",
+                                    "form": "meN-lihat"
+                                }
+                            },
+                            {
+                                "wf": "tubuhku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tubuh",
+                                    "pos": "n",
+                                    "form": "tubuh-ku"
+                                }
+                            },
+                            {
+                                "wf": "tersayat",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sayat",
+                                    "pos": "v",
+                                    "form": "ter-sayat"
+                                }
+                            },
+                            {
+                                "wf": "di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "setiap",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tiap",
+                                    "pos": "num",
+                                    "form": "se-tiap"
+                                }
+                            }
+                        ],
+                        "syllables": 15
+                    },
+                    {
+                        "line": "lembaran-lembaran koran. tak bergerak,",
+                        "words": [
+                            {
+                                "wf": "lembaran-lembaran",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lembar",
+                                    "pos": "n",
+                                    "form": "lembaran-lembaran"
+                                }
+                            },
+                            {
+                                "wf": "koran",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "koran",
+                                    "pos": "n",
+                                    "form": "koran"
+                                }
+                            },
+                            {
+                                "wf": ". ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "tak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tak",
+                                    "pos": "adv",
+                                    "form": "tak"
+                                }
+                            },
+                            {
+                                "wf": "bergerak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "gerak",
+                                    "pos": "v",
+                                    "form": "ber-gerak"
+                                }
+                            },
+                            {
+                                "wf": ",",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 12
+                    },
+                    {
+                        "line": "aku membacanya. aku menyimaknya",
+                        "words": [
+                            {
+                                "wf": "aku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "aku",
+                                    "pos": "pron",
+                                    "form": "aku"
+                                }
+                            },
+                            {
+                                "wf": "membacanya",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "baca",
+                                    "pos": "v",
+                                    "form": "meN-baca-nya-nya"
+                                }
+                            },
+                            {
+                                "wf": ". ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "aku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "aku",
+                                    "pos": "pron",
+                                    "form": "aku"
+                                }
+                            },
+                            {
+                                "wf": "menyimaknya",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "simak",
+                                    "pos": "v",
+                                    "form": "meN-simak-nya-nya"
+                                }
+                            }
+                        ],
+                        "syllables": 12
+                    },
+                    {
+                        "line": "aku membaca lautan darah. aku membaca musim-musim",
+                        "words": [
+                            {
+                                "wf": "aku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "aku",
+                                    "pos": "pron",
+                                    "form": "aku"
+                                }
+                            },
+                            {
+                                "wf": "membaca",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "baca",
+                                    "pos": "v",
+                                    "form": "meN-baca"
+                                }
+                            },
+                            {
+                                "wf": "lautan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "laut",
+                                    "pos": "n",
+                                    "form": "laut-an"
+                                }
+                            },
+                            {
+                                "wf": "darah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "darah",
+                                    "pos": "n",
+                                    "form": "darah"
+                                }
+                            },
+                            {
+                                "wf": ". ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "aku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "aku",
+                                    "pos": "pron",
+                                    "form": "aku"
+                                }
+                            },
+                            {
+                                "wf": "membaca",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "baca",
+                                    "pos": "v",
+                                    "form": "meN-baca"
+                                }
+                            },
+                            {
+                                "wf": "musim-musim",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "musim",
+                                    "pos": "n",
+                                    "form": "musim-musim"
+                                }
+                            }
+                        ],
+                        "syllables": 18
+                    },
+                    {
+                        "line": "kemarau yang membantai taman bunga. pada setiap kolom",
+                        "words": [
+                            {
+                                "wf": "kemarau",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kemarau",
+                                    "pos": "a",
+                                    "form": "kemarau"
+                                }
+                            },
+                            {
+                                "wf": "yang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "yang",
+                                    "pos": "a|v|n",
+                                    "form": "yang"
+                                }
+                            },
+                            {
+                                "wf": "membantai",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bantai",
+                                    "pos": "v",
+                                    "form": "meN-bantai"
+                                }
+                            },
+                            {
+                                "wf": "taman",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "taman",
+                                    "pos": "n",
+                                    "form": "taman"
+                                }
+                            },
+                            {
+                                "wf": "bunga",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bunga",
+                                    "pos": "n",
+                                    "form": "bunga"
+                                }
+                            },
+                            {
+                                "wf": ". ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "pada",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pada",
+                                    "pos": "p",
+                                    "form": "pada"
+                                }
+                            },
+                            {
+                                "wf": "setiap",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tiap",
+                                    "pos": "num",
+                                    "form": "se-tiap"
+                                }
+                            },
+                            {
+                                "wf": "kolom",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kolom",
+                                    "pos": "n",
+                                    "form": "kolom"
+                                }
+                            }
+                        ],
+                        "syllables": 18
+                    },
+                    {
+                        "line": "dan halaman anyir bibirmu menusuk nuraniku. tapi",
+                        "words": [
+                            {
+                                "wf": "dan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dan",
+                                    "pos": "p",
+                                    "form": "dan"
+                                }
+                            },
+                            {
+                                "wf": "halaman",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "halaman",
+                                    "pos": "n",
+                                    "form": "halaman"
+                                }
+                            },
+                            {
+                                "wf": "anyir",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "anyir",
+                                    "pos": "a",
+                                    "form": "anyir"
+                                }
+                            },
+                            {
+                                "wf": "bibirmu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bibir",
+                                    "pos": "n",
+                                    "form": "bibir-mu"
+                                }
+                            },
+                            {
+                                "wf": "menusuk",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tusuk",
+                                    "pos": "v",
+                                    "form": "meN-tusuk"
+                                }
+                            },
+                            {
+                                "wf": "nuraniku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "nurani",
+                                    "pos": "a|n",
+                                    "form": "nurani-ku"
+                                }
+                            },
+                            {
+                                "wf": ". ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "tapi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tapi",
+                                    "pos": "v",
+                                    "form": "tapi"
+                                }
+                            }
+                        ],
+                        "syllables": 18
+                    },
+                    {
+                        "line": "karena bibirmu pula aku kasmaran dan patah hati",
+                        "words": [
+                            {
+                                "wf": "karena",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "karena",
+                                    "pos": "p",
+                                    "form": "karena"
+                                }
+                            },
+                            {
+                                "wf": "bibirmu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bibir",
+                                    "pos": "n",
+                                    "form": "bibir-mu"
+                                }
+                            },
+                            {
+                                "wf": "pula",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pula",
+                                    "pos": "p",
+                                    "form": "pula"
+                                }
+                            },
+                            {
+                                "wf": "aku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "aku",
+                                    "pos": "pron",
+                                    "form": "aku"
+                                }
+                            },
+                            {
+                                "wf": "kasmaran",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kasmaran",
+                                    "pos": "v",
+                                    "form": "kasmaran"
+                                }
+                            },
+                            {
+                                "wf": "dan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dan",
+                                    "pos": "p",
+                                    "form": "dan"
+                                }
+                            },
+                            {
+                                "wf": "patah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "patah",
+                                    "pos": "a",
+                                    "form": "patah"
+                                }
+                            },
+                            {
+                                "wf": "hati",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hati",
+                                    "pos": "n",
+                                    "form": "hati"
+                                }
+                            }
+                        ],
+                        "syllables": 18
+                    }
+                ],
+                "num_lines": 7
+            }
+        ]
+    }
+}

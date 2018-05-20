@@ -1,0 +1,879 @@
+{
+    "meta": {
+        "file_name": "775.json",
+        "id_bd": 775,
+        "author": "Ajip Rosidi",
+        "title": "Pantun terang bulan",
+        "genre": "пантун",
+        "year": "---",
+        "num_lines": 16,
+        "rhyme": "Есть",
+        "syllables": [
+            9,
+            10,
+            11,
+            10,
+            9,
+            10,
+            12,
+            10,
+            10,
+            10,
+            9,
+            10,
+            10,
+            11,
+            9,
+            9
+        ],
+        "strofy": [
+            4,
+            1,
+            4,
+            1,
+            4,
+            1,
+            4
+        ]
+    },
+    "poem": {
+        "text": "{Terang bulan terang di kali\r\nbuaya timbul disangka mati;\r\nHidup di dunia hanya sekali\r\nmaka janjimu tetap kunanti}\r\n{Terang bulan terang di kali\r\nbuaya timbul disangka mati;\r\nSelama di dunia ingin sekali\r\nengkau beraja di dalam hati}\r\n{Buaya timbul disangka mati\r\nhanyut ke hilir sampai muara;\r\nEngkau beraja di dalam hati\r\nimanku kukuh waswas pun musna}\r\n{Hanyut ke hilir sampai muara\r\nbuaya memakan segala bangkai;\r\nkalau iman kukuh sentausa\r\nku tak takut diterjang badai}",
+        "strof": [
+            {
+                "strof": "Terang bulan terang di kali\r\nbuaya timbul disangka mati;\r\nHidup di dunia hanya sekali\r\nmaka janjimu tetap kunanti",
+                "lines": [
+                    {
+                        "line": "Terang bulan terang di kali",
+                        "words": [
+                            {
+                                "wf": "Terang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "terang",
+                                    "pos": "a",
+                                    "form": "terang"
+                                }
+                            },
+                            {
+                                "wf": "bulan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bulan",
+                                    "pos": "n",
+                                    "form": "bulan"
+                                }
+                            },
+                            {
+                                "wf": "terang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "terang",
+                                    "pos": "a",
+                                    "form": "terang"
+                                }
+                            },
+                            {
+                                "wf": "di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "kali",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kali",
+                                    "pos": "v",
+                                    "form": "kali"
+                                }
+                            }
+                        ],
+                        "syllables": 9
+                    },
+                    {
+                        "line": "buaya timbul disangka mati;",
+                        "words": [
+                            {
+                                "wf": "buaya",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "buaya",
+                                    "pos": "n",
+                                    "form": "buaya"
+                                }
+                            },
+                            {
+                                "wf": "timbul",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "timbul",
+                                    "pos": "v",
+                                    "form": "timbul"
+                                }
+                            },
+                            {
+                                "wf": "disangka",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sangka",
+                                    "pos": "v|n",
+                                    "form": "di-sangka"
+                                }
+                            },
+                            {
+                                "wf": "mati",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "mati",
+                                    "pos": "v",
+                                    "form": "mati"
+                                }
+                            },
+                            {
+                                "wf": ";",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "Hidup di dunia hanya sekali",
+                        "words": [
+                            {
+                                "wf": "Hidup",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hidup",
+                                    "pos": "v",
+                                    "form": "hidup"
+                                }
+                            },
+                            {
+                                "wf": "di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "dunia",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dunia",
+                                    "pos": "n",
+                                    "form": "dunia"
+                                }
+                            },
+                            {
+                                "wf": "hanya",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hanya",
+                                    "pos": "adv",
+                                    "form": "hanya"
+                                }
+                            },
+                            {
+                                "wf": "sekali",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kali",
+                                    "pos": "adv|num|n",
+                                    "form": "se-kali"
+                                }
+                            }
+                        ],
+                        "syllables": 11
+                    },
+                    {
+                        "line": "maka janjimu tetap kunanti",
+                        "words": [
+                            {
+                                "wf": "maka",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "maka",
+                                    "pos": "p",
+                                    "form": "maka"
+                                }
+                            },
+                            {
+                                "wf": "janjimu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "janji",
+                                    "pos": "n",
+                                    "form": "janji-mu"
+                                }
+                            },
+                            {
+                                "wf": "tetap",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tetap",
+                                    "pos": "v|a|adv",
+                                    "form": "tetap"
+                                }
+                            },
+                            {
+                                "wf": "kunanti",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "nanti",
+                                    "pos": "n|adv",
+                                    "form": "ku-nanti"
+                                }
+                            }
+                        ],
+                        "syllables": 10
+                    }
+                ],
+                "num_lines": 4
+            },
+            {
+                "strof": "\r\n",
+                "lines": [
+                    {
+                        "line": "",
+                        "words": [],
+                        "syllables": 0
+                    }
+                ],
+                "num_lines": 1
+            },
+            {
+                "strof": "Terang bulan terang di kali\r\nbuaya timbul disangka mati;\r\nSelama di dunia ingin sekali\r\nengkau beraja di dalam hati",
+                "lines": [
+                    {
+                        "line": "Terang bulan terang di kali",
+                        "words": [
+                            {
+                                "wf": "Terang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "terang",
+                                    "pos": "a",
+                                    "form": "terang"
+                                }
+                            },
+                            {
+                                "wf": "bulan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bulan",
+                                    "pos": "n",
+                                    "form": "bulan"
+                                }
+                            },
+                            {
+                                "wf": "terang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "terang",
+                                    "pos": "a",
+                                    "form": "terang"
+                                }
+                            },
+                            {
+                                "wf": "di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "kali",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kali",
+                                    "pos": "v",
+                                    "form": "kali"
+                                }
+                            }
+                        ],
+                        "syllables": 9
+                    },
+                    {
+                        "line": "buaya timbul disangka mati;",
+                        "words": [
+                            {
+                                "wf": "buaya",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "buaya",
+                                    "pos": "n",
+                                    "form": "buaya"
+                                }
+                            },
+                            {
+                                "wf": "timbul",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "timbul",
+                                    "pos": "v",
+                                    "form": "timbul"
+                                }
+                            },
+                            {
+                                "wf": "disangka",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sangka",
+                                    "pos": "v|n",
+                                    "form": "di-sangka"
+                                }
+                            },
+                            {
+                                "wf": "mati",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "mati",
+                                    "pos": "v",
+                                    "form": "mati"
+                                }
+                            },
+                            {
+                                "wf": ";",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "Selama di dunia ingin sekali",
+                        "words": [
+                            {
+                                "wf": "Selama",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lama",
+                                    "pos": "n",
+                                    "form": "se-lama"
+                                }
+                            },
+                            {
+                                "wf": "di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "dunia",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dunia",
+                                    "pos": "n",
+                                    "form": "dunia"
+                                }
+                            },
+                            {
+                                "wf": "ingin",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ingin",
+                                    "pos": "adv",
+                                    "form": "ingin"
+                                }
+                            },
+                            {
+                                "wf": "sekali",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kali",
+                                    "pos": "adv|num|n",
+                                    "form": "se-kali"
+                                }
+                            }
+                        ],
+                        "syllables": 12
+                    },
+                    {
+                        "line": "engkau beraja di dalam hati",
+                        "words": [
+                            {
+                                "wf": "engkau",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "engkau",
+                                    "pos": "pron",
+                                    "form": "engkau"
+                                }
+                            },
+                            {
+                                "wf": "beraja",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "raja",
+                                    "pos": "v",
+                                    "form": "ber-raja"
+                                }
+                            },
+                            {
+                                "wf": "di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "dalam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dalam",
+                                    "pos": "a|n",
+                                    "form": "dalam"
+                                }
+                            },
+                            {
+                                "wf": "hati",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hati",
+                                    "pos": "n",
+                                    "form": "hati"
+                                }
+                            }
+                        ],
+                        "syllables": 10
+                    }
+                ],
+                "num_lines": 4
+            },
+            {
+                "strof": "\r\n",
+                "lines": [
+                    {
+                        "line": "",
+                        "words": [],
+                        "syllables": 0
+                    }
+                ],
+                "num_lines": 1
+            },
+            {
+                "strof": "Buaya timbul disangka mati\r\nhanyut ke hilir sampai muara;\r\nEngkau beraja di dalam hati\r\nimanku kukuh waswas pun musna",
+                "lines": [
+                    {
+                        "line": "Buaya timbul disangka mati",
+                        "words": [
+                            {
+                                "wf": "Buaya",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "buaya",
+                                    "pos": "n",
+                                    "form": "buaya"
+                                }
+                            },
+                            {
+                                "wf": "timbul",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "timbul",
+                                    "pos": "v",
+                                    "form": "timbul"
+                                }
+                            },
+                            {
+                                "wf": "disangka",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sangka",
+                                    "pos": "v|n",
+                                    "form": "di-sangka"
+                                }
+                            },
+                            {
+                                "wf": "mati",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "mati",
+                                    "pos": "v",
+                                    "form": "mati"
+                                }
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "hanyut ke hilir sampai muara;",
+                        "words": [
+                            {
+                                "wf": "hanyut",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hanyut",
+                                    "pos": "v",
+                                    "form": "hanyut"
+                                }
+                            },
+                            {
+                                "wf": "ke",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ke",
+                                    "pos": "p",
+                                    "form": "ke"
+                                }
+                            },
+                            {
+                                "wf": "hilir",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hilir",
+                                    "pos": "n",
+                                    "form": "hilir"
+                                }
+                            },
+                            {
+                                "wf": "sampai",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sampai",
+                                    "pos": "v",
+                                    "form": "sampai"
+                                }
+                            },
+                            {
+                                "wf": "muara",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "muara",
+                                    "pos": "n",
+                                    "form": "muara"
+                                }
+                            },
+                            {
+                                "wf": ";",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "Engkau beraja di dalam hati",
+                        "words": [
+                            {
+                                "wf": "Engkau",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "engkau",
+                                    "pos": "pron",
+                                    "form": "engkau"
+                                }
+                            },
+                            {
+                                "wf": "beraja",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "raja",
+                                    "pos": "v",
+                                    "form": "ber-raja"
+                                }
+                            },
+                            {
+                                "wf": "di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "dalam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dalam",
+                                    "pos": "a|n",
+                                    "form": "dalam"
+                                }
+                            },
+                            {
+                                "wf": "hati",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hati",
+                                    "pos": "n",
+                                    "form": "hati"
+                                }
+                            }
+                        ],
+                        "syllables": 9
+                    },
+                    {
+                        "line": "imanku kukuh waswas pun musna",
+                        "words": [
+                            {
+                                "wf": "imanku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "iman",
+                                    "pos": "v",
+                                    "form": "iman-ku"
+                                }
+                            },
+                            {
+                                "wf": "kukuh",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kukuh",
+                                    "pos": "a",
+                                    "form": "kukuh"
+                                }
+                            },
+                            {
+                                "wf": "waswas",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "waswas",
+                                    "pos": "a",
+                                    "form": "waswas"
+                                }
+                            },
+                            {
+                                "wf": "pun",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pun",
+                                    "pos": "p",
+                                    "form": "pun"
+                                }
+                            },
+                            {
+                                "wf": "musna",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "musna",
+                                    "pos": "?",
+                                    "form": "musna"
+                                }
+                            }
+                        ],
+                        "syllables": 10
+                    }
+                ],
+                "num_lines": 4
+            },
+            {
+                "strof": "\r\n",
+                "lines": [
+                    {
+                        "line": "",
+                        "words": [],
+                        "syllables": 0
+                    }
+                ],
+                "num_lines": 1
+            },
+            {
+                "strof": "Hanyut ke hilir sampai muara\r\nbuaya memakan segala bangkai;\r\nkalau iman kukuh sentausa\r\nku tak takut diterjang badai",
+                "lines": [
+                    {
+                        "line": "Hanyut ke hilir sampai muara",
+                        "words": [
+                            {
+                                "wf": "Hanyut",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hanyut",
+                                    "pos": "v",
+                                    "form": "hanyut"
+                                }
+                            },
+                            {
+                                "wf": "ke",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ke",
+                                    "pos": "p",
+                                    "form": "ke"
+                                }
+                            },
+                            {
+                                "wf": "hilir",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hilir",
+                                    "pos": "n",
+                                    "form": "hilir"
+                                }
+                            },
+                            {
+                                "wf": "sampai",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sampai",
+                                    "pos": "v",
+                                    "form": "sampai"
+                                }
+                            },
+                            {
+                                "wf": "muara",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "muara",
+                                    "pos": "n",
+                                    "form": "muara"
+                                }
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "buaya memakan segala bangkai;",
+                        "words": [
+                            {
+                                "wf": "buaya",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "buaya",
+                                    "pos": "n",
+                                    "form": "buaya"
+                                }
+                            },
+                            {
+                                "wf": "memakan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "memakan",
+                                    "pos": "v",
+                                    "form": "memakan"
+                                }
+                            },
+                            {
+                                "wf": "segala",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "segala",
+                                    "pos": "num",
+                                    "form": "segala"
+                                }
+                            },
+                            {
+                                "wf": "bangkai",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bangkai",
+                                    "pos": "n",
+                                    "form": "bangkai"
+                                }
+                            },
+                            {
+                                "wf": ";",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 11
+                    },
+                    {
+                        "line": "kalau iman kukuh sentausa",
+                        "words": [
+                            {
+                                "wf": "kalau",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kalau",
+                                    "pos": "p",
+                                    "form": "kalau"
+                                }
+                            },
+                            {
+                                "wf": "iman",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "iman",
+                                    "pos": "v",
+                                    "form": "iman"
+                                }
+                            },
+                            {
+                                "wf": "kukuh",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kukuh",
+                                    "pos": "a",
+                                    "form": "kukuh"
+                                }
+                            },
+                            {
+                                "wf": "sentausa",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sentausa",
+                                    "pos": "?",
+                                    "form": "sentausa"
+                                }
+                            }
+                        ],
+                        "syllables": 9
+                    },
+                    {
+                        "line": "ku tak takut diterjang badai",
+                        "words": [
+                            {
+                                "wf": "ku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ku",
+                                    "pos": "v",
+                                    "form": "ku"
+                                }
+                            },
+                            {
+                                "wf": "tak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tak",
+                                    "pos": "adv",
+                                    "form": "tak"
+                                }
+                            },
+                            {
+                                "wf": "takut",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "takut",
+                                    "pos": "a",
+                                    "form": "takut"
+                                }
+                            },
+                            {
+                                "wf": "diterjang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "terjang",
+                                    "pos": "v",
+                                    "form": "di-terjang"
+                                }
+                            },
+                            {
+                                "wf": "badai",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "badai",
+                                    "pos": "n",
+                                    "form": "badai"
+                                }
+                            }
+                        ],
+                        "syllables": 9
+                    }
+                ],
+                "num_lines": 4
+            }
+        ]
+    }
+}

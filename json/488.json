@@ -1,0 +1,352 @@
+{
+    "meta": {
+        "file_name": "488.json",
+        "id_bd": 488,
+        "author": "Sapardi Djoko Damono",
+        "title": "Cermin, 1",
+        "genre": "стихотворение",
+        "year": "---",
+        "num_lines": 5,
+        "rhyme": "Есть",
+        "syllables": [
+            9,
+            16,
+            14,
+            13,
+            14
+        ],
+        "strofy": [
+            5
+        ]
+    },
+    "poem": {
+        "text": "{cermin tak pernah berteriak;\r\nia pun tak pernah meraung, tersedan, atau terhisak,\r\nmeski apa pun jadi terbalik di dalamnya;\r\nbarangkali ia hanya bisa bertanya:\r\nmengapa kau seperti kehabisan suara?}",
+        "strof": [
+            {
+                "strof": "cermin tak pernah berteriak;\r\nia pun tak pernah meraung, tersedan, atau terhisak,\r\nmeski apa pun jadi terbalik di dalamnya;\r\nbarangkali ia hanya bisa bertanya:\r\nmengapa kau seperti kehabisan suara?",
+                "lines": [
+                    {
+                        "line": "cermin tak pernah berteriak;",
+                        "words": [
+                            {
+                                "wf": "cermin",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "cermin",
+                                    "pos": "n",
+                                    "form": "cermin"
+                                }
+                            },
+                            {
+                                "wf": "tak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tak",
+                                    "pos": "adv",
+                                    "form": "tak"
+                                }
+                            },
+                            {
+                                "wf": "pernah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pernah",
+                                    "pos": "adv",
+                                    "form": "pernah"
+                                }
+                            },
+                            {
+                                "wf": "berteriak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "teriak",
+                                    "pos": "v",
+                                    "form": "ber-teriak"
+                                }
+                            },
+                            {
+                                "wf": ";",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 9
+                    },
+                    {
+                        "line": "ia pun tak pernah meraung, tersedan, atau terhisak,",
+                        "words": [
+                            {
+                                "wf": "ia",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ia",
+                                    "pos": "n",
+                                    "form": "ia"
+                                }
+                            },
+                            {
+                                "wf": "pun",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pun",
+                                    "pos": "p",
+                                    "form": "pun"
+                                }
+                            },
+                            {
+                                "wf": "tak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tak",
+                                    "pos": "adv",
+                                    "form": "tak"
+                                }
+                            },
+                            {
+                                "wf": "pernah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pernah",
+                                    "pos": "adv",
+                                    "form": "pernah"
+                                }
+                            },
+                            {
+                                "wf": "meraung",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "raung",
+                                    "pos": "v",
+                                    "form": "meN-raung"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "tersedan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tersedan",
+                                    "pos": "n",
+                                    "form": "tersedan"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "atau",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "atau",
+                                    "pos": "p",
+                                    "form": "atau"
+                                }
+                            },
+                            {
+                                "wf": "terhisak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "terhisak",
+                                    "pos": "?",
+                                    "form": "terhisak"
+                                }
+                            },
+                            {
+                                "wf": ",",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 16
+                    },
+                    {
+                        "line": "meski apa pun jadi terbalik di dalamnya;",
+                        "words": [
+                            {
+                                "wf": "meski",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "meski",
+                                    "pos": "p",
+                                    "form": "meski"
+                                }
+                            },
+                            {
+                                "wf": "apa",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "apa",
+                                    "pos": "pron|p",
+                                    "form": "apa"
+                                }
+                            },
+                            {
+                                "wf": "pun",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pun",
+                                    "pos": "p",
+                                    "form": "pun"
+                                }
+                            },
+                            {
+                                "wf": "jadi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jadi",
+                                    "pos": "v",
+                                    "form": "jadi"
+                                }
+                            },
+                            {
+                                "wf": "terbalik",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "balik",
+                                    "pos": "v|a",
+                                    "form": "ter-balik"
+                                }
+                            },
+                            {
+                                "wf": "di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "dalamnya",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dalam",
+                                    "pos": "adv",
+                                    "form": "dalam-nya"
+                                }
+                            },
+                            {
+                                "wf": ";",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 14
+                    },
+                    {
+                        "line": "barangkali ia hanya bisa bertanya:",
+                        "words": [
+                            {
+                                "wf": "barangkali",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "barangkali",
+                                    "pos": "adv",
+                                    "form": "barangkali"
+                                }
+                            },
+                            {
+                                "wf": "ia",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ia",
+                                    "pos": "n",
+                                    "form": "ia"
+                                }
+                            },
+                            {
+                                "wf": "hanya",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hanya",
+                                    "pos": "adv",
+                                    "form": "hanya"
+                                }
+                            },
+                            {
+                                "wf": "bisa",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bisa",
+                                    "pos": "v",
+                                    "form": "bisa"
+                                }
+                            },
+                            {
+                                "wf": "bertanya",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tanya",
+                                    "pos": "v|a",
+                                    "form": "ber-tanya"
+                                }
+                            },
+                            {
+                                "wf": ":",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 13
+                    },
+                    {
+                        "line": "mengapa kau seperti kehabisan suara?",
+                        "words": [
+                            {
+                                "wf": "mengapa",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "apa",
+                                    "pos": "pron",
+                                    "form": "meN-apa"
+                                }
+                            },
+                            {
+                                "wf": "kau",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kau",
+                                    "pos": "pron",
+                                    "form": "kau"
+                                }
+                            },
+                            {
+                                "wf": "seperti",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "seperti",
+                                    "pos": "p",
+                                    "form": "seperti"
+                                }
+                            },
+                            {
+                                "wf": "kehabisan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kehabisan",
+                                    "pos": "v",
+                                    "form": "kehabisan"
+                                }
+                            },
+                            {
+                                "wf": "suara",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "suara",
+                                    "pos": "n",
+                                    "form": "suara"
+                                }
+                            },
+                            {
+                                "wf": "?",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 14
+                    }
+                ],
+                "num_lines": 5
+            }
+        ]
+    }
+}

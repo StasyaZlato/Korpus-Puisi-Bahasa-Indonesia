@@ -1,0 +1,999 @@
+{
+    "meta": {
+        "file_name": "534.json",
+        "id_bd": 534,
+        "author": "Sitor Situmorang",
+        "title": "Kebun binatang",
+        "genre": "стихотворение",
+        "year": "---",
+        "num_lines": 22,
+        "rhyme": "Есть",
+        "syllables": [
+            10,
+            10,
+            9,
+            11,
+            7,
+            6,
+            10,
+            7,
+            6,
+            10,
+            10,
+            7,
+            9,
+            11,
+            6,
+            10,
+            5,
+            7,
+            10,
+            7,
+            9,
+            11
+        ],
+        "strofy": [
+            4,
+            1,
+            3,
+            1,
+            3,
+            1,
+            4,
+            1,
+            4,
+            1,
+            4
+        ]
+    },
+    "poem": {
+        "text": "{Kembang, boneka dan kehidupan\r\nKembang, boneka dan kerinduan\r\nSi adik ini ingin teman\r\nSi anak ini punya ketakutan}\r\n{Hari-hari kemarin\r\nPunya keinginan\r\nBerumah ufuk, ombak menggulung}\r\n{Hari-hari kandungan\r\nTolak keisengan\r\nRamai-ramai di kebun binatang}\r\n{Kembang, boneka dan kehidupan\r\nKembang dan kerinduan\r\nSi adik ini ingin teman\r\nBoneka ini punya kesayuan}\r\n{Hari-hari datang\r\nHari kembang di kebun binatang\r\nHari bersenang\r\nPecah dalam balonan}\r\n{Kembang, boneka dan kehidupan\r\nKembang dan kerinduan\r\nSi adik ini ingin teman\r\nBoneka ini punya kesayuan}",
+        "strof": [
+            {
+                "strof": "Kembang, boneka dan kehidupan\r\nKembang, boneka dan kerinduan\r\nSi adik ini ingin teman\r\nSi anak ini punya ketakutan",
+                "lines": [
+                    {
+                        "line": "Kembang, boneka dan kehidupan",
+                        "words": [
+                            {
+                                "wf": "Kembang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kembang",
+                                    "pos": "v",
+                                    "form": "kembang"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "boneka",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "boneka",
+                                    "pos": "",
+                                    "form": "boneka"
+                                }
+                            },
+                            {
+                                "wf": "dan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dan",
+                                    "pos": "p",
+                                    "form": "dan"
+                                }
+                            },
+                            {
+                                "wf": "kehidupan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hidup",
+                                    "pos": "n",
+                                    "form": "ke-hidup-an"
+                                }
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "Kembang, boneka dan kerinduan",
+                        "words": [
+                            {
+                                "wf": "Kembang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kembang",
+                                    "pos": "v",
+                                    "form": "kembang"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "boneka",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "boneka",
+                                    "pos": "",
+                                    "form": "boneka"
+                                }
+                            },
+                            {
+                                "wf": "dan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dan",
+                                    "pos": "p",
+                                    "form": "dan"
+                                }
+                            },
+                            {
+                                "wf": "kerinduan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "rindu",
+                                    "pos": "n",
+                                    "form": "ke-rindu-an"
+                                }
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "Si adik ini ingin teman",
+                        "words": [
+                            {
+                                "wf": "Si",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "Si",
+                                    "pos": "v",
+                                    "form": "Si"
+                                }
+                            },
+                            {
+                                "wf": "adik",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "adik",
+                                    "pos": "n",
+                                    "form": "adik"
+                                }
+                            },
+                            {
+                                "wf": "ini",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ini",
+                                    "pos": "pron",
+                                    "form": "ini"
+                                }
+                            },
+                            {
+                                "wf": "ingin",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ingin",
+                                    "pos": "adv",
+                                    "form": "ingin"
+                                }
+                            },
+                            {
+                                "wf": "teman",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "teman",
+                                    "pos": "n",
+                                    "form": "teman"
+                                }
+                            }
+                        ],
+                        "syllables": 9
+                    },
+                    {
+                        "line": "Si anak ini punya ketakutan",
+                        "words": [
+                            {
+                                "wf": "Si",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "Si",
+                                    "pos": "v",
+                                    "form": "Si"
+                                }
+                            },
+                            {
+                                "wf": "anak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "anak",
+                                    "pos": "n",
+                                    "form": "anak"
+                                }
+                            },
+                            {
+                                "wf": "ini",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ini",
+                                    "pos": "pron",
+                                    "form": "ini"
+                                }
+                            },
+                            {
+                                "wf": "punya",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "punya",
+                                    "pos": "v|n",
+                                    "form": "punya"
+                                }
+                            },
+                            {
+                                "wf": "ketakutan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "takut",
+                                    "pos": "n|a",
+                                    "form": "ke-takut-an"
+                                }
+                            }
+                        ],
+                        "syllables": 11
+                    }
+                ],
+                "num_lines": 4
+            },
+            {
+                "strof": "\r\n",
+                "lines": [
+                    {
+                        "line": "",
+                        "words": [],
+                        "syllables": 0
+                    }
+                ],
+                "num_lines": 1
+            },
+            {
+                "strof": "Hari-hari kemarin\r\nPunya keinginan\r\nBerumah ufuk, ombak menggulung",
+                "lines": [
+                    {
+                        "line": "Hari-hari kemarin",
+                        "words": [
+                            {
+                                "wf": "Hari-hari",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hari-hari",
+                                    "pos": "num",
+                                    "form": "hari-hari"
+                                }
+                            },
+                            {
+                                "wf": "kemarin",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kemarin",
+                                    "pos": "n",
+                                    "form": "kemarin"
+                                }
+                            }
+                        ],
+                        "syllables": 7
+                    },
+                    {
+                        "line": "Punya keinginan",
+                        "words": [
+                            {
+                                "wf": "Punya",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "punya",
+                                    "pos": "v|n",
+                                    "form": "punya"
+                                }
+                            },
+                            {
+                                "wf": "keinginan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ingin",
+                                    "pos": "n",
+                                    "form": "ke-ingin-an"
+                                }
+                            }
+                        ],
+                        "syllables": 6
+                    },
+                    {
+                        "line": "Berumah ufuk, ombak menggulung",
+                        "words": [
+                            {
+                                "wf": "Berumah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "rumah",
+                                    "pos": "v",
+                                    "form": "ber-rumah"
+                                }
+                            },
+                            {
+                                "wf": "ufuk",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ufuk",
+                                    "pos": "n",
+                                    "form": "ufuk"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "ombak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ombak",
+                                    "pos": "n",
+                                    "form": "ombak"
+                                }
+                            },
+                            {
+                                "wf": "menggulung",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "gulung",
+                                    "pos": "v",
+                                    "form": "meN-gulung"
+                                }
+                            }
+                        ],
+                        "syllables": 10
+                    }
+                ],
+                "num_lines": 3
+            },
+            {
+                "strof": "\r\n",
+                "lines": [
+                    {
+                        "line": "",
+                        "words": [],
+                        "syllables": 0
+                    }
+                ],
+                "num_lines": 1
+            },
+            {
+                "strof": "Hari-hari kandungan\r\nTolak keisengan\r\nRamai-ramai di kebun binatang",
+                "lines": [
+                    {
+                        "line": "Hari-hari kandungan",
+                        "words": [
+                            {
+                                "wf": "Hari-hari",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hari-hari",
+                                    "pos": "num",
+                                    "form": "hari-hari"
+                                }
+                            },
+                            {
+                                "wf": "kandungan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kandung",
+                                    "pos": "n",
+                                    "form": "kandung-an"
+                                }
+                            }
+                        ],
+                        "syllables": 7
+                    },
+                    {
+                        "line": "Tolak keisengan",
+                        "words": [
+                            {
+                                "wf": "Tolak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tolak",
+                                    "pos": "v",
+                                    "form": "tolak"
+                                }
+                            },
+                            {
+                                "wf": "keisengan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "keisengan",
+                                    "pos": "?",
+                                    "form": "keisengan"
+                                }
+                            }
+                        ],
+                        "syllables": 6
+                    },
+                    {
+                        "line": "Ramai-ramai di kebun binatang",
+                        "words": [
+                            {
+                                "wf": "Ramai-ramai",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ramai",
+                                    "pos": "v",
+                                    "form": "ramai-ramai"
+                                }
+                            },
+                            {
+                                "wf": "di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "kebun",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kebun",
+                                    "pos": "n",
+                                    "form": "kebun"
+                                }
+                            },
+                            {
+                                "wf": "binatang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "piaraan",
+                                    "pos": "n",
+                                    "form": "binatang"
+                                }
+                            }
+                        ],
+                        "syllables": 10
+                    }
+                ],
+                "num_lines": 3
+            },
+            {
+                "strof": "\r\n",
+                "lines": [
+                    {
+                        "line": "",
+                        "words": [],
+                        "syllables": 0
+                    }
+                ],
+                "num_lines": 1
+            },
+            {
+                "strof": "Kembang, boneka dan kehidupan\r\nKembang dan kerinduan\r\nSi adik ini ingin teman\r\nBoneka ini punya kesayuan",
+                "lines": [
+                    {
+                        "line": "Kembang, boneka dan kehidupan",
+                        "words": [
+                            {
+                                "wf": "Kembang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kembang",
+                                    "pos": "v",
+                                    "form": "kembang"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "boneka",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "boneka",
+                                    "pos": "",
+                                    "form": "boneka"
+                                }
+                            },
+                            {
+                                "wf": "dan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dan",
+                                    "pos": "p",
+                                    "form": "dan"
+                                }
+                            },
+                            {
+                                "wf": "kehidupan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hidup",
+                                    "pos": "n",
+                                    "form": "ke-hidup-an"
+                                }
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "Kembang dan kerinduan",
+                        "words": [
+                            {
+                                "wf": "Kembang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kembang",
+                                    "pos": "v",
+                                    "form": "kembang"
+                                }
+                            },
+                            {
+                                "wf": "dan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dan",
+                                    "pos": "p",
+                                    "form": "dan"
+                                }
+                            },
+                            {
+                                "wf": "kerinduan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "rindu",
+                                    "pos": "n",
+                                    "form": "ke-rindu-an"
+                                }
+                            }
+                        ],
+                        "syllables": 7
+                    },
+                    {
+                        "line": "Si adik ini ingin teman",
+                        "words": [
+                            {
+                                "wf": "Si",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "Si",
+                                    "pos": "v",
+                                    "form": "Si"
+                                }
+                            },
+                            {
+                                "wf": "adik",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "adik",
+                                    "pos": "n",
+                                    "form": "adik"
+                                }
+                            },
+                            {
+                                "wf": "ini",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ini",
+                                    "pos": "pron",
+                                    "form": "ini"
+                                }
+                            },
+                            {
+                                "wf": "ingin",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ingin",
+                                    "pos": "adv",
+                                    "form": "ingin"
+                                }
+                            },
+                            {
+                                "wf": "teman",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "teman",
+                                    "pos": "n",
+                                    "form": "teman"
+                                }
+                            }
+                        ],
+                        "syllables": 9
+                    },
+                    {
+                        "line": "Boneka ini punya kesayuan",
+                        "words": [
+                            {
+                                "wf": "Boneka",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "boneka",
+                                    "pos": "",
+                                    "form": "boneka"
+                                }
+                            },
+                            {
+                                "wf": "ini",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ini",
+                                    "pos": "pron",
+                                    "form": "ini"
+                                }
+                            },
+                            {
+                                "wf": "punya",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "punya",
+                                    "pos": "v|n",
+                                    "form": "punya"
+                                }
+                            },
+                            {
+                                "wf": "kesayuan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sayu",
+                                    "pos": "n",
+                                    "form": "ke-sayu-an"
+                                }
+                            }
+                        ],
+                        "syllables": 11
+                    }
+                ],
+                "num_lines": 4
+            },
+            {
+                "strof": "\r\n",
+                "lines": [
+                    {
+                        "line": "",
+                        "words": [],
+                        "syllables": 0
+                    }
+                ],
+                "num_lines": 1
+            },
+            {
+                "strof": "Hari-hari datang\r\nHari kembang di kebun binatang\r\nHari bersenang\r\nPecah dalam balonan",
+                "lines": [
+                    {
+                        "line": "Hari-hari datang",
+                        "words": [
+                            {
+                                "wf": "Hari-hari",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hari-hari",
+                                    "pos": "num",
+                                    "form": "hari-hari"
+                                }
+                            },
+                            {
+                                "wf": "datang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "datang",
+                                    "pos": "v|n",
+                                    "form": "datang"
+                                }
+                            }
+                        ],
+                        "syllables": 6
+                    },
+                    {
+                        "line": "Hari kembang di kebun binatang",
+                        "words": [
+                            {
+                                "wf": "Hari",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hari",
+                                    "pos": "n",
+                                    "form": "hari"
+                                }
+                            },
+                            {
+                                "wf": "kembang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kembang",
+                                    "pos": "v",
+                                    "form": "kembang"
+                                }
+                            },
+                            {
+                                "wf": "di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "kebun",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kebun",
+                                    "pos": "n",
+                                    "form": "kebun"
+                                }
+                            },
+                            {
+                                "wf": "binatang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "piaraan",
+                                    "pos": "n",
+                                    "form": "binatang"
+                                }
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "Hari bersenang",
+                        "words": [
+                            {
+                                "wf": "Hari",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hari",
+                                    "pos": "n",
+                                    "form": "hari"
+                                }
+                            },
+                            {
+                                "wf": "bersenang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "senang",
+                                    "pos": "v",
+                                    "form": "ber-senang"
+                                }
+                            }
+                        ],
+                        "syllables": 5
+                    },
+                    {
+                        "line": "Pecah dalam balonan",
+                        "words": [
+                            {
+                                "wf": "Pecah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pecah",
+                                    "pos": "v",
+                                    "form": "pecah"
+                                }
+                            },
+                            {
+                                "wf": "dalam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dalam",
+                                    "pos": "a|n",
+                                    "form": "dalam"
+                                }
+                            },
+                            {
+                                "wf": "balonan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "balonan",
+                                    "pos": "n",
+                                    "form": "balonan"
+                                }
+                            }
+                        ],
+                        "syllables": 7
+                    }
+                ],
+                "num_lines": 4
+            },
+            {
+                "strof": "\r\n",
+                "lines": [
+                    {
+                        "line": "",
+                        "words": [],
+                        "syllables": 0
+                    }
+                ],
+                "num_lines": 1
+            },
+            {
+                "strof": "Kembang, boneka dan kehidupan\r\nKembang dan kerinduan\r\nSi adik ini ingin teman\r\nBoneka ini punya kesayuan",
+                "lines": [
+                    {
+                        "line": "Kembang, boneka dan kehidupan",
+                        "words": [
+                            {
+                                "wf": "Kembang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kembang",
+                                    "pos": "v",
+                                    "form": "kembang"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "boneka",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "boneka",
+                                    "pos": "",
+                                    "form": "boneka"
+                                }
+                            },
+                            {
+                                "wf": "dan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dan",
+                                    "pos": "p",
+                                    "form": "dan"
+                                }
+                            },
+                            {
+                                "wf": "kehidupan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hidup",
+                                    "pos": "n",
+                                    "form": "ke-hidup-an"
+                                }
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "Kembang dan kerinduan",
+                        "words": [
+                            {
+                                "wf": "Kembang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kembang",
+                                    "pos": "v",
+                                    "form": "kembang"
+                                }
+                            },
+                            {
+                                "wf": "dan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dan",
+                                    "pos": "p",
+                                    "form": "dan"
+                                }
+                            },
+                            {
+                                "wf": "kerinduan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "rindu",
+                                    "pos": "n",
+                                    "form": "ke-rindu-an"
+                                }
+                            }
+                        ],
+                        "syllables": 7
+                    },
+                    {
+                        "line": "Si adik ini ingin teman",
+                        "words": [
+                            {
+                                "wf": "Si",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "Si",
+                                    "pos": "v",
+                                    "form": "Si"
+                                }
+                            },
+                            {
+                                "wf": "adik",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "adik",
+                                    "pos": "n",
+                                    "form": "adik"
+                                }
+                            },
+                            {
+                                "wf": "ini",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ini",
+                                    "pos": "pron",
+                                    "form": "ini"
+                                }
+                            },
+                            {
+                                "wf": "ingin",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ingin",
+                                    "pos": "adv",
+                                    "form": "ingin"
+                                }
+                            },
+                            {
+                                "wf": "teman",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "teman",
+                                    "pos": "n",
+                                    "form": "teman"
+                                }
+                            }
+                        ],
+                        "syllables": 9
+                    },
+                    {
+                        "line": "Boneka ini punya kesayuan",
+                        "words": [
+                            {
+                                "wf": "Boneka",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "boneka",
+                                    "pos": "",
+                                    "form": "boneka"
+                                }
+                            },
+                            {
+                                "wf": "ini",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ini",
+                                    "pos": "pron",
+                                    "form": "ini"
+                                }
+                            },
+                            {
+                                "wf": "punya",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "punya",
+                                    "pos": "v|n",
+                                    "form": "punya"
+                                }
+                            },
+                            {
+                                "wf": "kesayuan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sayu",
+                                    "pos": "n",
+                                    "form": "ke-sayu-an"
+                                }
+                            }
+                        ],
+                        "syllables": 11
+                    }
+                ],
+                "num_lines": 4
+            }
+        ]
+    }
+}

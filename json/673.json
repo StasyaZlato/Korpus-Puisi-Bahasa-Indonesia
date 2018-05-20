@@ -1,0 +1,1942 @@
+{
+    "meta": {
+        "file_name": "673.json",
+        "id_bd": 673,
+        "author": "W.S. Rendra",
+        "title": "Sajak doa orang lapar",
+        "genre": "религиозная поэзия: молитва",
+        "year": "---",
+        "num_lines": 44,
+        "rhyme": "Есть",
+        "syllables": [
+            11,
+            6,
+            9,
+            7,
+            1,
+            8,
+            12,
+            7,
+            12,
+            7,
+            10,
+            15,
+            13,
+            9,
+            10,
+            12,
+            17,
+            13,
+            12,
+            7,
+            9,
+            19,
+            1,
+            13,
+            10,
+            9,
+            1,
+            5,
+            10,
+            7,
+            7,
+            8,
+            7,
+            8,
+            11,
+            1,
+            13,
+            12,
+            1,
+            11,
+            7,
+            7,
+            6,
+            4
+        ],
+        "strofy": [
+            4,
+            1,
+            8,
+            1,
+            4,
+            1,
+            6,
+            1,
+            4,
+            1,
+            9,
+            1,
+            3,
+            1,
+            6
+        ]
+    },
+    "poem": {
+        "text": "{Kelaparan adalah burung gagak\r\nyang licik dan hitam\r\njutaan burung-burung gagak\r\nbagai awan yang hitam}\r\n{Allah !\r\nburung gagak menakutkan\r\ndan kelaparan adalah burung gagak\r\nselalu menakutkan\r\nkelaparan adalah pemberontakan\r\nadalah penggerak gaib\r\ndari pisau-pisau pembunuhan\r\nyang diayunkan oleh tangan-tangan orang miskin}\r\n{Kelaparan adalah batu-batu karang\r\ndi bawah wajah laut yang tidur\r\nadalah mata air penipuan\r\nadalah pengkhianatan kehormatan}\r\n{Seorang pemuda yang gagah akan menangis tersedu\r\nmelihat bagaimana tangannya sendiri\r\nmeletakkan kehormatannya di tanah\r\nkarena kelaparan\r\nkelaparan adalah iblis\r\nkelaparan adalah iblis yang menawarkan kediktatoran}\r\n{Allah !\r\nkelaparan adalah tangan-tangan hitam\r\nyang memasukkan segenggam tawas\r\nke dalam perut para miskin}\r\n{Allah !\r\nkami berlutut\r\nmata kami adalah mata Mu\r\nini juga mulut Mu\r\nini juga hati Mu\r\ndan ini juga perut Mu\r\nperut Mu lapar, ya Allah\r\nperut Mu menggenggam tawas\r\ndan pecahan-pecahan gelas kaca}\r\n{Allah !\r\nbetapa indahnya sepiring nasi panas\r\nsemangkuk sop dan segelas kopi hitam}\r\n{Allah !\r\nkelaparan adalah burung gagak\r\njutaan burung gagak\r\nbagai awan yang hitam\r\nmenghalang pandangku\r\nke sorga Mu}}",
+        "strof": [
+            {
+                "strof": "Kelaparan adalah burung gagak\r\nyang licik dan hitam\r\njutaan burung-burung gagak\r\nbagai awan yang hitam",
+                "lines": [
+                    {
+                        "line": "Kelaparan adalah burung gagak",
+                        "words": [
+                            {
+                                "wf": "Kelaparan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lapar",
+                                    "pos": "n|v",
+                                    "form": "ke-lapar-an"
+                                }
+                            },
+                            {
+                                "wf": "adalah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "adalah",
+                                    "pos": "v",
+                                    "form": "adalah"
+                                }
+                            },
+                            {
+                                "wf": "burung",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "burung",
+                                    "pos": "n",
+                                    "form": "burung"
+                                }
+                            },
+                            {
+                                "wf": "gagak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "gagak",
+                                    "pos": "n",
+                                    "form": "gagak"
+                                }
+                            }
+                        ],
+                        "syllables": 11
+                    },
+                    {
+                        "line": "yang licik dan hitam",
+                        "words": [
+                            {
+                                "wf": "yang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "yang",
+                                    "pos": "a|v|n",
+                                    "form": "yang"
+                                }
+                            },
+                            {
+                                "wf": "licik",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "licik",
+                                    "pos": "a",
+                                    "form": "licik"
+                                }
+                            },
+                            {
+                                "wf": "dan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dan",
+                                    "pos": "p",
+                                    "form": "dan"
+                                }
+                            },
+                            {
+                                "wf": "hitam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hitam",
+                                    "pos": "n|a",
+                                    "form": "hitam"
+                                }
+                            }
+                        ],
+                        "syllables": 6
+                    },
+                    {
+                        "line": "jutaan burung-burung gagak",
+                        "words": [
+                            {
+                                "wf": "jutaan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "juta",
+                                    "pos": "num|n",
+                                    "form": "juta-an"
+                                }
+                            },
+                            {
+                                "wf": "burung-burung",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "burung",
+                                    "pos": "n",
+                                    "form": "burung-burung"
+                                }
+                            },
+                            {
+                                "wf": "gagak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "gagak",
+                                    "pos": "n",
+                                    "form": "gagak"
+                                }
+                            }
+                        ],
+                        "syllables": 9
+                    },
+                    {
+                        "line": "bagai awan yang hitam",
+                        "words": [
+                            {
+                                "wf": "bagai",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bagai",
+                                    "pos": "n|p",
+                                    "form": "bagai"
+                                }
+                            },
+                            {
+                                "wf": "awan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "awan",
+                                    "pos": "n",
+                                    "form": "awan"
+                                }
+                            },
+                            {
+                                "wf": "yang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "yang",
+                                    "pos": "a|v|n",
+                                    "form": "yang"
+                                }
+                            },
+                            {
+                                "wf": "hitam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hitam",
+                                    "pos": "n|a",
+                                    "form": "hitam"
+                                }
+                            }
+                        ],
+                        "syllables": 7
+                    }
+                ],
+                "num_lines": 4
+            },
+            {
+                "strof": "\r\n",
+                "lines": [
+                    {
+                        "line": "",
+                        "words": [],
+                        "syllables": 0
+                    }
+                ],
+                "num_lines": 1
+            },
+            {
+                "strof": "Allah !\r\nburung gagak menakutkan\r\ndan kelaparan adalah burung gagak\r\nselalu menakutkan\r\nkelaparan adalah pemberontakan\r\nadalah penggerak gaib\r\ndari pisau-pisau pembunuhan\r\nyang diayunkan oleh tangan-tangan orang miskin",
+                "lines": [
+                    {
+                        "line": "Allah !",
+                        "words": [
+                            {
+                                "wf": "Allah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "Allah",
+                                    "pos": "n",
+                                    "form": "Allah"
+                                }
+                            },
+                            {
+                                "wf": " !",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 1
+                    },
+                    {
+                        "line": "burung gagak menakutkan",
+                        "words": [
+                            {
+                                "wf": "burung",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "burung",
+                                    "pos": "n",
+                                    "form": "burung"
+                                }
+                            },
+                            {
+                                "wf": "gagak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "gagak",
+                                    "pos": "n",
+                                    "form": "gagak"
+                                }
+                            },
+                            {
+                                "wf": "menakutkan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "takut",
+                                    "pos": "v",
+                                    "form": "meN-takut-kan"
+                                }
+                            }
+                        ],
+                        "syllables": 8
+                    },
+                    {
+                        "line": "dan kelaparan adalah burung gagak",
+                        "words": [
+                            {
+                                "wf": "dan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dan",
+                                    "pos": "p",
+                                    "form": "dan"
+                                }
+                            },
+                            {
+                                "wf": "kelaparan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lapar",
+                                    "pos": "n|v",
+                                    "form": "ke-lapar-an"
+                                }
+                            },
+                            {
+                                "wf": "adalah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "adalah",
+                                    "pos": "v",
+                                    "form": "adalah"
+                                }
+                            },
+                            {
+                                "wf": "burung",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "burung",
+                                    "pos": "n",
+                                    "form": "burung"
+                                }
+                            },
+                            {
+                                "wf": "gagak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "gagak",
+                                    "pos": "n",
+                                    "form": "gagak"
+                                }
+                            }
+                        ],
+                        "syllables": 12
+                    },
+                    {
+                        "line": "selalu menakutkan",
+                        "words": [
+                            {
+                                "wf": "selalu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "selalu",
+                                    "pos": "adv",
+                                    "form": "selalu"
+                                }
+                            },
+                            {
+                                "wf": "menakutkan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "takut",
+                                    "pos": "v",
+                                    "form": "meN-takut-kan"
+                                }
+                            }
+                        ],
+                        "syllables": 7
+                    },
+                    {
+                        "line": "kelaparan adalah pemberontakan",
+                        "words": [
+                            {
+                                "wf": "kelaparan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lapar",
+                                    "pos": "n|v",
+                                    "form": "ke-lapar-an"
+                                }
+                            },
+                            {
+                                "wf": "adalah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "adalah",
+                                    "pos": "v",
+                                    "form": "adalah"
+                                }
+                            },
+                            {
+                                "wf": "pemberontakan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "berontak",
+                                    "pos": "n",
+                                    "form": "peN-berontak-an"
+                                }
+                            }
+                        ],
+                        "syllables": 12
+                    },
+                    {
+                        "line": "adalah penggerak gaib",
+                        "words": [
+                            {
+                                "wf": "adalah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "adalah",
+                                    "pos": "v",
+                                    "form": "adalah"
+                                }
+                            },
+                            {
+                                "wf": "penggerak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "gerak",
+                                    "pos": "n",
+                                    "form": "peN-gerak"
+                                }
+                            },
+                            {
+                                "wf": "gaib",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "gaib",
+                                    "pos": "v",
+                                    "form": "gaib"
+                                }
+                            }
+                        ],
+                        "syllables": 7
+                    },
+                    {
+                        "line": "dari pisau-pisau pembunuhan",
+                        "words": [
+                            {
+                                "wf": "dari",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dari",
+                                    "pos": "p",
+                                    "form": "dari"
+                                }
+                            },
+                            {
+                                "wf": "pisau-pisau",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pisau",
+                                    "pos": "n",
+                                    "form": "pisau-pisau"
+                                }
+                            },
+                            {
+                                "wf": "pembunuhan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bunuh",
+                                    "pos": "n",
+                                    "form": "peN-bunuh-an"
+                                }
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "yang diayunkan oleh tangan-tangan orang miskin",
+                        "words": [
+                            {
+                                "wf": "yang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "yang",
+                                    "pos": "a|v|n",
+                                    "form": "yang"
+                                }
+                            },
+                            {
+                                "wf": "diayunkan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "diayunkan",
+                                    "pos": "v",
+                                    "form": "diayunkan"
+                                }
+                            },
+                            {
+                                "wf": "oleh",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "oleh",
+                                    "pos": "",
+                                    "form": "oleh"
+                                }
+                            },
+                            {
+                                "wf": "tangan-tangan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tangan",
+                                    "pos": "n",
+                                    "form": "tangan-tangan"
+                                }
+                            },
+                            {
+                                "wf": "orang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "orang",
+                                    "pos": "n",
+                                    "form": "orang"
+                                }
+                            },
+                            {
+                                "wf": "miskin",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "miskin",
+                                    "pos": "a",
+                                    "form": "miskin"
+                                }
+                            }
+                        ],
+                        "syllables": 15
+                    }
+                ],
+                "num_lines": 8
+            },
+            {
+                "strof": "\r\n",
+                "lines": [
+                    {
+                        "line": "",
+                        "words": [],
+                        "syllables": 0
+                    }
+                ],
+                "num_lines": 1
+            },
+            {
+                "strof": "Kelaparan adalah batu-batu karang\r\ndi bawah wajah laut yang tidur\r\nadalah mata air penipuan\r\nadalah pengkhianatan kehormatan",
+                "lines": [
+                    {
+                        "line": "Kelaparan adalah batu-batu karang",
+                        "words": [
+                            {
+                                "wf": "Kelaparan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lapar",
+                                    "pos": "n|v",
+                                    "form": "ke-lapar-an"
+                                }
+                            },
+                            {
+                                "wf": "adalah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "adalah",
+                                    "pos": "v",
+                                    "form": "adalah"
+                                }
+                            },
+                            {
+                                "wf": "batu-batu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "batu",
+                                    "pos": "num",
+                                    "form": "batu-batu"
+                                }
+                            },
+                            {
+                                "wf": "karang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "karang",
+                                    "pos": "n",
+                                    "form": "karang"
+                                }
+                            }
+                        ],
+                        "syllables": 13
+                    },
+                    {
+                        "line": "di bawah wajah laut yang tidur",
+                        "words": [
+                            {
+                                "wf": "di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "bawah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bawah",
+                                    "pos": "n|v",
+                                    "form": "bawah"
+                                }
+                            },
+                            {
+                                "wf": "wajah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "wajah",
+                                    "pos": "n",
+                                    "form": "wajah"
+                                }
+                            },
+                            {
+                                "wf": "laut",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "laut",
+                                    "pos": "n",
+                                    "form": "laut"
+                                }
+                            },
+                            {
+                                "wf": "yang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "yang",
+                                    "pos": "a|v|n",
+                                    "form": "yang"
+                                }
+                            },
+                            {
+                                "wf": "tidur",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tidur",
+                                    "pos": "v",
+                                    "form": "tidur"
+                                }
+                            }
+                        ],
+                        "syllables": 9
+                    },
+                    {
+                        "line": "adalah mata air penipuan",
+                        "words": [
+                            {
+                                "wf": "adalah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "adalah",
+                                    "pos": "v",
+                                    "form": "adalah"
+                                }
+                            },
+                            {
+                                "wf": "mata",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "mata",
+                                    "pos": "n",
+                                    "form": "mata"
+                                }
+                            },
+                            {
+                                "wf": "air",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "air",
+                                    "pos": "n",
+                                    "form": "air"
+                                }
+                            },
+                            {
+                                "wf": "penipuan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tipu",
+                                    "pos": "n",
+                                    "form": "peN-tipu-an"
+                                }
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "adalah pengkhianatan kehormatan",
+                        "words": [
+                            {
+                                "wf": "adalah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "adalah",
+                                    "pos": "v",
+                                    "form": "adalah"
+                                }
+                            },
+                            {
+                                "wf": "pengkhianatan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "khianat",
+                                    "pos": "n",
+                                    "form": "peN-khianat-an"
+                                }
+                            },
+                            {
+                                "wf": "kehormatan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hormat",
+                                    "pos": "n",
+                                    "form": "ke-hormat-an"
+                                }
+                            }
+                        ],
+                        "syllables": 12
+                    }
+                ],
+                "num_lines": 4
+            },
+            {
+                "strof": "\r\n",
+                "lines": [
+                    {
+                        "line": "",
+                        "words": [],
+                        "syllables": 0
+                    }
+                ],
+                "num_lines": 1
+            },
+            {
+                "strof": "Seorang pemuda yang gagah akan menangis tersedu\r\nmelihat bagaimana tangannya sendiri\r\nmeletakkan kehormatannya di tanah\r\nkarena kelaparan\r\nkelaparan adalah iblis\r\nkelaparan adalah iblis yang menawarkan kediktatoran",
+                "lines": [
+                    {
+                        "line": "Seorang pemuda yang gagah akan menangis tersedu",
+                        "words": [
+                            {
+                                "wf": "Seorang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "orang",
+                                    "pos": "n",
+                                    "form": "se-orang"
+                                }
+                            },
+                            {
+                                "wf": "pemuda",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "muda",
+                                    "pos": "n",
+                                    "form": "peN-muda"
+                                }
+                            },
+                            {
+                                "wf": "yang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "yang",
+                                    "pos": "a|v|n",
+                                    "form": "yang"
+                                }
+                            },
+                            {
+                                "wf": "gagah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "gagah",
+                                    "pos": "a",
+                                    "form": "gagah"
+                                }
+                            },
+                            {
+                                "wf": "akan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "akan",
+                                    "pos": "v",
+                                    "form": "akan"
+                                }
+                            },
+                            {
+                                "wf": "menangis",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tangis",
+                                    "pos": "v",
+                                    "form": "meN-tangis"
+                                }
+                            },
+                            {
+                                "wf": "tersedu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sedu",
+                                    "pos": "n",
+                                    "form": "ter-sedu"
+                                }
+                            }
+                        ],
+                        "syllables": 17
+                    },
+                    {
+                        "line": "melihat bagaimana tangannya sendiri",
+                        "words": [
+                            {
+                                "wf": "melihat",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lihat",
+                                    "pos": "v",
+                                    "form": "meN-lihat"
+                                }
+                            },
+                            {
+                                "wf": "bagaimana",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bagaimana",
+                                    "pos": "pron",
+                                    "form": "bagaimana"
+                                }
+                            },
+                            {
+                                "wf": "tangannya",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tangan",
+                                    "pos": "v",
+                                    "form": "tangan-nya"
+                                }
+                            },
+                            {
+                                "wf": "sendiri",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sendiri",
+                                    "pos": "adv|a|n",
+                                    "form": "sendiri"
+                                }
+                            }
+                        ],
+                        "syllables": 13
+                    },
+                    {
+                        "line": "meletakkan kehormatannya di tanah",
+                        "words": [
+                            {
+                                "wf": "meletakkan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "letak",
+                                    "pos": "v",
+                                    "form": "meN-letak-kan"
+                                }
+                            },
+                            {
+                                "wf": "kehormatannya",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "keanggotaan",
+                                    "pos": "n",
+                                    "form": "kehormatannya"
+                                }
+                            },
+                            {
+                                "wf": "di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "tanah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tanah",
+                                    "pos": "n",
+                                    "form": "tanah"
+                                }
+                            }
+                        ],
+                        "syllables": 12
+                    },
+                    {
+                        "line": "karena kelaparan",
+                        "words": [
+                            {
+                                "wf": "karena",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "karena",
+                                    "pos": "p",
+                                    "form": "karena"
+                                }
+                            },
+                            {
+                                "wf": "kelaparan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lapar",
+                                    "pos": "n|v",
+                                    "form": "ke-lapar-an"
+                                }
+                            }
+                        ],
+                        "syllables": 7
+                    },
+                    {
+                        "line": "kelaparan adalah iblis",
+                        "words": [
+                            {
+                                "wf": "kelaparan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lapar",
+                                    "pos": "n|v",
+                                    "form": "ke-lapar-an"
+                                }
+                            },
+                            {
+                                "wf": "adalah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "adalah",
+                                    "pos": "v",
+                                    "form": "adalah"
+                                }
+                            },
+                            {
+                                "wf": "iblis",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "iblis",
+                                    "pos": "n",
+                                    "form": "iblis"
+                                }
+                            }
+                        ],
+                        "syllables": 9
+                    },
+                    {
+                        "line": "kelaparan adalah iblis yang menawarkan kediktatoran",
+                        "words": [
+                            {
+                                "wf": "kelaparan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lapar",
+                                    "pos": "n|v",
+                                    "form": "ke-lapar-an"
+                                }
+                            },
+                            {
+                                "wf": "adalah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "adalah",
+                                    "pos": "v",
+                                    "form": "adalah"
+                                }
+                            },
+                            {
+                                "wf": "iblis",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "iblis",
+                                    "pos": "n",
+                                    "form": "iblis"
+                                }
+                            },
+                            {
+                                "wf": "yang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "yang",
+                                    "pos": "a|v|n",
+                                    "form": "yang"
+                                }
+                            },
+                            {
+                                "wf": "menawarkan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tawar",
+                                    "pos": "v",
+                                    "form": "meN-tawar-kan"
+                                }
+                            },
+                            {
+                                "wf": "kediktatoran",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "diktator",
+                                    "pos": "n",
+                                    "form": "ke-diktator-an"
+                                }
+                            }
+                        ],
+                        "syllables": 19
+                    }
+                ],
+                "num_lines": 6
+            },
+            {
+                "strof": "\r\n",
+                "lines": [
+                    {
+                        "line": "",
+                        "words": [],
+                        "syllables": 0
+                    }
+                ],
+                "num_lines": 1
+            },
+            {
+                "strof": "Allah !\r\nkelaparan adalah tangan-tangan hitam\r\nyang memasukkan segenggam tawas\r\nke dalam perut para miskin",
+                "lines": [
+                    {
+                        "line": "Allah !",
+                        "words": [
+                            {
+                                "wf": "Allah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "Allah",
+                                    "pos": "n",
+                                    "form": "Allah"
+                                }
+                            },
+                            {
+                                "wf": " !",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 1
+                    },
+                    {
+                        "line": "kelaparan adalah tangan-tangan hitam",
+                        "words": [
+                            {
+                                "wf": "kelaparan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lapar",
+                                    "pos": "n|v",
+                                    "form": "ke-lapar-an"
+                                }
+                            },
+                            {
+                                "wf": "adalah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "adalah",
+                                    "pos": "v",
+                                    "form": "adalah"
+                                }
+                            },
+                            {
+                                "wf": "tangan-tangan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tangan",
+                                    "pos": "n",
+                                    "form": "tangan-tangan"
+                                }
+                            },
+                            {
+                                "wf": "hitam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hitam",
+                                    "pos": "n|a",
+                                    "form": "hitam"
+                                }
+                            }
+                        ],
+                        "syllables": 13
+                    },
+                    {
+                        "line": "yang memasukkan segenggam tawas",
+                        "words": [
+                            {
+                                "wf": "yang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "yang",
+                                    "pos": "a|v|n",
+                                    "form": "yang"
+                                }
+                            },
+                            {
+                                "wf": "memasukkan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "memasukkan",
+                                    "pos": "v",
+                                    "form": "memasukkan"
+                                }
+                            },
+                            {
+                                "wf": "segenggam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "genggam",
+                                    "pos": "n",
+                                    "form": "se-genggam"
+                                }
+                            },
+                            {
+                                "wf": "tawas",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tawas",
+                                    "pos": "n",
+                                    "form": "tawas"
+                                }
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "ke dalam perut para miskin",
+                        "words": [
+                            {
+                                "wf": "ke",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ke",
+                                    "pos": "p",
+                                    "form": "ke"
+                                }
+                            },
+                            {
+                                "wf": "dalam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dalam",
+                                    "pos": "a|n",
+                                    "form": "dalam"
+                                }
+                            },
+                            {
+                                "wf": "perut",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "perut",
+                                    "pos": "n",
+                                    "form": "perut"
+                                }
+                            },
+                            {
+                                "wf": "para",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "para",
+                                    "pos": "p",
+                                    "form": "para"
+                                }
+                            },
+                            {
+                                "wf": "miskin",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "miskin",
+                                    "pos": "a",
+                                    "form": "miskin"
+                                }
+                            }
+                        ],
+                        "syllables": 9
+                    }
+                ],
+                "num_lines": 4
+            },
+            {
+                "strof": "\r\n",
+                "lines": [
+                    {
+                        "line": "",
+                        "words": [],
+                        "syllables": 0
+                    }
+                ],
+                "num_lines": 1
+            },
+            {
+                "strof": "Allah !\r\nkami berlutut\r\nmata kami adalah mata Mu\r\nini juga mulut Mu\r\nini juga hati Mu\r\ndan ini juga perut Mu\r\nperut Mu lapar, ya Allah\r\nperut Mu menggenggam tawas\r\ndan pecahan-pecahan gelas kaca",
+                "lines": [
+                    {
+                        "line": "Allah !",
+                        "words": [
+                            {
+                                "wf": "Allah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "Allah",
+                                    "pos": "n",
+                                    "form": "Allah"
+                                }
+                            },
+                            {
+                                "wf": " !",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 1
+                    },
+                    {
+                        "line": "kami berlutut",
+                        "words": [
+                            {
+                                "wf": "kami",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kami",
+                                    "pos": "pron",
+                                    "form": "kami"
+                                }
+                            },
+                            {
+                                "wf": "berlutut",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lutut",
+                                    "pos": "v",
+                                    "form": "ber-lutut"
+                                }
+                            }
+                        ],
+                        "syllables": 5
+                    },
+                    {
+                        "line": "mata kami adalah mata Mu",
+                        "words": [
+                            {
+                                "wf": "mata",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "mata",
+                                    "pos": "n",
+                                    "form": "mata"
+                                }
+                            },
+                            {
+                                "wf": "kami",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kami",
+                                    "pos": "pron",
+                                    "form": "kami"
+                                }
+                            },
+                            {
+                                "wf": "adalah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "adalah",
+                                    "pos": "v",
+                                    "form": "adalah"
+                                }
+                            },
+                            {
+                                "wf": "mata",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "mata",
+                                    "pos": "n",
+                                    "form": "mata"
+                                }
+                            },
+                            {
+                                "wf": "Mu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "mu",
+                                    "pos": "v",
+                                    "form": "mu"
+                                }
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "ini juga mulut Mu",
+                        "words": [
+                            {
+                                "wf": "ini",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ini",
+                                    "pos": "pron",
+                                    "form": "ini"
+                                }
+                            },
+                            {
+                                "wf": "juga",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "juga",
+                                    "pos": "adv",
+                                    "form": "juga"
+                                }
+                            },
+                            {
+                                "wf": "mulut",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "mulut",
+                                    "pos": "n",
+                                    "form": "mulut"
+                                }
+                            },
+                            {
+                                "wf": "Mu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "mu",
+                                    "pos": "v",
+                                    "form": "mu"
+                                }
+                            }
+                        ],
+                        "syllables": 7
+                    },
+                    {
+                        "line": "ini juga hati Mu",
+                        "words": [
+                            {
+                                "wf": "ini",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ini",
+                                    "pos": "pron",
+                                    "form": "ini"
+                                }
+                            },
+                            {
+                                "wf": "juga",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "juga",
+                                    "pos": "adv",
+                                    "form": "juga"
+                                }
+                            },
+                            {
+                                "wf": "hati",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hati",
+                                    "pos": "n",
+                                    "form": "hati"
+                                }
+                            },
+                            {
+                                "wf": "Mu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "mu",
+                                    "pos": "v",
+                                    "form": "mu"
+                                }
+                            }
+                        ],
+                        "syllables": 7
+                    },
+                    {
+                        "line": "dan ini juga perut Mu",
+                        "words": [
+                            {
+                                "wf": "dan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dan",
+                                    "pos": "p",
+                                    "form": "dan"
+                                }
+                            },
+                            {
+                                "wf": "ini",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ini",
+                                    "pos": "pron",
+                                    "form": "ini"
+                                }
+                            },
+                            {
+                                "wf": "juga",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "juga",
+                                    "pos": "adv",
+                                    "form": "juga"
+                                }
+                            },
+                            {
+                                "wf": "perut",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "perut",
+                                    "pos": "n",
+                                    "form": "perut"
+                                }
+                            },
+                            {
+                                "wf": "Mu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "mu",
+                                    "pos": "v",
+                                    "form": "mu"
+                                }
+                            }
+                        ],
+                        "syllables": 8
+                    },
+                    {
+                        "line": "perut Mu lapar, ya Allah",
+                        "words": [
+                            {
+                                "wf": "perut",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "perut",
+                                    "pos": "n",
+                                    "form": "perut"
+                                }
+                            },
+                            {
+                                "wf": "Mu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "mu",
+                                    "pos": "v",
+                                    "form": "mu"
+                                }
+                            },
+                            {
+                                "wf": "lapar",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lapar",
+                                    "pos": "a",
+                                    "form": "lapar"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "ya",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ya",
+                                    "pos": "adv",
+                                    "form": "ya"
+                                }
+                            },
+                            {
+                                "wf": "Allah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "Allah",
+                                    "pos": "n",
+                                    "form": "Allah"
+                                }
+                            }
+                        ],
+                        "syllables": 7
+                    },
+                    {
+                        "line": "perut Mu menggenggam tawas",
+                        "words": [
+                            {
+                                "wf": "perut",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "perut",
+                                    "pos": "n",
+                                    "form": "perut"
+                                }
+                            },
+                            {
+                                "wf": "Mu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "mu",
+                                    "pos": "v",
+                                    "form": "mu"
+                                }
+                            },
+                            {
+                                "wf": "menggenggam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "genggam",
+                                    "pos": "v",
+                                    "form": "meN-genggam"
+                                }
+                            },
+                            {
+                                "wf": "tawas",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tawas",
+                                    "pos": "n",
+                                    "form": "tawas"
+                                }
+                            }
+                        ],
+                        "syllables": 8
+                    },
+                    {
+                        "line": "dan pecahan-pecahan gelas kaca",
+                        "words": [
+                            {
+                                "wf": "dan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dan",
+                                    "pos": "p",
+                                    "form": "dan"
+                                }
+                            },
+                            {
+                                "wf": "pecahan-pecahan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pecahan-pecahan",
+                                    "pos": "v",
+                                    "form": "pecahan-pecahan"
+                                }
+                            },
+                            {
+                                "wf": "gelas",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "gelas",
+                                    "pos": "n",
+                                    "form": "gelas"
+                                }
+                            },
+                            {
+                                "wf": "kaca",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kaca",
+                                    "pos": "n",
+                                    "form": "kaca"
+                                }
+                            }
+                        ],
+                        "syllables": 11
+                    }
+                ],
+                "num_lines": 9
+            },
+            {
+                "strof": "\r\n",
+                "lines": [
+                    {
+                        "line": "",
+                        "words": [],
+                        "syllables": 0
+                    }
+                ],
+                "num_lines": 1
+            },
+            {
+                "strof": "Allah !\r\nbetapa indahnya sepiring nasi panas\r\nsemangkuk sop dan segelas kopi hitam",
+                "lines": [
+                    {
+                        "line": "Allah !",
+                        "words": [
+                            {
+                                "wf": "Allah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "Allah",
+                                    "pos": "n",
+                                    "form": "Allah"
+                                }
+                            },
+                            {
+                                "wf": " !",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 1
+                    },
+                    {
+                        "line": "betapa indahnya sepiring nasi panas",
+                        "words": [
+                            {
+                                "wf": "betapa",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "betapa",
+                                    "pos": "pron|p",
+                                    "form": "betapa"
+                                }
+                            },
+                            {
+                                "wf": "indahnya",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "indah",
+                                    "pos": "a",
+                                    "form": "indah-nya"
+                                }
+                            },
+                            {
+                                "wf": "sepiring",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sepiring",
+                                    "pos": "n",
+                                    "form": "sepiring"
+                                }
+                            },
+                            {
+                                "wf": "nasi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "nasi",
+                                    "pos": "v",
+                                    "form": "nasi"
+                                }
+                            },
+                            {
+                                "wf": "panas",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "panas",
+                                    "pos": "a|n",
+                                    "form": "panas"
+                                }
+                            }
+                        ],
+                        "syllables": 13
+                    },
+                    {
+                        "line": "semangkuk sop dan segelas kopi hitam",
+                        "words": [
+                            {
+                                "wf": "semangkuk",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "mangkuk",
+                                    "pos": "v",
+                                    "form": "se-mangkuk"
+                                }
+                            },
+                            {
+                                "wf": "sop",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sop",
+                                    "pos": "n",
+                                    "form": "sop"
+                                }
+                            },
+                            {
+                                "wf": "dan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dan",
+                                    "pos": "p",
+                                    "form": "dan"
+                                }
+                            },
+                            {
+                                "wf": "segelas",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "segelas",
+                                    "pos": "n",
+                                    "form": "segelas"
+                                }
+                            },
+                            {
+                                "wf": "kopi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kopi",
+                                    "pos": "n",
+                                    "form": "kopi"
+                                }
+                            },
+                            {
+                                "wf": "hitam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hitam",
+                                    "pos": "n|a",
+                                    "form": "hitam"
+                                }
+                            }
+                        ],
+                        "syllables": 12
+                    }
+                ],
+                "num_lines": 3
+            },
+            {
+                "strof": "\r\n",
+                "lines": [
+                    {
+                        "line": "",
+                        "words": [],
+                        "syllables": 0
+                    }
+                ],
+                "num_lines": 1
+            },
+            {
+                "strof": "Allah !\r\nkelaparan adalah burung gagak\r\njutaan burung gagak\r\nbagai awan yang hitam\r\nmenghalang pandangku\r\nke sorga Mu",
+                "lines": [
+                    {
+                        "line": "Allah !",
+                        "words": [
+                            {
+                                "wf": "Allah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "Allah",
+                                    "pos": "n",
+                                    "form": "Allah"
+                                }
+                            },
+                            {
+                                "wf": " !",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 1
+                    },
+                    {
+                        "line": "kelaparan adalah burung gagak",
+                        "words": [
+                            {
+                                "wf": "kelaparan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lapar",
+                                    "pos": "n|v",
+                                    "form": "ke-lapar-an"
+                                }
+                            },
+                            {
+                                "wf": "adalah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "adalah",
+                                    "pos": "v",
+                                    "form": "adalah"
+                                }
+                            },
+                            {
+                                "wf": "burung",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "burung",
+                                    "pos": "n",
+                                    "form": "burung"
+                                }
+                            },
+                            {
+                                "wf": "gagak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "gagak",
+                                    "pos": "n",
+                                    "form": "gagak"
+                                }
+                            }
+                        ],
+                        "syllables": 11
+                    },
+                    {
+                        "line": "jutaan burung gagak",
+                        "words": [
+                            {
+                                "wf": "jutaan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "juta",
+                                    "pos": "num|n",
+                                    "form": "juta-an"
+                                }
+                            },
+                            {
+                                "wf": "burung",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "burung",
+                                    "pos": "n",
+                                    "form": "burung"
+                                }
+                            },
+                            {
+                                "wf": "gagak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "gagak",
+                                    "pos": "n",
+                                    "form": "gagak"
+                                }
+                            }
+                        ],
+                        "syllables": 7
+                    },
+                    {
+                        "line": "bagai awan yang hitam",
+                        "words": [
+                            {
+                                "wf": "bagai",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bagai",
+                                    "pos": "n|p",
+                                    "form": "bagai"
+                                }
+                            },
+                            {
+                                "wf": "awan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "awan",
+                                    "pos": "n",
+                                    "form": "awan"
+                                }
+                            },
+                            {
+                                "wf": "yang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "yang",
+                                    "pos": "a|v|n",
+                                    "form": "yang"
+                                }
+                            },
+                            {
+                                "wf": "hitam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hitam",
+                                    "pos": "n|a",
+                                    "form": "hitam"
+                                }
+                            }
+                        ],
+                        "syllables": 7
+                    },
+                    {
+                        "line": "menghalang pandangku",
+                        "words": [
+                            {
+                                "wf": "menghalang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "halang",
+                                    "pos": "v",
+                                    "form": "meN-halang"
+                                }
+                            },
+                            {
+                                "wf": "pandangku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pandang",
+                                    "pos": "n",
+                                    "form": "pandang-ku"
+                                }
+                            }
+                        ],
+                        "syllables": 6
+                    },
+                    {
+                        "line": "ke sorga Mu",
+                        "words": [
+                            {
+                                "wf": "ke",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ke",
+                                    "pos": "p",
+                                    "form": "ke"
+                                }
+                            },
+                            {
+                                "wf": "sorga",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sorga",
+                                    "pos": "?",
+                                    "form": "sorga"
+                                }
+                            },
+                            {
+                                "wf": "Mu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "mu",
+                                    "pos": "v",
+                                    "form": "mu"
+                                }
+                            }
+                        ],
+                        "syllables": 4
+                    }
+                ],
+                "num_lines": 6
+            }
+        ]
+    }
+}

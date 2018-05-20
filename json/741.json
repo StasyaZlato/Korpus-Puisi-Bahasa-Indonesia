@@ -1,0 +1,762 @@
+{
+    "meta": {
+        "file_name": "741.json",
+        "id_bd": 741,
+        "author": "Wing Kardjo Wangsaatmadja",
+        "title": "Piknik 55",
+        "genre": "стихотворение",
+        "year": "---",
+        "num_lines": 14,
+        "rhyme": "Есть",
+        "syllables": [
+            9,
+            14,
+            14,
+            17,
+            9,
+            13,
+            13,
+            16,
+            9,
+            8,
+            7,
+            8,
+            6,
+            6
+        ],
+        "strofy": [
+            4,
+            1,
+            4,
+            1,
+            3,
+            1,
+            3
+        ]
+    },
+    "poem": {
+        "text": "{Kereta terakhir menderit\r\ndi ujung stasiun. Telah habis hari ini\r\nperjalanan bersama, senja di balik bukit-\r\nbukit kelabu. Telah lalu umur hari, satu dari}\r\n{panjangnya rasa. Jauh berbeda\r\nudara pegunungan daripada kota,\r\nyang satu ketenangan, yang lain keriuhan,\r\nketekunan dalam kerja, kesibukan dalam nyala.}\r\n{Dua-duanya sama-sama\r\nmenghidupi kelanjutan,\r\nkehijauan tumbuhan}\r\n{dan harapan. Masih luas\r\nlapangan dan subur\r\nturun keakanan}",
+        "strof": [
+            {
+                "strof": "Kereta terakhir menderit\r\ndi ujung stasiun. Telah habis hari ini\r\nperjalanan bersama, senja di balik bukit-\r\nbukit kelabu. Telah lalu umur hari, satu dari",
+                "lines": [
+                    {
+                        "line": "Kereta terakhir menderit",
+                        "words": [
+                            {
+                                "wf": "Kereta",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kereta",
+                                    "pos": "v",
+                                    "form": "kereta"
+                                }
+                            },
+                            {
+                                "wf": "terakhir",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "akhir",
+                                    "pos": "a",
+                                    "form": "terakhir"
+                                }
+                            },
+                            {
+                                "wf": "menderit",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "derit",
+                                    "pos": "v",
+                                    "form": "meN-derit"
+                                }
+                            }
+                        ],
+                        "syllables": 9
+                    },
+                    {
+                        "line": "di ujung stasiun. Telah habis hari ini",
+                        "words": [
+                            {
+                                "wf": "di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "ujung",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ujung",
+                                    "pos": "n",
+                                    "form": "ujung"
+                                }
+                            },
+                            {
+                                "wf": "stasiun",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "stasiun",
+                                    "pos": "n",
+                                    "form": "stasiun"
+                                }
+                            },
+                            {
+                                "wf": ". ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "Telah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "telah",
+                                    "pos": "adv",
+                                    "form": "telah"
+                                }
+                            },
+                            {
+                                "wf": "habis",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "habis",
+                                    "pos": "v|p|adv|n",
+                                    "form": "habis"
+                                }
+                            },
+                            {
+                                "wf": "hari",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hari",
+                                    "pos": "n",
+                                    "form": "hari"
+                                }
+                            },
+                            {
+                                "wf": "ini",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ini",
+                                    "pos": "pron",
+                                    "form": "ini"
+                                }
+                            }
+                        ],
+                        "syllables": 14
+                    },
+                    {
+                        "line": "perjalanan bersama, senja di balik bukit-",
+                        "words": [
+                            {
+                                "wf": "perjalanan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jalan",
+                                    "pos": "n",
+                                    "form": "per-jalan-an"
+                                }
+                            },
+                            {
+                                "wf": "bersama",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sama",
+                                    "pos": "v",
+                                    "form": "ber-sama"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "senja",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "senja",
+                                    "pos": "n",
+                                    "form": "senja"
+                                }
+                            },
+                            {
+                                "wf": "di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "balik",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "balik",
+                                    "pos": "v|a",
+                                    "form": "balik"
+                                }
+                            },
+                            {
+                                "wf": "bukit-",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bukit",
+                                    "pos": "n",
+                                    "form": "bukit-"
+                                }
+                            }
+                        ],
+                        "syllables": 14
+                    },
+                    {
+                        "line": "bukit kelabu. Telah lalu umur hari, satu dari",
+                        "words": [
+                            {
+                                "wf": "bukit",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bukit",
+                                    "pos": "n",
+                                    "form": "bukit"
+                                }
+                            },
+                            {
+                                "wf": "kelabu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kelabu",
+                                    "pos": "n",
+                                    "form": "kelabu"
+                                }
+                            },
+                            {
+                                "wf": ". ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "Telah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "telah",
+                                    "pos": "adv",
+                                    "form": "telah"
+                                }
+                            },
+                            {
+                                "wf": "lalu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lalu",
+                                    "pos": "adv",
+                                    "form": "lalu"
+                                }
+                            },
+                            {
+                                "wf": "umur",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "umur",
+                                    "pos": "n",
+                                    "form": "umur"
+                                }
+                            },
+                            {
+                                "wf": "hari",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hari",
+                                    "pos": "n",
+                                    "form": "hari"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "satu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "satu",
+                                    "pos": "num",
+                                    "form": "satu"
+                                }
+                            },
+                            {
+                                "wf": "dari",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dari",
+                                    "pos": "p",
+                                    "form": "dari"
+                                }
+                            }
+                        ],
+                        "syllables": 17
+                    }
+                ],
+                "num_lines": 4
+            },
+            {
+                "strof": "\r\n",
+                "lines": [
+                    {
+                        "line": "",
+                        "words": [],
+                        "syllables": 0
+                    }
+                ],
+                "num_lines": 1
+            },
+            {
+                "strof": "panjangnya rasa. Jauh berbeda\r\nudara pegunungan daripada kota,\r\nyang satu ketenangan, yang lain keriuhan,\r\nketekunan dalam kerja, kesibukan dalam nyala.",
+                "lines": [
+                    {
+                        "line": "panjangnya rasa. Jauh berbeda",
+                        "words": [
+                            {
+                                "wf": "panjangnya",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "panjang",
+                                    "pos": "a|n",
+                                    "form": "panjang-nya"
+                                }
+                            },
+                            {
+                                "wf": "rasa",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "rasa",
+                                    "pos": "n",
+                                    "form": "rasa"
+                                }
+                            },
+                            {
+                                "wf": ". ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "Jauh",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jauh",
+                                    "pos": "a",
+                                    "form": "jauh"
+                                }
+                            },
+                            {
+                                "wf": "berbeda",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "berbeda",
+                                    "pos": "v",
+                                    "form": "berbeda"
+                                }
+                            }
+                        ],
+                        "syllables": 9
+                    },
+                    {
+                        "line": "udara pegunungan daripada kota,",
+                        "words": [
+                            {
+                                "wf": "udara",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "udara",
+                                    "pos": "n",
+                                    "form": "udara"
+                                }
+                            },
+                            {
+                                "wf": "pegunungan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "gunung",
+                                    "pos": "n",
+                                    "form": "pe-gunung-an"
+                                }
+                            },
+                            {
+                                "wf": "daripada",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "daripada",
+                                    "pos": "p",
+                                    "form": "daripada"
+                                }
+                            },
+                            {
+                                "wf": "kota",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kota",
+                                    "pos": "n",
+                                    "form": "kota"
+                                }
+                            },
+                            {
+                                "wf": ",",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 13
+                    },
+                    {
+                        "line": "yang satu ketenangan, yang lain keriuhan,",
+                        "words": [
+                            {
+                                "wf": "yang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "yang",
+                                    "pos": "a|v|n",
+                                    "form": "yang"
+                                }
+                            },
+                            {
+                                "wf": "satu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "satu",
+                                    "pos": "num",
+                                    "form": "satu"
+                                }
+                            },
+                            {
+                                "wf": "ketenangan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tenang",
+                                    "pos": "n",
+                                    "form": "ke-tenang-an"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "yang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "yang",
+                                    "pos": "a|v|n",
+                                    "form": "yang"
+                                }
+                            },
+                            {
+                                "wf": "lain",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lain",
+                                    "pos": "a",
+                                    "form": "lain"
+                                }
+                            },
+                            {
+                                "wf": "keriuhan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "keriuhan",
+                                    "pos": "?",
+                                    "form": "keriuhan"
+                                }
+                            },
+                            {
+                                "wf": ",",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 13
+                    },
+                    {
+                        "line": "ketekunan dalam kerja, kesibukan dalam nyala.",
+                        "words": [
+                            {
+                                "wf": "ketekunan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tekun",
+                                    "pos": "n",
+                                    "form": "ke-tekun-an"
+                                }
+                            },
+                            {
+                                "wf": "dalam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dalam",
+                                    "pos": "a|n",
+                                    "form": "dalam"
+                                }
+                            },
+                            {
+                                "wf": "kerja",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kerja",
+                                    "pos": "n|v",
+                                    "form": "kerja"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "kesibukan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sibuk",
+                                    "pos": "n",
+                                    "form": "ke-sibuk-an"
+                                }
+                            },
+                            {
+                                "wf": "dalam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dalam",
+                                    "pos": "a|n",
+                                    "form": "dalam"
+                                }
+                            },
+                            {
+                                "wf": "nyala",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "nyala",
+                                    "pos": "n",
+                                    "form": "nyala"
+                                }
+                            },
+                            {
+                                "wf": ".",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 16
+                    }
+                ],
+                "num_lines": 4
+            },
+            {
+                "strof": "\r\n",
+                "lines": [
+                    {
+                        "line": "",
+                        "words": [],
+                        "syllables": 0
+                    }
+                ],
+                "num_lines": 1
+            },
+            {
+                "strof": "Dua-duanya sama-sama\r\nmenghidupi kelanjutan,\r\nkehijauan tumbuhan",
+                "lines": [
+                    {
+                        "line": "Dua-duanya sama-sama",
+                        "words": [
+                            {
+                                "wf": "Dua-duanya",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dua",
+                                    "pos": "num",
+                                    "form": "dua-dua-nya"
+                                }
+                            },
+                            {
+                                "wf": "sama-sama",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sama",
+                                    "pos": "adv",
+                                    "form": "sama-sama"
+                                }
+                            }
+                        ],
+                        "syllables": 9
+                    },
+                    {
+                        "line": "menghidupi kelanjutan,",
+                        "words": [
+                            {
+                                "wf": "menghidupi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hidup",
+                                    "pos": "v",
+                                    "form": "meN-hidup-i"
+                                }
+                            },
+                            {
+                                "wf": "kelanjutan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lanjut",
+                                    "pos": "n",
+                                    "form": "ke-lanjut-an"
+                                }
+                            },
+                            {
+                                "wf": ",",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 8
+                    },
+                    {
+                        "line": "kehijauan tumbuhan",
+                        "words": [
+                            {
+                                "wf": "kehijauan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kehijauan",
+                                    "pos": "?",
+                                    "form": "kehijauan"
+                                }
+                            },
+                            {
+                                "wf": "tumbuhan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tumbuh",
+                                    "pos": "v",
+                                    "form": "tumbuh-an"
+                                }
+                            }
+                        ],
+                        "syllables": 7
+                    }
+                ],
+                "num_lines": 3
+            },
+            {
+                "strof": "\r\n",
+                "lines": [
+                    {
+                        "line": "",
+                        "words": [],
+                        "syllables": 0
+                    }
+                ],
+                "num_lines": 1
+            },
+            {
+                "strof": "dan harapan. Masih luas\r\nlapangan dan subur\r\nturun keakanan",
+                "lines": [
+                    {
+                        "line": "dan harapan. Masih luas",
+                        "words": [
+                            {
+                                "wf": "dan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dan",
+                                    "pos": "p",
+                                    "form": "dan"
+                                }
+                            },
+                            {
+                                "wf": "harapan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "harap",
+                                    "pos": "v",
+                                    "form": "harap-an"
+                                }
+                            },
+                            {
+                                "wf": ". ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "Masih",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "masih",
+                                    "pos": "n",
+                                    "form": "masih"
+                                }
+                            },
+                            {
+                                "wf": "luas",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "luas",
+                                    "pos": "a",
+                                    "form": "luas"
+                                }
+                            }
+                        ],
+                        "syllables": 8
+                    },
+                    {
+                        "line": "lapangan dan subur",
+                        "words": [
+                            {
+                                "wf": "lapangan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lapang",
+                                    "pos": "n",
+                                    "form": "lapang-an"
+                                }
+                            },
+                            {
+                                "wf": "dan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dan",
+                                    "pos": "p",
+                                    "form": "dan"
+                                }
+                            },
+                            {
+                                "wf": "subur",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "subur",
+                                    "pos": "a",
+                                    "form": "subur"
+                                }
+                            }
+                        ],
+                        "syllables": 6
+                    },
+                    {
+                        "line": "turun keakanan",
+                        "words": [
+                            {
+                                "wf": "turun",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "turun",
+                                    "pos": "v",
+                                    "form": "turun"
+                                }
+                            },
+                            {
+                                "wf": "keakanan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "akan",
+                                    "pos": "n",
+                                    "form": "ke-akan-an"
+                                }
+                            }
+                        ],
+                        "syllables": 6
+                    }
+                ],
+                "num_lines": 3
+            }
+        ]
+    }
+}
