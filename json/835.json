@@ -1,0 +1,843 @@
+{
+    "meta": {
+        "file_name": "835.json",
+        "id_bd": 835,
+        "author": "Abdul Hadi WM",
+        "title": "Sajak putih",
+        "genre": "стихотворение",
+        "year": 1971,
+        "num_lines": 22,
+        "rhyme": "Есть",
+        "syllables": [
+            13,
+            12,
+            10,
+            6,
+            10,
+            7,
+            6,
+            8,
+            10,
+            10,
+            11,
+            7,
+            4,
+            4,
+            8,
+            6,
+            4,
+            3,
+            3,
+            7,
+            6,
+            2
+        ],
+        "strofy": [
+            4,
+            1,
+            5,
+            1,
+            5,
+            1,
+            5,
+            1,
+            3
+        ]
+    },
+    "poem": {
+        "text": "{Kita telah menjadi sekedar kenangan\r\nlembaran asing pada buku harian\r\nseperti tak pernah kautuliskan\r\nperistiwa itu}\r\n{Bunga-bunga sudah berguguran\r\ntangkai dan kelopaknya\r\nPohon-pohon kering\r\nDan jendela jadi kusam\r\nSeperti senja bakal tenggelam}\r\n{Dan Titi telah semakin tua\r\nmeninggalkan masa kanak-kanaknya\r\nSeakan cairan lilin\r\nyang mengental\r\njadi malam}\r\n{Dan masa-masa cintamu\r\nhanyalah onggokan\r\npuntung rokok\r\ndi lantai\r\nyang dingin}\r\n{Dan dengan pot-pot bunga\r\nbetapa asingnya\r\nKita}",
+        "strof": [
+            {
+                "strof": "Kita telah menjadi sekedar kenangan\r\nlembaran asing pada buku harian\r\nseperti tak pernah kautuliskan\r\nperistiwa itu",
+                "lines": [
+                    {
+                        "line": "Kita telah menjadi sekedar kenangan",
+                        "words": [
+                            {
+                                "wf": "Kita",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kita",
+                                    "pos": "pron",
+                                    "form": "kita"
+                                }
+                            },
+                            {
+                                "wf": "telah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "telah",
+                                    "pos": "adv",
+                                    "form": "telah"
+                                }
+                            },
+                            {
+                                "wf": "menjadi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jadi",
+                                    "pos": "v",
+                                    "form": "meN-jadi"
+                                }
+                            },
+                            {
+                                "wf": "sekedar",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sekedar",
+                                    "pos": "?",
+                                    "form": "sekedar"
+                                }
+                            },
+                            {
+                                "wf": "kenangan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kenang",
+                                    "pos": "n",
+                                    "form": "kenang-an"
+                                }
+                            }
+                        ],
+                        "syllables": 13
+                    },
+                    {
+                        "line": "lembaran asing pada buku harian",
+                        "words": [
+                            {
+                                "wf": "lembaran",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lembar",
+                                    "pos": "n",
+                                    "form": "lembar-an"
+                                }
+                            },
+                            {
+                                "wf": "asing",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "asing",
+                                    "pos": "a",
+                                    "form": "asing"
+                                }
+                            },
+                            {
+                                "wf": "pada",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pada",
+                                    "pos": "p",
+                                    "form": "pada"
+                                }
+                            },
+                            {
+                                "wf": "buku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "buku",
+                                    "pos": "n",
+                                    "form": "buku"
+                                }
+                            },
+                            {
+                                "wf": "harian",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hari",
+                                    "pos": "n",
+                                    "form": "hari-an"
+                                }
+                            }
+                        ],
+                        "syllables": 12
+                    },
+                    {
+                        "line": "seperti tak pernah kautuliskan",
+                        "words": [
+                            {
+                                "wf": "seperti",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "seperti",
+                                    "pos": "p",
+                                    "form": "seperti"
+                                }
+                            },
+                            {
+                                "wf": "tak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tak",
+                                    "pos": "adv",
+                                    "form": "tak"
+                                }
+                            },
+                            {
+                                "wf": "pernah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pernah",
+                                    "pos": "adv",
+                                    "form": "pernah"
+                                }
+                            },
+                            {
+                                "wf": "kautuliskan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kautuliskan",
+                                    "pos": "v",
+                                    "form": "kautuliskan"
+                                }
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "peristiwa itu",
+                        "words": [
+                            {
+                                "wf": "peristiwa",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "peristiwa",
+                                    "pos": "n",
+                                    "form": "peristiwa"
+                                }
+                            },
+                            {
+                                "wf": "itu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "itu",
+                                    "pos": "pron|n",
+                                    "form": "itu"
+                                }
+                            }
+                        ],
+                        "syllables": 6
+                    }
+                ],
+                "num_lines": 4
+            },
+            {
+                "strof": "\r\n",
+                "lines": [
+                    {
+                        "line": "",
+                        "words": [],
+                        "syllables": 0
+                    }
+                ],
+                "num_lines": 1
+            },
+            {
+                "strof": "Bunga-bunga sudah berguguran\r\ntangkai dan kelopaknya\r\nPohon-pohon kering\r\nDan jendela jadi kusam\r\nSeperti senja bakal tenggelam",
+                "lines": [
+                    {
+                        "line": "Bunga-bunga sudah berguguran",
+                        "words": [
+                            {
+                                "wf": "Bunga-bunga",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bunga",
+                                    "pos": "v",
+                                    "form": "bunga-bunga"
+                                }
+                            },
+                            {
+                                "wf": "sudah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sudah",
+                                    "pos": "adv",
+                                    "form": "sudah"
+                                }
+                            },
+                            {
+                                "wf": "berguguran",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "gugur",
+                                    "pos": "v",
+                                    "form": "berguguran"
+                                }
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "tangkai dan kelopaknya",
+                        "words": [
+                            {
+                                "wf": "tangkai",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tangkai",
+                                    "pos": "n",
+                                    "form": "tangkai"
+                                }
+                            },
+                            {
+                                "wf": "dan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dan",
+                                    "pos": "p",
+                                    "form": "dan"
+                                }
+                            },
+                            {
+                                "wf": "kelopaknya",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kelopak",
+                                    "pos": "n",
+                                    "form": "kelopak-nya"
+                                }
+                            }
+                        ],
+                        "syllables": 7
+                    },
+                    {
+                        "line": "Pohon-pohon kering",
+                        "words": [
+                            {
+                                "wf": "Pohon-pohon",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pohon",
+                                    "pos": "n",
+                                    "form": "pohon-pohon"
+                                }
+                            },
+                            {
+                                "wf": "kering",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kering",
+                                    "pos": "a",
+                                    "form": "kering"
+                                }
+                            }
+                        ],
+                        "syllables": 6
+                    },
+                    {
+                        "line": "Dan jendela jadi kusam",
+                        "words": [
+                            {
+                                "wf": "Dan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dan",
+                                    "pos": "p",
+                                    "form": "dan"
+                                }
+                            },
+                            {
+                                "wf": "jendela",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jendela",
+                                    "pos": "?",
+                                    "form": "jendela"
+                                }
+                            },
+                            {
+                                "wf": "jadi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jadi",
+                                    "pos": "v",
+                                    "form": "jadi"
+                                }
+                            },
+                            {
+                                "wf": "kusam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kusam",
+                                    "pos": "a",
+                                    "form": "kusam"
+                                }
+                            }
+                        ],
+                        "syllables": 8
+                    },
+                    {
+                        "line": "Seperti senja bakal tenggelam",
+                        "words": [
+                            {
+                                "wf": "Seperti",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "seperti",
+                                    "pos": "p",
+                                    "form": "seperti"
+                                }
+                            },
+                            {
+                                "wf": "senja",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "senja",
+                                    "pos": "n",
+                                    "form": "senja"
+                                }
+                            },
+                            {
+                                "wf": "bakal",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bakal",
+                                    "pos": "n|adv|p",
+                                    "form": "bakal"
+                                }
+                            },
+                            {
+                                "wf": "tenggelam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tenggelam",
+                                    "pos": "v",
+                                    "form": "tenggelam"
+                                }
+                            }
+                        ],
+                        "syllables": 10
+                    }
+                ],
+                "num_lines": 5
+            },
+            {
+                "strof": "\r\n",
+                "lines": [
+                    {
+                        "line": "",
+                        "words": [],
+                        "syllables": 0
+                    }
+                ],
+                "num_lines": 1
+            },
+            {
+                "strof": "Dan Titi telah semakin tua\r\nmeninggalkan masa kanak-kanaknya\r\nSeakan cairan lilin\r\nyang mengental\r\njadi malam",
+                "lines": [
+                    {
+                        "line": "Dan Titi telah semakin tua",
+                        "words": [
+                            {
+                                "wf": "Dan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dan",
+                                    "pos": "p",
+                                    "form": "dan"
+                                }
+                            },
+                            {
+                                "wf": "Titi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "titi",
+                                    "pos": "v",
+                                    "form": "titi"
+                                }
+                            },
+                            {
+                                "wf": "telah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "telah",
+                                    "pos": "adv",
+                                    "form": "telah"
+                                }
+                            },
+                            {
+                                "wf": "semakin",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "makin",
+                                    "pos": "adv",
+                                    "form": "se-makin"
+                                }
+                            },
+                            {
+                                "wf": "tua",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tua",
+                                    "pos": "a",
+                                    "form": "tua"
+                                }
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "meninggalkan masa kanak-kanaknya",
+                        "words": [
+                            {
+                                "wf": "meninggalkan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "meninggalkan",
+                                    "pos": "v",
+                                    "form": "meninggalkan"
+                                }
+                            },
+                            {
+                                "wf": "masa",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "masa",
+                                    "pos": "n",
+                                    "form": "masa"
+                                }
+                            },
+                            {
+                                "wf": "kanak-kanaknya",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "membahasakan",
+                                    "pos": "n",
+                                    "form": "kanak-kanaknya"
+                                }
+                            }
+                        ],
+                        "syllables": 11
+                    },
+                    {
+                        "line": "Seakan cairan lilin",
+                        "words": [
+                            {
+                                "wf": "Seakan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "Seakan",
+                                    "pos": "v",
+                                    "form": "Seakan"
+                                }
+                            },
+                            {
+                                "wf": "cairan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "cair",
+                                    "pos": "n",
+                                    "form": "cair-an"
+                                }
+                            },
+                            {
+                                "wf": "lilin",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lilin",
+                                    "pos": "n",
+                                    "form": "lilin"
+                                }
+                            }
+                        ],
+                        "syllables": 7
+                    },
+                    {
+                        "line": "yang mengental",
+                        "words": [
+                            {
+                                "wf": "yang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "yang",
+                                    "pos": "a|v|n",
+                                    "form": "yang"
+                                }
+                            },
+                            {
+                                "wf": "mengental",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kental",
+                                    "pos": "v",
+                                    "form": "meN-kental"
+                                }
+                            }
+                        ],
+                        "syllables": 4
+                    },
+                    {
+                        "line": "jadi malam",
+                        "words": [
+                            {
+                                "wf": "jadi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jadi",
+                                    "pos": "v",
+                                    "form": "jadi"
+                                }
+                            },
+                            {
+                                "wf": "malam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "malam",
+                                    "pos": "n",
+                                    "form": "malam"
+                                }
+                            }
+                        ],
+                        "syllables": 4
+                    }
+                ],
+                "num_lines": 5
+            },
+            {
+                "strof": "\r\n",
+                "lines": [
+                    {
+                        "line": "",
+                        "words": [],
+                        "syllables": 0
+                    }
+                ],
+                "num_lines": 1
+            },
+            {
+                "strof": "Dan masa-masa cintamu\r\nhanyalah onggokan\r\npuntung rokok\r\ndi lantai\r\nyang dingin",
+                "lines": [
+                    {
+                        "line": "Dan masa-masa cintamu",
+                        "words": [
+                            {
+                                "wf": "Dan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dan",
+                                    "pos": "p",
+                                    "form": "dan"
+                                }
+                            },
+                            {
+                                "wf": "masa-masa",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "masa",
+                                    "pos": "n|adv",
+                                    "form": "masa-masa"
+                                }
+                            },
+                            {
+                                "wf": "cintamu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "cinta",
+                                    "pos": "a",
+                                    "form": "cinta-mu"
+                                }
+                            }
+                        ],
+                        "syllables": 8
+                    },
+                    {
+                        "line": "hanyalah onggokan",
+                        "words": [
+                            {
+                                "wf": "hanyalah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hanyalah",
+                                    "pos": "adv",
+                                    "form": "hanyalah"
+                                }
+                            },
+                            {
+                                "wf": "onggokan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "onggok",
+                                    "pos": "n",
+                                    "form": "onggok-an"
+                                }
+                            }
+                        ],
+                        "syllables": 6
+                    },
+                    {
+                        "line": "puntung rokok",
+                        "words": [
+                            {
+                                "wf": "puntung",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "puntung",
+                                    "pos": "n",
+                                    "form": "puntung"
+                                }
+                            },
+                            {
+                                "wf": "rokok",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "rokok",
+                                    "pos": "n",
+                                    "form": "rokok"
+                                }
+                            }
+                        ],
+                        "syllables": 4
+                    },
+                    {
+                        "line": "di lantai",
+                        "words": [
+                            {
+                                "wf": "di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "lantai",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lantai",
+                                    "pos": "n",
+                                    "form": "lantai"
+                                }
+                            }
+                        ],
+                        "syllables": 3
+                    },
+                    {
+                        "line": "yang dingin",
+                        "words": [
+                            {
+                                "wf": "yang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "yang",
+                                    "pos": "a|v|n",
+                                    "form": "yang"
+                                }
+                            },
+                            {
+                                "wf": "dingin",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dingin",
+                                    "pos": "a",
+                                    "form": "dingin"
+                                }
+                            }
+                        ],
+                        "syllables": 3
+                    }
+                ],
+                "num_lines": 5
+            },
+            {
+                "strof": "\r\n",
+                "lines": [
+                    {
+                        "line": "",
+                        "words": [],
+                        "syllables": 0
+                    }
+                ],
+                "num_lines": 1
+            },
+            {
+                "strof": "Dan dengan pot-pot bunga\r\nbetapa asingnya\r\nKita",
+                "lines": [
+                    {
+                        "line": "Dan dengan pot-pot bunga",
+                        "words": [
+                            {
+                                "wf": "Dan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dan",
+                                    "pos": "p",
+                                    "form": "dan"
+                                }
+                            },
+                            {
+                                "wf": "dengan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dengan",
+                                    "pos": "p",
+                                    "form": "dengan"
+                                }
+                            },
+                            {
+                                "wf": "pot-pot",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pot",
+                                    "pos": "n",
+                                    "form": "pot-pot"
+                                }
+                            },
+                            {
+                                "wf": "bunga",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bunga",
+                                    "pos": "n",
+                                    "form": "bunga"
+                                }
+                            }
+                        ],
+                        "syllables": 7
+                    },
+                    {
+                        "line": "betapa asingnya",
+                        "words": [
+                            {
+                                "wf": "betapa",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "betapa",
+                                    "pos": "pron|p",
+                                    "form": "betapa"
+                                }
+                            },
+                            {
+                                "wf": "asingnya",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "asing",
+                                    "pos": "a",
+                                    "form": "asing-nya"
+                                }
+                            }
+                        ],
+                        "syllables": 6
+                    },
+                    {
+                        "line": "Kita",
+                        "words": [
+                            {
+                                "wf": "Kita",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kita",
+                                    "pos": "pron",
+                                    "form": "kita"
+                                }
+                            }
+                        ],
+                        "syllables": 2
+                    }
+                ],
+                "num_lines": 3
+            }
+        ]
+    }
+}

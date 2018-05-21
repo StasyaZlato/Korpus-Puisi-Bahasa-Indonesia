@@ -1,0 +1,996 @@
+{
+    "meta": {
+        "file_name": "844.json",
+        "id_bd": 844,
+        "author": "Mira Sato",
+        "title": "Catatan-catatan, hal. 40",
+        "genre": "стихотворение",
+        "year": 1977,
+        "num_lines": 15,
+        "rhyme": "Спорадическая",
+        "syllables": [
+            14,
+            12,
+            11,
+            8,
+            7,
+            5,
+            9,
+            13,
+            7,
+            12,
+            13,
+            12,
+            17,
+            9,
+            11
+        ],
+        "strofy": [
+            3,
+            1,
+            2,
+            1,
+            1,
+            1,
+            2,
+            1,
+            3,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1
+        ]
+    },
+    "poem": {
+        "text": "{di atas rumah besi, langit bernyanyi, hujan\r\ntak turun, malam makin sesak bicara\r\n: tuan dan nyonya, mari kita minum}\r\n{gelas pecah bertebaran\r\njidat bayi terluka}\r\n{kandungan sobek}\r\n{lantas meledak, lantas mati\r\ndan darah di mata para ibu mengalir}\r\n{di atas rumah besi\r\nada yang bicara tentang kelaparan\r\ndan angkat gelas bersama tuan dan nyonya}\r\n{dan bayi yang lahir tak juga menangis}\r\n{bayi-bayi itu tertawa, bayi-bayi itu mabuk\r\ntapi hujan tak pernah mabuk}\r\n{tapi hujan juga tak pernah turun}",
+        "strof": [
+            {
+                "strof": "di atas rumah besi, langit bernyanyi, hujan\r\ntak turun, malam makin sesak bicara\r\n: tuan dan nyonya, mari kita minum",
+                "lines": [
+                    {
+                        "line": "di atas rumah besi, langit bernyanyi, hujan",
+                        "words": [
+                            {
+                                "wf": "di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "atas",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "atas",
+                                    "pos": "n",
+                                    "form": "atas"
+                                }
+                            },
+                            {
+                                "wf": "rumah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "rumah",
+                                    "pos": "n",
+                                    "form": "rumah"
+                                }
+                            },
+                            {
+                                "wf": "besi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "besi",
+                                    "pos": "n",
+                                    "form": "besi"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "langit",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "langit",
+                                    "pos": "n",
+                                    "form": "langit"
+                                }
+                            },
+                            {
+                                "wf": "bernyanyi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "nyanyi",
+                                    "pos": "v",
+                                    "form": "ber-nyanyi"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "hujan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hujan",
+                                    "pos": "n",
+                                    "form": "hujan"
+                                }
+                            }
+                        ],
+                        "syllables": 14
+                    },
+                    {
+                        "line": "tak turun, malam makin sesak bicara",
+                        "words": [
+                            {
+                                "wf": "tak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tak",
+                                    "pos": "adv",
+                                    "form": "tak"
+                                }
+                            },
+                            {
+                                "wf": "turun",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "turun",
+                                    "pos": "v",
+                                    "form": "turun"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "malam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "malam",
+                                    "pos": "n",
+                                    "form": "malam"
+                                }
+                            },
+                            {
+                                "wf": "makin",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "makin",
+                                    "pos": "adv|p",
+                                    "form": "makin"
+                                }
+                            },
+                            {
+                                "wf": "sesak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sesak",
+                                    "pos": "a",
+                                    "form": "sesak"
+                                }
+                            },
+                            {
+                                "wf": "bicara",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bicara",
+                                    "pos": "n|v|a",
+                                    "form": "bicara"
+                                }
+                            }
+                        ],
+                        "syllables": 12
+                    },
+                    {
+                        "line": ": tuan dan nyonya, mari kita minum",
+                        "words": [
+                            {
+                                "wf": ": ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "tuan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tuan",
+                                    "pos": "n",
+                                    "form": "tuan"
+                                }
+                            },
+                            {
+                                "wf": "dan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dan",
+                                    "pos": "p",
+                                    "form": "dan"
+                                }
+                            },
+                            {
+                                "wf": "nyonya",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "nyonya",
+                                    "pos": "n",
+                                    "form": "nyonya"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "mari",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "mari",
+                                    "pos": "p",
+                                    "form": "mari"
+                                }
+                            },
+                            {
+                                "wf": "kita",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kita",
+                                    "pos": "pron",
+                                    "form": "kita"
+                                }
+                            },
+                            {
+                                "wf": "minum",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "minum",
+                                    "pos": "v",
+                                    "form": "minum"
+                                }
+                            }
+                        ],
+                        "syllables": 11
+                    }
+                ],
+                "num_lines": 3
+            },
+            {
+                "strof": "\r\n",
+                "lines": [
+                    {
+                        "line": "",
+                        "words": [],
+                        "syllables": 0
+                    }
+                ],
+                "num_lines": 1
+            },
+            {
+                "strof": "gelas pecah bertebaran\r\njidat bayi terluka",
+                "lines": [
+                    {
+                        "line": "gelas pecah bertebaran",
+                        "words": [
+                            {
+                                "wf": "gelas",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "gelas",
+                                    "pos": "n",
+                                    "form": "gelas"
+                                }
+                            },
+                            {
+                                "wf": "pecah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pecah",
+                                    "pos": "v",
+                                    "form": "pecah"
+                                }
+                            },
+                            {
+                                "wf": "bertebaran",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tebar",
+                                    "pos": "v",
+                                    "form": "bertebaran"
+                                }
+                            }
+                        ],
+                        "syllables": 8
+                    },
+                    {
+                        "line": "jidat bayi terluka",
+                        "words": [
+                            {
+                                "wf": "jidat",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jidat",
+                                    "pos": "n",
+                                    "form": "jidat"
+                                }
+                            },
+                            {
+                                "wf": "bayi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bayi",
+                                    "pos": "n",
+                                    "form": "bayi"
+                                }
+                            },
+                            {
+                                "wf": "terluka",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "luka",
+                                    "pos": "v",
+                                    "form": "ter-luka"
+                                }
+                            }
+                        ],
+                        "syllables": 7
+                    }
+                ],
+                "num_lines": 2
+            },
+            {
+                "strof": "\r\n",
+                "lines": [
+                    {
+                        "line": "",
+                        "words": [],
+                        "syllables": 0
+                    }
+                ],
+                "num_lines": 1
+            },
+            {
+                "strof": "kandungan sobek",
+                "lines": [
+                    {
+                        "line": "kandungan sobek",
+                        "words": [
+                            {
+                                "wf": "kandungan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kandung",
+                                    "pos": "n",
+                                    "form": "kandung-an"
+                                }
+                            },
+                            {
+                                "wf": "sobek",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sobek",
+                                    "pos": "n",
+                                    "form": "sobek"
+                                }
+                            }
+                        ],
+                        "syllables": 5
+                    }
+                ],
+                "num_lines": 1
+            },
+            {
+                "strof": "\r\n",
+                "lines": [
+                    {
+                        "line": "",
+                        "words": [],
+                        "syllables": 0
+                    }
+                ],
+                "num_lines": 1
+            },
+            {
+                "strof": "lantas meledak, lantas mati\r\ndan darah di mata para ibu mengalir",
+                "lines": [
+                    {
+                        "line": "lantas meledak, lantas mati",
+                        "words": [
+                            {
+                                "wf": "lantas",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lantas",
+                                    "pos": "adv|p",
+                                    "form": "lantas"
+                                }
+                            },
+                            {
+                                "wf": "meledak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "meledak",
+                                    "pos": "v",
+                                    "form": "meledak"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "lantas",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lantas",
+                                    "pos": "adv|p",
+                                    "form": "lantas"
+                                }
+                            },
+                            {
+                                "wf": "mati",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "mati",
+                                    "pos": "v",
+                                    "form": "mati"
+                                }
+                            }
+                        ],
+                        "syllables": 9
+                    },
+                    {
+                        "line": "dan darah di mata para ibu mengalir",
+                        "words": [
+                            {
+                                "wf": "dan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dan",
+                                    "pos": "p",
+                                    "form": "dan"
+                                }
+                            },
+                            {
+                                "wf": "darah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "darah",
+                                    "pos": "n",
+                                    "form": "darah"
+                                }
+                            },
+                            {
+                                "wf": "di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "mata",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "mata",
+                                    "pos": "n",
+                                    "form": "mata"
+                                }
+                            },
+                            {
+                                "wf": "para",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "para",
+                                    "pos": "p",
+                                    "form": "para"
+                                }
+                            },
+                            {
+                                "wf": "ibu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ibu",
+                                    "pos": "n",
+                                    "form": "ibu"
+                                }
+                            },
+                            {
+                                "wf": "mengalir",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "alir",
+                                    "pos": "v",
+                                    "form": "meN-alir"
+                                }
+                            }
+                        ],
+                        "syllables": 13
+                    }
+                ],
+                "num_lines": 2
+            },
+            {
+                "strof": "\r\n",
+                "lines": [
+                    {
+                        "line": "",
+                        "words": [],
+                        "syllables": 0
+                    }
+                ],
+                "num_lines": 1
+            },
+            {
+                "strof": "di atas rumah besi\r\nada yang bicara tentang kelaparan\r\ndan angkat gelas bersama tuan dan nyonya",
+                "lines": [
+                    {
+                        "line": "di atas rumah besi",
+                        "words": [
+                            {
+                                "wf": "di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "atas",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "atas",
+                                    "pos": "n",
+                                    "form": "atas"
+                                }
+                            },
+                            {
+                                "wf": "rumah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "rumah",
+                                    "pos": "n",
+                                    "form": "rumah"
+                                }
+                            },
+                            {
+                                "wf": "besi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "besi",
+                                    "pos": "n",
+                                    "form": "besi"
+                                }
+                            }
+                        ],
+                        "syllables": 7
+                    },
+                    {
+                        "line": "ada yang bicara tentang kelaparan",
+                        "words": [
+                            {
+                                "wf": "ada",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ada",
+                                    "pos": "v",
+                                    "form": "ada"
+                                }
+                            },
+                            {
+                                "wf": "yang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "yang",
+                                    "pos": "a|v|n",
+                                    "form": "yang"
+                                }
+                            },
+                            {
+                                "wf": "bicara",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bicara",
+                                    "pos": "n|v|a",
+                                    "form": "bicara"
+                                }
+                            },
+                            {
+                                "wf": "tentang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tentang",
+                                    "pos": "p",
+                                    "form": "tentang"
+                                }
+                            },
+                            {
+                                "wf": "kelaparan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kelaparan",
+                                    "pos": "n|v",
+                                    "form": "kelaparan"
+                                }
+                            }
+                        ],
+                        "syllables": 12
+                    },
+                    {
+                        "line": "dan angkat gelas bersama tuan dan nyonya",
+                        "words": [
+                            {
+                                "wf": "dan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dan",
+                                    "pos": "p",
+                                    "form": "dan"
+                                }
+                            },
+                            {
+                                "wf": "angkat",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "angkat",
+                                    "pos": "v",
+                                    "form": "angkat"
+                                }
+                            },
+                            {
+                                "wf": "gelas",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "gelas",
+                                    "pos": "n",
+                                    "form": "gelas"
+                                }
+                            },
+                            {
+                                "wf": "bersama",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "aman",
+                                    "pos": "v",
+                                    "form": "bersama"
+                                }
+                            },
+                            {
+                                "wf": "tuan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tuan",
+                                    "pos": "n",
+                                    "form": "tuan"
+                                }
+                            },
+                            {
+                                "wf": "dan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dan",
+                                    "pos": "p",
+                                    "form": "dan"
+                                }
+                            },
+                            {
+                                "wf": "nyonya",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "nyonya",
+                                    "pos": "n",
+                                    "form": "nyonya"
+                                }
+                            }
+                        ],
+                        "syllables": 13
+                    }
+                ],
+                "num_lines": 3
+            },
+            {
+                "strof": "\r\n",
+                "lines": [
+                    {
+                        "line": "",
+                        "words": [],
+                        "syllables": 0
+                    }
+                ],
+                "num_lines": 1
+            },
+            {
+                "strof": "dan bayi yang lahir tak juga menangis",
+                "lines": [
+                    {
+                        "line": "dan bayi yang lahir tak juga menangis",
+                        "words": [
+                            {
+                                "wf": "dan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dan",
+                                    "pos": "p",
+                                    "form": "dan"
+                                }
+                            },
+                            {
+                                "wf": "bayi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bayi",
+                                    "pos": "n",
+                                    "form": "bayi"
+                                }
+                            },
+                            {
+                                "wf": "yang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "yang",
+                                    "pos": "a|v|n",
+                                    "form": "yang"
+                                }
+                            },
+                            {
+                                "wf": "lahir",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lahir",
+                                    "pos": "v|n",
+                                    "form": "lahir"
+                                }
+                            },
+                            {
+                                "wf": "tak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tak",
+                                    "pos": "adv",
+                                    "form": "tak"
+                                }
+                            },
+                            {
+                                "wf": "juga",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "juga",
+                                    "pos": "adv",
+                                    "form": "juga"
+                                }
+                            },
+                            {
+                                "wf": "menangis",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tangis",
+                                    "pos": "v",
+                                    "form": "meN-tangis"
+                                }
+                            }
+                        ],
+                        "syllables": 12
+                    }
+                ],
+                "num_lines": 1
+            },
+            {
+                "strof": "\r\n",
+                "lines": [
+                    {
+                        "line": "",
+                        "words": [],
+                        "syllables": 0
+                    }
+                ],
+                "num_lines": 1
+            },
+            {
+                "strof": "bayi-bayi itu tertawa, bayi-bayi itu mabuk\r\ntapi hujan tak pernah mabuk",
+                "lines": [
+                    {
+                        "line": "bayi-bayi itu tertawa, bayi-bayi itu mabuk",
+                        "words": [
+                            {
+                                "wf": "bayi-bayi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bayi",
+                                    "pos": "n",
+                                    "form": "bayi-bayi"
+                                }
+                            },
+                            {
+                                "wf": "itu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "itu",
+                                    "pos": "pron|n",
+                                    "form": "itu"
+                                }
+                            },
+                            {
+                                "wf": "tertawa",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tawa",
+                                    "pos": "v",
+                                    "form": "ter-tawa"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "bayi-bayi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bayi",
+                                    "pos": "n",
+                                    "form": "bayi-bayi"
+                                }
+                            },
+                            {
+                                "wf": "itu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "itu",
+                                    "pos": "pron|n",
+                                    "form": "itu"
+                                }
+                            },
+                            {
+                                "wf": "mabuk",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "mabuk",
+                                    "pos": "a",
+                                    "form": "mabuk"
+                                }
+                            }
+                        ],
+                        "syllables": 17
+                    },
+                    {
+                        "line": "tapi hujan tak pernah mabuk",
+                        "words": [
+                            {
+                                "wf": "tapi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tapi",
+                                    "pos": "v",
+                                    "form": "tapi"
+                                }
+                            },
+                            {
+                                "wf": "hujan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hujan",
+                                    "pos": "n",
+                                    "form": "hujan"
+                                }
+                            },
+                            {
+                                "wf": "tak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tak",
+                                    "pos": "adv",
+                                    "form": "tak"
+                                }
+                            },
+                            {
+                                "wf": "pernah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pernah",
+                                    "pos": "adv",
+                                    "form": "pernah"
+                                }
+                            },
+                            {
+                                "wf": "mabuk",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "mabuk",
+                                    "pos": "a",
+                                    "form": "mabuk"
+                                }
+                            }
+                        ],
+                        "syllables": 9
+                    }
+                ],
+                "num_lines": 2
+            },
+            {
+                "strof": "\r\n",
+                "lines": [
+                    {
+                        "line": "",
+                        "words": [],
+                        "syllables": 0
+                    }
+                ],
+                "num_lines": 1
+            },
+            {
+                "strof": "tapi hujan juga tak pernah turun",
+                "lines": [
+                    {
+                        "line": "tapi hujan juga tak pernah turun",
+                        "words": [
+                            {
+                                "wf": "tapi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tapi",
+                                    "pos": "v",
+                                    "form": "tapi"
+                                }
+                            },
+                            {
+                                "wf": "hujan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hujan",
+                                    "pos": "n",
+                                    "form": "hujan"
+                                }
+                            },
+                            {
+                                "wf": "juga",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "juga",
+                                    "pos": "adv",
+                                    "form": "juga"
+                                }
+                            },
+                            {
+                                "wf": "tak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tak",
+                                    "pos": "adv",
+                                    "form": "tak"
+                                }
+                            },
+                            {
+                                "wf": "pernah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pernah",
+                                    "pos": "adv",
+                                    "form": "pernah"
+                                }
+                            },
+                            {
+                                "wf": "turun",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "turun",
+                                    "pos": "v",
+                                    "form": "turun"
+                                }
+                            }
+                        ],
+                        "syllables": 11
+                    }
+                ],
+                "num_lines": 1
+            }
+        ]
+    }
+}

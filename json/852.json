@@ -1,0 +1,936 @@
+{
+    "meta": {
+        "file_name": "852.json",
+        "id_bd": 852,
+        "author": "Piek Ardijanto Soeprijadi",
+        "title": "Ada jarak",
+        "genre": "стихотворение",
+        "year": "---",
+        "num_lines": 15,
+        "rhyme": "Есть",
+        "syllables": [
+            15,
+            10,
+            15,
+            9,
+            16,
+            16,
+            13,
+            15,
+            10,
+            17,
+            13,
+            9,
+            7,
+            11,
+            18
+        ],
+        "strofy": [
+            5,
+            1,
+            5,
+            1,
+            5
+        ]
+    },
+    "poem": {
+        "text": "{berdiri di pinggang bukit meniti garis alit\r\npertemuan bumi dengan langit\r\nsadar ada jarak antara sini dengan sana\r\ntapi entah berapa jauhnya\r\nmungkinkah kita meraih satu titik di cakrawala}\r\n{berdiri di pinggang bukit meniti jalan jarum jam\r\nsementara bernapas lepas dalamdalam\r\nsadar ada jarak antara kini dengan nanti\r\ntapi entah berapa lamanya\r\nmungkinkah kita menangkap satu detik di ujung waktu}\r\n{berdiri di pinggang bukit kini di sini\r\nberdampingan tersaput sepi\r\nsiapa tahu pasti\r\nberapa panjang jarak hati kita\r\nberapa lama tegangan rasa tahan menanti putusnya}",
+        "strof": [
+            {
+                "strof": "berdiri di pinggang bukit meniti garis alit\r\npertemuan bumi dengan langit\r\nsadar ada jarak antara sini dengan sana\r\ntapi entah berapa jauhnya\r\nmungkinkah kita meraih satu titik di cakrawala",
+                "lines": [
+                    {
+                        "line": "berdiri di pinggang bukit meniti garis alit",
+                        "words": [
+                            {
+                                "wf": "berdiri",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "berdiri",
+                                    "pos": "v",
+                                    "form": "berdiri"
+                                }
+                            },
+                            {
+                                "wf": "di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "pinggang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pinggang",
+                                    "pos": "n",
+                                    "form": "pinggang"
+                                }
+                            },
+                            {
+                                "wf": "bukit",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bukit",
+                                    "pos": "n",
+                                    "form": "bukit"
+                                }
+                            },
+                            {
+                                "wf": "meniti",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "titi",
+                                    "pos": "v",
+                                    "form": "meN-titi"
+                                }
+                            },
+                            {
+                                "wf": "garis",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "garis",
+                                    "pos": "n",
+                                    "form": "garis"
+                                }
+                            },
+                            {
+                                "wf": "alit",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "alit",
+                                    "pos": "n",
+                                    "form": "alit"
+                                }
+                            }
+                        ],
+                        "syllables": 15
+                    },
+                    {
+                        "line": "pertemuan bumi dengan langit",
+                        "words": [
+                            {
+                                "wf": "pertemuan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pertemuan",
+                                    "pos": "n",
+                                    "form": "pertemuan"
+                                }
+                            },
+                            {
+                                "wf": "bumi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bumi",
+                                    "pos": "n",
+                                    "form": "bumi"
+                                }
+                            },
+                            {
+                                "wf": "dengan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dengan",
+                                    "pos": "p",
+                                    "form": "dengan"
+                                }
+                            },
+                            {
+                                "wf": "langit",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "langit",
+                                    "pos": "n",
+                                    "form": "langit"
+                                }
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "sadar ada jarak antara sini dengan sana",
+                        "words": [
+                            {
+                                "wf": "sadar",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sadar",
+                                    "pos": "a|v",
+                                    "form": "sadar"
+                                }
+                            },
+                            {
+                                "wf": "ada",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ada",
+                                    "pos": "v",
+                                    "form": "ada"
+                                }
+                            },
+                            {
+                                "wf": "jarak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jarak",
+                                    "pos": "n",
+                                    "form": "jarak"
+                                }
+                            },
+                            {
+                                "wf": "antara",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "antara",
+                                    "pos": "n|p|a",
+                                    "form": "antara"
+                                }
+                            },
+                            {
+                                "wf": "sini",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sini",
+                                    "pos": "pron",
+                                    "form": "sini"
+                                }
+                            },
+                            {
+                                "wf": "dengan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dengan",
+                                    "pos": "p",
+                                    "form": "dengan"
+                                }
+                            },
+                            {
+                                "wf": "sana",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sana",
+                                    "pos": "pron",
+                                    "form": "sana"
+                                }
+                            }
+                        ],
+                        "syllables": 15
+                    },
+                    {
+                        "line": "tapi entah berapa jauhnya",
+                        "words": [
+                            {
+                                "wf": "tapi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tapi",
+                                    "pos": "v",
+                                    "form": "tapi"
+                                }
+                            },
+                            {
+                                "wf": "entah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "entah",
+                                    "pos": "adv",
+                                    "form": "entah"
+                                }
+                            },
+                            {
+                                "wf": "berapa",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "berapa",
+                                    "pos": "pron",
+                                    "form": "berapa"
+                                }
+                            },
+                            {
+                                "wf": "jauhnya",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jauh",
+                                    "pos": "a",
+                                    "form": "jauh-nya"
+                                }
+                            }
+                        ],
+                        "syllables": 9
+                    },
+                    {
+                        "line": "mungkinkah kita meraih satu titik di cakrawala",
+                        "words": [
+                            {
+                                "wf": "mungkinkah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "mungkin",
+                                    "pos": "adv",
+                                    "form": "mungkin-kah"
+                                }
+                            },
+                            {
+                                "wf": "kita",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kita",
+                                    "pos": "pron",
+                                    "form": "kita"
+                                }
+                            },
+                            {
+                                "wf": "meraih",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "raih",
+                                    "pos": "v",
+                                    "form": "meN-raih"
+                                }
+                            },
+                            {
+                                "wf": "satu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "saru",
+                                    "pos": "num",
+                                    "form": "satu"
+                                }
+                            },
+                            {
+                                "wf": "titik",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "titik",
+                                    "pos": "n",
+                                    "form": "titik"
+                                }
+                            },
+                            {
+                                "wf": "di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "cakrawala",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "cakrawala",
+                                    "pos": "n",
+                                    "form": "cakrawala"
+                                }
+                            }
+                        ],
+                        "syllables": 16
+                    }
+                ],
+                "num_lines": 5
+            },
+            {
+                "strof": "\r\n",
+                "lines": [
+                    {
+                        "line": "",
+                        "words": [],
+                        "syllables": 0
+                    }
+                ],
+                "num_lines": 1
+            },
+            {
+                "strof": "berdiri di pinggang bukit meniti jalan jarum jam\r\nsementara bernapas lepas dalamdalam\r\nsadar ada jarak antara kini dengan nanti\r\ntapi entah berapa lamanya\r\nmungkinkah kita menangkap satu detik di ujung waktu",
+                "lines": [
+                    {
+                        "line": "berdiri di pinggang bukit meniti jalan jarum jam",
+                        "words": [
+                            {
+                                "wf": "berdiri",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "berdiri",
+                                    "pos": "v",
+                                    "form": "berdiri"
+                                }
+                            },
+                            {
+                                "wf": "di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "pinggang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pinggang",
+                                    "pos": "n",
+                                    "form": "pinggang"
+                                }
+                            },
+                            {
+                                "wf": "bukit",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bukit",
+                                    "pos": "n",
+                                    "form": "bukit"
+                                }
+                            },
+                            {
+                                "wf": "meniti",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "titi",
+                                    "pos": "v",
+                                    "form": "meN-titi"
+                                }
+                            },
+                            {
+                                "wf": "jalan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jalan",
+                                    "pos": "n|v|a",
+                                    "form": "jalan"
+                                }
+                            },
+                            {
+                                "wf": "jarum",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jarum",
+                                    "pos": "n",
+                                    "form": "jarum"
+                                }
+                            },
+                            {
+                                "wf": "jam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jam",
+                                    "pos": "a",
+                                    "form": "jam"
+                                }
+                            }
+                        ],
+                        "syllables": 16
+                    },
+                    {
+                        "line": "sementara bernapas lepas dalamdalam",
+                        "words": [
+                            {
+                                "wf": "sementara",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sementara",
+                                    "pos": "p|n|num",
+                                    "form": "sementara"
+                                }
+                            },
+                            {
+                                "wf": "bernapas",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "napas",
+                                    "pos": "v",
+                                    "form": "ber-napas"
+                                }
+                            },
+                            {
+                                "wf": "lepas",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lepas",
+                                    "pos": "a",
+                                    "form": "lepas"
+                                }
+                            },
+                            {
+                                "wf": "dalamdalam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dalamdalam",
+                                    "pos": "?",
+                                    "form": "dalamdalam"
+                                }
+                            }
+                        ],
+                        "syllables": 13
+                    },
+                    {
+                        "line": "sadar ada jarak antara kini dengan nanti",
+                        "words": [
+                            {
+                                "wf": "sadar",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sadar",
+                                    "pos": "a|v",
+                                    "form": "sadar"
+                                }
+                            },
+                            {
+                                "wf": "ada",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ada",
+                                    "pos": "v",
+                                    "form": "ada"
+                                }
+                            },
+                            {
+                                "wf": "jarak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jarak",
+                                    "pos": "n",
+                                    "form": "jarak"
+                                }
+                            },
+                            {
+                                "wf": "antara",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "antara",
+                                    "pos": "n|p|a",
+                                    "form": "antara"
+                                }
+                            },
+                            {
+                                "wf": "kini",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kini",
+                                    "pos": "n",
+                                    "form": "kini"
+                                }
+                            },
+                            {
+                                "wf": "dengan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dengan",
+                                    "pos": "p",
+                                    "form": "dengan"
+                                }
+                            },
+                            {
+                                "wf": "nanti",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "nanti",
+                                    "pos": "n|adv",
+                                    "form": "nanti"
+                                }
+                            }
+                        ],
+                        "syllables": 15
+                    },
+                    {
+                        "line": "tapi entah berapa lamanya",
+                        "words": [
+                            {
+                                "wf": "tapi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tapi",
+                                    "pos": "v",
+                                    "form": "tapi"
+                                }
+                            },
+                            {
+                                "wf": "entah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "entah",
+                                    "pos": "adv",
+                                    "form": "entah"
+                                }
+                            },
+                            {
+                                "wf": "berapa",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "berapa",
+                                    "pos": "pron",
+                                    "form": "berapa"
+                                }
+                            },
+                            {
+                                "wf": "lamanya",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lama",
+                                    "pos": "adv",
+                                    "form": "lama-nya"
+                                }
+                            }
+                        ],
+                        "syllables": 10
+                    },
+                    {
+                        "line": "mungkinkah kita menangkap satu detik di ujung waktu",
+                        "words": [
+                            {
+                                "wf": "mungkinkah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "mungkin",
+                                    "pos": "adv",
+                                    "form": "mungkin-kah"
+                                }
+                            },
+                            {
+                                "wf": "kita",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kita",
+                                    "pos": "pron",
+                                    "form": "kita"
+                                }
+                            },
+                            {
+                                "wf": "menangkap",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tangkap",
+                                    "pos": "v",
+                                    "form": "meN-tangkap"
+                                }
+                            },
+                            {
+                                "wf": "satu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "saru",
+                                    "pos": "num",
+                                    "form": "satu"
+                                }
+                            },
+                            {
+                                "wf": "detik",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "detik",
+                                    "pos": "n",
+                                    "form": "detik"
+                                }
+                            },
+                            {
+                                "wf": "di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "ujung",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ujung",
+                                    "pos": "n",
+                                    "form": "ujung"
+                                }
+                            },
+                            {
+                                "wf": "waktu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "waktu",
+                                    "pos": "n|p",
+                                    "form": "waktu"
+                                }
+                            }
+                        ],
+                        "syllables": 17
+                    }
+                ],
+                "num_lines": 5
+            },
+            {
+                "strof": "\r\n",
+                "lines": [
+                    {
+                        "line": "",
+                        "words": [],
+                        "syllables": 0
+                    }
+                ],
+                "num_lines": 1
+            },
+            {
+                "strof": "berdiri di pinggang bukit kini di sini\r\nberdampingan tersaput sepi\r\nsiapa tahu pasti\r\nberapa panjang jarak hati kita\r\nberapa lama tegangan rasa tahan menanti putusnya",
+                "lines": [
+                    {
+                        "line": "berdiri di pinggang bukit kini di sini",
+                        "words": [
+                            {
+                                "wf": "berdiri",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "berdiri",
+                                    "pos": "v",
+                                    "form": "berdiri"
+                                }
+                            },
+                            {
+                                "wf": "di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "pinggang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pinggang",
+                                    "pos": "n",
+                                    "form": "pinggang"
+                                }
+                            },
+                            {
+                                "wf": "bukit",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bukit",
+                                    "pos": "n",
+                                    "form": "bukit"
+                                }
+                            },
+                            {
+                                "wf": "kini",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kini",
+                                    "pos": "n",
+                                    "form": "kini"
+                                }
+                            },
+                            {
+                                "wf": "di",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "di",
+                                    "pos": "p",
+                                    "form": "di"
+                                }
+                            },
+                            {
+                                "wf": "sini",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sini",
+                                    "pos": "pron",
+                                    "form": "sini"
+                                }
+                            }
+                        ],
+                        "syllables": 13
+                    },
+                    {
+                        "line": "berdampingan tersaput sepi",
+                        "words": [
+                            {
+                                "wf": "berdampingan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "damping",
+                                    "pos": "v",
+                                    "form": "ber-damping-an"
+                                }
+                            },
+                            {
+                                "wf": "tersaput",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "saput",
+                                    "pos": "v",
+                                    "form": "ter-saput"
+                                }
+                            },
+                            {
+                                "wf": "sepi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sepi",
+                                    "pos": "a",
+                                    "form": "sepi"
+                                }
+                            }
+                        ],
+                        "syllables": 9
+                    },
+                    {
+                        "line": "siapa tahu pasti",
+                        "words": [
+                            {
+                                "wf": "siapa",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "siapa",
+                                    "pos": "pron",
+                                    "form": "siapa"
+                                }
+                            },
+                            {
+                                "wf": "tahu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tahu",
+                                    "pos": "v",
+                                    "form": "tahu"
+                                }
+                            },
+                            {
+                                "wf": "pasti",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pasti",
+                                    "pos": "a",
+                                    "form": "pasti"
+                                }
+                            }
+                        ],
+                        "syllables": 7
+                    },
+                    {
+                        "line": "berapa panjang jarak hati kita",
+                        "words": [
+                            {
+                                "wf": "berapa",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "berapa",
+                                    "pos": "pron",
+                                    "form": "berapa"
+                                }
+                            },
+                            {
+                                "wf": "panjang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "panjang",
+                                    "pos": "a|n",
+                                    "form": "panjang"
+                                }
+                            },
+                            {
+                                "wf": "jarak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jarak",
+                                    "pos": "n",
+                                    "form": "jarak"
+                                }
+                            },
+                            {
+                                "wf": "hati",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hati",
+                                    "pos": "n",
+                                    "form": "hati"
+                                }
+                            },
+                            {
+                                "wf": "kita",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kita",
+                                    "pos": "pron",
+                                    "form": "kita"
+                                }
+                            }
+                        ],
+                        "syllables": 11
+                    },
+                    {
+                        "line": "berapa lama tegangan rasa tahan menanti putusnya",
+                        "words": [
+                            {
+                                "wf": "berapa",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "berapa",
+                                    "pos": "pron",
+                                    "form": "berapa"
+                                }
+                            },
+                            {
+                                "wf": "lama",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lama",
+                                    "pos": "a",
+                                    "form": "lama"
+                                }
+                            },
+                            {
+                                "wf": "tegangan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tegang",
+                                    "pos": "n|a",
+                                    "form": "tegang-an"
+                                }
+                            },
+                            {
+                                "wf": "rasa",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "rasa",
+                                    "pos": "n",
+                                    "form": "rasa"
+                                }
+                            },
+                            {
+                                "wf": "tahan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tahan",
+                                    "pos": "n",
+                                    "form": "tahan"
+                                }
+                            },
+                            {
+                                "wf": "menanti",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "nanti",
+                                    "pos": "v",
+                                    "form": "meN-nanti"
+                                }
+                            },
+                            {
+                                "wf": "putusnya",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "putus",
+                                    "pos": "v",
+                                    "form": "putus-nya"
+                                }
+                            }
+                        ],
+                        "syllables": 18
+                    }
+                ],
+                "num_lines": 5
+            }
+        ]
+    }
+}

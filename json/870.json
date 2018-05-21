@@ -1,0 +1,564 @@
+{
+    "meta": {
+        "file_name": "870.json",
+        "id_bd": 870,
+        "author": "Abrar Yusra",
+        "title": "Aku pun orang yang datang kemudian",
+        "genre": "стихотворение",
+        "year": 1969,
+        "num_lines": 7,
+        "rhyme": "Есть",
+        "syllables": [
+            9,
+            13,
+            22,
+            19,
+            19,
+            18,
+            17
+        ],
+        "strofy": [
+            4,
+            1,
+            3
+        ]
+    },
+    "poem": {
+        "text": "{Tiada kukenal seluruh\r\nSegala-gala ini, yang terpampang sunyi:\r\nBiru, awan, gunung, pohon dan pantai ini, kauraba kasar atau lembut\r\nApalagi tentang dulu dan esok yang mengendap bersama kusut}\r\n{Tiada kukenal seluruh, tiada jawaban menyeluruh\r\nSebab akupun orang baru, orang yang datang kemudian\r\nHidupku pun pertanyaan-pertanyaan lepas. Dan lepas}",
+        "strof": [
+            {
+                "strof": "Tiada kukenal seluruh\r\nSegala-gala ini, yang terpampang sunyi:\r\nBiru, awan, gunung, pohon dan pantai ini, kauraba kasar atau lembut\r\nApalagi tentang dulu dan esok yang mengendap bersama kusut",
+                "lines": [
+                    {
+                        "line": "Tiada kukenal seluruh",
+                        "words": [
+                            {
+                                "wf": "Tiada",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tiada",
+                                    "pos": "v",
+                                    "form": "tiada"
+                                }
+                            },
+                            {
+                                "wf": "kukenal",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kenal",
+                                    "pos": "v",
+                                    "form": "ku-kenal"
+                                }
+                            },
+                            {
+                                "wf": "seluruh",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "seluruh",
+                                    "pos": "num",
+                                    "form": "seluruh"
+                                }
+                            }
+                        ],
+                        "syllables": 9
+                    },
+                    {
+                        "line": "Segala-gala ini, yang terpampang sunyi:",
+                        "words": [
+                            {
+                                "wf": "Segala-gala",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "segala",
+                                    "pos": "num",
+                                    "form": "segala-gala"
+                                }
+                            },
+                            {
+                                "wf": "ini",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ini",
+                                    "pos": "pron",
+                                    "form": "ini"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "yang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "yang",
+                                    "pos": "a|v|n",
+                                    "form": "yang"
+                                }
+                            },
+                            {
+                                "wf": "terpampang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pampang",
+                                    "pos": "v",
+                                    "form": "ter-pampang"
+                                }
+                            },
+                            {
+                                "wf": "sunyi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sunyi",
+                                    "pos": "a",
+                                    "form": "sunyi"
+                                }
+                            },
+                            {
+                                "wf": ":",
+                                "wtype": "punct"
+                            }
+                        ],
+                        "syllables": 13
+                    },
+                    {
+                        "line": "Biru, awan, gunung, pohon dan pantai ini, kauraba kasar atau lembut",
+                        "words": [
+                            {
+                                "wf": "Biru",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "biru",
+                                    "pos": "n|a",
+                                    "form": "biru"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "awan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "awan",
+                                    "pos": "n",
+                                    "form": "awan"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "gunung",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "gunung",
+                                    "pos": "n",
+                                    "form": "gunung"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "pohon",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pohon",
+                                    "pos": "n",
+                                    "form": "pohon"
+                                }
+                            },
+                            {
+                                "wf": "dan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dan",
+                                    "pos": "p",
+                                    "form": "dan"
+                                }
+                            },
+                            {
+                                "wf": "pantai",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pantai",
+                                    "pos": "n|a",
+                                    "form": "pantai"
+                                }
+                            },
+                            {
+                                "wf": "ini",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ini",
+                                    "pos": "pron",
+                                    "form": "ini"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "kauraba",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "raba",
+                                    "pos": "v",
+                                    "form": "kau-raba"
+                                }
+                            },
+                            {
+                                "wf": "kasar",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kasar",
+                                    "pos": "a",
+                                    "form": "kasar"
+                                }
+                            },
+                            {
+                                "wf": "atau",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "atau",
+                                    "pos": "p",
+                                    "form": "atau"
+                                }
+                            },
+                            {
+                                "wf": "lembut",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lembut",
+                                    "pos": "a",
+                                    "form": "lembut"
+                                }
+                            }
+                        ],
+                        "syllables": 22
+                    },
+                    {
+                        "line": "Apalagi tentang dulu dan esok yang mengendap bersama kusut",
+                        "words": [
+                            {
+                                "wf": "Apalagi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "apalagi",
+                                    "pos": "p",
+                                    "form": "apalagi"
+                                }
+                            },
+                            {
+                                "wf": "tentang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tentang",
+                                    "pos": "p",
+                                    "form": "tentang"
+                                }
+                            },
+                            {
+                                "wf": "dulu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dulu",
+                                    "pos": "?",
+                                    "form": "dulu"
+                                }
+                            },
+                            {
+                                "wf": "dan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dan",
+                                    "pos": "p",
+                                    "form": "dan"
+                                }
+                            },
+                            {
+                                "wf": "esok",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "esok",
+                                    "pos": "adv",
+                                    "form": "esok"
+                                }
+                            },
+                            {
+                                "wf": "yang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "yang",
+                                    "pos": "a|v|n",
+                                    "form": "yang"
+                                }
+                            },
+                            {
+                                "wf": "mengendap",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "endap",
+                                    "pos": "v",
+                                    "form": "meN-endap"
+                                }
+                            },
+                            {
+                                "wf": "bersama",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sama",
+                                    "pos": "v",
+                                    "form": "ber-sama"
+                                }
+                            },
+                            {
+                                "wf": "kusut",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kusut",
+                                    "pos": "a",
+                                    "form": "kusut"
+                                }
+                            }
+                        ],
+                        "syllables": 19
+                    }
+                ],
+                "num_lines": 4
+            },
+            {
+                "strof": "\r\n",
+                "lines": [
+                    {
+                        "line": "",
+                        "words": [],
+                        "syllables": 0
+                    }
+                ],
+                "num_lines": 1
+            },
+            {
+                "strof": "Tiada kukenal seluruh, tiada jawaban menyeluruh\r\nSebab akupun orang baru, orang yang datang kemudian\r\nHidupku pun pertanyaan-pertanyaan lepas. Dan lepas",
+                "lines": [
+                    {
+                        "line": "Tiada kukenal seluruh, tiada jawaban menyeluruh",
+                        "words": [
+                            {
+                                "wf": "Tiada",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tiada",
+                                    "pos": "v",
+                                    "form": "tiada"
+                                }
+                            },
+                            {
+                                "wf": "kukenal",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kenal",
+                                    "pos": "v",
+                                    "form": "ku-kenal"
+                                }
+                            },
+                            {
+                                "wf": "seluruh",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "seluruh",
+                                    "pos": "num",
+                                    "form": "seluruh"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "tiada",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tiada",
+                                    "pos": "v",
+                                    "form": "tiada"
+                                }
+                            },
+                            {
+                                "wf": "jawaban",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jawab",
+                                    "pos": "n",
+                                    "form": "jawab-an"
+                                }
+                            },
+                            {
+                                "wf": "menyeluruh",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "seluruh",
+                                    "pos": "v",
+                                    "form": "meN-seluruh"
+                                }
+                            }
+                        ],
+                        "syllables": 19
+                    },
+                    {
+                        "line": "Sebab akupun orang baru, orang yang datang kemudian",
+                        "words": [
+                            {
+                                "wf": "Sebab",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sebab",
+                                    "pos": "n|p",
+                                    "form": "sebab"
+                                }
+                            },
+                            {
+                                "wf": "akupun",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "akupun",
+                                    "pos": "?",
+                                    "form": "akupun"
+                                }
+                            },
+                            {
+                                "wf": "orang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "orang",
+                                    "pos": "n",
+                                    "form": "orang"
+                                }
+                            },
+                            {
+                                "wf": "baru",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "baru",
+                                    "pos": "a|adv",
+                                    "form": "baru"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "orang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "orang",
+                                    "pos": "n",
+                                    "form": "orang"
+                                }
+                            },
+                            {
+                                "wf": "yang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "yang",
+                                    "pos": "a|v|n",
+                                    "form": "yang"
+                                }
+                            },
+                            {
+                                "wf": "datang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "datang",
+                                    "pos": "v|n",
+                                    "form": "datang"
+                                }
+                            },
+                            {
+                                "wf": "kemudian",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kemudian",
+                                    "pos": "n",
+                                    "form": "kemudian"
+                                }
+                            }
+                        ],
+                        "syllables": 18
+                    },
+                    {
+                        "line": "Hidupku pun pertanyaan-pertanyaan lepas. Dan lepas",
+                        "words": [
+                            {
+                                "wf": "Hidupku",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "hidup",
+                                    "pos": "v",
+                                    "form": "hidup-ku"
+                                }
+                            },
+                            {
+                                "wf": "pun",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pun",
+                                    "pos": "p",
+                                    "form": "pun"
+                                }
+                            },
+                            {
+                                "wf": "pertanyaan-pertanyaan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pertanyaan-pertanyaan",
+                                    "pos": "n",
+                                    "form": "pertanyaan-pertanyaan"
+                                }
+                            },
+                            {
+                                "wf": "lepas",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lepas",
+                                    "pos": "a",
+                                    "form": "lepas"
+                                }
+                            },
+                            {
+                                "wf": ". ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "Dan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dan",
+                                    "pos": "p",
+                                    "form": "dan"
+                                }
+                            },
+                            {
+                                "wf": "lepas",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "lepas",
+                                    "pos": "a",
+                                    "form": "lepas"
+                                }
+                            }
+                        ],
+                        "syllables": 17
+                    }
+                ],
+                "num_lines": 3
+            }
+        ]
+    }
+}

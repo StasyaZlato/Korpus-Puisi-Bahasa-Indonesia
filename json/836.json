@@ -1,0 +1,342 @@
+{
+    "meta": {
+        "file_name": "836.json",
+        "id_bd": 836,
+        "author": "Abdul Hadi WM",
+        "title": "Sajak samar",
+        "genre": "стихотворение",
+        "year": 1967,
+        "num_lines": 4,
+        "rhyme": "Есть",
+        "syllables": [
+            12,
+            16,
+            19,
+            15
+        ],
+        "strofy": [
+            4
+        ]
+    },
+    "poem": {
+        "text": "{Ada yang memisah kita, jam dinding ini\r\nada yang mengisah kita, bumi bisik-bisik ini\r\nada. Tapi tak ada kucium wangi kainmu sebelum pergi\r\ntak ada. Tapi langkah gerimis bukan sendiri}",
+        "strof": [
+            {
+                "strof": "Ada yang memisah kita, jam dinding ini\r\nada yang mengisah kita, bumi bisik-bisik ini\r\nada. Tapi tak ada kucium wangi kainmu sebelum pergi\r\ntak ada. Tapi langkah gerimis bukan sendiri",
+                "lines": [
+                    {
+                        "line": "Ada yang memisah kita, jam dinding ini",
+                        "words": [
+                            {
+                                "wf": "Ada",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ada",
+                                    "pos": "v",
+                                    "form": "ada"
+                                }
+                            },
+                            {
+                                "wf": "yang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "yang",
+                                    "pos": "a|v|n",
+                                    "form": "yang"
+                                }
+                            },
+                            {
+                                "wf": "memisah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pisah",
+                                    "pos": "v",
+                                    "form": "meN-pisah"
+                                }
+                            },
+                            {
+                                "wf": "kita",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kita",
+                                    "pos": "pron",
+                                    "form": "kita"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "jam",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "jam",
+                                    "pos": "a",
+                                    "form": "jam"
+                                }
+                            },
+                            {
+                                "wf": "dinding",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "dinding",
+                                    "pos": "n",
+                                    "form": "dinding"
+                                }
+                            },
+                            {
+                                "wf": "ini",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ini",
+                                    "pos": "pron",
+                                    "form": "ini"
+                                }
+                            }
+                        ],
+                        "syllables": 12
+                    },
+                    {
+                        "line": "ada yang mengisah kita, bumi bisik-bisik ini",
+                        "words": [
+                            {
+                                "wf": "ada",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ada",
+                                    "pos": "v",
+                                    "form": "ada"
+                                }
+                            },
+                            {
+                                "wf": "yang",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "yang",
+                                    "pos": "a|v|n",
+                                    "form": "yang"
+                                }
+                            },
+                            {
+                                "wf": "mengisah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kisah",
+                                    "pos": "v",
+                                    "form": "meN-kisah"
+                                }
+                            },
+                            {
+                                "wf": "kita",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kita",
+                                    "pos": "pron",
+                                    "form": "kita"
+                                }
+                            },
+                            {
+                                "wf": ", ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "bumi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bumi",
+                                    "pos": "n",
+                                    "form": "bumi"
+                                }
+                            },
+                            {
+                                "wf": "bisik-bisik",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bisik",
+                                    "pos": "v",
+                                    "form": "bisik-bisik"
+                                }
+                            },
+                            {
+                                "wf": "ini",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ini",
+                                    "pos": "pron",
+                                    "form": "ini"
+                                }
+                            }
+                        ],
+                        "syllables": 16
+                    },
+                    {
+                        "line": "ada. Tapi tak ada kucium wangi kainmu sebelum pergi",
+                        "words": [
+                            {
+                                "wf": "ada",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ada",
+                                    "pos": "v",
+                                    "form": "ada"
+                                }
+                            },
+                            {
+                                "wf": ". ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "Tapi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tapi",
+                                    "pos": "v",
+                                    "form": "tapi"
+                                }
+                            },
+                            {
+                                "wf": "tak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tak",
+                                    "pos": "adv",
+                                    "form": "tak"
+                                }
+                            },
+                            {
+                                "wf": "ada",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ada",
+                                    "pos": "v",
+                                    "form": "ada"
+                                }
+                            },
+                            {
+                                "wf": "kucium",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "cium",
+                                    "pos": "v",
+                                    "form": "ku-cium"
+                                }
+                            },
+                            {
+                                "wf": "wangi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "wangi",
+                                    "pos": "a",
+                                    "form": "wangi"
+                                }
+                            },
+                            {
+                                "wf": "kainmu",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "kain",
+                                    "pos": "n",
+                                    "form": "kain-mu"
+                                }
+                            },
+                            {
+                                "wf": "sebelum",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "belum",
+                                    "pos": "adv",
+                                    "form": "se-belum"
+                                }
+                            },
+                            {
+                                "wf": "pergi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "pergi",
+                                    "pos": "v",
+                                    "form": "pergi"
+                                }
+                            }
+                        ],
+                        "syllables": 19
+                    },
+                    {
+                        "line": "tak ada. Tapi langkah gerimis bukan sendiri",
+                        "words": [
+                            {
+                                "wf": "tak",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tak",
+                                    "pos": "adv",
+                                    "form": "tak"
+                                }
+                            },
+                            {
+                                "wf": "ada",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "ada",
+                                    "pos": "v",
+                                    "form": "ada"
+                                }
+                            },
+                            {
+                                "wf": ". ",
+                                "wtype": "punct"
+                            },
+                            {
+                                "wf": "Tapi",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "tapi",
+                                    "pos": "v",
+                                    "form": "tapi"
+                                }
+                            },
+                            {
+                                "wf": "langkah",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "langkah",
+                                    "pos": "n",
+                                    "form": "langkah"
+                                }
+                            },
+                            {
+                                "wf": "gerimis",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "gerimis",
+                                    "pos": "n",
+                                    "form": "gerimis"
+                                }
+                            },
+                            {
+                                "wf": "bukan",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "bukan",
+                                    "pos": "n",
+                                    "form": "bukan"
+                                }
+                            },
+                            {
+                                "wf": "sendiri",
+                                "wtype": "word",
+                                "ana": {
+                                    "root": "sendiri",
+                                    "pos": "adv|a|n",
+                                    "form": "sendiri"
+                                }
+                            }
+                        ],
+                        "syllables": 15
+                    }
+                ],
+                "num_lines": 4
+            }
+        ]
+    }
+}
